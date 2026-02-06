@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-06 17:50:41)
+## 📰 NYTimes Most Popular (Updated: 2026-02-06 19:00:53)
 
-1. [‘My Crazy Friend’: The Royals Who Stayed Close to Epstein](https://www.nytimes.com/2026/02/05/world/europe/epstein-royal-friends-prince-andrew-sarah-ferguson-mette-marit.html)
+1. [Crypto Takes a Deep Slide Despite Trump’s Support](https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html)
 
-Emails, texts, photos and videos show how Jeffrey Epstein, even after becoming a convicted sex offender, burnished his ties to royal family members from several countries and their advisers.
+The price of Bitcoin is now lower than when President Trump was elected in 2024, raising concerns of a new “crypto winter" in the industry.
 
 
-2. [Camera Was Disconnected From Nancy Guthrie’s Home Shortly Before Disappearance](https://www.nytimes.com/2026/02/04/us/savannah-guthrie-plea-statement.html)
+2. [In Forcing the Clintons to Testify on Epstein, Comer Sets a New Precedent](https://www.nytimes.com/2026/02/04/us/politics/james-comer-clintons-epstein.html)
 
-The authorities confirmed that blood on Ms. Guthrie’s doorstep belonged to her. Her daughter Savannah, the “Today” anchor, released a video asking for proof that her mother is alive.
+The Republican chairman’s successful targeting of a former president who faces no charge of wrongdoing was the sort of tactic typical in an autocracy where leaders fear being jailed when they are out of power.
 
 
 3. [Trump Says His Unpredictable Style Gives Him Leverage. But It Has a Cost.](https://www.nytimes.com/2026/02/04/us/politics/trump-deals-allies-adversaries.html)
@@ -20,33 +20,33 @@ A year into President Trump’s second term, his threats, retreats, twists and t
 Messages in the latest Epstein files suggesting that Bill Gates had engaged in extramarital sex brought up “painful” memories, his former wife said in an interview. Mr. Gates has denied the claims.
 
 
-5. [What We Know About the Disappearance of Savannah Guthrie’s Mother](https://www.nytimes.com/2026/02/03/us/savannah-guthrie-mom-missing.html)
+5. [Trump Deletes Racist Video of Obamas After Outcry](https://www.nytimes.com/2026/02/06/us/politics/trump-obamas-video-apes-truth-social.html)
 
-Nancy Guthrie, 84, the “Today” show host’s mother, was last seen on Saturday night. The case is being investigated as a possible kidnapping.
-
-
-6. [Carney Stakes Canada’s Auto Future on E.V.s as It Pulls Away From the U.S.](https://www.nytimes.com/2026/02/05/world/canada/carney-canada-electric-vehicles-trump-trade.html)
-
-Prime Minister Mark Carney announced several measures Thursday aimed at making Canada a global leader in electric vehicles and rescuing an industry ravaged by U.S. trade policy.
+The White House press secretary had dismissed criticism of the clip’s racist content as “fake outrage.” But later Friday, the clip disappeared from the president’s social media feed.
 
 
-7. [Brad Karp Resigns as Paul Weiss Chairman Amid Epstein Fallout](https://www.nytimes.com/2026/02/04/business/brad-karp-paul-weiss-resigns-epstein.html)
+6. [This Is the Real Reason Susie Wiles Talked to Me 11 Times](https://www.nytimes.com/2026/02/04/opinion/susie-wiles-trump-white-house.html)
 
-The decision followed the release of a series of embarrassing emails between Mr. Karp and Jeffrey Epstein.
-
-
-8. [In Forcing the Clintons to Testify on Epstein, Comer Sets a New Precedent](https://www.nytimes.com/2026/02/04/us/politics/james-comer-clintons-epstein.html)
-
-The Republican chairman’s successful targeting of a former president who faces no charge of wrongdoing was the sort of tactic typical in an autocracy where leaders fear being jailed when they are out of power.
+What did her unguarded remarks reveal about the Trump White House?
 
 
-9. [He Was Laid Off at The Washington Post After Working There 60 Years](https://www.nytimes.com/2026/02/05/business/media/washington-post-martin-weil-metro.html)
+7. [‘All It Is Is Pain’: The Olympian Testing the Limits of Endurance](https://www.nytimes.com/2026/02/05/magazine/jessie-diggins-ski-winter-olympics-milan.html)
 
-Martin Weil, one of hundreds being let go at The Post, has worked on local news there since 1965, witnessing the paper’s rise and now retrenchment.
+Jessie Diggins has become the best-ever American cross-country skier because of what she pushes her body through.
 
 
-10. [Crypto Takes a Deep Slide Despite Trump’s Support](https://www.nytimes.com/2026/02/05/technology/bitcoin-price-drop-crypto-market.html)
+8. [Trump Brings Out the Worst in Everyone](https://www.nytimes.com/2026/02/05/opinion/trump-iran-ice-stephen-miller.html)
 
-The price of Bitcoin is now lower than when President Trump was elected in 2024, raising concerns of a new “crypto winter" in the industry.
+Us included.
+
+
+9. [Camera Was Disconnected From Nancy Guthrie’s Home Shortly Before Disappearance](https://www.nytimes.com/2026/02/04/us/savannah-guthrie-plea-statement.html)
+
+The authorities confirmed that blood on Ms. Guthrie’s doorstep belonged to her. Her daughter Savannah, the “Today” anchor, released a video asking for proof that her mother is alive.
+
+
+10. [‘Melania’: Watching a First Lady Vanish in Plain Sight](https://www.nytimes.com/2026/02/05/opinion/melania-film-review.html)
+
+Glamour, silence and a very big hat.
 
 
