@@ -24,7 +24,7 @@ def update_readme(articles):
         title = article.get("title")
         url = article.get("url")
         abstract = article.get("abstract")
-        readme_content += f"{idx+1}. [{title}]({url})\n{abstract}\n\n\n"
+        readme_content += f"{idx+1}. [{title}]({url})\n\n{abstract}\n\n\n"
     
     # README.md 파일 쓰기 (기존 내용을 덮어씌웁니다)
     with open("README.md", "w", encoding="utf-8") as f:
