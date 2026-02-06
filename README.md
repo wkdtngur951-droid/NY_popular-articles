@@ -1,1 +1,12 @@
-"# NY_popular-articles" 
+## 📰 NYTimes Most Popular (Updated: 2026-02-06 05:58:18)
+
+1. [Trump Brings Out the Worst in Everyone](https://www.nytimes.com/2026/02/05/opinion/trump-iran-ice-stephen-miller.html)
+2. [‘My Crazy Friend’: The Royals Who Stayed Close to Epstein](https://www.nytimes.com/2026/02/05/world/europe/epstein-royal-friends-prince-andrew-sarah-ferguson-mette-marit.html)
+3. [Melinda French Gates Addresses New References to Bill Gates in Epstein Files](https://www.nytimes.com/2026/02/04/us/melinda-bill-gates-epstein-files.html)
+4. [Jimmy Kimmel Hints ‘Melania’ Box Office Was a ‘Rigged Outcome’](https://www.nytimes.com/2026/02/05/arts/television/late-night-melania-movie.html)
+5. [What We Know About the Disappearance of Savannah Guthrie’s Mother](https://www.nytimes.com/2026/02/03/us/savannah-guthrie-mom-missing.html)
+6. [Camera Was Disconnected From Nancy Guthrie’s Home Shortly Before Disappearance](https://www.nytimes.com/2026/02/04/us/savannah-guthrie-plea-statement.html)
+7. [‘Melania’: Watching a First Lady Vanish in Plain Sight](https://www.nytimes.com/2026/02/05/opinion/melania-film-review.html)
+8. [In Forcing the Clintons to Testify on Epstein, Comer Sets a New Precedent](https://www.nytimes.com/2026/02/04/us/politics/james-comer-clintons-epstein.html)
+9. [The G.O.P. Senator Who Can’t Stop Thinking About the Boy ICE Detained](https://www.nytimes.com/2026/02/05/us/politics/katie-britt-trump-immigration.html)
+10. [Trump Says His Unpredictable Style Gives Him Leverage. But It Has a Cost.](https://www.nytimes.com/2026/02/04/us/politics/trump-deals-allies-adversaries.html)
