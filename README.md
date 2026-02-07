@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-07 16:39:34)
+## 📰 NYTimes Most Popular (Updated: 2026-02-07 17:32:48)
 
-1. [Authorities Investigate a New Message in Nancy Guthrie Kidnapping Case](https://www.nytimes.com/2026/02/06/us/savannah-nancy-guthrie-missing-updates.html)
+1. [U.S. Seeks to Expedite Deportation of 5-Year-Old Liam Conejo Ramos](https://www.nytimes.com/2026/02/06/us/us-deportation-liam-conejo-ramos-minnesota.html)
 
-The F.BI. and local law enforcement gave no details about the note, which came on the sixth day of the search for Ms. Guthrie, the mother of the “Today” host Savannah Guthrie.
+Liam was detained last month near Minneapolis during an immigration enforcement operation in which his father was also taken into custody by federal agents.
 
 
 2. [The Super Bowl Ads (So Far), Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
@@ -10,43 +10,43 @@ The F.BI. and local law enforcement gave no details about the note, which came o
 Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
 
 
-3. [U.S. Seeks to Expedite Deportation of 5-Year-Old Liam Conejo Ramos](https://www.nytimes.com/2026/02/06/us/us-deportation-liam-conejo-ramos-minnesota.html)
+3. [Administration Social Media Posts Echo White Supremacist Messaging](https://www.nytimes.com/2026/01/27/us/politics/white-supremacy-trump-administration-social-media.html)
 
-Liam was detained last month near Minneapolis during an immigration enforcement operation in which his father was also taken into custody by federal agents.
-
-
-4. [Lawmakers Say They Will Not Cooperate With Inquiry Into Illegal Orders Video](https://www.nytimes.com/2026/02/05/us/politics/lawmakers-pirro-illegal-orders-video.html)
-
-The Justice Department investigation was an escalation in the administration’s response to a video that President Trump said was “punishable by death.”
+A flurry of posts from the White House, Department of Labor and Department of Homeland Security have included images, slogans and even a song used by the white nationalist right.
 
 
-5. [Hegseth Says Defense Department Will Cut Ties With Harvard](https://www.nytimes.com/2026/02/06/us/politics/hegseth-defense-harvard.html)
+4. [‘I Didn’t Make a Mistake’: Trump Declines to Apologize for Racist Video of Obamas](https://www.nytimes.com/2026/02/06/us/politics/trump-obamas-video-apes-truth-social.html)
 
-Mr. Hegseth’s order appeared to target his alma mater, Harvard’s Kennedy School for public policy.
-
-
-6. [The New York Times News Quiz, Feb. 6, 2026](https://www.nytimes.com/interactive/2026/02/06/briefing/quiz-olympics-epstein-bad-bunny.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+The video clip that President Trump posted in a late-night flurry of social media activity caused an unusually strong and public outcry from members of his own party.
 
 
-7. [JD Vance Is Booed at Olympic Opening Ceremony in Milan](https://www.nytimes.com/2026/02/06/world/europe/jd-vance-olympics-opening-ceremony.html)
-
-Before the event, protesters marched in Milan in opposition to U.S. Immigration and Customs Enforcement, whose personnel are in Italy to advise local officials in securing the Winter Games.
-
-
-8. [Trump’s Stifling of Dissent Reaches a New Level](https://www.nytimes.com/interactive/2026/02/06/opinion/ice-minnesota-democracy-america.html)
+5. [Trump’s Stifling of Dissent Reaches a New Level](https://www.nytimes.com/interactive/2026/02/06/opinion/ice-minnesota-democracy-america.html)
 
 Measuring America’s slide toward democratic erosion.
 
 
-9. [The Finance Industry Is a Grift. Let’s Start Treating It That Way.](https://www.nytimes.com/2026/02/06/opinion/capitalism-industry-financialization.html)
+6. [Prosecutors Began Investigating Renee Good’s Killing. Washington Told Them to Stop.](https://www.nytimes.com/2026/02/07/us/renee-good-investigation-minnesota-trump.html)
 
-Regulating the industry is useful. Shaming it is crucial.
+Federal prosecutors had a warrant to collect evidence from Ms. Good’s vehicle, but Trump administration leaders said to drop it. About a dozen prosecutors have departed, leaving the Minnesota U.S. attorney’s office in turmoil.
 
 
-10. [Administration Social Media Posts Echo White Supremacist Messaging](https://www.nytimes.com/2026/01/27/us/politics/white-supremacy-trump-administration-social-media.html)
+7. [The Globalization of Canadian Rage](https://www.nytimes.com/2026/02/06/opinion/canada-america-anger-carney.html)
 
-A flurry of posts from the White House, Department of Labor and Department of Homeland Security have included images, slogans and even a song used by the white nationalist right.
+The world is angry. Canada’s been there all along.
+
+
+8. [The New York Times News Quiz, Feb. 6, 2026](https://www.nytimes.com/interactive/2026/02/06/briefing/quiz-olympics-epstein-bad-bunny.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+9. [Officials Pressed Schumer to Help Name Penn Station and Dulles Airport for Trump](https://www.nytimes.com/2026/02/06/us/politics/trump-schumer-penn-station-dulles-airport-renaming.html)
+
+Administration officials told the top Senate Democrat the president would release frozen funding for the Gateway project if the transportation hubs were renamed for him.
+
+
+10. [So Long to Cheap Books You Could Fit in Your Pocket](https://www.nytimes.com/2026/02/06/books/mass-market-paperback-books.html)
+
+The mass market paperback, light in the hand and on the wallet, once filled airport bookstores and supermarket media aisles. You may never buy a new one again.
 
 
