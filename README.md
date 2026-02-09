@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-09 13:25:11)
+## 📰 NYTimes Most Popular (Updated: 2026-02-09 14:59:27)
 
-1. [Washington Post C.E.O. Will Lewis Steps Down After Stormy Tenure](https://www.nytimes.com/2026/02/07/technology/washington-post-will-lewis.html)
+1. [Epstein Files Reveal Scope of Ghislaine Maxwell’s Role in Clinton Circle](https://www.nytimes.com/2026/02/08/us/politics/epstein-clintons-maxwell.html)
 
-His departure came days after the company cut 30 percent of the staff. He will be replaced in the interim by Jeff D’Onofrio, the chief financial officer, the company said.
-
-
-2. [Seven Pages of a Sealed Watergate File Sat Undiscovered. Until Now.](https://www.nytimes.com/2026/02/08/opinion/trump-nixon-watergate-radford.html)
-
-Seven pages of grand jury testimony from Richard Nixon were deemed so incendiary that they were hidden from the public for years.
+Jeffrey Epstein’s longtime companion helped advise on the kickoff of the Clinton Global Initiative and arranged for $1 million in funding for it, emails show.
 
 
-3. [Pelosi to Endorse Jack Schlossberg, Again Backing a Kennedy for Congress](https://www.nytimes.com/2026/02/07/us/politics/pelosi-endorse-schlossberg-kennedy.html)
+2. [Pelosi to Endorse Jack Schlossberg, Again Backing a Kennedy for Congress](https://www.nytimes.com/2026/02/07/us/politics/pelosi-endorse-schlossberg-kennedy.html)
 
 The former speaker, a prodigious fund-raiser and shrewd campaign strategist, seldom intervenes in primaries but has made an exception for a Kennedy before.
 
 
-4. [5 Conversations to Have With Your Aging Parents](https://www.nytimes.com/2026/02/08/well/aging-parents.html)
+3. [Reaction to Trump’s Racist Post Shows He Is Not Always Immune to Politics](https://www.nytimes.com/2026/02/07/us/politics/trump-social-post-reaction.html)
 
-Many families put these talks off. But having them now can lead to better care later.
-
-
-5. [Demanding Support for Trump, Justice Dept. Struggles to Recruit Prosecutors](https://www.nytimes.com/2026/02/07/us/politics/doj-prosecutors-recruiting-trump.html)
-
-Some offices are so decimated that the Justice Department has sent in military lawyers. More recently, officials asked for volunteers from other offices who can quickly deploy to places in desperate need.
+With the midterm elections nearing, President Trump has found himself in the uncomfortable position of backtracking, even if only by degrees, at key moments.
 
 
-6. [As American Views of ICE Dim, Warehouses Become a Symbol of Resistance](https://www.nytimes.com/2026/02/08/nyregion/ice-warehouse-new-york-opposition.html)
+4. [A Movie About America Broke My Heart](https://www.nytimes.com/2026/02/08/opinion/shakers-quakers-testament-ann-lee.html)
 
-Plans to confine migrants in retrofitted buildings have ignited bipartisan dissent as the country has grown more critical of immigration officials.
-
-
-7. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
-
-Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
+I am not a Shaker. That didn’t stop me from tearing up at “The Testament of Ann Lee.”
 
 
-8. [Now We Know What All Those People Got From Epstein](https://www.nytimes.com/2026/02/07/opinion/epstein-files-gifts-rich.html)
+5. [For $1 Million, Donors to U.S.A. Birthday Group Offered Access to Trump](https://www.nytimes.com/2026/02/08/us/politics/freedom-250-trump-donors.html)
+
+A new organization blessed by the president is raising money for events and projects that will put a Trumpian spin on the nation’s semiquincentennial.
+
+
+6. [Now We Know What All Those People Got From Epstein](https://www.nytimes.com/2026/02/07/opinion/epstein-files-gifts-rich.html)
 
 He knew how to give self-important people what they thought they deserved.
 
 
-9. [7 Days, No Suspects: The Disappearance of Nancy Guthrie](https://www.nytimes.com/2026/02/08/us/nancy-guthrie-savannah-guthrie-family.html)
+7. [7 Days, No Suspects: The Disappearance of Nancy Guthrie](https://www.nytimes.com/2026/02/08/us/nancy-guthrie-savannah-guthrie-family.html)
 
 The mother of the “Today” show host Savannah Guthrie has not been heard from since an evening of dinner and games with family members.
 
 
-10. [Mexican Cartels Overwhelm Police With Ammunition Made for the U.S. Military](https://www.nytimes.com/2026/02/07/us/lake-city-army-ammunition-plant-missouri-mexico.html)
+8. [Americans at the Olympics Can’t Escape the Politics at Home](https://www.nytimes.com/2026/02/08/world/europe/winter-olympics-trump-us-politics.html)
 
-Drug syndicates have used .50-caliber ammunition, produced at a plant owned by the U.S. Army and then smuggled across the border, in attacks on Mexican civilians and police.
+A backlash to Trump administration policies has followed U.S. athletes to Italy. One skier’s comments drew a furious response from the president himself.
+
+
+9. [If You Hate Bad Bunny, I Have Bad News for You](https://www.nytimes.com/2026/02/06/opinion/bad-bunny-super-bowl.html)
+
+American pop culture is global pop culture, and vice versa.
+
+
+10. [What Does the Number 64 Mean on Bad Bunny’s Super Bowl Look?](https://www.nytimes.com/2026/02/08/style/bad-bunny-ocasio-64-super-bowl-halftime-outfit.html)
+
+And where did his suit come from? The answers may surprise.
 
 
