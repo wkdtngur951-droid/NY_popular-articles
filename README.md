@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-09 23:45:36)
+## 📰 NYTimes Most Popular (Updated: 2026-02-10 03:14:54)
 
-1. [Now We Know What All Those People Got From Epstein](https://www.nytimes.com/2026/02/07/opinion/epstein-files-gifts-rich.html)
-
-He knew how to give self-important people what they thought they deserved.
-
-
-2. [Why the N.F.L. Booked Bad Bunny for the Super Bowl](https://www.nytimes.com/2026/02/08/business/bad-bunny-super-bowl-nfl.html)
-
-League executives may be nervous about the Latin superstar’s outspoken stance on immigration, but their priority is attracting popular halftime performers.
-
-
-3. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
-
-Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
-
-
-4. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
-
-The Puerto Rican superstar’s set included cameos, stunts and powerful statements.
-
-
-5. [Whistle-Blower Report Involved Intelligence About a Trump Contact](https://www.nytimes.com/2026/02/07/us/politics/whistle-blower-gabbard-trump.html)
-
-Tulsi Gabbard, the director of national intelligence, moved to lock down an intelligence intercept that referred to someone close to President Trump, the report said.
-
-
-6. [A Movie About America Broke My Heart](https://www.nytimes.com/2026/02/08/opinion/shakers-quakers-testament-ann-lee.html)
-
-I am not a Shaker. That didn’t stop me from tearing up at “The Testament of Ann Lee.”
-
-
-7. [It’s Time for America to Admit That It Has a Marijuana Problem](https://www.nytimes.com/2026/02/09/opinion/regulate-legalized-marijuana.html)
+1. [It’s Time for America to Admit That It Has a Marijuana Problem](https://www.nytimes.com/2026/02/09/opinion/regulate-legalized-marijuana.html)
 
 Given the growing harms from marijuana use, American lawmakers should do more to regulate it.
 
 
-8. [Epstein Files Reveal Scope of Ghislaine Maxwell’s Role in Clinton Circle](https://www.nytimes.com/2026/02/08/us/politics/epstein-clintons-maxwell.html)
+2. [Catherine O’Hara Died From Pulmonary Embolism, Death Certificate Says](https://www.nytimes.com/2026/02/09/movies/catherine-ohara-cause-of-death.html)
+
+A death certificate released on Monday also said rectal cancer was an underlying cause for the comedic actress’s death on Jan. 30 at 71.
+
+
+3. [Epstein Files Reveal Scope of Ghislaine Maxwell’s Role in Clinton Circle](https://www.nytimes.com/2026/02/08/us/politics/epstein-clintons-maxwell.html)
 
 Jeffrey Epstein’s longtime companion helped advise on the kickoff of the Clinton Global Initiative and arranged for $1 million in funding for it, emails show.
 
 
-9. [A Raid in a Small Town Brings Trump’s Deportations to Deep-Red Idaho](https://www.nytimes.com/2026/02/09/us/politics/trump-deportation-idaho.html)
+4. [If You Hate Bad Bunny, I Have Bad News for You](https://www.nytimes.com/2026/02/06/opinion/bad-bunny-super-bowl.html)
+
+American pop culture is global pop culture, and vice versa.
+
+
+5. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
+
+Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
+
+
+6. [A Raid in a Small Town Brings Trump’s Deportations to Deep-Red Idaho](https://www.nytimes.com/2026/02/09/us/politics/trump-deportation-idaho.html)
 
 Wilder, Idaho, prided itself on comity. Then federal agents stormed a racetrack outside of town in October, and the reverberations are still shaking the community.
 
 
-10. [Reaction to Trump’s Racist Post Shows He Is Not Always Immune to Politics](https://www.nytimes.com/2026/02/07/us/politics/trump-social-post-reaction.html)
+7. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
 
-With the midterm elections nearing, President Trump has found himself in the uncomfortable position of backtracking, even if only by degrees, at key moments.
+The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
+
+
+8. [What Does the Number 64 Mean on Bad Bunny’s Super Bowl Look?](https://www.nytimes.com/2026/02/08/style/bad-bunny-ocasio-64-super-bowl-halftime-outfit.html)
+
+And where did his suit come from? The answers may surprise.
+
+
+9. [These Three Red States Are the Best Hope in Schooling](https://www.nytimes.com/2026/02/09/opinion/red-states-good-schools.html)
+
+Mississippi, Alabama and Louisiana traditionally were America’s educational basement, but now they are showing blue states a way forward.
+
+
+10. [The Glorious Spectacle of a Republican Gone Rogue](https://www.nytimes.com/2026/02/09/opinion/melania-trump-tillis-noem.html)
+
+Thom Tillis versus the Trump administration.
 
 
