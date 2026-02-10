@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-10 22:50:37)
+## 📰 NYTimes Most Popular (Updated: 2026-02-10 23:45:21)
 
-1. [The Glorious Spectacle of a Republican Gone Rogue](https://www.nytimes.com/2026/02/09/opinion/melania-trump-tillis-noem.html)
+1. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
 
-Thom Tillis versus the Trump administration.
+The states, all led by Democrats, used the grants to support a wide variety of functions, including H.I.V. prevention and surveillance.
 
 
-2. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
+2. [It’s Time for America to Admit That It Has a Marijuana Problem](https://www.nytimes.com/2026/02/09/opinion/regulate-legalized-marijuana.html)
 
-Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
+Given the growing harms from marijuana use, American lawmakers should do more to regulate it.
 
 
 3. [Oz Offers Forceful Call for Vaccination as Measles Becomes More Dire](https://www.nytimes.com/2026/02/09/well/dr-mehmet-oz-measles-vaccine.html)
@@ -15,38 +15,38 @@ Here is our critic’s survey of this year’s Super Bowl commercials, from best
 The comments by the Centers for Medicare and Medicaid Services director come as South Carolina grapples with a large measles outbreak.
 
 
-4. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
+4. [Trump Allies Near ‘Total Victory’ in Wiping Out U.S. Climate Regulation](https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html)
 
-The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
-
-
-5. [Catherine O’Hara Died From Pulmonary Embolism, Death Certificate Says](https://www.nytimes.com/2026/02/09/movies/catherine-ohara-cause-of-death.html)
-
-A death certificate released on Monday also said rectal cancer was an underlying cause for the comedic actress’s death on Jan. 30 at 71.
+A small group of conservative activists has worked for 16 years to stop all government efforts to fight climate change. Their efforts seem poised to pay off.
 
 
-6. [Trump Threatens to Block Opening of New Bridge to Canada](https://www.nytimes.com/2026/02/09/us/politics/trump-gordie-howe-bridge-canada.html)
+5. [These Three Red States Are the Best Hope in Schooling](https://www.nytimes.com/2026/02/09/opinion/red-states-good-schools.html)
 
-The Gordie Howe International Bridge, expected to open early this year, was built by Canada to ease cargo transport between Detroit and Windsor, Ontario.
-
-
-7. [Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say](https://www.nytimes.com/2026/02/09/world/europe/trump-munich-conference-security-report.html)
-
-The organizers of the Munich Security Conference, Europe’s main defense-related forum, said in a report that President Trump is helping destroy the postwar international order.
+Mississippi, Alabama and Louisiana traditionally were America’s educational basement, but now they are showing blue states a way forward.
 
 
-8. [I Just Returned From China. We Are Not Winning.](https://www.nytimes.com/2026/02/10/opinion/china-ai-ev-trump.html)
-
-If we are going to be competitive with China, we have to get our economic house in order.
-
-
-9. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
+6. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
 
 The Puerto Rican superstar’s set included cameos, stunts and powerful statements.
 
 
-10. [It’s Time for America to Admit That It Has a Marijuana Problem](https://www.nytimes.com/2026/02/09/opinion/regulate-legalized-marijuana.html)
+7. [A Raid in a Small Town Brings Trump’s Deportations to Deep-Red Idaho](https://www.nytimes.com/2026/02/09/us/politics/trump-deportation-idaho.html)
 
-Given the growing harms from marijuana use, American lawmakers should do more to regulate it.
+Wilder, Idaho, prided itself on comity. Then federal agents stormed a racetrack outside of town in October, and the reverberations are still shaking the community.
+
+
+8. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
+
+The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
+
+
+9. [Catherine O’Hara Died From Pulmonary Embolism, Death Certificate Says](https://www.nytimes.com/2026/02/09/movies/catherine-ohara-cause-of-death.html)
+
+A death certificate released on Monday also said rectal cancer was an underlying cause for the comedic actress’s death on Jan. 30 at 71.
+
+
+10. [What Does the Number 64 Mean on Bad Bunny’s Super Bowl Look?](https://www.nytimes.com/2026/02/08/style/bad-bunny-ocasio-64-super-bowl-halftime-outfit.html)
+
+And where did his suit come from? The answers may surprise.
 
 
