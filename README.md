@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-10 15:09:45)
+## 📰 NYTimes Most Popular (Updated: 2026-02-10 17:12:40)
 
-1. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
-
-The states, all led by Democrats, used the grants to support a wide variety of functions, including H.I.V. prevention and surveillance.
-
-
-2. [These Three Red States Are the Best Hope in Schooling](https://www.nytimes.com/2026/02/09/opinion/red-states-good-schools.html)
-
-Mississippi, Alabama and Louisiana traditionally were America’s educational basement, but now they are showing blue states a way forward.
-
-
-3. [Epstein Files Reveal Scope of Ghislaine Maxwell’s Role in Clinton Circle](https://www.nytimes.com/2026/02/08/us/politics/epstein-clintons-maxwell.html)
-
-Jeffrey Epstein’s longtime companion helped advise on the kickoff of the Clinton Global Initiative and arranged for $1 million in funding for it, emails show.
-
-
-4. [A New Jersey Primary Shows the Depth of Democratic Fury](https://www.nytimes.com/2026/02/09/opinion/new-jersey-democratic-anger.html)
-
-Trump has thrust us into a new political world, and Democratic voters want leaders who can adapt.
-
-
-5. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
+1. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
 
 Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
 
 
-6. [Oz Offers Forceful Call for Vaccination as Measles Becomes More Dire](https://www.nytimes.com/2026/02/09/well/dr-mehmet-oz-measles-vaccine.html)
+2. [Oz Offers Forceful Call for Vaccination as Measles Becomes More Dire](https://www.nytimes.com/2026/02/09/well/dr-mehmet-oz-measles-vaccine.html)
 
 The comments by the Centers for Medicare and Medicaid Services director come as South Carolina grapples with a large measles outbreak.
 
 
-7. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
+3. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
 
-The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
-
-
-8. [Trump Allies Near ‘Total Victory’ in Wiping Out U.S. Climate Regulation](https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html)
-
-A small group of conservative activists has worked for 16 years to stop all government efforts to fight climate change. Their efforts seem poised to pay off.
+The states, all led by Democrats, used the grants to support a wide variety of functions, including H.I.V. prevention and surveillance.
 
 
-9. [The Glorious Spectacle of a Republican Gone Rogue](https://www.nytimes.com/2026/02/09/opinion/melania-trump-tillis-noem.html)
+4. [The Glorious Spectacle of a Republican Gone Rogue](https://www.nytimes.com/2026/02/09/opinion/melania-trump-tillis-noem.html)
 
 Thom Tillis versus the Trump administration.
 
 
-10. [What Does the Number 64 Mean on Bad Bunny’s Super Bowl Look?](https://www.nytimes.com/2026/02/08/style/bad-bunny-ocasio-64-super-bowl-halftime-outfit.html)
+5. [Catherine O’Hara Died From Pulmonary Embolism, Death Certificate Says](https://www.nytimes.com/2026/02/09/movies/catherine-ohara-cause-of-death.html)
 
-And where did his suit come from? The answers may surprise.
+A death certificate released on Monday also said rectal cancer was an underlying cause for the comedic actress’s death on Jan. 30 at 71.
+
+
+6. [Trump Allies Near ‘Total Victory’ in Wiping Out U.S. Climate Regulation](https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html)
+
+A small group of conservative activists has worked for 16 years to stop all government efforts to fight climate change. Their efforts seem poised to pay off.
+
+
+7. [Libertarians: We Told You So](https://www.nytimes.com/2026/02/09/opinion/libertarians-trump-limit-power.html)
+
+Instead of a winner-takes-all approach to power, it’s time to consider working toward a system where there is much less power for the winner to take.
+
+
+8. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
+
+The Puerto Rican superstar’s set included cameos, stunts and powerful statements.
+
+
+9. [Which Bad Bunny Halftime Show Did You See?](https://www.nytimes.com/2026/02/09/opinion/bad-bunny-super-bowl-americans.html)
+
+We weren’t prepared for the emotional roller coaster Bad Bunny Benito Antonio Martínez Ocasio, took us on.
+
+
+10. [Billionaire Called Epstein a ‘Blessing’ as They Made Deals](https://www.nytimes.com/2026/02/09/nyregion/farkas-epstein-lawsuit-ties.html)
+
+Andrew Farkas has repeatedly played down ties to Jeffrey Epstein. But they swapped business favors in the Virgin Islands, and in nearly 2,000 emails, the two expressed admiration for each other.
 
 
