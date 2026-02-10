@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-10 13:40:58)
+## 📰 NYTimes Most Popular (Updated: 2026-02-10 15:09:45)
 
-1. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
-
-The Puerto Rican superstar’s set included cameos, stunts and powerful statements.
-
-
-2. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
-
-The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
-
-
-3. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
+1. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
 
 The states, all led by Democrats, used the grants to support a wide variety of functions, including H.I.V. prevention and surveillance.
 
 
-4. [Catherine O’Hara Died From Pulmonary Embolism, Death Certificate Says](https://www.nytimes.com/2026/02/09/movies/catherine-ohara-cause-of-death.html)
+2. [These Three Red States Are the Best Hope in Schooling](https://www.nytimes.com/2026/02/09/opinion/red-states-good-schools.html)
 
-A death certificate released on Monday also said rectal cancer was an underlying cause for the comedic actress’s death on Jan. 30 at 71.
-
-
-5. [Trump Criticizes Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/us/trump-bad-bunny-super-bowl-halftime-show.html)
-
-Bad Bunny, the Puerto Rican superstar who has denounced ICE, celebrated Latino heritage in his largely Spanish-language performance.
+Mississippi, Alabama and Louisiana traditionally were America’s educational basement, but now they are showing blue states a way forward.
 
 
-6. [Billionaire Called Epstein a ‘Blessing’ as They Made Deals](https://www.nytimes.com/2026/02/09/nyregion/farkas-epstein-lawsuit-ties.html)
+3. [Epstein Files Reveal Scope of Ghislaine Maxwell’s Role in Clinton Circle](https://www.nytimes.com/2026/02/08/us/politics/epstein-clintons-maxwell.html)
 
-Andrew Farkas has repeatedly played down ties to Jeffrey Epstein. But they swapped business favors in the Virgin Islands, and in nearly 2,000 emails, the two expressed admiration for each other.
-
-
-7. [Trump Threatens to Block Opening of New Bridge to Canada](https://www.nytimes.com/2026/02/09/us/politics/trump-gordie-howe-bridge-canada.html)
-
-The Gordie Howe International Bridge, expected to open early this year, was built by Canada to ease cargo transport between Detroit and Windsor, Ontario.
+Jeffrey Epstein’s longtime companion helped advise on the kickoff of the Clinton Global Initiative and arranged for $1 million in funding for it, emails show.
 
 
-8. [A Raid in a Small Town Brings Trump’s Deportations to Deep-Red Idaho](https://www.nytimes.com/2026/02/09/us/politics/trump-deportation-idaho.html)
+4. [A New Jersey Primary Shows the Depth of Democratic Fury](https://www.nytimes.com/2026/02/09/opinion/new-jersey-democratic-anger.html)
 
-Wilder, Idaho, prided itself on comity. Then federal agents stormed a racetrack outside of town in October, and the reverberations are still shaking the community.
+Trump has thrust us into a new political world, and Democratic voters want leaders who can adapt.
 
 
-9. [Oz Offers Forceful Call for Vaccination as Measles Becomes More Dire](https://www.nytimes.com/2026/02/09/well/dr-mehmet-oz-measles-vaccine.html)
+5. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
+
+Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
+
+
+6. [Oz Offers Forceful Call for Vaccination as Measles Becomes More Dire](https://www.nytimes.com/2026/02/09/well/dr-mehmet-oz-measles-vaccine.html)
 
 The comments by the Centers for Medicare and Medicaid Services director come as South Carolina grapples with a large measles outbreak.
+
+
+7. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
+
+The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
+
+
+8. [Trump Allies Near ‘Total Victory’ in Wiping Out U.S. Climate Regulation](https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html)
+
+A small group of conservative activists has worked for 16 years to stop all government efforts to fight climate change. Their efforts seem poised to pay off.
+
+
+9. [The Glorious Spectacle of a Republican Gone Rogue](https://www.nytimes.com/2026/02/09/opinion/melania-trump-tillis-noem.html)
+
+Thom Tillis versus the Trump administration.
 
 
 10. [What Does the Number 64 Mean on Bad Bunny’s Super Bowl Look?](https://www.nytimes.com/2026/02/08/style/bad-bunny-ocasio-64-super-bowl-halftime-outfit.html)
