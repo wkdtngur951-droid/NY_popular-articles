@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-10 07:15:54)
+## 📰 NYTimes Most Popular (Updated: 2026-02-10 09:04:37)
 
-1. [It’s Time for America to Admit That It Has a Marijuana Problem](https://www.nytimes.com/2026/02/09/opinion/regulate-legalized-marijuana.html)
+1. [If You Hate Bad Bunny, I Have Bad News for You](https://www.nytimes.com/2026/02/06/opinion/bad-bunny-super-bowl.html)
+
+American pop culture is global pop culture, and vice versa.
+
+
+2. [It’s Time for America to Admit That It Has a Marijuana Problem](https://www.nytimes.com/2026/02/09/opinion/regulate-legalized-marijuana.html)
 
 Given the growing harms from marijuana use, American lawmakers should do more to regulate it.
 
 
-2. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
+3. [What Does the Number 64 Mean on Bad Bunny’s Super Bowl Look?](https://www.nytimes.com/2026/02/08/style/bad-bunny-ocasio-64-super-bowl-halftime-outfit.html)
 
-The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
-
-
-3. [The Glorious Spectacle of a Republican Gone Rogue](https://www.nytimes.com/2026/02/09/opinion/melania-trump-tillis-noem.html)
-
-Thom Tillis versus the Trump administration.
+And where did his suit come from? The answers may surprise.
 
 
-4. [Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say](https://www.nytimes.com/2026/02/09/world/europe/trump-munich-conference-security-report.html)
+4. [In Bad Bunny’s Halftime Show, a Real Wedding With 70,000 Guests](https://www.nytimes.com/2026/02/09/us/super-bowl-wedding-real-halftime-show.html)
+
+The couple married on the field had invited the Puerto Rican singer to their wedding, but instead received an invitation to appear onstage with him, his management said.
+
+
+5. [Billionaire Called Epstein a ‘Blessing’ as They Made Deals](https://www.nytimes.com/2026/02/09/nyregion/farkas-epstein-lawsuit-ties.html)
+
+Andrew Farkas has repeatedly played down ties to Jeffrey Epstein. But they swapped business favors in the Virgin Islands, and in nearly 2,000 emails, the two expressed admiration for each other.
+
+
+6. [Libertarians: We Told You So](https://www.nytimes.com/2026/02/09/opinion/libertarians-trump-limit-power.html)
+
+Instead of a winner-takes-all approach to power, it’s time to consider working toward a system where there is much less power for the winner to take.
+
+
+7. [Trump Is a Global ‘Wrecking Ball,’ European Security Experts Say](https://www.nytimes.com/2026/02/09/world/europe/trump-munich-conference-security-report.html)
 
 The organizers of the Munich Security Conference, Europe’s main defense-related forum, said in a report that President Trump is helping destroy the postwar international order.
 
 
-5. [2 to 3 Cups of Coffee a Day May Reduce Dementia Risk. But Not if It’s Decaf.](https://www.nytimes.com/2026/02/09/health/coffee-tea-dementia-risk.html)
+8. [Epstein Files Reveal Scope of Ghislaine Maxwell’s Role in Clinton Circle](https://www.nytimes.com/2026/02/08/us/politics/epstein-clintons-maxwell.html)
 
-One to two cups of caffeinated tea per day helps too, researchers found after following nearly 132,000 people for 40 years.
+Jeffrey Epstein’s longtime companion helped advise on the kickoff of the Clinton Global Initiative and arranged for $1 million in funding for it, emails show.
 
 
-6. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
+9. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
 
 The Puerto Rican superstar’s set included cameos, stunts and powerful statements.
 
 
-7. [These Three Red States Are the Best Hope in Schooling](https://www.nytimes.com/2026/02/09/opinion/red-states-good-schools.html)
+10. [The Super Bowl Ads, Ranked](https://www.nytimes.com/2026/02/06/arts/television/super-bowl-ads-ranked-2026.html)
 
-Mississippi, Alabama and Louisiana traditionally were America’s educational basement, but now they are showing blue states a way forward.
-
-
-8. [Catherine O’Hara Died From Pulmonary Embolism, Death Certificate Says](https://www.nytimes.com/2026/02/09/movies/catherine-ohara-cause-of-death.html)
-
-A death certificate released on Monday also said rectal cancer was an underlying cause for the comedic actress’s death on Jan. 30 at 71.
-
-
-9. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
-
-The states, all led by Democrats, used the grants to support a wide variety of functions, including H.I.V. prevention and surveillance.
-
-
-10. [Billionaire Called Epstein a ‘Blessing’ as They Made Deals](https://www.nytimes.com/2026/02/09/nyregion/farkas-epstein-lawsuit-ties.html)
-
-Andrew Farkas has repeatedly played down ties to Jeffrey Epstein. But they swapped business favors in the Virgin Islands, and in nearly 2,000 emails, the two expressed admiration for each other.
+Here is our critic’s survey of this year’s Super Bowl commercials, from best to worst to A.I.
 
 
