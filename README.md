@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-10 23:45:21)
+## 📰 NYTimes Most Popular (Updated: 2026-02-11 02:56:14)
 
-1. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
+1. [Georgia Ballot Inquiry Originated With Election Denier in Trump White House](https://www.nytimes.com/2026/02/10/us/politics/fulton-county-kurt-olsen-fbi-search-2020-ballots.html)
+
+A newly unsealed affidavit showed that a criminal investigation into the 2020 election in Fulton County, Ga., relied heavily on claims about ballots that have been widely debunked.
+
+
+2. [Trump Steaks, Trump University, Trump International Airport? This Has to Stop.](https://www.nytimes.com/2026/02/10/opinion/trump-university-airport.html)
+
+The president wants to change the public landscape to honor himself. It’s not the worst thing he’s done, but it will require fixing.
+
+
+3. [Pride Flag Is Removed From Stonewall Monument After Trump Directive](https://www.nytimes.com/2026/02/10/us/pride-flag-stonewall-inn-monument.html)
+
+The removal of the flag from the Manhattan monument, the symbolic heart of the gay rights movement, came after a Trump administration memo about flags at national park sites.
+
+
+4. [Trump Administration to Cut $600 Million in Health Funding From Four States](https://www.nytimes.com/2026/02/09/health/trump-public-health-cuts-california.html)
 
 The states, all led by Democrats, used the grants to support a wide variety of functions, including H.I.V. prevention and surveillance.
 
 
-2. [It’s Time for America to Admit That It Has a Marijuana Problem](https://www.nytimes.com/2026/02/09/opinion/regulate-legalized-marijuana.html)
+5. [Trump Threatens to Block Opening of New Bridge to Canada](https://www.nytimes.com/2026/02/09/us/politics/trump-gordie-howe-bridge-canada.html)
 
-Given the growing harms from marijuana use, American lawmakers should do more to regulate it.
+The Gordie Howe International Bridge, expected to open early this year, was built by Canada to ease cargo transport between Detroit and Windsor, Ontario.
 
 
-3. [Oz Offers Forceful Call for Vaccination as Measles Becomes More Dire](https://www.nytimes.com/2026/02/09/well/dr-mehmet-oz-measles-vaccine.html)
+6. [A Desperate Father, a Troubled Son and Death in a 5-Star Hotel](https://www.nytimes.com/2026/02/10/nyregion/henry-mcgowan-ireland-murder.html)
+
+Henry McGowan headed for Europe, showing signs of mental distress. His father, John McGowan, raced after him. This week, the son will stand trial in Ireland, accused of his father’s murder.
+
+
+7. [When Trump Officials’ Claims About Shootings Unravel in Court](https://www.nytimes.com/2026/02/10/us/politics/homeland-security-shootings.html)
+
+Before the killings of Renee Good and Alex Pretti, allegations against four others shot at by federal immigration agents failed to withstand scrutiny.
+
+
+8. [Susan Collins Runs for Re-election, in One of 2026’s Top Senate Fights](https://www.nytimes.com/2026/02/10/us/politics/susan-collins-maine-senate-2026.html)
+
+The Maine Republican is one of her party’s most vulnerable senators, and her seat is crucial to Democratic hopes of retaking control of the chamber.
+
+
+9. [Oz Offers Forceful Call for Vaccination as Measles Becomes More Dire](https://www.nytimes.com/2026/02/09/well/dr-mehmet-oz-measles-vaccine.html)
 
 The comments by the Centers for Medicare and Medicaid Services director come as South Carolina grapples with a large measles outbreak.
 
 
-4. [Trump Allies Near ‘Total Victory’ in Wiping Out U.S. Climate Regulation](https://www.nytimes.com/2026/02/09/climate/endangerment-finding.html)
+10. [New Epstein Details Rattle Washington, Hollywood and Beyond](https://www.nytimes.com/2026/02/10/business/dealbook/epstein-lutnick-wasserman-starmer.html)
 
-A small group of conservative activists has worked for 16 years to stop all government efforts to fight climate change. Their efforts seem poised to pay off.
-
-
-5. [These Three Red States Are the Best Hope in Schooling](https://www.nytimes.com/2026/02/09/opinion/red-states-good-schools.html)
-
-Mississippi, Alabama and Louisiana traditionally were America’s educational basement, but now they are showing blue states a way forward.
-
-
-6. [Best and Worst of Bad Bunny’s Super Bowl Halftime Show](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-best-worst.html)
-
-The Puerto Rican superstar’s set included cameos, stunts and powerful statements.
-
-
-7. [A Raid in a Small Town Brings Trump’s Deportations to Deep-Red Idaho](https://www.nytimes.com/2026/02/09/us/politics/trump-deportation-idaho.html)
-
-Wilder, Idaho, prided itself on comity. Then federal agents stormed a racetrack outside of town in October, and the reverberations are still shaking the community.
-
-
-8. [Bad Bunny’s Halftime History Lesson](https://www.nytimes.com/2026/02/09/arts/music/bad-bunny-super-bowl-halftime-show-review.html)
-
-The superstar showcased Puerto Rican pride during a 13-minute set that turned a global opportunity into an intimate, personal performance.
-
-
-9. [Catherine O’Hara Died From Pulmonary Embolism, Death Certificate Says](https://www.nytimes.com/2026/02/09/movies/catherine-ohara-cause-of-death.html)
-
-A death certificate released on Monday also said rectal cancer was an underlying cause for the comedic actress’s death on Jan. 30 at 71.
-
-
-10. [What Does the Number 64 Mean on Bad Bunny’s Super Bowl Look?](https://www.nytimes.com/2026/02/08/style/bad-bunny-ocasio-64-super-bowl-halftime-outfit.html)
-
-And where did his suit come from? The answers may surprise.
+Commerce Secretary Howard Lutnick and Casey Wasserman, the entertainment mogul, are among those facing blowback amid the release of files related to Jeffrey Epstein.
 
 
