@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-12 16:01:10)
+## 📰 NYTimes Most Popular (Updated: 2026-02-12 17:58:52)
 
-1. [What’s the Secret to Happiness? These Researchers Have a Theory.](https://www.nytimes.com/2026/02/10/well/lyubomirsky-reis-how-to-feel-loved.html)
+1. [The Whiskey World Is Reeling, but This Company Has Bigger Troubles](https://www.nytimes.com/2026/02/10/dining/drinks/uncle-nearest-whiskey.html)
 
-A new book, “How to Feel Loved,” links our social skills to how content we are.
-
-
-2. [Gallup Will No Longer Track Presidential Approval Ratings](https://www.nytimes.com/2026/02/11/us/politics/gallup-poll-presidential-approval-ratings-trump.html)
-
-The monthly poll has been used to measure presidential performance for almost nine decades.
+A new report paints a grim financial picture of Uncle Nearest, a high-profile brand named for an enslaved distiller. But its founder disputes the findings.
 
 
-3. [James Van Der Beek, Teenage Heartthrob of ‘Dawson’s Creek,’ Dies at 48](https://www.nytimes.com/2026/02/11/arts/television/james-van-der-beek-dead.html)
-
-He first appeared in a hit TV drama as a wide-eyed 15-year-old who then grew up over six seasons. He announced he had cancer in 2024.
-
-
-4. [Donald Trump, Pagan King](https://www.nytimes.com/2026/02/11/opinion/donald-trump-pagan-king.html)
-
-The president is returning to an ancient world, before morality mattered and when human actions were governed only by power.
-
-
-5. [OpenAI Is Making the Mistakes Facebook Made. I Quit.](https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html)
-
-Ads on ChatGPT aren’t a bad idea. But they have to be done the right way.
-
-
-6. [Thousands of Amateur Gamblers Are Beating Wall Street Ph.D.s](https://www.nytimes.com/2026/02/11/business/economy/forecasts-prediction-markets-economy.html)
+2. [Thousands of Amateur Gamblers Are Beating Wall Street Ph.D.s](https://www.nytimes.com/2026/02/11/business/economy/forecasts-prediction-markets-economy.html)
 
 Economists have noticed that betting markets like Kalshi and Polymarket are pretty good at predicting not just political events but economic data, too.
 
 
-7. [Epstein Files Include Grainy Videos From Inside His Florida Home](https://www.nytimes.com/2026/02/11/us/epstein-files-videos.html)
+3. [Peter Attia’s Ties to Epstein Spark a Backlash From Doctors](https://www.nytimes.com/2026/02/10/well/peter-attia-jeffrey-epstein-doctors-backlash.html)
 
-The clips from Jeffrey Epstein’s home office appear to show him with young women.
-
-
-8. [Bud Cort, Who Starred in 1971’s ‘Harold and Maude,’ Dies at 77](https://www.nytimes.com/2026/02/11/movies/bud-cort-dead.html)
-
-The role, one of his first, made him a household name and a film idol of the anti-establishment 1970s. But it also limited his growth as an actor.
+What started as a rebuke of Dr. Attia has become a discussion about his credentials, longevity medicine and whom patients should trust.
 
 
-9. [Grand Jury Rebuffs Justice Dept. Attempt to Indict 6 Democrats in Congress](https://www.nytimes.com/2026/02/10/us/politics/trump-democrats-illegal-orders-pirro.html)
+4. [Cartel’s Seized Ammunition Is Traced to U.S. Army Plant, Mexico Says](https://www.nytimes.com/2026/02/10/world/americas/mexico-cartel-ammunition-us-army.html)
+
+About 137,000 .50-caliber rounds have been seized since 2012, and of those, 47 percent came from a plant in Kansas City, Mo., Mexico’s defense secretary said.
+
+
+5. [What We Know About the El Paso Airspace Shutdown](https://www.nytimes.com/2026/02/11/us/el-paso-airspace-shutdown-what-to-know.html)
+
+The Trump administration blamed the disruptive halt on a cartel drone incursion, but others have disputed that explanation.
+
+
+6. [Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser](https://www.nytimes.com/2026/02/11/us/trump-administration-el-paso-airspace-closure-questions.html)
+
+People familiar with the episode said the use of the technology was not coordinated with the Federal Aviation Administration. Officials targeted what they thought was a drug cartel drone, but turned out to be a party balloon, they said.
+
+
+7. [Grand Jury Rebuffs Justice Dept. Attempt to Indict 6 Democrats in Congress](https://www.nytimes.com/2026/02/10/us/politics/trump-democrats-illegal-orders-pirro.html)
 
 The rejection was a remarkable rebuke, suggesting that ordinary citizens did not believe that the lawmakers had committed any crimes.
 
 
-10. [House Votes to Cancel Trump’s Canada Tariffs](https://www.nytimes.com/2026/02/11/us/politics/trump-canada-tariffs.html)
+8. [Bondi Faces Anger From Lawmakers Over Handling of Epstein Files](https://www.nytimes.com/2026/02/11/us/politics/bondi-testimony-epstein-files.html)
 
-Six Republicans joined nearly all Democrats to end the national emergency President Donald Trump had declared to impose tariffs on imports from Canada.
+Her appearance came as the Justice Department was under scrutiny over the Epstein files, its approach toward the shootings in Minneapolis and its move to prosecute six lawmakers.
+
+
+9. [OpenAI Is Making the Mistakes Facebook Made. I Quit.](https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html)
+
+Ads on ChatGPT aren’t a bad idea. But they have to be done the right way.
+
+
+10. [Gallup Will No Longer Track Presidential Approval Ratings](https://www.nytimes.com/2026/02/11/us/politics/gallup-poll-presidential-approval-ratings-trump.html)
+
+The monthly poll has been used to measure presidential performance for almost nine decades.
 
 
