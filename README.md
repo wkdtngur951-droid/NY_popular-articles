@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-12 14:55:26)
+## 📰 NYTimes Most Popular (Updated: 2026-02-12 16:01:10)
 
-1. [What Trump Is the Best at, Hands Down](https://www.nytimes.com/2026/02/11/opinion/trump-crypto-corruption.html)
+1. [What’s the Secret to Happiness? These Researchers Have a Theory.](https://www.nytimes.com/2026/02/10/well/lyubomirsky-reis-how-to-feel-loved.html)
 
-New disclosures underscore that the White House is enveloped in a culture of corruption with no precedent in American history.
-
-
-2. [Peter Attia’s Ties to Epstein Spark a Backlash From Doctors](https://www.nytimes.com/2026/02/10/well/peter-attia-jeffrey-epstein-doctors-backlash.html)
-
-What started as a rebuke of Dr. Attia has become a discussion about his credentials, longevity medicine and whom patients should trust.
+A new book, “How to Feel Loved,” links our social skills to how content we are.
 
 
-3. [Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser](https://www.nytimes.com/2026/02/11/us/trump-administration-el-paso-airspace-closure-questions.html)
+2. [Gallup Will No Longer Track Presidential Approval Ratings](https://www.nytimes.com/2026/02/11/us/politics/gallup-poll-presidential-approval-ratings-trump.html)
 
-People familiar with the episode said the use of the technology was not coordinated with the Federal Aviation Administration. Officials targeted what they thought was a drug cartel drone, but turned out to be a party balloon, they said.
+The monthly poll has been used to measure presidential performance for almost nine decades.
+
+
+3. [James Van Der Beek, Teenage Heartthrob of ‘Dawson’s Creek,’ Dies at 48](https://www.nytimes.com/2026/02/11/arts/television/james-van-der-beek-dead.html)
+
+He first appeared in a hit TV drama as a wide-eyed 15-year-old who then grew up over six seasons. He announced he had cancer in 2024.
 
 
 4. [Donald Trump, Pagan King](https://www.nytimes.com/2026/02/11/opinion/donald-trump-pagan-king.html)
@@ -20,24 +20,24 @@ People familiar with the episode said the use of the technology was not coordina
 The president is returning to an ancient world, before morality mattered and when human actions were governed only by power.
 
 
-5. [U.S. Attorney Chosen to Replace Trump Pick Is Quickly Fired by White House](https://www.nytimes.com/2026/02/11/nyregion/donald-kinsella-ndny-sarcone-trump.html)
+5. [OpenAI Is Making the Mistakes Facebook Made. I Quit.](https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html)
 
-Federal judges had appointed Donald Kinsella, a veteran litigator, as top prosecutor in the Northern District of New York after the Trump administration’s nominee was found to be serving unlawfully.
-
-
-6. [What’s the Secret to Happiness? These Researchers Have a Theory.](https://www.nytimes.com/2026/02/10/well/lyubomirsky-reis-how-to-feel-loved.html)
-
-A new book, “How to Feel Loved,” links our social skills to how content we are.
+Ads on ChatGPT aren’t a bad idea. But they have to be done the right way.
 
 
-7. [Gallup Will No Longer Track Presidential Approval Ratings](https://www.nytimes.com/2026/02/11/us/politics/gallup-poll-presidential-approval-ratings-trump.html)
+6. [Thousands of Amateur Gamblers Are Beating Wall Street Ph.D.s](https://www.nytimes.com/2026/02/11/business/economy/forecasts-prediction-markets-economy.html)
 
-The monthly poll has been used to measure presidential performance for almost nine decades.
+Economists have noticed that betting markets like Kalshi and Polymarket are pretty good at predicting not just political events but economic data, too.
 
 
-8. [Cartel’s Seized Ammunition Is Traced to U.S. Army Plant, Mexico Says](https://www.nytimes.com/2026/02/10/world/americas/mexico-cartel-ammunition-us-army.html)
+7. [Epstein Files Include Grainy Videos From Inside His Florida Home](https://www.nytimes.com/2026/02/11/us/epstein-files-videos.html)
 
-About 137,000 .50-caliber rounds have been seized since 2012, and of those, 47 percent came from a plant in Kansas City, Mo., Mexico’s defense secretary said.
+The clips from Jeffrey Epstein’s home office appear to show him with young women.
+
+
+8. [Bud Cort, Who Starred in 1971’s ‘Harold and Maude,’ Dies at 77](https://www.nytimes.com/2026/02/11/movies/bud-cort-dead.html)
+
+The role, one of his first, made him a household name and a film idol of the anti-establishment 1970s. But it also limited his growth as an actor.
 
 
 9. [Grand Jury Rebuffs Justice Dept. Attempt to Indict 6 Democrats in Congress](https://www.nytimes.com/2026/02/10/us/politics/trump-democrats-illegal-orders-pirro.html)
@@ -45,8 +45,8 @@ About 137,000 .50-caliber rounds have been seized since 2012, and of those, 47 p
 The rejection was a remarkable rebuke, suggesting that ordinary citizens did not believe that the lawmakers had committed any crimes.
 
 
-10. [OpenAI Is Making the Mistakes Facebook Made. I Quit.](https://www.nytimes.com/2026/02/11/opinion/openai-ads-chatgpt.html)
+10. [House Votes to Cancel Trump’s Canada Tariffs](https://www.nytimes.com/2026/02/11/us/politics/trump-canada-tariffs.html)
 
-Ads on ChatGPT aren’t a bad idea. But they have to be done the right way.
+Six Republicans joined nearly all Democrats to end the national emergency President Donald Trump had declared to impose tariffs on imports from Canada.
 
 
