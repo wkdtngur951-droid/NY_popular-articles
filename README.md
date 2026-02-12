@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-12 02:51:52)
+## 📰 NYTimes Most Popular (Updated: 2026-02-12 05:04:24)
 
-1. [Customs and Border Protection Said to Have Fired Anti-Drone Laser That Triggered Airspace Closure](https://www.nytimes.com/2026/02/11/us/trump-administration-el-paso-airspace-closure-questions.html)
+1. [The Whiskey World Is Reeling, but This Company Has Bigger Troubles](https://www.nytimes.com/2026/02/10/dining/drinks/uncle-nearest-whiskey.html)
 
-People familiar with the episode said the use of the technology was not coordinated with the Federal Aviation Administration. Officials targeted what they thought was a drug cartel drone, but turned out to be a party balloon, they said.
+A new report paints a grim financial picture of Uncle Nearest, a high-profile brand named for an enslaved distiller. But its founder disputes the findings.
 
 
-2. [Bridge Owner Lobbied Administration Before Trump Blasted Competing Span to Canada](https://www.nytimes.com/2026/02/10/world/canada/bridge-owner-trump-lutnick.html)
+2. [Here’s the latest.](https://www.nytimes.com/live/2026/02/11/us/faa-el-paso-flights-airport/faa-el-paso-flight-restrictions)
+
+No flights would be allowed to or from the airport for 10 days under a flight restriction order that cited unspecified “special security reasons.”
+
+
+3. [Donald Trump, Pagan King](https://www.nytimes.com/2026/02/11/opinion/donald-trump-pagan-king.html)
+
+The president is returning to an ancient world, before morality mattered and when human actions were governed only by power.
+
+
+4. [Bondi Faces Anger From Lawmakers Over Handling of Epstein Files](https://www.nytimes.com/2026/02/11/us/politics/bondi-testimony-epstein-files.html)
+
+Her appearance came as the Justice Department was under scrutiny over the Epstein files, its approach toward the shootings in Minneapolis and its move to prosecute six lawmakers.
+
+
+5. [Bridge Owner Lobbied Administration Before Trump Blasted Competing Span to Canada](https://www.nytimes.com/2026/02/10/world/canada/bridge-owner-trump-lutnick.html)
 
 A Detroit billionaire met with Howard Lutnick, the commerce secretary, hours before President Trump said he would block the opening of a new bridge connecting Detroit to Canada, officials said.
 
 
-3. [Epstein Files Include Grainy Videos From Inside His Florida Home](https://www.nytimes.com/2026/02/11/us/epstein-files-videos.html)
+6. [I Just Returned From China. We Are Not Winning.](https://www.nytimes.com/2026/02/10/opinion/china-ai-ev-trump.html)
 
-The clips from Jeffrey Epstein’s home office appear to show him with young women.
-
-
-4. [Epstein Revelations Stir Chaos From Scandinavia to South Asia](https://www.nytimes.com/2026/02/11/world/europe/epstein-files-global-chaos-resignations.html)
-
-Disclosures in documents released by the Trump administration have roiled the world, leading to resignations and the threat of legal charges far beyond American borders.
+If we are going to be competitive with China, we have to get our economic house in order.
 
 
-5. [House Votes to Cancel Trump’s Canada Tariffs](https://www.nytimes.com/2026/02/11/us/politics/trump-canada-tariffs.html)
+7. [House Defeats Republican Bid to Block Votes on Trump’s Tariffs](https://www.nytimes.com/2026/02/10/us/politics/tariffs-house-legislative-day.html)
 
-Six Republicans joined nearly all Democrats to end the national emergency President Donald Trump had declared to impose tariffs on imports from Canada.
-
-
-6. [Peter Attia’s Ties to Epstein Spark a Backlash From Doctors](https://www.nytimes.com/2026/02/10/well/peter-attia-jeffrey-epstein-doctors-backlash.html)
-
-What started as a rebuke of Dr. Attia has become a discussion about his credentials, longevity medicine and whom patients should trust.
+Three Republicans joined Democrats in rejecting a bid by G.O.P. leaders to continue skirting a law that requires the House to vote promptly on measures challenging President Trump’s tariffs.
 
 
-7. [We Have to Look Right in the Face of What We Have Become](https://www.nytimes.com/2026/02/11/opinion/ice-victims-hearings-justice.html)
-
-Any serious push to account for the actions of this government must include recompense and repair for its victims.
-
-
-8. [James Van Der Beek, Teenage Heartthrob of ‘Dawson’s Creek,’ Dies at 48](https://www.nytimes.com/2026/02/11/arts/television/james-van-der-beek-dead.html)
-
-He first appeared in a hit TV drama as a wide-eyed 15-year-old who then grew up over six seasons. He announced he had cancer in 2024.
-
-
-9. [Grand Jury Rebuffs Justice Dept. Attempt to Indict 6 Democrats in Congress](https://www.nytimes.com/2026/02/10/us/politics/trump-democrats-illegal-orders-pirro.html)
+8. [Grand Jury Rebuffs Justice Dept. Attempt to Indict 6 Democrats in Congress](https://www.nytimes.com/2026/02/10/us/politics/trump-democrats-illegal-orders-pirro.html)
 
 The rejection was a remarkable rebuke, suggesting that ordinary citizens did not believe that the lawmakers had committed any crimes.
 
 
-10. [What’s the Secret to Happiness? These Researchers Have a Theory.](https://www.nytimes.com/2026/02/10/well/lyubomirsky-reis-how-to-feel-loved.html)
+9. [Peter Attia’s Ties to Epstein Spark a Backlash From Doctors](https://www.nytimes.com/2026/02/10/well/peter-attia-jeffrey-epstein-doctors-backlash.html)
 
-A new book, “How to Feel Loved,” links our social skills to how content we are.
+What started as a rebuke of Dr. Attia has become a discussion about his credentials, longevity medicine and whom patients should trust.
+
+
+10. [Fired Former Trump Prosecutor to Run for Congress in Virginia as a Democrat](https://www.nytimes.com/2026/02/11/us/politics/cooney-trump-prosecutor-congress-virginia.html)
+
+J.P. Cooney, a former top deputy to the special counsel Jack Smith, who led two prosecutions of President Trump, plans to seek election to a newly drawn district in Northern and Central Virginia.
 
 
