@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-13 02:52:17)
+## 📰 NYTimes Most Popular (Updated: 2026-02-13 04:58:57)
 
-1. [Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser](https://www.nytimes.com/2026/02/11/us/trump-administration-el-paso-airspace-closure-questions.html)
+1. [Why Pennsylvania’s Two Most Powerful Democrats Don’t Speak](https://www.nytimes.com/2026/02/12/us/politics/john-fetterman-josh-shapiro-pennsylvania.html)
 
-People familiar with the episode said the use of the technology was not coordinated with the Federal Aviation Administration. Officials targeted what they thought was a drug cartel drone, but turned out to be a party balloon, they said.
-
-
-2. [Gallup Will No Longer Track Presidential Approval Ratings](https://www.nytimes.com/2026/02/11/us/politics/gallup-poll-presidential-approval-ratings-trump.html)
-
-The monthly poll has been used to measure presidential performance for almost nine decades.
+Senator John Fetterman and Gov. Josh Shapiro do not get along. The bad blood goes back years.
 
 
-3. [Ukrainian Olympian Is Disqualified Over Helmet Honoring War Dead](https://www.nytimes.com/2026/02/12/world/olympics/ukraine-skeleton-olympics-banned-helmet-heraskevych.html)
+2. [Judge Ends Deportation Case for Mexican Father of 3 U.S. Marines](https://www.nytimes.com/2026/02/12/us/deportation-case-us-mexico-marines-barranco.html)
 
-Olympic officials ruled that Vladyslav Heraskevych’s helmet violated a prohibition on political speech, setting off outrage at the Winter Games in Italy. He plans to appeal the decision.
+The arrest of Narciso Barranco, who was detained by federal agents while landscaping outside an IHOP in Southern California last June, garnered national attention.
+
+
+3. [States Say No Thanks to Trump Tax Cuts, Drawing Republican Fire](https://www.nytimes.com/2026/02/12/business/states-taxes.html)
+
+State income taxes often reflect federal policies, but Washington, D.C. and some states have taken steps to keep the latest Republican changes out of their tax codes.
 
 
 4. [Mamdani Reverses Campaign Promise to Expand Rental Assistance](https://www.nytimes.com/2026/02/12/nyregion/mamdani-rental-vouchers.html)
@@ -25,28 +25,28 @@ A rental voucher program costs more than $1 billion. The mayor’s decision to c
 Leqaa Kordia, 33, was hospitalized after hitting her head at an immigration detention center where she has been held for nearly a year. She was initially arrested during a 2024 protest.
 
 
-6. [James Van Der Beek, Teenage Heartthrob of ‘Dawson’s Creek,’ Dies at 48](https://www.nytimes.com/2026/02/11/arts/television/james-van-der-beek-dead.html)
+6. [Border Officials Are Said to Have Caused El Paso Closure by Firing Anti-Drone Laser](https://www.nytimes.com/2026/02/11/us/trump-administration-el-paso-airspace-closure-questions.html)
 
-He first appeared in a hit TV drama as a wide-eyed 15-year-old who then grew up over six seasons. He announced he had cancer in 2024.
+People familiar with the episode said the use of the technology was not coordinated with the Federal Aviation Administration. Officials targeted what they thought was a drug cartel drone, but turned out to be a party balloon, they said.
 
 
-7. [U.S. Attorney Chosen to Replace Trump Pick Is Quickly Fired by White House](https://www.nytimes.com/2026/02/11/nyregion/donald-kinsella-ndny-sarcone-trump.html)
+7. [Late Night Boos Pam Bondi’s ‘Bratty’ Behavior](https://www.nytimes.com/2026/02/12/arts/television/late-night-pam-bondi.html)
+
+“If downplaying international sex rings were an Olympic sport, Bondi would take home the gold,” Jordan Klepper said on “The Daily Show.”
+
+
+8. [Bondi Faces Anger From Lawmakers Over Handling of Epstein Files](https://www.nytimes.com/2026/02/11/us/politics/bondi-testimony-epstein-files.html)
+
+Her appearance came as the Justice Department was under scrutiny over the Epstein files, its approach toward the shootings in Minneapolis and its move to prosecute six lawmakers.
+
+
+9. [Pam Bondi’s Performance Before Congress](https://www.nytimes.com/2026/02/12/opinion/pam-bondi-congress.html)
+
+Readers react to the attorney general’s appearance before the House Judiciary Committee. Also: “Freedom from fear”; the Melania Trump movie; humor that’s not funny.
+
+
+10. [U.S. Attorney Chosen to Replace Trump Pick Is Quickly Fired by White House](https://www.nytimes.com/2026/02/11/nyregion/donald-kinsella-ndny-sarcone-trump.html)
 
 Federal judges had appointed Donald Kinsella, a veteran litigator, as top prosecutor in the Northern District of New York after the Trump administration’s nominee was found to be serving unlawfully.
-
-
-8. [Trump Administration Erases the Government’s Power to Fight Climate Change](https://www.nytimes.com/2026/02/12/climate/trump-epa-greenhouse-gases-climate-change.html)
-
-The Environmental Protection Agency rejected the bedrock scientific finding that greenhouse gases threaten human life and well being. It means the agency can no longer regulate them.
-
-
-9. [Intelligence Dispute Centers on Kushner Reference in Intercepted Communication](https://www.nytimes.com/2026/02/12/us/politics/kushner-gabbard-iran-intelligence.html)
-
-A whistle-blower has accused Tulsi Gabbard, the director of national intelligence, of blocking distribution of a report that Jared Kushner’s name came up in an intercepted communication about Iran.
-
-
-10. [House Votes to Cancel Trump’s Canada Tariffs](https://www.nytimes.com/2026/02/11/us/politics/trump-canada-tariffs.html)
-
-Six Republicans joined nearly all Democrats to end the national emergency President Donald Trump had declared to impose tariffs on imports from Canada.
 
 
