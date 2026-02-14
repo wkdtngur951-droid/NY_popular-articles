@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-13 23:37:39)
+## 📰 NYTimes Most Popular (Updated: 2026-02-14 02:39:52)
 
-1. [Agents Suspended After Their Story of Shooting an Immigrant Falls Apart](https://www.nytimes.com/2026/02/12/us/prosecutor-dismiss-charges-men-shot-by-ice.html)
+1. [Goldman’s Top Lawyer Departs Amid Revelations About Her Ties to Epstein](https://www.nytimes.com/2026/02/12/business/goldman-lawyer-kathryn-ruemmler-resigns.html)
 
-A judge dropped charges against the immigrant and another man after the top federal prosecutor in Minnesota said new evidence was not consistent with the agents’ testimony.
-
-
-2. [Judge Temporarily Blocks Hegseth from Punishing Kelly for Video](https://www.nytimes.com/2026/02/12/us/judge-blocks-kelly-punishment-hegseth.html)
-
-Judge Richard J. Leon found that attempts to discipline Mark Kelly for a video that warned against following illegal orders would violate the senator’s First Amendment rights.
+Kathryn Ruemmler, a former top Obama administration lawyer, is out at Goldman Sachs after emails showed a friendship with the sex offender Jeffrey Epstein spanning many years.
 
 
-3. [Columbia Protester Held by ICE Says She Was Chained to Bed After Seizure](https://www.nytimes.com/2026/02/12/nyregion/leqaa-kordia-columbia-ice.html)
+2. [Something Surprising Happens When Bus Rides Are Free](https://www.nytimes.com/2026/02/13/opinion/free-bus-rides-mamdani.html)
 
-Leqaa Kordia, 33, was hospitalized after hitting her head at an immigration detention center where she has been held for nearly a year. She was initially arrested during a 2024 protest.
-
-
-4. [Trump Administration Erases the Government’s Power to Fight Climate Change](https://www.nytimes.com/2026/02/12/climate/trump-epa-greenhouse-gases-climate-change.html)
-
-The Environmental Protection Agency rejected the bedrock scientific finding that greenhouse gases threaten human life and well being. It means the agency can no longer regulate them.
+It starts at the curb. It extends far beyond that.
 
 
-5. [Mamdani Reverses Campaign Promise to Expand Rental Assistance](https://www.nytimes.com/2026/02/12/nyregion/mamdani-rental-vouchers.html)
+3. [What Alcohol Does to the Body](https://www.nytimes.com/2026/02/12/well/alcohol-body-health-effects.html)
 
-A rental voucher program costs more than $1 billion. The mayor’s decision to curtail its expansion reflects the clash between his ideology and the realities of managing the city.
-
-
-6. [Pam Bondi’s Performance Before Congress](https://www.nytimes.com/2026/02/12/opinion/pam-bondi-congress.html)
-
-Readers react to the attorney general’s appearance before the House Judiciary Committee. Also: “Freedom from fear”; the Melania Trump movie; humor that’s not funny.
+From the moment you take a sip, drinking starts to influence your biology. Here’s an inside look.
 
 
-7. [Judge Ends Deportation Case for Mexican Father of 3 U.S. Marines](https://www.nytimes.com/2026/02/12/us/deportation-case-us-mexico-marines-barranco.html)
+4. [Trump Says He Wants to Cancel Elections, but Here Is the Real Threat](https://www.nytimes.com/2026/02/12/opinion/trump-cancel-elections-voting.html)
 
-The arrest of Narciso Barranco, who was detained by federal agents while landscaping outside an IHOP in Southern California last June, garnered national attention.
-
-
-8. [States Say No Thanks to Trump Tax Cuts, Drawing Republican Fire](https://www.nytimes.com/2026/02/12/business/states-taxes.html)
-
-State income taxes often reflect federal policies, but Washington, D.C. and some states have taken steps to keep the latest Republican changes out of their tax codes.
+Mr. Trump’s attempted election takeover is already underway.
 
 
-9. [Intelligence Dispute Centers on Kushner Reference in Intercepted Communication](https://www.nytimes.com/2026/02/12/us/politics/kushner-gabbard-iran-intelligence.html)
+5. [The Infrastructure of Jeffrey Epstein’s Power](https://www.nytimes.com/2026/02/13/opinion/ezra-klein-podcast-anand-giridharadas.html)
 
-A whistle-blower has accused Tulsi Gabbard, the director of national intelligence, of blocking distribution of a report that Jared Kushner’s name came up in an intercepted communication about Iran.
+The journalist Anand Giridharadas examines the power and influence that Jeffrey Epstein brokered and that the latest batch of Epstein files puts on display.
 
 
-10. [Why Pennsylvania’s Two Most Powerful Democrats Don’t Speak](https://www.nytimes.com/2026/02/12/us/politics/john-fetterman-josh-shapiro-pennsylvania.html)
+6. [Why Pennsylvania’s Two Most Powerful Democrats Don’t Speak](https://www.nytimes.com/2026/02/12/us/politics/john-fetterman-josh-shapiro-pennsylvania.html)
 
 Senator John Fetterman and Gov. Josh Shapiro do not get along. The bad blood goes back years.
+
+
+7. [Trump Wants Smithsonian to Create a Different Official Portrait](https://www.nytimes.com/2026/02/13/arts/design/trump-smithsonian-new-official-portrait.html)
+
+The painted portrait from President Trump’s first term was completed more than four years ago, but never unveiled. Now he wants the National Portrait Gallery to commission a new one.
+
+
+8. [Handsome at Any Cost](https://www.nytimes.com/2026/02/13/style/clavicular-looksmaxxing-braden-peters.html)
+
+Braden Peters, known as Clavicular, has emerged as a beacon for a group of narcissistic, status-obsessed young men. He wants to take his fixation with “looksmaxxing” mainstream.
+
+
+9. [The Epstein Files and the Hidden World of an Unaccountable Elite](https://www.nytimes.com/2026/02/12/us/politics/epstein-files.html)
+
+The search continues in the documents for ironclad criminal conduct, but the story of a sexual predator given a free ride by the ruling class has already emerged.
+
+
+10. [Agents Suspended After Their Story of Shooting an Immigrant Falls Apart](https://www.nytimes.com/2026/02/12/us/prosecutor-dismiss-charges-men-shot-by-ice.html)
+
+A judge dropped charges against the immigrant and another man after the top federal prosecutor in Minnesota said new evidence was not consistent with the agents’ testimony.
 
 
