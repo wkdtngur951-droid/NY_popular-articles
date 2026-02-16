@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-16 20:39:41)
+## 📰 NYTimes Most Popular (Updated: 2026-02-16 21:36:29)
 
-1. [Trump’s Stinging Attack on Israel’s President Touches a Nerve](https://www.nytimes.com/2026/02/15/world/middleeast/trump-israel-herzog-attacks.html)
+1. [Trump’s Relentless Self-Promotion Fosters an American Cult of Personality](https://www.nytimes.com/2026/02/15/us/politics/trumps-american-cult-of-personality.html)
 
-President Trump called President Isaac Herzog of Israel “disgraceful” because he has not yet pardoned Prime Minister Benjamin Netanyahu in his corruption trial.
+President Trump has engaged in a spree of self-aggrandizement unlike any of his predecessors, fostering a mythologized superhuman persona and making himself the inescapable force at home and around the world.
 
 
-2. [There’s a Reason American Kids Are Such Picky Eaters](https://www.nytimes.com/2026/02/15/opinion/junk-food-picky-eaters.html)
+2. [Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending](https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html)
 
-Blame junk food.
+Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers.
 
 
 3. [Whatever This Is, It Isn’t Anti-Zionism](https://www.nytimes.com/2026/02/15/opinion/christian-zionism-prejean-boller-candace-owens.html)
@@ -15,38 +15,38 @@ Blame junk food.
 Toward a sane Christian Zionism.
 
 
-4. [Confessions of a Former Body Positivity Influencer](https://www.nytimes.com/2026/02/16/opinion/body-positivity-social-media-weight-loss.html)
+4. [Despite Epstein’s Toxicity, Steve Bannon Stood by Him, Texts Indicate](https://www.nytimes.com/2026/02/16/us/politics/jeffrey-epstein-steve-bannon.html)
 
-Can you love your body and still want to lose weight?
-
-
-5. [Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)
-
-A 15-second clip created by an artificial intelligence tool owned by the Chinese technology company ByteDance appears more cinematic than anything so far.
+Mr. Bannon, a MAGA podcaster, developed a seemingly chummy relationship with Jeffrey Epstein, who was accused of sex trafficking. He said it was in the name of getting Mr. Epstein to open up.
 
 
-6. [Ring Ends Deal to Link Neighborhood Cameras After Super Bowl Ad Backlash](https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html)
+5. [I Trusted Jeff Bezos. The Joke’s on Me.](https://www.nytimes.com/2026/02/14/opinion/jeff-bezos-washington-post.html)
 
-A commercial about a lost dog being reunited with his family ignited concerns that a “Search Party” feature posed privacy risks. Ring parted ways with the tech company Flock Safety.
-
-
-7. [Students Across the U.S. Are Protesting ICE. Texas Wants to Punish Their Schools.](https://www.nytimes.com/2026/02/15/us/student-protests-walkouts-ice-texas.html)
-
-In dozens of states, students have staged walkouts over immigration enforcement. In Texas, they’re doing so despite threats from Gov. Greg Abbott.
+He told me what I wanted to hear.
 
 
-8. [Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending](https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html)
+6. [Robert Duvall, a Chameleon of an Actor Onscreen and Onstage, Dies at 95](https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html)
 
-Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers.
+An Oscar winner, he was known for disappearing into wide-ranging roles in movies like “Apocalypse Now” and “The Godfather” and in the television series “Lonesome Dove.”
 
 
-9. [Kamala Harris Sold Her Email List to D.N.C., Then Paid Off Old 2024 Debts](https://www.nytimes.com/2026/02/14/us/politics/dnc-kamala-harris-email-list-debt.html)
+7. [18 Days, 20 Lives: New Yorkers Who Didn’t Survive the Cold](https://www.nytimes.com/interactive/2026/02/13/nyregion/nyc-winter-snow-storm-cold-deaths.html)
+
+Freezing days and nights claimed the lives of a grandmother, a dancer, a dispatcher and a man who lived among a colony of feral cats.
+
+
+8. [Florida Couple Arrested After Pickleball Match Turns Into a Brawl](https://www.nytimes.com/2026/02/13/us/pickleball-brawl-florida-arrests.html)
+
+The couple, who were banned for life from a country club in Port Orange, Fla., face felony battery charges after the fight, which involved 20 people, the authorities said.
+
+
+9. [Ro Khanna Is Shaken by What He’s Learned From the Epstein Files](https://www.nytimes.com/2026/02/15/opinion/jeffrey-epstein-ro-khanna.html)
+
+Epstein’s network may not have known everything, but it is hard to deny that many of them knew enough to know better.
+
+
+10. [Kamala Harris Sold Her Email List to D.N.C., Then Paid Off Old 2024 Debts](https://www.nytimes.com/2026/02/14/us/politics/dnc-kamala-harris-email-list-debt.html)
 
 The national party, which is nearly $100 million behind its G.O.P. counterpart, bought the list for $6.5 million.
-
-
-10. [In First Public Comments Since Trump’s Racist Video, Obama Laments Lost Decorum](https://www.nytimes.com/2026/02/15/us/politics/obama-trump-video.html)
-
-In a podcast interview, former President Barack Obama did not directly address the video posted by Mr. Trump but denounced a “clown show” on social media.
 
 
