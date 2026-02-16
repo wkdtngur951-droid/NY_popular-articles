@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-16 18:55:22)
+## 📰 NYTimes Most Popular (Updated: 2026-02-16 19:37:14)
 
-1. [From One President to Another, a Love Letter With an Edge](https://www.nytimes.com/2026/02/16/arts/george-washington-bush-presidential-essays.html)
+1. [There’s a Reason American Kids Are Such Picky Eaters](https://www.nytimes.com/2026/02/15/opinion/junk-food-picky-eaters.html)
+
+Blame junk food.
+
+
+2. [In First Public Comments Since Trump’s Racist Video, Obama Laments Lost Decorum](https://www.nytimes.com/2026/02/15/us/politics/obama-trump-video.html)
+
+In a podcast interview, former President Barack Obama did not directly address the video posted by Mr. Trump but denounced a “clown show” on social media.
+
+
+3. [More Than Ever, Videos Expose the Truth. And Cloud It, Too.](https://www.nytimes.com/2026/02/15/us/politics/minneapolis-videos-killings-artificial-intelligence.html)
+
+In Minneapolis, videos of the Alex Pretti killing undermined the federal government’s account. But an A.I. video of Brad Pitt shows the dangers ahead.
+
+
+4. [From One President to Another, a Love Letter With an Edge](https://www.nytimes.com/2026/02/16/arts/george-washington-bush-presidential-essays.html)
 
 To open a series of essays about U.S. presidents, George W. Bush pays tribute to George Washington, who “ensured America wouldn’t become a monarchy, or worse.”
 
 
-2. [Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)
+5. [Students Across the U.S. Are Protesting ICE. Texas Wants to Punish Their Schools.](https://www.nytimes.com/2026/02/15/us/student-protests-walkouts-ice-texas.html)
 
-A 15-second clip created by an artificial intelligence tool owned by the Chinese technology company ByteDance appears more cinematic than anything so far.
-
-
-3. [Confessions of a Former Body Positivity Influencer](https://www.nytimes.com/2026/02/16/opinion/body-positivity-social-media-weight-loss.html)
-
-Can you love your body and still want to lose weight?
+In dozens of states, students have staged walkouts over immigration enforcement. In Texas, they’re doing so despite threats from Gov. Greg Abbott.
 
 
-4. [Trump Administration Ends Credit for Start-Stop Feature in Vehicles](https://www.nytimes.com/2026/02/15/business/energy-environment/epa-tax-credits-stop-start-ignition-cars.html)
+6. [Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending](https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html)
+
+Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers.
+
+
+7. [Kamala Harris Sold Her Email List to D.N.C., Then Paid Off Old 2024 Debts](https://www.nytimes.com/2026/02/14/us/politics/dnc-kamala-harris-email-list-debt.html)
+
+The national party, which is nearly $100 million behind its G.O.P. counterpart, bought the list for $6.5 million.
+
+
+8. [18 Days, 20 Lives: New Yorkers Who Didn’t Survive the Cold](https://www.nytimes.com/interactive/2026/02/13/nyregion/nyc-winter-snow-storm-cold-deaths.html)
+
+Freezing days and nights claimed the lives of a grandmother, a dancer, a dispatcher and a man who lived among a colony of feral cats.
+
+
+9. [Trump Administration Ends Credit for Start-Stop Feature in Vehicles](https://www.nytimes.com/2026/02/15/business/energy-environment/epa-tax-credits-stop-start-ignition-cars.html)
 
 Manufacturers will no longer get a credit toward vehicle emissions standards by installing engines that automatically stop at red lights.
 
 
-5. [Ring Ends Deal to Link Neighborhood Cameras After Super Bowl Ad Backlash](https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html)
+10. [Ring Ends Deal to Link Neighborhood Cameras After Super Bowl Ad Backlash](https://www.nytimes.com/2026/02/14/business/amazon-ring-flock-partnership-super-bowl.html)
 
 A commercial about a lost dog being reunited with his family ignited concerns that a “Search Party” feature posed privacy risks. Ring parted ways with the tech company Flock Safety.
-
-
-6. [Trump’s Relentless Self-Promotion Fosters an American Cult of Personality](https://www.nytimes.com/2026/02/15/us/politics/trumps-american-cult-of-personality.html)
-
-President Trump has engaged in a spree of self-aggrandizement unlike any of his predecessors, fostering a mythologized superhuman persona and making himself the inescapable force at home and around the world.
-
-
-7. [Three Olympic Athletes Were Just Disqualified for a Novel Reason: PFAS](https://www.nytimes.com/2026/02/15/climate/olympics-ski-snowboard-wax-pfas-forever-chemicals.html)
-
-Their skis and snowboards tested positive for “forever chemicals,” slippery-but-dangerous chemicals now banned in the Games.
-
-
-8. [Whatever This Is, It Isn’t Anti-Zionism](https://www.nytimes.com/2026/02/15/opinion/christian-zionism-prejean-boller-candace-owens.html)
-
-Toward a sane Christian Zionism.
-
-
-9. [Florida Couple Arrested After Pickleball Match Turns Into a Brawl](https://www.nytimes.com/2026/02/13/us/pickleball-brawl-florida-arrests.html)
-
-The couple, who were banned for life from a country club in Port Orange, Fla., face felony battery charges after the fight, which involved 20 people, the authorities said.
-
-
-10. [I Trusted Jeff Bezos. The Joke’s on Me.](https://www.nytimes.com/2026/02/14/opinion/jeff-bezos-washington-post.html)
-
-He told me what I wanted to hear.
 
 
