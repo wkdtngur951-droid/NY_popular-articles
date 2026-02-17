@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-17 22:40:00)
+## 📰 NYTimes Most Popular (Updated: 2026-02-17 23:36:44)
 
-1. [Tom Pritzker, Citing Epstein Connection, Steps Down as Hyatt’s Executive Chairman](https://www.nytimes.com/2026/02/16/us/politics/tom-pritzker-hyatt-epstein.html)
+1. [Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)
 
-The member of a prominent and wealthy family, Mr. Pritzker was in regular contact with the financier and sex offender Jeffrey Epstein.
-
-
-2. [I Hold Pam Bondi in Contempt](https://www.nytimes.com/2026/02/16/opinion/pam-bondi-trump.html)
-
-Insult everyone. Answer for nothing.
+A 15-second clip created by an artificial intelligence tool owned by the Chinese technology company ByteDance appears more cinematic than anything so far.
 
 
-3. [Robert Duvall, a Chameleon of an Actor Onscreen and Onstage, Dies at 95](https://www.nytimes.com/2026/02/16/movies/robert-duvall-dead.html)
-
-An Oscar winner, he was known for disappearing into wide-ranging roles in movies like “Apocalypse Now” and “The Godfather” and in the television series “Lonesome Dove.”
-
-
-4. [Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending](https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html)
-
-Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers.
-
-
-5. [Columbia Punishes 2 Who Helped Epstein’s Girlfriend Enter Dental College](https://www.nytimes.com/2026/02/16/nyregion/columbia-epstein-dental-shuliak.html)
+2. [Columbia Punishes 2 Who Helped Epstein’s Girlfriend Enter Dental College](https://www.nytimes.com/2026/02/16/nyregion/columbia-epstein-dental-shuliak.html)
 
 The release of documents tied to Jeffrey Epstein has sent ripples through the worlds of business, politics and academia, including at Columbia, where he helped his girlfriend gain entry.
 
 
-6. [2 Killed in Shooting at High School Hockey Game in Rhode Island](https://www.nytimes.com/2026/02/16/us/hockey-game-shooting-pawtucket-rhode-island.html)
+3. [Three Olympic Athletes Were Just Disqualified for a Novel Reason: PFAS](https://www.nytimes.com/2026/02/15/climate/olympics-ski-snowboard-wax-pfas-forever-chemicals.html)
 
-The shooter was also dead, apparently by a self-inflicted gunshot wound, the authorities said. The shooting, which the police described as a “targeted event,” happened at the Dennis M. Lynch Arena in Pawtucket.
-
-
-7. [Confessions of a Former Body Positivity Influencer](https://www.nytimes.com/2026/02/16/opinion/body-positivity-social-media-weight-loss.html)
-
-Can you love your body and still want to lose weight?
+Their skis and snowboards tested positive for “forever chemicals,” slippery-but-dangerous chemicals now banned in the Games.
 
 
-8. [Colbert Doesn’t Give an F.C.C. About Calling Out CBS](https://www.nytimes.com/2026/02/17/arts/television/colbert-fcc-trump-talarico-cbs.html)
+4. [From One President to Another, a Love Letter With an Edge](https://www.nytimes.com/2026/02/16/arts/george-washington-bush-presidential-essays.html)
 
-“And because my network clearly doesn’t want us to talk about this, let’s talk about this,” Stephen Colbert said after CBS canceled a Texas state representative’s appearance on Monday’s “Late Show.”
+To open a series of essays about U.S. presidents, George W. Bush pays tribute to George Washington, who “ensured America wouldn’t become a monarchy, or worse.”
 
 
-9. [Epstein Files Hint at His Ties to the Supermodel Naomi Campbell](https://www.nytimes.com/2026/02/15/style/epstein-files-naomi-campbell.html)
+5. [I Hold Pam Bondi in Contempt](https://www.nytimes.com/2026/02/16/opinion/pam-bondi-trump.html)
+
+Insult everyone. Answer for nothing.
+
+
+6. [After First Big Overseas Trip, Ocasio-Cortez Expresses Frustrations](https://www.nytimes.com/2026/02/16/us/politics/aoc-germany-munich-security-conference.html)
+
+The congresswoman argued in an interview that presidential speculation, which included scrutiny of her slip-ups, had overshadowed her anti-authoritarian message at the Munich Security Conference.
+
+
+7. [Epstein Files Hint at His Ties to the Supermodel Naomi Campbell](https://www.nytimes.com/2026/02/15/style/epstein-files-naomi-campbell.html)
 
 Ms. Campbell previously claimed she was an acquaintance of the convicted sex offender. Emails shed new light on the extent of their interactions.
 
 
-10. [Dinner Is Being Recorded, Whether You Know It or Not](https://www.nytimes.com/2026/02/16/dining/meta-ray-ban-glasses-restaurants.html)
+8. [Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending](https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html)
 
-As Meta smart glasses capture scenes in restaurants for social media, service workers and customers are becoming captive participants.
+Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers.
+
+
+9. [Colbert Says CBS Pulled Senate Candidate Interview](https://www.nytimes.com/2026/02/17/business/media/colbert-cbs-fcc-talarico-carr.html)
+
+Stephen Colbert said he had to drop an interview with James Talarico from his Monday broadcast because of new F.C.C. guidance that targeted political interviews on late-night shows.
+
+
+10. [Dana Eden, Co-Creator of ‘Tehran,’ Dies During Filming of Fourth Season](https://www.nytimes.com/2026/02/16/world/europe/dana-eden-tehran-dead.html)
+
+Ms. Eden, 52, who was also an executive producer of the Emmy-winning show, was found in a hotel room in Athens. Greek police said they did not suspect foul play.
 
 
