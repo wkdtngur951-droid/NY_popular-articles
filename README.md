@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-17 23:36:44)
+## 📰 NYTimes Most Popular (Updated: 2026-02-18 02:48:13)
 
-1. [Why an A.I. Video of Tom Cruise Battling Brad Pitt Spooked Hollywood](https://www.nytimes.com/2026/02/16/movies/tom-cruise-brad-pitt-artificial-intelligence-seedance.html)
+1. [Jesse Jackson, Charismatic Champion of Civil Rights, Dies at 84](https://www.nytimes.com/2026/02/17/us/jesse-jackson-dead.html)
 
-A 15-second clip created by an artificial intelligence tool owned by the Chinese technology company ByteDance appears more cinematic than anything so far.
-
-
-2. [Columbia Punishes 2 Who Helped Epstein’s Girlfriend Enter Dental College](https://www.nytimes.com/2026/02/16/nyregion/columbia-epstein-dental-shuliak.html)
-
-The release of documents tied to Jeffrey Epstein has sent ripples through the worlds of business, politics and academia, including at Columbia, where he helped his girlfriend gain entry.
+An impassioned orator, he was a moral and political force, forming a “rainbow coalition” of poor and working-class people and seeking the presidency. His mission, he said, was “to transform the mind of America.”
 
 
-3. [Three Olympic Athletes Were Just Disqualified for a Novel Reason: PFAS](https://www.nytimes.com/2026/02/15/climate/olympics-ski-snowboard-wax-pfas-forever-chemicals.html)
+2. [Hegseth Is Said to Have Ordered Pentagon Spokesman’s Firing](https://www.nytimes.com/2026/02/17/us/politics/hegseth-pentagon-spokesman-fired.html)
 
-Their skis and snowboards tested positive for “forever chemicals,” slippery-but-dangerous chemicals now banned in the Games.
-
-
-4. [From One President to Another, a Love Letter With an Edge](https://www.nytimes.com/2026/02/16/arts/george-washington-bush-presidential-essays.html)
-
-To open a series of essays about U.S. presidents, George W. Bush pays tribute to George Washington, who “ensured America wouldn’t become a monarchy, or worse.”
+The spokesman, Col. Dave Butler, worked for the Army chief of staff.
 
 
-5. [I Hold Pam Bondi in Contempt](https://www.nytimes.com/2026/02/16/opinion/pam-bondi-trump.html)
+3. [Questions Swirl Around Russian Figure Skater in Her Olympic Debut](https://www.nytimes.com/2026/02/17/world/europe/russian-figure-skater-milan-olympics.html)
 
-Insult everyone. Answer for nothing.
-
-
-6. [After First Big Overseas Trip, Ocasio-Cortez Expresses Frustrations](https://www.nytimes.com/2026/02/16/us/politics/aoc-germany-munich-security-conference.html)
-
-The congresswoman argued in an interview that presidential speculation, which included scrutiny of her slip-ups, had overshadowed her anti-authoritarian message at the Munich Security Conference.
+Adeliia Petrosian, 18, has the résumé of a medal contender — and ties to coaches and a skater who were at the center of a doping scandal at the last Winter Games.
 
 
-7. [Epstein Files Hint at His Ties to the Supermodel Naomi Campbell](https://www.nytimes.com/2026/02/15/style/epstein-files-naomi-campbell.html)
+4. [The Price of Admission to Epstein’s World: Silence](https://www.nytimes.com/2026/02/17/well/epstein-files-associates.html)
 
-Ms. Campbell previously claimed she was an acquaintance of the convicted sex offender. Emails shed new light on the extent of their interactions.
-
-
-8. [Canada Gives U.S. Arms Makers the Cold Shoulder on Military Spending](https://www.nytimes.com/2026/02/15/world/canada/canada-military-spending.html)
-
-Canada plans to unveil a new strategy that will shift its current reliance on American companies to Canadian military suppliers.
+There were plenty of signs that something wasn’t right with Jeffrey Epstein. Why didn’t anyone say something?
 
 
-9. [Colbert Says CBS Pulled Senate Candidate Interview](https://www.nytimes.com/2026/02/17/business/media/colbert-cbs-fcc-talarico-carr.html)
+5. [Anderson Cooper to Leave ‘60 Minutes’ on CBS](https://www.nytimes.com/2026/02/16/business/media/anderson-cooper-60-minutes.html)
 
-Stephen Colbert said he had to drop an interview with James Talarico from his Monday broadcast because of new F.C.C. guidance that targeted political interviews on late-night shows.
+Mr. Cooper said in a statement that he was leaving as a correspondent for the show to focus on his CNN program and spend more time with his children.
 
 
-10. [Dana Eden, Co-Creator of ‘Tehran,’ Dies During Filming of Fourth Season](https://www.nytimes.com/2026/02/16/world/europe/dana-eden-tehran-dead.html)
+6. [Trump Sought Vast Budget Cuts. Congress Granted Few.](https://www.nytimes.com/2026/02/17/us/politics/trump-congress-budget-cuts.html)
+
+In a series of deals over the past three months, lawmakers rejected some of the president’s most aggressive attempts to whittle down the government.
+
+
+7. [Trump’s Ambassador to Belgium Is Summoned After Accusing Officials of Antisemitism](https://www.nytimes.com/2026/02/17/world/europe/belgium-trump-ambassador-anti-semitism.html)
+
+The diplomat, Bill White, met with a foreign ministry official at a time of rising tensions between the U.S. and countries in Europe.
+
+
+8. [‘I’d Like to Be Normal’: Can Height Surgery Make Them Happy?](https://www.nytimes.com/2026/02/17/us/height-surgery-limb-lengthening-men-health.html)
+
+Limb-lengthening can add inches to a person’s stature. But its risks have made it controversial.
+
+
+9. [Dana Eden, Co-Creator of ‘Tehran,’ Dies During Filming of Fourth Season](https://www.nytimes.com/2026/02/16/world/europe/dana-eden-tehran-dead.html)
 
 Ms. Eden, 52, who was also an executive producer of the Emmy-winning show, was found in a hotel room in Athens. Greek police said they did not suspect foul play.
+
+
+10. [Colbert Doesn’t Give an F.C.C. About Calling Out CBS](https://www.nytimes.com/2026/02/17/arts/television/colbert-fcc-trump-talarico-cbs.html)
+
+“And because my network clearly doesn’t want us to talk about this, let’s talk about this,” Stephen Colbert said after CBS canceled a Texas state representative’s appearance on Monday’s “Late Show.”
 
 
