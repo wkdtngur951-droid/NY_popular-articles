@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-19 22:39:24)
+## 📰 NYTimes Most Popular (Updated: 2026-02-19 23:37:07)
 
-1. [Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself](https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html)
+1. [Billy Preston’s Music Was ‘Pure Joy.’ But His Life Ended in Tragedy.](https://www.nytimes.com/2026/02/18/arts/music/billy-preston-documentary-thats-the-way-god-planned-it.html)
+
+The Beatles’ beloved collaborator died at 59 in 2006. A new documentary, “That’s the Way God Planned It,” explores what he long kept hidden.
+
+
+2. [Melania Knows Best](https://www.nytimes.com/2026/02/19/opinion/newsom-mamdani-democrats-taxes.html)
+
+There are a lot of potential contestants.
+
+
+3. [Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself](https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html)
 
 The co-worker, who no longer works for Representative Tony Gonzales, shared screenshots of the text exchange with The New York Times. Mr. Gonzales accused his Republican primary challenger of being behind the revelation.
 
 
-2. [In 2025, Trade Deficit in Goods Reached Record High](https://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html)
-
-Data released Thursday by the Census Bureau showed the overall trade deficit with the world narrowed, the result of an expanding trade surplus in services. The trade deficit in goods was the highest on record.
-
-
-3. [Trump Mulls a North American Trade Pact Without Canada](https://www.nytimes.com/2026/02/19/business/economy/trump-canada-mexico-usmca-trade.html)
+4. [Trump Mulls a North American Trade Pact Without Canada](https://www.nytimes.com/2026/02/19/business/economy/trump-canada-mexico-usmca-trade.html)
 
 U.S. officials are threatening major changes to a trade agreement with Mexico and Canada that could upend the way business is done and leave Canada on the outs.
-
-
-4. [The Democrats’ Texas Fever Dream Might Actually Come True This Time](https://www.nytimes.com/2026/02/18/opinion/texas-election-rehmet-politics.html)
-
-A shock Democratic victory in a Texas special election shows what the party needs to do to win more there — and many other places, too.
 
 
 5. [U.S. Military Moves Into Place for Possible Strikes in Iran](https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html)
@@ -25,14 +25,14 @@ A shock Democratic victory in a Texas special election shows what the party need
 President Trump has given no indication that he has made a decision about how to proceed, as diplomatic talks continue.
 
 
-6. [A Case Against 6 Democrats Lacked Urgency. Then Came a Swift Bid for an Indictment.](https://www.nytimes.com/2026/02/18/us/politics/pirro-inquiry-video-democratic-lawmakers.html)
+6. ["I Had No Idea How to Handle That”: The Drama Behind a Tense Ice Skating Moment](https://www.nytimes.com/interactive/2026/02/18/magazine/olympics-historic-photo-baiul-kerrigan-chen.html)
 
-Prosecutors have been repeatedly caught between the president’s insistence that they undertake weak or baseless cases and the necessity of having to go to court.
+In 1994, the Olympics were rocked by a giant skating scandal. When it was all over, three athletes waited for their medals.
 
 
-7. [See Who Has Faced Fallout From the Epstein Files](https://www.nytimes.com/interactive/2026/us/epstein-files-names-fired-resigned-fallout.html)
+7. [Netanyahu Plays Trump and American Jews for Fools — Again](https://www.nytimes.com/2026/02/17/opinion/israel-iran-netanyahu.html)
 
-This list will be updated and includes people who have faced concrete consequences, such as the loss of their position, as a result of their connection to Jeffrey Epstein.
+Netanyahu has gotten Trump to focus on Iran and ignore the destructive things Bibi is doing in Gaza, in the West Bank and inside Israel.
 
 
 8. [Democrats Plan to Counter Trump’s Speech to Congress With Rally](https://www.nytimes.com/2026/02/18/us/politics/democrats-trump-congress.html)
@@ -40,13 +40,13 @@ This list will be updated and includes people who have faced concrete consequenc
 The House Democratic leader has asked rank-and-file members to sit quietly at the speech or skip it altogether, wary of creating a distraction.
 
 
-9. [Melania Knows Best](https://www.nytimes.com/2026/02/19/opinion/newsom-mamdani-democrats-taxes.html)
+9. [Here’s the latest.](https://www.nytimes.com/live/2026/02/18/us/lake-tahoe-avalanche-missing-skiers/lake-tahoe-avalanche-missing-skiers)
 
-There are a lot of potential contestants.
+The avalanche struck a guided backcountry skiing group near Truckee, Calif., near the end of a multiday trip, officials said. Six skiers have been rescued.
 
 
-10. [Stephen Colbert Finds a Place to File CBS’s Surprise Statement](https://www.nytimes.com/2026/02/18/arts/television/stephen-colbert-cbs-statement.html)
+10. [In 2025, Trade Deficit in Goods Reached Record High](https://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html)
 
-“I don’t even know what to do with this,” Colbert said about the network’s news release on a scrapped interview with a Democratic politician, before putting the paper in a dog waste bag.
+Data released Thursday by the Census Bureau showed the overall trade deficit with the world narrowed, the result of an expanding trade surplus in services. The trade deficit in goods was the highest on record.
 
 
