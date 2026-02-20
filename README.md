@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-20 02:41:56)
+## 📰 NYTimes Most Popular (Updated: 2026-02-20 04:52:36)
 
-1. [‘Our Patients Are More Frightened and Sicker Than Ever’](https://www.nytimes.com/2026/02/19/opinion/ice-deportation-patients-doctors.html)
+1. [Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself](https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html)
 
-Our patients face a cruel calculus: seek essential medical care and risk detention, or stay home and risk their lives.
-
-
-2. [See Who Has Faced Fallout From the Epstein Files](https://www.nytimes.com/interactive/2026/us/epstein-files-names-fired-resigned-fallout.html)
-
-This list will be updated and includes people who have faced concrete consequences, such as the loss of their position, as a result of their connection to Jeffrey Epstein.
+The co-worker, who no longer works for Representative Tony Gonzales, shared screenshots of the text exchange with The New York Times. Mr. Gonzales accused his Republican primary challenger of being behind the revelation.
 
 
-3. [Labor Secretary’s Husband Barred From the Department After Sexual Assault Reports](https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html)
+2. [Arts Panel Packed With Trump Allies Approves White House Ballroom Project](https://www.nytimes.com/2026/02/19/us/politics/trump-ballroom-fine-arts-commission.html)
 
-At least two female staff members said Dr. Shawn DeRemer had touched them inappropriately at the agency in Washington.
-
-
-4. [Stephen Colbert Sizes Up R.F.K. Jr.’s Workout With Kid Rock](https://www.nytimes.com/2026/02/19/arts/television/stephen-colbert-rfk-kid-rock-workout.html)
-
-“The Late Show” host called the 90-second video of the two working up a sweat together “pure cinema.”
+President Trump has eliminated any pocket of resistance from within his administration to his plans for a 90,000-square-foot ballroom.
 
 
-5. [What We Know About the Victims of the Sierra Nevada Avalanche](https://www.nytimes.com/2026/02/18/us/tahoe-avalanche-skiers-sugar-bowl-school.html)
+3. [She Wanted a Quiet House in the Berkshires for About $800,000](https://www.nytimes.com/interactive/2026/02/19/realestate/berkshire-mountains-massachusetts-homes.html)
 
-Many of the people on the fatal trek were women — mothers, sisters and wives — with ties to Marin County, Calif.
-
-
-6. ["I Had No Idea How to Handle That”: The Drama Behind a Tense Ice Skating Moment](https://www.nytimes.com/interactive/2026/02/18/magazine/olympics-historic-photo-baiul-kerrigan-chen.html)
-
-In 1994, the Olympics were rocked by a giant skating scandal. When it was all over, three athletes waited for their medals.
+Seeking a home with lower carrying costs and situated closer to family, a photographer looked in three Western Massachusetts towns.
 
 
-7. [Melania Knows Best](https://www.nytimes.com/2026/02/19/opinion/newsom-mamdani-democrats-taxes.html)
+4. [Melania Knows Best](https://www.nytimes.com/2026/02/19/opinion/newsom-mamdani-democrats-taxes.html)
 
 There are a lot of potential contestants.
 
 
-8. [Justice Dept. Lawyer Is Found in Contempt by Federal Judge](https://www.nytimes.com/2026/02/18/us/politics/justice-department-minnesota-contempt.html)
+5. [Stephen Colbert Sizes Up R.F.K. Jr.’s Workout With Kid Rock](https://www.nytimes.com/2026/02/19/arts/television/stephen-colbert-rfk-kid-rock-workout.html)
 
-The ruling out of Minnesota marks a new level of judicial concern about the Trump administration’s lack of compliance with judges’ orders in immigration cases.
+“The Late Show” host called the 90-second video of the two working up a sweat together “pure cinema.”
 
 
-9. [The Epstein Files and the Hidden World of an Unaccountable Elite](https://www.nytimes.com/2026/02/12/us/politics/epstein-files.html)
+6. [Sierra Nevada Avalanche Killed a Group of 6 Moms Who Bonded Over the Outdoors](https://www.nytimes.com/2026/02/19/us/tahoe-avalanche-victims-sisters.html)
+
+Families and friends of the women, many from the Bay Area, confirmed their identities. The women went on regular trips to the Tahoe region and were experienced skiers, the families said.
+
+
+7. [What We Know About the Victims of the Sierra Nevada Avalanche](https://www.nytimes.com/2026/02/18/us/tahoe-avalanche-skiers-sugar-bowl-school.html)
+
+Many of the people on the fatal trek were women — mothers, sisters and wives — with ties to Marin County, Calif.
+
+
+8. [The Epstein Files and the Hidden World of an Unaccountable Elite](https://www.nytimes.com/2026/02/12/us/politics/epstein-files.html)
 
 The search continues in the documents for ironclad criminal conduct, but the story of a sexual predator given a free ride by the ruling class has already emerged.
 
 
-10. [After Avalanche Warnings, a Sierra Nevada Tragedy](https://www.nytimes.com/2026/02/19/us/avalanche-lake-tahoe-deaths.html)
+9. [Epstein Built Ties to U.S. Customs Officers, Prompting Criminal Investigation](https://www.nytimes.com/2026/02/19/us/epstein-customs-officers-usvi.html)
 
-Eight skiers were killed and one other was presumed dead in the deadliest snow disaster in modern California history. Six were found alive.
+Jeffrey Epstein cultivated friendly relationships with several customs officers in the U.S. Virgin Islands, offering food, advice and even musical gigs.
+
+
+10. [See Who Has Faced Fallout From the Epstein Files](https://www.nytimes.com/interactive/2026/us/epstein-files-names-fired-resigned-fallout.html)
+
+This list will be updated and includes people who have faced concrete consequences, such as the loss of their position, as a result of their connection to Jeffrey Epstein.
 
 
