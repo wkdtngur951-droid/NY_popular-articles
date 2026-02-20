@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-20 07:10:18)
+## 📰 NYTimes Most Popular (Updated: 2026-02-20 08:51:40)
 
-1. [A Case Against 6 Democrats Lacked Urgency. Then Came a Swift Bid for an Indictment.](https://www.nytimes.com/2026/02/18/us/politics/pirro-inquiry-video-democratic-lawmakers.html)
+1. [U.S. Military Moves Into Place for Possible Strikes in Iran](https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html)
 
-Prosecutors have been repeatedly caught between the president’s insistence that they undertake weak or baseless cases and the necessity of having to go to court.
-
-
-2. [In 2025, Trade Deficit in Goods Reached Record High](https://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html)
-
-Data released Thursday by the Census Bureau showed the overall trade deficit with the world narrowed, the result of an expanding trade surplus in services. The trade deficit in goods was the highest on record.
+President Trump has given no indication that he has made a decision about how to proceed, as diplomatic talks continue.
 
 
-3. [Epstein Built Ties to U.S. Customs Officers, Prompting Criminal Investigation](https://www.nytimes.com/2026/02/19/us/epstein-customs-officers-usvi.html)
+2. [Justice Dept. Lawyer Is Found in Contempt by Federal Judge](https://www.nytimes.com/2026/02/18/us/politics/justice-department-minnesota-contempt.html)
 
-Jeffrey Epstein cultivated friendly relationships with several customs officers in the U.S. Virgin Islands, offering food, advice and even musical gigs.
+The ruling out of Minnesota marks a new level of judicial concern about the Trump administration’s lack of compliance with judges’ orders in immigration cases.
+
+
+3. [After Avalanche Warnings, a Sierra Nevada Tragedy](https://www.nytimes.com/2026/02/19/us/avalanche-lake-tahoe-deaths.html)
+
+Eight skiers were killed and one other was presumed dead in the deadliest snow disaster in modern California history. Six were found alive.
 
 
 4. [What We Know About the Victims of the Sierra Nevada Avalanche](https://www.nytimes.com/2026/02/18/us/tahoe-avalanche-skiers-sugar-bowl-school.html)
@@ -20,9 +20,9 @@ Jeffrey Epstein cultivated friendly relationships with several customs officers 
 Many of the people on the fatal trek were women — mothers, sisters and wives — with ties to Marin County, Calif.
 
 
-5. [Here’s What I Just Figured Out About the Way Trump Talks](https://www.nytimes.com/2026/02/19/opinion/trump-speech-conversations.html)
+5. [She Wanted a Quiet House in the Berkshires for About $800,000](https://www.nytimes.com/interactive/2026/02/19/realestate/berkshire-mountains-massachusetts-homes.html)
 
-Why just tell a story when you can put on a skit?
+Seeking a home with lower carrying costs and situated closer to family, a photographer looked in three Western Massachusetts towns.
 
 
 6. ["I Had No Idea How to Handle That”: The Drama Behind a Tense Ice Skating Moment](https://www.nytimes.com/interactive/2026/02/18/magazine/olympics-historic-photo-baiul-kerrigan-chen.html)
@@ -30,23 +30,23 @@ Why just tell a story when you can put on a skit?
 In 1994, the Olympics were rocked by a giant skating scandal. When it was all over, three athletes waited for their medals.
 
 
-7. [See Who Has Faced Fallout From the Epstein Files](https://www.nytimes.com/interactive/2026/us/epstein-files-names-fired-resigned-fallout.html)
+7. [Trump Mulls a North American Trade Pact Without Canada](https://www.nytimes.com/2026/02/19/business/economy/trump-canada-mexico-usmca-trade.html)
 
-This list will be updated and includes people who have faced concrete consequences, such as the loss of their position, as a result of their connection to Jeffrey Epstein.
+U.S. officials are threatening major changes to a trade agreement with Mexico and Canada that could upend the way business is done and leave Canada on the outs.
 
 
-8. [Sierra Nevada Avalanche Killed a Group of 6 Moms Who Bonded Over the Outdoors](https://www.nytimes.com/2026/02/19/us/tahoe-avalanche-victims-sisters.html)
+8. [Texas Congressman’s Aide Told Co-Worker of Affair Before Killing Herself](https://www.nytimes.com/2026/02/18/us/politics/texas-gonzales-suicide-affair.html)
+
+The co-worker, who no longer works for Representative Tony Gonzales, shared screenshots of the text exchange with The New York Times. Mr. Gonzales accused his Republican primary challenger of being behind the revelation.
+
+
+9. [MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’](https://www.nytimes.com/2026/02/19/us/politics/maha-moms-glyphosate-roundup-robert-kennedy.html)
+
+President Trump’s executive order aimed at spurring production of a pesticide has infuriated leaders of Health Secretary Robert F. Kennedy Jr.’s MAHA movement.
+
+
+10. [Sierra Nevada Avalanche Killed a Group of 6 Moms Who Bonded Over the Outdoors](https://www.nytimes.com/2026/02/19/us/tahoe-avalanche-victims-sisters.html)
 
 Families and friends of the women, many from the Bay Area, confirmed their identities. The women went on regular trips to the Tahoe region and were experienced skiers, the families said.
-
-
-9. [Labor Secretary’s Husband Barred From the Department After Sexual Assault Reports](https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html)
-
-At least two female staff members said Dr. Shawn DeRemer had touched them inappropriately at the agency in Washington.
-
-
-10. [Eric Dane, McSteamy on ‘Grey’s Anatomy,’ Dies at 53](https://www.nytimes.com/2026/02/19/arts/eric-dane-mcsteamy-dead.html)
-
-His breakout role came in 2006 as the handsome Dr. Mark Sloan, nicknamed McSteamy, the head of plastic surgery at a Seattle hospital. He died 10 months after announcing his A.L.S. diagnosis.
 
 
