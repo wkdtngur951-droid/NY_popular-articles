@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-20 23:35:42)
+## 📰 NYTimes Most Popular (Updated: 2026-02-21 02:35:32)
 
-1. [MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’](https://www.nytimes.com/2026/02/19/us/politics/maha-moms-glyphosate-roundup-robert-kennedy.html)
-
-President Trump’s executive order aimed at spurring production of a pesticide has infuriated leaders of Health Secretary Robert F. Kennedy Jr.’s MAHA movement.
-
-
-2. [Epstein Built Ties to U.S. Customs Officers, Prompting Criminal Investigation](https://www.nytimes.com/2026/02/19/us/epstein-customs-officers-usvi.html)
-
-Jeffrey Epstein cultivated friendly relationships with several customs officers in the U.S. Virgin Islands, offering food, advice and even musical gigs.
-
-
-3. [A New U.S. Blockade Is Strangling Cuba](https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html)
-
-An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments.
-
-
-4. [Why Is Trump Dumping East Wing Rubble in a Public Park?](https://www.nytimes.com/2026/02/19/us/politics/trump-east-wing-rubble-in-a-public-park.html)
-
-The East Potomac Golf Links is a municipal course that has been a fixture in Washington for decades. President Trump is turning it into something else.
-
-
-5. [U.S. Military Moves Into Place for Possible Strikes in Iran](https://www.nytimes.com/2026/02/18/us/politics/us-military-iran.html)
-
-President Trump has given no indication that he has made a decision about how to proceed, as diplomatic talks continue.
-
-
-6. [With ‘Tremendous’ Deals at Stake, Trump Is Bringing Russia in From the Cold](https://www.nytimes.com/2026/02/19/us/politics/trump-russia-deals-novatek.html)
-
-Since President Trump took office more than a year ago, the Kremlin has dangled possible investments in front of the famously transactional leader. The message is starting to resonate with investors.
-
-
-7. [Former Prince Andrew’s Arrest Upends Royal Effort to Move Past His Scandal](https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html)
-
-King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation.
-
-
-8. [Labor Secretary’s Husband Barred From the Department After Sexual Assault Reports](https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html)
+1. [Labor Secretary’s Husband Barred From the Department After Sexual Assault Reports](https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html)
 
 At least two female staff members said Dr. Shawn DeRemer had touched them inappropriately at the agency in Washington.
 
 
-9. ["I Had No Idea How to Handle That”: The Drama Behind a Tense Ice Skating Moment](https://www.nytimes.com/interactive/2026/02/18/magazine/olympics-historic-photo-baiul-kerrigan-chen.html)
+2. [U.S. Economy Grew More Slowly at End of 2025](https://www.nytimes.com/2026/02/20/business/economy/us-economy-gdp.html)
 
-In 1994, the Olympics were rocked by a giant skating scandal. When it was all over, three athletes waited for their medals.
+Gross domestic product expanded at a 1.4 percent annual rate in the last quarter of the year, hit by the effects of the government shutdown.
 
 
-10. [Here’s What I Just Figured Out About the Way Trump Talks](https://www.nytimes.com/2026/02/19/opinion/trump-speech-conversations.html)
+3. [MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’](https://www.nytimes.com/2026/02/19/us/politics/maha-moms-glyphosate-roundup-robert-kennedy.html)
 
-Why just tell a story when you can put on a skit?
+President Trump’s executive order aimed at spurring production of a pesticide has infuriated leaders of Health Secretary Robert F. Kennedy Jr.’s MAHA movement.
+
+
+4. [Former Prince Andrew’s Arrest Upends Royal Effort to Move Past His Scandal](https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html)
+
+King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation.
+
+
+5. [Trump Has a Head-Spinning Day, but Republicans Want Him to Focus](https://www.nytimes.com/2026/02/19/us/politics/trump-republicans-focus-economy.html)
+
+President Trump’s advisers want him to lock down a message on the economy that will resonate ahead of the midterms. But Mr. Trump is never one to stay on message.
+
+
+6. [New Trump Banner Hung on Justice Department Headquarters](https://www.nytimes.com/2026/02/19/us/politics/trump-banner-doj.html)
+
+Other federal buildings across Washington, D.C., are also adorned with huge banners of President Trump.
+
+
+7. [Austrian Man Found Guilty in Girlfriend’s Death on Mountain Hike](https://www.nytimes.com/2026/02/19/world/europe/austrian-man-girlfriend-death-mountain-hike-guilty.html)
+
+Thomas Plamberger was given a suspended prison sentence and fined in a case that tested the limits of personal responsibility in mountaineering.
+
+
+8. [A Once Prominent American Statesman Faces Fallout From the Epstein Files](https://www.nytimes.com/2026/02/20/us/epstein-george-mitchell-ireland-maine.html)
+
+George Mitchell, a former Senate majority leader credited with bringing peace to Northern Ireland, is under renewed scrutiny over his association with Jeffrey Epstein.
+
+
+9. [The 2028 Democratic Presidential Contenders, Ranked by Nate Silver](https://www.nytimes.com/2026/02/20/opinion/2028-democrats-presidential-primary.html)
+
+On the lookout for electoral overperformers.
+
+
+10. [Eric Dane, McSteamy on ‘Grey’s Anatomy,’ Dies at 53](https://www.nytimes.com/2026/02/19/arts/eric-dane-mcsteamy-dead.html)
+
+His breakout role came in 2006 as the handsome Dr. Mark Sloan, nicknamed McSteamy, the head of plastic surgery at a Seattle hospital. He died 10 months after announcing his A.L.S. diagnosis.
 
 
