@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-21 18:46:22)
+## 📰 NYTimes Most Popular (Updated: 2026-02-21 19:31:07)
 
-1. [The Supreme Court’s Declaration of Independence](https://www.nytimes.com/2026/02/20/us/politics/supreme-court-trump-roberts-tariffs.html)
+1. [Sierra Nevada Avalanche Killed a Group of 6 Moms Who Bonded Over the Outdoors](https://www.nytimes.com/2026/02/19/us/tahoe-avalanche-victims-sisters.html)
 
-The court’s rejection of President Trump’s tariffs program is the latest in a series of clashes between him and Chief Justice John G. Roberts Jr.
-
-
-2. [After Stunning Setback, Trump Finds Other Ways to Impose Tariffs](https://www.nytimes.com/2026/02/20/us/politics/trump-tariffs-plans.html)
-
-The administration has been preparing for months for the possibility that the Supreme Court would rule against the president and developed contingency plans.
+Families and friends of the women, many from the Bay Area, confirmed their identities. The women went on regular trips to the Tahoe region and were experienced skiers, the families said.
 
 
-3. [The 2028 Democratic Presidential Contenders, Ranked by Nate Silver](https://www.nytimes.com/2026/02/20/opinion/2028-democrats-presidential-primary.html)
+2. [Bench Presses, Pull Ups … Kid Rock? The White House Had a Very Manly Week.](https://www.nytimes.com/2026/02/20/us/politics/trump-hegseth-rfk-manliness.html)
 
-On the lookout for electoral overperformers.
+President Trump’s top cabinet officials are pumping iron in public.
 
 
-4. [Even After Supreme Court Ruling, Trump Insists He Can Do as He Wishes](https://www.nytimes.com/2026/02/20/us/politics/trump-justices-gorsuch-barrett-roberts.html)
+3. [Even After Supreme Court Ruling, Trump Insists He Can Do as He Wishes](https://www.nytimes.com/2026/02/20/us/politics/trump-justices-gorsuch-barrett-roberts.html)
 
 President Trump showed open contempt for the court, calling the justices who voted against his tariffs “fools and lap dogs.” He quickly imposed new levies using legal powers still available to him.
 
 
-5. [A Fatal ICE Shooting Occurred in Texas Months Before Renee Good’s Killing](https://www.nytimes.com/2026/02/20/us/ruben-ray-martinez-ice-shooting-texas.html)
+4. [San José State Graduate Who Went Skiing Is Found Dead in Tree Well](https://www.nytimes.com/2026/02/20/us/san-jose-state-skier-dead.html)
 
-A 23-year-old American was shot last March in South Padre Island. ICE’s involvement in the shooting was not disclosed until this week.
+The recent graduate, 21, was on a trail in the Lake Tahoe region of California on Tuesday and did not return, prompting a search. His death is under investigation, the authorities said.
 
 
-6. [Labor Secretary’s Husband Barred From the Department After Sexual Assault Reports](https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html)
+5. [Trump Says He Will Raise Global Tariff to 15 Percent](https://www.nytimes.com/2026/02/21/business/trump-tariffs.html)
+
+The move signaled that the president would press ahead with steep global import taxes despite the legal setback from the Supreme Court.
+
+
+6. [Eric Dane, McSteamy on ‘Grey’s Anatomy,’ Dies at 53](https://www.nytimes.com/2026/02/19/arts/eric-dane-mcsteamy-dead.html)
+
+His breakout role came in 2006 as the handsome Dr. Mark Sloan, nicknamed McSteamy, the head of plastic surgery at a Seattle hospital. He died 10 months after announcing his A.L.S. diagnosis.
+
+
+7. [A New U.S. Blockade Is Strangling Cuba](https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html)
+
+An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments.
+
+
+8. [Labor Secretary’s Husband Barred From the Department After Sexual Assault Reports](https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html)
 
 At least two female staff members said Dr. Shawn DeRemer had touched them inappropriately at the agency in Washington.
 
 
-7. [Former Prince Andrew’s Arrest Upends Royal Effort to Move Past His Scandal](https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html)
+9. [Former Prince Andrew’s Arrest Upends Royal Effort to Move Past His Scandal](https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html)
 
 King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation.
 
 
-8. [This Is How an Autocrat Goes to War](https://www.nytimes.com/2026/02/20/opinion/trump-iran-public-opinion.html)
+10. [Here’s What I Just Figured Out About the Way Trump Talks](https://www.nytimes.com/2026/02/19/opinion/trump-speech-conversations.html)
 
-All that matters to Trump is whether he thinks attacking Iran is in his interests.
-
-
-9. [In Gorsuch’s Homage to Legislative Power, a Subtle Reproach of a Neutered Congress](https://www.nytimes.com/2026/02/21/us/politics/gorsuch-congress-trump-tariffs.html)
-
-In his concurrence to the ruling invalidating President Trump’s tariffs, Justice Neil M. Gorsuch made a forceful case for the sanctity of the legislative process — and an implicit critique of its current dysfunction.
-
-
-10. [A Once Prominent American Statesman Faces Fallout From the Epstein Files](https://www.nytimes.com/2026/02/20/us/epstein-george-mitchell-ireland-maine.html)
-
-George Mitchell, a former Senate majority leader credited with bringing peace to Northern Ireland, is under renewed scrutiny over his association with Jeffrey Epstein.
+Why just tell a story when you can put on a skit?
 
 
