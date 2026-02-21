@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-21 08:39:53)
+## 📰 NYTimes Most Popular (Updated: 2026-02-21 09:37:25)
 
-1. [A Once Prominent American Statesman Faces Fallout From the Epstein Files](https://www.nytimes.com/2026/02/20/us/epstein-george-mitchell-ireland-maine.html)
+1. [Here’s What I Just Figured Out About the Way Trump Talks](https://www.nytimes.com/2026/02/19/opinion/trump-speech-conversations.html)
 
-George Mitchell, a former Senate majority leader credited with bringing peace to Northern Ireland, is under renewed scrutiny over his association with Jeffrey Epstein.
-
-
-2. [Sierra Nevada Avalanche Killed a Group of 6 Moms Who Bonded Over the Outdoors](https://www.nytimes.com/2026/02/19/us/tahoe-avalanche-victims-sisters.html)
-
-Families and friends of the women, many from the Bay Area, confirmed their identities. The women went on regular trips to the Tahoe region and were experienced skiers, the families said.
+Why just tell a story when you can put on a skit?
 
 
-3. [The Supreme Court’s Declaration of Independence](https://www.nytimes.com/2026/02/20/us/politics/supreme-court-trump-roberts-tariffs.html)
-
-The court’s rejection of President Trump’s tariffs program is the latest in a series of clashes between him and Chief Justice John G. Roberts Jr.
-
-
-4. [This Is How an Autocrat Goes to War](https://www.nytimes.com/2026/02/20/opinion/trump-iran-public-opinion.html)
+2. [This Is How an Autocrat Goes to War](https://www.nytimes.com/2026/02/20/opinion/trump-iran-public-opinion.html)
 
 All that matters to Trump is whether he thinks attacking Iran is in his interests.
 
 
-5. [New Trump Banner Hung on Justice Department Headquarters](https://www.nytimes.com/2026/02/19/us/politics/trump-banner-doj.html)
+3. [Bench Presses, Pull Ups … Kid Rock? The White House Had a Very Manly Week.](https://www.nytimes.com/2026/02/20/us/politics/trump-hegseth-rfk-manliness.html)
 
-Other federal buildings across Washington, D.C., are also adorned with huge banners of President Trump.
+President Trump’s top cabinet officials are pumping iron in public.
 
 
-6. [The 2028 Democratic Presidential Contenders, Ranked by Nate Silver](https://www.nytimes.com/2026/02/20/opinion/2028-democrats-presidential-primary.html)
+4. [Eric Dane, McSteamy on ‘Grey’s Anatomy,’ Dies at 53](https://www.nytimes.com/2026/02/19/arts/eric-dane-mcsteamy-dead.html)
 
-On the lookout for electoral overperformers.
+His breakout role came in 2006 as the handsome Dr. Mark Sloan, nicknamed McSteamy, the head of plastic surgery at a Seattle hospital. He died 10 months after announcing his A.L.S. diagnosis.
+
+
+5. [A New U.S. Blockade Is Strangling Cuba](https://www.nytimes.com/2026/02/20/world/americas/cuba-oil-blockade-trump.html)
+
+An analysis of ship movements shows that the Trump administration is isolating the island at one of its most vulnerable moments.
+
+
+6. [Labor Secretary’s Husband Barred From the Department After Sexual Assault Reports](https://www.nytimes.com/2026/02/19/business/labor-secretary-husband-sexual-assault-allegations.html)
+
+At least two female staff members said Dr. Shawn DeRemer had touched them inappropriately at the agency in Washington.
 
 
 7. [Even After Supreme Court Ruling, Trump Insists He Can Do as He Wishes](https://www.nytimes.com/2026/02/20/us/politics/trump-justices-gorsuch-barrett-roberts.html)
@@ -35,18 +35,18 @@ On the lookout for electoral overperformers.
 President Trump showed open contempt for the court, calling the justices who voted against his tariffs “fools and lap dogs.” He quickly imposed new levies using legal powers still available to him.
 
 
-8. [A Fatal ICE Shooting Occurred in Texas Months Before Renee Good’s Killing](https://www.nytimes.com/2026/02/20/us/ruben-ray-martinez-ice-shooting-texas.html)
+8. [Weekend Snowstorm Suddenly Looks More Serious for the Northeast](https://www.nytimes.com/2026/02/20/weather/new-york-snow-forecast.html)
 
-A 23-year-old American was shot last March in South Padre Island. ICE’s involvement in the shooting was not disclosed until this week.
-
-
-9. [Here’s What I Just Figured Out About the Way Trump Talks](https://www.nytimes.com/2026/02/19/opinion/trump-speech-conversations.html)
-
-Why just tell a story when you can put on a skit?
+Forecasts on Friday began to make another major snowstorm look far more likely. Snow is expected to begin falling Sunday.
 
 
-10. [In Dissent, 3 Justices Warn Tariff Decision May Unleash Chaos, at Least in Short-Term](https://www.nytimes.com/2026/02/20/us/politics/trump-tariffs-supreme-court-dissent-refunds.html)
+9. [These Skiers Cleared Out as Group That Would Be Hit by Avalanche Arrived](https://www.nytimes.com/2026/02/20/us/avalanche-tahoe-huts.html)
 
-The trio warned of immediate chaos over refunds and trade deals. They also provided President Trump with a list of other possible avenues for imposing tariffs.
+If the party had waited out the storm in their cabins, one of the skiers said, the outcome might have been different.
+
+
+10. [MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’](https://www.nytimes.com/2026/02/19/us/politics/maha-moms-glyphosate-roundup-robert-kennedy.html)
+
+President Trump’s executive order aimed at spurring production of a pesticide has infuriated leaders of Health Secretary Robert F. Kennedy Jr.’s MAHA movement.
 
 
