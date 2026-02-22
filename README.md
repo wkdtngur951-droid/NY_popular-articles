@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-21 23:31:21)
+## 📰 NYTimes Most Popular (Updated: 2026-02-22 02:48:29)
 
-1. [A Once Prominent American Statesman Faces Fallout From the Epstein Files](https://www.nytimes.com/2026/02/20/us/epstein-george-mitchell-ireland-maine.html)
+1. [He Researched Dishonesty. He Got Friendly With Jeffrey Epstein.](https://www.nytimes.com/2026/02/21/business/jeffrey-epstein-dan-ariely-dishonesty.html)
 
-George Mitchell, a former Senate majority leader credited with bringing peace to Northern Ireland, is under renewed scrutiny over his association with Jeffrey Epstein.
+Dan Ariely, a behavioral scientist at Duke, sought out the convicted sex offender for his research. Their yearslong correspondence suggests it wasn’t all business.
 
 
 2. [Even After Supreme Court Ruling, Trump Insists He Can Do as He Wishes](https://www.nytimes.com/2026/02/20/us/politics/trump-justices-gorsuch-barrett-roberts.html)
@@ -10,43 +10,43 @@ George Mitchell, a former Senate majority leader credited with bringing peace to
 President Trump showed open contempt for the court, calling the justices who voted against his tariffs “fools and lap dogs.” He quickly imposed new levies using legal powers still available to him.
 
 
-3. [A Fatal ICE Shooting Occurred in Texas Months Before Renee Good’s Killing](https://www.nytimes.com/2026/02/20/us/ruben-ray-martinez-ice-shooting-texas.html)
+3. [Shocker! SCOTUS Schools POTUS](https://www.nytimes.com/2026/02/21/opinion/scotus-trump-tariffs-epstein.html)
 
-A 23-year-old American was shot last March in South Padre Island. ICE’s involvement in the shooting was not disclosed until this week.
+The high court asserts itself as tariff sheriff.
 
 
-4. [Blizzard Warnings Issued for Swath of East Coast, Including N.Y.C.](https://www.nytimes.com/2026/02/21/us/blizzard-warnings-northeast-new-york.html)
+4. [6 Takeaways From the Supreme Court’s Tariff Decision](https://www.nytimes.com/2026/02/20/us/politics/supreme-court-trump-tariffs-takeaways.html)
+
+The court displayed its independence in what was a stinging rebuke to President Trump, though the ruling is unlikely to have an immediate effect on prices.
+
+
+5. [In Her Big Olympic Moment, Alysa Liu Celebrated Her Freedom](https://www.nytimes.com/2026/02/20/arts/dance/alysa-liu-figure-skating-winter-olympics.html)
+
+Competition can wreck a figure skater, but Liu and other Olympians shed the pressure and delivered transcendent performances focused on artistry.
+
+
+6. [Weekend Snowstorm Suddenly Looks More Serious for the Northeast](https://www.nytimes.com/2026/02/20/weather/new-york-snow-forecast.html)
+
+Forecasts on Friday began to make another major snowstorm look far more likely. Snow is expected to begin falling Sunday.
+
+
+7. [Blizzard Warnings Issued for Swath of East Coast, Including N.Y.C.](https://www.nytimes.com/2026/02/21/us/blizzard-warnings-northeast-new-york.html)
 
 The blizzard warnings are the first since 2017 for New York City. Forecasters said the city is expected to get up to 18 inches of snow, with two feet possible.
 
 
-5. [In Gorsuch’s Homage to Legislative Power, a Subtle Reproach of a Neutered Congress](https://www.nytimes.com/2026/02/21/us/politics/gorsuch-congress-trump-tariffs.html)
+8. [Trump Doubles Down on Closing Tax Loophole on Cheap Imports](https://www.nytimes.com/2026/02/21/business/trump-deminimis-loophole-closed.html)
 
-In his concurrence to the ruling invalidating President Trump’s tariffs, Justice Neil M. Gorsuch made a forceful case for the sanctity of the legislative process — and an implicit critique of its current dysfunction.
-
-
-6. [Former Prince Andrew’s Arrest Upends Royal Effort to Move Past His Scandal](https://www.nytimes.com/2026/02/20/world/europe/prince-andrew-arrest-epstein-royal-family-uk.html)
-
-King Charles III’s family, long rocked by infighting and grievous losses, is facing what could be the gravest threat to its moral authority in more than a generation.
+The exemption was shut down last year by President Trump based, in part, on the same legal grounds as the tariffs that were invalidated by the Supreme Court.
 
 
-7. [Here’s What I Just Figured Out About the Way Trump Talks](https://www.nytimes.com/2026/02/19/opinion/trump-speech-conversations.html)
+9. [Divide Among Supreme Court’s Conservatives Could Test Trump’s Agenda](https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html)
 
-Why just tell a story when you can put on a skit?
-
-
-8. [MAHA Moms Turn Against Trump: ‘Women Feel Like They Were Lied To’](https://www.nytimes.com/2026/02/19/us/politics/maha-moms-glyphosate-roundup-robert-kennedy.html)
-
-President Trump’s executive order aimed at spurring production of a pesticide has infuriated leaders of Health Secretary Robert F. Kennedy Jr.’s MAHA movement.
+In rejecting President Trump’s tariffs, the court’s six conservative justices displayed subtle differences in their views of executive power.
 
 
-9. [Trump Says He Will Raise Global Tariff to 15 Percent](https://www.nytimes.com/2026/02/21/business/trump-tariffs.html)
+10. [Do You Back Into a Parking Spot or Back Out?](https://www.nytimes.com/2026/02/21/style/parking-backing-in-headfirst.html)
 
-The move signaled that the president would press ahead with steep global import taxes despite the legal setback from the Supreme Court.
-
-
-10. [The Supreme Court’s Declaration of Independence](https://www.nytimes.com/2026/02/20/us/politics/supreme-court-trump-roberts-tariffs.html)
-
-The court’s rejection of President Trump’s tariffs program is the latest in a series of clashes between him and Chief Justice John G. Roberts Jr.
+An exploration of what’s driving a change in America’s parking lots.
 
 
