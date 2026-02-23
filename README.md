@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-22 23:33:14)
+## 📰 NYTimes Most Popular (Updated: 2026-02-23 02:48:39)
 
-1. [Kennedy Center Performance Canceled After Substance Poured on Ice Rink](https://www.nytimes.com/2026/02/21/arts/design/kennedy-center-protest-ice-rink.html)
+1. [Mayhem Rocks Mexico After Most-Wanted Cartel Boss Is Killed](https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html)
 
-An individual poured an unknown dark liquid onto a temporary skating rink at the Kennedy Center late Thursday night, in what the venue called a “calculated” attack.
-
-
-2. [Denmark Rejects Trump’s Plan to Send Hospital Boat to Greenland](https://www.nytimes.com/2026/02/22/us/politics/trump-greenland-hospital-ship.html)
-
-Denmark’s defense minister said Greenland did not need health care assistance, a day after President Trump said he planned to send a “great hospital boat” to the island.
+“El Mencho” was the longtime head of one of the nation’s most powerful cartels. Armed groups set fire to cars and buildings across Mexico in the wake of his death.
 
 
-3. [What Trafficked Girls Think of Jeffrey Epstein and His Pals](https://www.nytimes.com/2026/02/21/opinion/epstein-sex-trafficking.html)
+2. [Is This the Most Important Supreme Court Case of the Century?](https://www.nytimes.com/2026/02/22/opinion/tariffs-trump-supreme-court.html)
+
+The tariff ruling may have just helped save the Republic.
+
+
+3. [Inside Iran’s Preparations for War and Plans for Survival](https://www.nytimes.com/2026/02/22/world/middleeast/iran-larijani-khamenei-pezeshkian.html)
+
+Ayatollah Ali Khamenei has entrusted Ali Larijani, the top national security official, to ensure the Islamic Republic endures any military attacks and targeted killings.
+
+
+4. [Arab Leaders Condemn Remarks by U.S. Ambassador to Israel](https://www.nytimes.com/2026/02/22/world/middleeast/huckabee-israel-tucker-carlson.html)
+
+The ambassador, Mike Huckabee, seemed to endorse Israeli control of lands stretching from Egypt to Iraq. He said his comments were taken out of context.
+
+
+5. [What Trafficked Girls Think of Jeffrey Epstein and His Pals](https://www.nytimes.com/2026/02/21/opinion/epstein-sex-trafficking.html)
 
 Every year, more than 100,000 children may be sold for sex in the United States. Are we willing to do something about that?
 
 
-4. [Do You Back Into a Parking Spot or Back Out?](https://www.nytimes.com/2026/02/21/style/parking-backing-in-headfirst.html)
+6. [Flashback: Your Weekly History Quiz, Feb. 21, 2026](https://www.nytimes.com/interactive/2026/02/20/upshot/flashback.html)
 
-An exploration of what’s driving a change in America’s parking lots.
-
-
-5. [Armed Man Is Fatally Shot at Mar-a-Lago, Secret Service Says](https://www.nytimes.com/2026/02/22/us/politics/mar-a-lago-shooting-secret-service.html)
-
-The local sheriff identified the man as a 21-year-old resident of Cameron, N.C. The president was not at his resort in Florida and has not commented on the shooting.
+Can you sort 8 historical events?
 
 
-6. [Trump Says He Will Raise Global Tariff to 15 Percent](https://www.nytimes.com/2026/02/21/business/trump-tariffs.html)
+7. [Trump Calls on Netflix to Oust Susan Rice From Its Board](https://www.nytimes.com/2026/02/22/business/media/trump-netflix-susan-rice.html)
 
-The move signaled that the president would press ahead with steep global import taxes despite the legal setback from the Supreme Court.
-
-
-7. [Shocker! SCOTUS Schools POTUS](https://www.nytimes.com/2026/02/21/opinion/scotus-trump-tariffs-epstein.html)
-
-The high court asserts itself as tariff sheriff.
+The president made the attack as Netflix and Paramount Skydance face a key deadline in a bidding war for Warner Bros. Discovery.
 
 
-8. [Divide Among Supreme Court’s Conservatives Could Test Trump’s Agenda](https://www.nytimes.com/2026/02/21/us/politics/supreme-court-tariffs-conservatives.html)
+8. [How Much Snow Will Fall Where You Live?](https://www.nytimes.com/interactive/2026/upshot/snow-forecast-totals-lookup.html)
 
-In rejecting President Trump’s tariffs, the court’s six conservative justices displayed subtle differences in their views of executive power.
-
-
-9. [T.S.A. Says PreCheck Will Remain Operational at Airports](https://www.nytimes.com/2026/02/22/us/tsa-precheck-global-entry-homeland-security-shutdown.html)
-
-The Department of Homeland Security had said earlier on Sunday that it would suspend the priority airport security program, about a week after its funding lapsed because of the partial government shutdown.
+Type in your community to see the full range of possibilities in the next few days.
 
 
-10. [They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.](https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html)
+9. [Ukraine Has Passed a Point of No Return](https://www.nytimes.com/2026/02/22/opinion/ukraine-russia-war-four-years.html)
 
-Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they might have been better off waiting.
+Four years that changed everything.
+
+
+10. [Tom Noonan, Actor Renowned for Onscreen Menace, Dies at 74](https://www.nytimes.com/2026/02/21/movies/tom-noonan-dead.html)
+
+He played memorable screen villains, notably a psychopath in “Manhunter,” but also wrote, directed and starred in well-received plays at a theater he founded in Manhattan.
 
 
