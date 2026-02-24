@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-24 04:57:55)
+## 📰 NYTimes Most Popular (Updated: 2026-02-24 06:06:47)
 
-1. [What to Know About the Killing of ‘El Mencho’](https://www.nytimes.com/2026/02/22/world/americas/el-mencho-mexico-what-we-know.html)
-
-The Mexican government has killed Nemesio Oseguera Cervantes, the longtime leader of one of Mexico’s most powerful gangs, the Jalisco New Generation Cartel.
-
-
-2. [12 Unforgettable Looks at the BAFTAs](https://www.nytimes.com/2026/02/22/style/bafta-2026-awards-red-carpet-looks.html)
-
-Swishy suits, mermaid skirts, skunk feet and more.
-
-
-3. [Mexico Killed ‘El Mencho.’ What’s Next for the Drug Cartel He Led?](https://www.nytimes.com/2026/02/23/world/americas/el-mencho-killed-mexico-cartel.html)
-
-The death of Nemesio Oseguera Cervantes dealt a major blow to the Jalisco New Generation Cartel, but few believe it spells the end for the powerful group.
-
-
-4. [The Television Show Every American Should Watch](https://www.nytimes.com/2026/02/23/opinion/pitt-america-tv.html)
-
-An emergency room that’s a mirror.
-
-
-5. [Mayhem Rocks Mexico After Most-Wanted Cartel Boss Is Killed](https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html)
-
-“El Mencho” was the longtime head of one of the nation’s most powerful cartels. Armed groups set fire to cars and buildings across Mexico in the wake of his death.
-
-
-6. [The Best and Worst Moments From the 2026 BAFTAs](https://www.nytimes.com/2026/02/23/movies/baftas-best-worst-moments.html)
+1. [The Best and Worst Moments From the 2026 BAFTAs](https://www.nytimes.com/2026/02/23/movies/baftas-best-worst-moments.html)
 
 Alan Cumming forced fishy British snacks onto movie stars. Paddington Bear presented an award. And a racist slur and swearing.
 
 
-7. [Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
+2. [Senator Handcuffed After Interrupting Noem Will Give Spanish Rebuttal to Trump](https://www.nytimes.com/2026/02/23/us/politics/alex-padilla-trump-state-of-the-union-spanish-democratic-response.html)
+
+Senator Alex Padilla, a Democrat from California, offered a preview of his remarks, which he expects to focus on the economy, immigration and fair elections.
+
+
+3. [Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
 
 Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform.
+
+
+4. [The Epstein Files Should Never Have Been Released](https://www.nytimes.com/2026/02/23/opinion/epstein-files-justice-department.html)
+
+Putting millions of pages online is a sign of institutional failure.
+
+
+5. [Interactive Maps and Charts: Tracking the Northeast Winter Storm](https://www.nytimes.com/interactive/2026/02/22/weather/noreaster-snowfall-map.html)
+
+See where snowfall and cold temperatures are expected.
+
+
+6. [Let’s Stop Getting Distracted From This Crucial Question About Exercise](https://www.nytimes.com/2026/02/23/opinion/exercise-data-routine-optimization.html)
+
+We will probably never get good data to answer the question of which exercise routine is best.
+
+
+7. [They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.](https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html)
+
+Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they might have been better off waiting.
 
 
 8. [What Happened in Chicago When Science Became the Enemy](https://www.nytimes.com/2026/02/23/opinion/doge-hiv-funding.html)
@@ -40,13 +40,13 @@ Binance pledged to crack down on crime. But internal investigators at the world�
 The ripple effects of cutting H.I.V. research funding.
 
 
-9. [Putin Had High Hopes for Trump. They Have Been Dashed.](https://www.nytimes.com/2026/02/23/opinion/putin-trump-russia-ukraine.html)
+9. [Judge Bars Release of Special Counsel Report on Trump’s Mishandling of Documents](https://www.nytimes.com/2026/02/23/us/politics/trump-jack-smith-classified-documents-aileen-cannon.html)
 
-The U.S. president is actually pretty bad for Russia.
+Judge Aileen Cannon, a Trump-appointed federal judge in Florida, slammed the former special counsel, Jack Smith, for drafting the report even after she had dismissed the case.
 
 
-10. [They Did Deals With Trump to Get Lower Tariffs. Now They Are Stuck.](https://www.nytimes.com/2026/02/22/business/trump-tariffs-japan-indonesia.html)
+10. [Judges Grow Angry Over Trump Administration Violating Their Orders](https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html)
 
-Countries that under the threat of tariffs made commitments like enormous investment pledges face the reality that they might have been better off waiting.
+At least 35 times since August, federal judges have ordered the administration to explain why it should not be punished for violating their orders in immigration cases.
 
 
