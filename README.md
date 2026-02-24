@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-24 22:40:27)
+## 📰 NYTimes Most Popular (Updated: 2026-02-24 23:39:14)
 
-1. [The Television Show Every American Should Watch](https://www.nytimes.com/2026/02/23/opinion/pitt-america-tv.html)
+1. [Hunter College to Review Professor’s ‘Abhorrent’ Remarks at Meeting](https://www.nytimes.com/2026/02/22/nyregion/hunter-college-professor-remarks-students.html)
 
-An emergency room that’s a mirror.
+A student objected to the potential closure of her New York City middle school. The professor, speaking on a hot mic, said, “They’re too dumb to know they’re in a bad school.” The comment was assailed as racist.
 
 
 2. [Judges Grow Angry Over Trump Administration Violating Their Orders](https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html)
@@ -10,43 +10,43 @@ An emergency room that’s a mirror.
 At least 35 times since August, federal judges have ordered the administration to explain why it should not be punished for violating their orders in immigration cases.
 
 
-3. [The Epstein Files Should Never Have Been Released](https://www.nytimes.com/2026/02/23/opinion/epstein-files-justice-department.html)
+3. [Peter Attia Leaves CBS News Amid Epstein Files Fallout](https://www.nytimes.com/2026/02/23/well/peter-attia-cbs-epstein.html)
 
-Putting millions of pages online is a sign of institutional failure.
-
-
-4. [Key Witness Who Disputed ICE Account of Fatal Texas Shooting Dies in Car Accident](https://www.nytimes.com/2026/02/23/us/ice-shooting-texas-witness-dead.html)
-
-A passenger in the car with Ruben Ray Martinez wrote that the men were trying to comply with authorities before Mr. Martinez was shot. The passenger, Joshua Orta, died in a car accident on Saturday.
+Emails showed that the longevity influencer had provided medical advice to Jeffrey Epstein and had made crude comments about women.
 
 
-5. [Let’s Stop Getting Distracted From This Crucial Question About Exercise](https://www.nytimes.com/2026/02/23/opinion/exercise-data-routine-optimization.html)
-
-We will probably never get good data to answer the question of which exercise routine is best.
-
-
-6. [Interactive Maps and Charts: Tracking the Northeast Winter Storm](https://www.nytimes.com/interactive/2026/02/22/weather/noreaster-snowfall-map.html)
+4. [Interactive Maps and Charts: Tracking the Northeast Winter Storm](https://www.nytimes.com/interactive/2026/02/22/weather/noreaster-snowfall-map.html)
 
 See where snowfall and cold temperatures are expected.
 
 
-7. [Senator Handcuffed After Interrupting Noem Will Give Spanish Rebuttal to Trump](https://www.nytimes.com/2026/02/23/us/politics/alex-padilla-trump-state-of-the-union-spanish-democratic-response.html)
-
-Senator Alex Padilla, a Democrat from California, offered a preview of his remarks, which he expects to focus on the economy, immigration and fair elections.
-
-
-8. [Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
+5. [Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
 
 Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform.
 
 
-9. [Mexico Is Caught Between Trump and the Cartels](https://www.nytimes.com/2026/02/24/world/americas/trump-sheinbaum-us-mexico-cartel.html)
+6. [Jeff and Lauren Sánchez Bezos Will Be Honorary Chairs of the Met Gala](https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html)
 
-President Trump has demanded President Claudia Sheinbaum confront the cartels. The killing of El Mencho suggests it might be working — but could come at a cost.
+The news came tucked into the second page of a recent news release.
 
 
-10. [U.K. Police Release Ex-Ambassador to U.S. After Arrest Amid Epstein Accusations](https://www.nytimes.com/2026/02/23/world/europe/peter-mandelson-epstein-uk.html)
+7. [How a Tourette’s Outburst of a Racist Slur Caused a Backlash at the BAFTAs](https://www.nytimes.com/2026/02/23/movies/baftas-tourettes.html)
 
-Peter Mandelson was arrested on Monday on suspicion of “misconduct in public office” following revelations about his dealings with Jeffrey Epstein, the sex offender.
+A racist slur, shouted involuntarily while Michael B. Jordan and Delroy Lindo were presenting an award, raised questions about how the show’s host and the BBC responded.
+
+
+8. [Mayhem Rocks Mexico After Most-Wanted Cartel Boss Is Killed](https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html)
+
+“El Mencho” was the longtime head of one of the nation’s most powerful cartels. Armed groups set fire to cars and buildings across Mexico in the wake of his death.
+
+
+9. [Let’s Stop Getting Distracted From This Crucial Question About Exercise](https://www.nytimes.com/2026/02/23/opinion/exercise-data-routine-optimization.html)
+
+We will probably never get good data to answer the question of which exercise routine is best.
+
+
+10. [Nick Reiner Pleads Not Guilty in the Killing of His Parents](https://www.nytimes.com/2026/02/23/arts/nick-reiner-plea.html)
+
+Mr. Reiner, 32, was charged with murdering his parents, the Hollywood director Rob Reiner and Michele Singer Reiner, last year.
 
 
