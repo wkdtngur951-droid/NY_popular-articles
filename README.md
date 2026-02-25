@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-25 16:13:50)
+## 📰 NYTimes Most Popular (Updated: 2026-02-25 18:04:59)
 
-1. [The Looming Taiwan Chip Disaster That Silicon Valley Has Long Ignored](https://www.nytimes.com/2026/02/24/technology/taiwan-china-chips-silicon-valley-tsmc.html)
+1. [Is It Safe to Travel to Mexico Right Now?](https://www.nytimes.com/2026/02/24/travel/mexico-tourism-safety-spring-break.html)
 
-If China invades Taiwan and cuts off its chip exports to American companies, the tech industry and the U.S. economy would be crippled.
+A wave of unrest after the killing of a cartel leader has rattled tourists in Mexico, prompting travelers to reconsider their plans. Here’s what to know.
 
 
-2. [Some Cracks Appear in Trump Coalition Ahead of State of the Union](https://www.nytimes.com/2026/02/24/us/politics/trump-state-of-the-union-pennsylvania.html)
+2. [A Congressional Candidate Feared by the Tech Oligarchs](https://www.nytimes.com/2026/02/23/opinion/alex-bores-ai-democrats.html)
+
+There’s a huge political opportunity for the party that can stand up for human beings in the face of A.I.
+
+
+3. [Some Cracks Appear in Trump Coalition Ahead of State of the Union](https://www.nytimes.com/2026/02/24/us/politics/trump-state-of-the-union-pennsylvania.html)
 
 As the president prepares to speak to the nation, Northeastern Pennsylvania is showing discontent on the edges of the Trump coalition and an energized Democratic opposition.
-
-
-3. [Jeff and Lauren Sánchez Bezos Will Be Honorary Chairs of the Met Gala](https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html)
-
-The news came tucked into the second page of a recent news release.
 
 
 4. [The Trump 1 Percent Fan Club Has a Lot of New Members](https://www.nytimes.com/2026/02/24/opinion/trump-1-percent-elites-taxes.html)
@@ -25,28 +25,28 @@ There are some elites the president likes.
 Trust the science? Which science?
 
 
-6. [Legally Creative, Democratically Dangerous: Trump’s Plan to Twist the News](https://www.nytimes.com/2026/02/24/opinion/fcc-ftc-free-speech-trump.html)
+6. [Russia Remade Its Economy for War, but It’s Come at a Huge Cost](https://www.nytimes.com/2026/02/24/world/europe/russia-ukraine-war-future.html)
 
-Trump appointees have transformed the F.T.C. and F.C.C. into instruments of ideological enforcement.
-
-
-7. [In Blow to Mamdani, Left-Leaning Group Breaks With Mayor Over U.S. House Race](https://www.nytimes.com/2026/02/23/nyregion/antonio-reynoso-wfp-endorsement-congress.html)
-
-Mayor Zohran Mamdani of New York had lobbied for his preferred candidate, Claire Valdez. But the party backed Antonio Reynoso, the Brooklyn borough president.
+About half of the country’s federal budget goes toward the fight in Ukraine, money that does little to support its long-term development.
 
 
-8. [‘His Showman’s Energy Is Flagging’: The Best and Worst Moments From Trump’s State of the Union](https://www.nytimes.com/2026/02/25/opinion/trump-state-of-the-union-best-worst.html)
+7. [John Roberts Is Losing Patience With Trump](https://www.nytimes.com/2026/02/24/opinion/tariffs-trump-john-roberts.html)
 
-Nine Opinion writers weigh in on the speech.
-
-
-9. [Key Witness Who Disputed ICE Account of Fatal Texas Shooting Dies in Car Accident](https://www.nytimes.com/2026/02/23/us/ice-shooting-texas-witness-dead.html)
-
-A passenger in the car with Ruben Ray Martinez wrote that the men were trying to comply with authorities before Mr. Martinez was shot. The passenger, Joshua Orta, died in a car accident on Saturday.
+How to read the gratuitous paragraph in the chief justice’s tariff opinion.
 
 
-10. [A Fairly Cordial Encounter for the President and ‘Barely Invited’ Justices](https://www.nytimes.com/2026/02/24/us/politics/supreme-court-state-of-the-union.html)
+8. [6 Takeaways From Trump’s State of the Union](https://www.nytimes.com/2026/02/25/us/politics/trump-state-of-the-union-takeaways.html)
 
-Members of the Supreme Court attended Trump’s annual speech, days after ruling against the legality of his tariffs. The president was restrained and tempered his criticism.
+In an address that was heavy on theatrics, President Trump lashed out at Democrats as “crazy” and unpatriotic.
+
+
+9. [Trump Says Top General Predicts Easy Victory Over Iran; He Says Otherwise in Private](https://www.nytimes.com/2026/02/23/us/politics/general-caine-iran-strikes-trump.html)
+
+The remarks differ from what Gen. Dan Caine, the chairman of the Joint Chiefs of Staff, is said to have told the president in high-level White House meetings.
+
+
+10. [‘He’s Debased This Country’: The Best and Worst Moments From Trump’s State of the Union](https://www.nytimes.com/2026/02/25/opinion/trump-state-of-the-union-best-worst.html)
+
+Eight Opinion writers weigh in on the speech.
 
 
