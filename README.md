@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-24 23:39:14)
+## 📰 NYTimes Most Popular (Updated: 2026-02-25 02:46:47)
 
-1. [Hunter College to Review Professor’s ‘Abhorrent’ Remarks at Meeting](https://www.nytimes.com/2026/02/22/nyregion/hunter-college-professor-remarks-students.html)
+1. [Legally Creative, Democratically Dangerous: Trump’s Plan to Twist the News](https://www.nytimes.com/2026/02/24/opinion/fcc-ftc-free-speech-trump.html)
 
-A student objected to the potential closure of her New York City middle school. The professor, speaking on a hot mic, said, “They’re too dumb to know they’re in a bad school.” The comment was assailed as racist.
-
-
-2. [Judges Grow Angry Over Trump Administration Violating Their Orders](https://www.nytimes.com/2026/02/23/us/politics/judges-contempt-immigration-trump.html)
-
-At least 35 times since August, federal judges have ordered the administration to explain why it should not be punished for violating their orders in immigration cases.
+Trump appointees have transformed the F.T.C. and F.C.C. into instruments of ideological enforcement.
 
 
-3. [Peter Attia Leaves CBS News Amid Epstein Files Fallout](https://www.nytimes.com/2026/02/23/well/peter-attia-cbs-epstein.html)
+2. [What Travelers Need to Know as Cartel Violence Rattles Mexico](https://www.nytimes.com/2026/02/23/travel/cartel-violence-mexico-el-mencho-travel-flights.html)
 
-Emails showed that the longevity influencer had provided medical advice to Jeffrey Epstein and had made crude comments about women.
-
-
-4. [Interactive Maps and Charts: Tracking the Northeast Winter Storm](https://www.nytimes.com/interactive/2026/02/22/weather/noreaster-snowfall-map.html)
-
-See where snowfall and cold temperatures are expected.
+The killing of a drug lord and the unrest that followed prompted flight cancellations, roadblocks, cruise disruptions and “shelter in place” alerts.
 
 
-5. [Binance Employees Find $1.7 Billion in Crypto Was Sent to Iranian Entities](https://www.nytimes.com/2026/02/23/technology/binance-employees-iran-firings.html)
+3. [State of the Union May Be a Trial for ‘Barely Invited’ Justices](https://www.nytimes.com/2026/02/24/us/politics/supreme-court-state-of-the-union.html)
 
-Binance pledged to crack down on crime. But internal investigators at the world’s largest crypto exchange continued to find evidence of potential legal violations on the platform.
+If tradition holds, members of the Supreme Court will attend Trump’s annual speech, just days after ruling against the legality of his tariffs.
+
+
+4. [Texas Representative Is Pressured to Resign Over Messages to Staff Member](https://www.nytimes.com/2026/02/23/us/tony-gonzales-texas-texts-staff-resign.html)
+
+Democrats and Republicans urged Tony Gonzales to step down after allegations that he had sent inappropriate texts to a staff member and had a sexual relationship with her.
+
+
+5. [Mexican Forces Say They Tracked El Mencho to Cabin by Following His Lover](https://www.nytimes.com/2026/02/23/world/americas/el-mencho-mexico-cartel-military-raid.html)
+
+Top security officials revealed details of the operation that led to the death of Mexico’s most wanted drug cartel leader.
 
 
 6. [Jeff and Lauren Sánchez Bezos Will Be Honorary Chairs of the Met Gala](https://www.nytimes.com/2026/02/23/style/jeff-and-lauren-sanchez-bezos-honorary-chairs-met-gala.html)
@@ -30,23 +30,23 @@ Binance pledged to crack down on crime. But internal investigators at the world�
 The news came tucked into the second page of a recent news release.
 
 
-7. [How a Tourette’s Outburst of a Racist Slur Caused a Backlash at the BAFTAs](https://www.nytimes.com/2026/02/23/movies/baftas-tourettes.html)
+7. [Key Witness Who Disputed ICE Account of Fatal Texas Shooting Dies in Car Accident](https://www.nytimes.com/2026/02/23/us/ice-shooting-texas-witness-dead.html)
 
-A racist slur, shouted involuntarily while Michael B. Jordan and Delroy Lindo were presenting an award, raised questions about how the show’s host and the BBC responded.
-
-
-8. [Mayhem Rocks Mexico After Most-Wanted Cartel Boss Is Killed](https://www.nytimes.com/2026/02/22/world/americas/jalisco-new-generation-cartel-leader-killed.html)
-
-“El Mencho” was the longtime head of one of the nation’s most powerful cartels. Armed groups set fire to cars and buildings across Mexico in the wake of his death.
+A passenger in the car with Ruben Ray Martinez wrote that the men were trying to comply with authorities before Mr. Martinez was shot. The passenger, Joshua Orta, died in a car accident on Saturday.
 
 
-9. [Let’s Stop Getting Distracted From This Crucial Question About Exercise](https://www.nytimes.com/2026/02/23/opinion/exercise-data-routine-optimization.html)
+8. [The Trump 1 Percent Fan Club Has a Lot of New Members](https://www.nytimes.com/2026/02/24/opinion/trump-1-percent-elites-taxes.html)
 
-We will probably never get good data to answer the question of which exercise routine is best.
+There are some elites the president likes.
 
 
-10. [Nick Reiner Pleads Not Guilty in the Killing of His Parents](https://www.nytimes.com/2026/02/23/arts/nick-reiner-plea.html)
+9. [Medical Associations Trusted Belief Over Science on Youth Gender Care](https://www.nytimes.com/2026/02/24/opinion/medical-associations-youth-gender-care.html)
 
-Mr. Reiner, 32, was charged with murdering his parents, the Hollywood director Rob Reiner and Michele Singer Reiner, last year.
+Trust the science? Which science?
+
+
+10. [Late Night Sums Up Trump’s Tariff Tiff with the Supreme Court](https://www.nytimes.com/2026/02/24/arts/television/late-night-trump-tariff.html)
+
+“Wow, a court composed mostly of his own party’s appointees has struck down the constitutionality of Trump’s go-it-alone tariff regime,” Jon Stewart said. “That’s bound to cause him some introspection.”
 
 
