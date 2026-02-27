@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-27 17:41:28)
+## 📰 NYTimes Most Popular (Updated: 2026-02-27 18:55:27)
 
-1. [Justice Department Exposed Cooperating Witnesses in Epstein Files](https://www.nytimes.com/2026/02/26/nyregion/epstein-cooperating-witnesses-redaction-error.html)
+1. [America, We Have a Math Problem](https://www.nytimes.com/2026/02/26/opinion/trump-math-state-of-the-union.html)
 
-The disclosure is the latest example of how the urgent push to release the files led to the government publicizing information it would normally keep under wraps.
+The Trump administration is creative when it comes to numbers.
 
 
-2. [Netflix Backs Out of Bid for Warner Bros., Paving Way for an Ellison Takeover](https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html)
+2. [Patel Ousts F.B.I. Personnel Tied to Inquiry Into Trump’s Retained Classified Records](https://www.nytimes.com/2026/02/25/us/politics/patel-fbi-firings-trump-classified-records.html)
+
+The firings are part of a rolling barrage of retribution aimed at those who worked on the two federal prosecutions of President Trump.
+
+
+3. [Columbia Student Is Released From ICE After Mamdani-Trump Meeting](https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html)
+
+Federal officials had misrepresented themselves to gain access, according to the university. Mayor Zohran Mamdani said President Trump had told him the student would be let go.
+
+
+4. [Netflix Backs Out of Bid for Warner Bros., Paving Way for an Ellison Takeover](https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html)
 
 The move was a stunning development in the long-running corporate battle for the storied media giant.
 
 
-3. [New A.C.A. Plans Could Increase Family Deductibles to $31,000](https://www.nytimes.com/2026/02/26/health/obamacare-health-insurance-rollbacks.html)
+5. [The Shields Are Down, Mr. President](https://www.nytimes.com/2026/02/27/opinion/trump-cabinet-noem-bondi-hegseth-lutnick.html)
 
-The Trump administration is proposing Obamacare plans that it says will lower health insurance premiums. But critics warn they would make care unaffordable.
-
-
-4. [For Hillary Clinton, an Epstein Deposition Is the Latest ‘Stand by Your Man’ Moment](https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html)
-
-The former first lady, senator and secretary of state had no dealings with Jeffrey Epstein but is once again under pressure to answer for the actions and relationships of her husband.
-
-
-5. [Cornyn, Paxton, Hunt: It’s a Republican Showdown in Texas](https://www.nytimes.com/interactive/2026/02/26/opinion/texas-senate-candidates.html)
-
-Times Opinion convened a panel of state experts to weigh in on the Senate Republican primary.
+Personnel once meant policy; now it means flattery.
 
 
 6. [Trump’s Push for Election Power Raises Fears He Will ‘Subvert’ Midterms](https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html)
@@ -30,23 +30,23 @@ Times Opinion convened a panel of state experts to weigh in on the Senate Republ
 The president appears to be undermining Americans’ faith in the outcome, at a moment when Republicans face an uphill climb to keep control of Congress.
 
 
-7. [Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Government](https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html)
+7. [Ilhan Omar Condemns Arrest of State of the Union Guest](https://www.nytimes.com/2026/02/25/us/politics/ilhan-omar-state-of-the-union-arrest.html)
 
-The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.
-
-
-8. [In Tense Deposition, Hillary Clinton Denies Knowing Epstein or His Crimes](https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html)
-
-After resisting testifying for months, the former secretary of state entered the session defiant, and grew irate after a Republican leaked a photo from inside the room.
+Aliya Rahman, a U.S. citizen who was dragged from her vehicle after an ICE agent shattered its window, was charged with unlawful conduct after standing up during President Trump’s speech.
 
 
-9. [Columbia Student Is Released From ICE After Mamdani-Trump Meeting](https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html)
+8. [What Your DNA Reveals About the Sex Life of Neanderthals](https://www.nytimes.com/2026/02/26/science/human-evolution-neanderthal-sex.html)
 
-Federal officials had misrepresented themselves to gain access, according to the university. Mayor Zohran Mamdani said President Trump had told him the student would be let go.
+Most people alive today carry fragments of Neanderthal DNA in their genome. Now scientists are gaining a more intimate understanding of the ancient encounters that put it there.
 
 
-10. [Online Accusations in Guthrie Abduction Leave One Family ‘Scared Numb’](https://www.nytimes.com/2026/02/25/us/nancy-guthrie-true-crime-accusations.html)
+9. [Super-Agers’ Brains Have a Special Ability, New Study Suggests](https://www.nytimes.com/2026/02/25/well/mind/super-agers-brain-neurons.html)
 
-A fifth-grade teacher and his principal wife hid in their bedroom as dozens of people who believed he might be a kidnapper appeared on their suburban street.
+The findings may help explain why this group has such exceptional memory.
+
+
+10. [For Hillary Clinton, an Epstein Deposition Is the Latest ‘Stand by Your Man’ Moment](https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html)
+
+The former first lady, senator and secretary of state had no dealings with Jeffrey Epstein but is once again under pressure to answer for the actions and relationships of her husband.
 
 
