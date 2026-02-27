@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-27 08:52:03)
+## 📰 NYTimes Most Popular (Updated: 2026-02-27 09:52:36)
 
-1. [For Trump, Military Strike in Iran Could Serve Symbolic Purpose](https://www.nytimes.com/2026/02/26/us/politics/trump-iran-strike.html)
+1. [For Hillary Clinton, an Epstein Deposition Is the Latest ‘Stand by Your Man’ Moment](https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html)
 
-Some officials in the Trump administration hope an attack would force Iran to give up its nuclear enrichment program. Others have doubts.
-
-
-2. [In Tense Deposition, Hillary Clinton Denies Knowing Epstein or His Crimes](https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html)
-
-After resisting testifying for months, the former secretary of state entered the session defiant, and grew irate after a Republican leaked a photo from inside the room.
+The former first lady, senator and secretary of state had no dealings with Jeffrey Epstein but is once again under pressure to answer for the actions and relationships of her husband.
 
 
-3. [Epstein Files Are Missing Records About Woman Who Made Claim Against Trump](https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html)
+2. [America, We Have a Math Problem](https://www.nytimes.com/2026/02/26/opinion/trump-math-state-of-the-union.html)
 
-Documents released by the Justice Department briefly mention a woman’s unverified accusation that Donald J. Trump assaulted her in the 1980s, when she was a minor. But several memos related to her account are not in the files.
-
-
-4. [Why Are So Many Teen Girls Still Tearing Their A.C.L.s?](https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html)
-
-For years, ligament tears have been a crisis among young athletes — even though a few simple exercises can prevent them.
+The Trump administration is creative when it comes to numbers.
 
 
-5. [Online Accusations in Guthrie Abduction Leave One Family ‘Scared Numb’](https://www.nytimes.com/2026/02/25/us/nancy-guthrie-true-crime-accusations.html)
+3. [Crypto Is Pointless. Not Even the White House Can Fix That.](https://www.nytimes.com/2026/02/26/opinion/crypto-trump-bitcoin-clarity-genius.html)
 
-A fifth-grade teacher and his principal wife hid in their bedroom as dozens of people who believed he might be a kidnapper appeared on their suburban street.
-
-
-6. [Ilhan Omar Condemns Arrest of State of the Union Guest](https://www.nytimes.com/2026/02/25/us/politics/ilhan-omar-state-of-the-union-arrest.html)
-
-Aliya Rahman, a U.S. citizen who was dragged from her vehicle after an ICE agent shattered its window, was charged with unlawful conduct after standing up during President Trump’s speech.
+Ryan Cummings and Jared Bernstein argue that the industry is struggling because its core product is basically useless.
 
 
-7. [Columbia Student Is Released From ICE After Mamdani-Trump Meeting](https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html)
-
-Federal officials had misrepresented themselves to gain access, according to the university. Mayor Zohran Mamdani said President Trump had told him the student would be let go.
-
-
-8. [Trump Has Lost Touch With Reality](https://www.nytimes.com/2026/02/26/opinion/trump-state-union-carterls-mexico.html)
-
-The president is becoming the very thing that destroyed the Democrats: a reality-denying machine.
-
-
-9. [U.S. Mortgage Rates Fall Below 6% for First Time in Years](https://www.nytimes.com/2026/02/26/business/mortgage-rates-30-year.html)
+4. [U.S. Mortgage Rates Fall Below 6% for First Time in Years](https://www.nytimes.com/2026/02/26/business/mortgage-rates-30-year.html)
 
 The evidence is patchy on whether lower rates have meaningfully spurred more activity, as the Trump administration floats measures it says will make housing more affordable.
 
 
-10. [Super-Agers’ Brains Have a Special Ability, New Study Suggests](https://www.nytimes.com/2026/02/25/well/mind/super-agers-brain-neurons.html)
+5. [Super-Agers’ Brains Have a Special Ability, New Study Suggests](https://www.nytimes.com/2026/02/25/well/mind/super-agers-brain-neurons.html)
 
 The findings may help explain why this group has such exceptional memory.
+
+
+6. [Why Are So Many Teen Girls Still Tearing Their A.C.L.s?](https://www.nytimes.com/2026/02/26/magazine/acl-tear-women-girl-sports.html)
+
+For years, ligament tears have been a crisis among young athletes — even though a few simple exercises can prevent them.
+
+
+7. [Online Accusations in Guthrie Abduction Leave One Family ‘Scared Numb’](https://www.nytimes.com/2026/02/25/us/nancy-guthrie-true-crime-accusations.html)
+
+A fifth-grade teacher and his principal wife hid in their bedroom as dozens of people who believed he might be a kidnapper appeared on their suburban street.
+
+
+8. [Cornyn, Paxton, Hunt: It’s a Republican Showdown in Texas](https://www.nytimes.com/interactive/2026/02/26/opinion/texas-senate-candidates.html)
+
+Times Opinion convened a panel of state experts to weigh in on the Senate Republican primary.
+
+
+9. [Netflix Backs Out of Bid for Warner Bros., Paving Way for an Ellison Takeover](https://www.nytimes.com/2026/02/26/business/warner-bros-discovery-paramount-deal-netflix.html)
+
+The move was a stunning development in the long-running corporate battle for the storied media giant.
+
+
+10. [Patel Ousts F.B.I. Personnel Tied to Inquiry Into Trump’s Retained Classified Records](https://www.nytimes.com/2026/02/25/us/politics/patel-fbi-firings-trump-classified-records.html)
+
+The firings are part of a rolling barrage of retribution aimed at those who worked on the two federal prosecutions of President Trump.
 
 
