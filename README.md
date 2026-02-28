@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-27 23:31:19)
+## 📰 NYTimes Most Popular (Updated: 2026-02-28 02:29:17)
 
-1. [Trump Has Lost Touch With Reality](https://www.nytimes.com/2026/02/26/opinion/trump-state-union-carterls-mexico.html)
+1. [The 2028 Democratic Presidential Contenders, Ranked by Nate Silver](https://www.nytimes.com/2026/02/20/opinion/2028-democrats-presidential-primary.html)
 
-The president is becoming the very thing that destroyed the Democrats: a reality-denying machine.
-
-
-2. [Super-Agers’ Brains Have a Special Ability, New Study Suggests](https://www.nytimes.com/2026/02/25/well/mind/super-agers-brain-neurons.html)
-
-The findings may help explain why this group has such exceptional memory.
+On the lookout for electoral overperformers.
 
 
-3. [America, We Have a Math Problem](https://www.nytimes.com/2026/02/26/opinion/trump-math-state-of-the-union.html)
+2. [Trump Orders Government to Stop Using Anthropic After Pentagon Standoff](https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html)
 
-The Trump administration is creative when it comes to numbers.
-
-
-4. [For Hillary Clinton, an Epstein Deposition Is the Latest ‘Stand by Your Man’ Moment](https://www.nytimes.com/2026/02/25/us/politics/hillary-clinton-epstein-deposition.html)
-
-The former first lady, senator and secretary of state had no dealings with Jeffrey Epstein but is once again under pressure to answer for the actions and relationships of her husband.
+The company had clashed with the military over how officials wanted to use its cutting-edge A.I. model. The order could vastly complicate intelligence analysis and defense work.
 
 
-5. [Trump’s Push for Election Power Raises Fears He Will ‘Subvert’ Midterms](https://www.nytimes.com/2026/02/25/us/politics/trump-elections-midterms.html)
+3. [U.S. Says Staff Can Leave Israel, Urging Speed, as Possible Iran Strike Looms](https://www.nytimes.com/2026/02/27/world/middleeast/us-embassy-jerusalem-authorized-departure.html)
 
-The president appears to be undermining Americans’ faith in the outcome, at a moment when Republicans face an uphill climb to keep control of Congress.
-
-
-6. [Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Government](https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html)
-
-The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.
+In an email to embassy workers Friday morning, Ambassador Mike Huckabee warned them that if they wanted to leave Israel, they “should do so TODAY.”
 
 
-7. [Columbia Student Is Released From ICE After Mamdani-Trump Meeting](https://www.nytimes.com/2026/02/26/nyregion/columbia-university-ice-student.html)
+4. [Why Trump’s Fearmongering Is Falling Flat With Voters](https://www.nytimes.com/2026/02/27/opinion/trump-state-of-the-union-fear.html)
 
-Federal officials had misrepresented themselves to gain access, according to the university. Mayor Zohran Mamdani said President Trump had told him the student would be let go.
-
-
-8. [The Shields Are Down, Mr. President](https://www.nytimes.com/2026/02/27/opinion/trump-cabinet-noem-bondi-hegseth-lutnick.html)
-
-Personnel once meant policy; now it means flattery.
+The State of the Union was full of fearmongering. That strategy isn’t working with voters anymore — and Donald Trump is handing Democrats a gift.
 
 
-9. [Epstein Files Are Missing Records About Woman Who Made Claim Against Trump](https://www.nytimes.com/2026/02/25/us/politics/trump-epstein-files.html)
+5. [Trump’s Foreign Policy: Resurrecting Empire](https://www.nytimes.com/2026/02/27/us/politics/trump-rubio-foreign-policy-empire.html)
 
-Documents released by the Justice Department briefly mention a woman’s unverified accusation that Donald J. Trump assaulted her in the 1980s, when she was a minor. But several memos related to her account are not in the files.
+President Trump’s approach is a revival of the mission of empire — acquiring the territories and resources of sovereign peoples.
 
 
-10. [The Birthrate Is Plunging. Why Some Say That’s a Good Thing.](https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-women.html)
+6. [Lauren Chapin, Youngest Child on ‘Father Knows Best,’ Dies at 80](https://www.nytimes.com/2026/02/25/arts/television/lauren-chapin-dead.html)
 
-The political class is worried about the historic drop. But the biggest change is among the youngest women, who are the least ready to have children.
+For six seasons, she was Kathy, a giggly tomboy whose father, played by Robert Young, called her Kitten. Her offscreen life, however, was harrowing.
+
+
+7. [In Tense Deposition, Hillary Clinton Denies Knowing Epstein or His Crimes](https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html)
+
+After resisting testifying for months, the former secretary of state entered the session defiant, and grew irate after a Republican leaked a photo from inside the room.
+
+
+8. [A Laser, a Shutdown of Airspace and Signs of Government Agencies at Odds](https://www.nytimes.com/2026/02/26/us/drone-faa-dhs-el-paso-airspace.html)
+
+After the downing of a Customs and Border Protection drone, the F.A.A. closed the airspace above Texas for the second time in a month.
+
+
+9. [For CNN, a Change in Ownership Means a Suddenly Uncertain Future](https://www.nytimes.com/2026/02/27/business/media/cnn-paramount-david-ellison.html)
+
+Paramount’s apparent victory over Netflix in securing Warner Bros. Discovery has led to concerns within the CNN newsroom about editorial independence.
+
+
+10. [I Grew Up Unvaccinated. Now I’m an Immunologist.](https://www.nytimes.com/2026/02/27/opinion/growing-up-unvaccinated.html)
+
+For a long time, I was angry at my mom for not vaccinating me.
 
 
