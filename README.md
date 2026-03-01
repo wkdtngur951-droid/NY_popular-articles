@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-02-28 23:29:31)
+## 📰 NYTimes Most Popular (Updated: 2026-03-01 02:55:41)
 
-1. [The Shields Are Down, Mr. President](https://www.nytimes.com/2026/02/27/opinion/trump-cabinet-noem-bondi-hegseth-lutnick.html)
+1. [Park Service to Revive Statue of Founding Father Who Enslaved Hundreds](https://www.nytimes.com/2026/02/28/climate/caesar-rodney-statue-trump.html)
 
-Personnel once meant policy; now it means flattery.
+Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer.
 
 
 2. [What to Know About the U.S. Attacks on Iran](https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html)
@@ -10,43 +10,43 @@ Personnel once meant policy; now it means flattery.
 The United States and Israel launched a major assault that reportedly has killed Iran’s supreme leader, Ayatollah Ali Khamenei.
 
 
-3. [The New York Times News Quiz, Feb. 27, 2026](https://www.nytimes.com/interactive/2026/02/27/briefing/trump-us-hockey-team-el-mencho-news-quiz.html)
+3. [OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash](https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-4. [Trump’s Attack on Iran Is Reckless](https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html)
-
-Donald Trump promised voters that he would end wars, not start them.
+The deal came hours after President Trump had ordered federal agencies to stop using artificial intelligence technology made by Anthropic, an OpenAI rival.
 
 
-5. [The Birthrate Is Plunging. Why Some Say That’s a Good Thing.](https://www.nytimes.com/2026/02/27/us/politics/us-birthrate-decline-women.html)
+4. [Iran Hits Back Across the Mideast, Targeting U.S. Bases and Allies](https://www.nytimes.com/2026/02/28/world/middleeast/iran-retaliatory-strikes-region.html)
 
-The political class is worried about the historic drop. But the biggest change is among the youngest women, who are the least ready to have children.
-
-
-6. [In Tense Deposition, Hillary Clinton Denies Knowing Epstein or His Crimes](https://www.nytimes.com/2026/02/26/us/politics/hillary-clinton-epstein-deposition-lauren-boebert.html)
-
-After resisting testifying for months, the former secretary of state entered the session defiant, and grew irate after a Republican leaked a photo from inside the room.
+Waves of retaliatory strikes were reported in Israel and across several Gulf countries on Saturday. The Emirati government said at least one person was killed from falling missile debris.
 
 
-7. [Pakistan Strikes Afghanistan in ‘Open War’ Against Taliban Government](https://www.nytimes.com/2026/02/26/world/asia/pakistan-afghanistan-taliban.html)
+5. [The Bloody Rise and Fall of Mexico’s Top Crime Boss](https://www.nytimes.com/2026/02/28/world/americas/mexico-mencho-career-death.html)
 
-The airstrikes came hours after Afghan troops had attacked Pakistani border positions and follow months of worsening relations between the neighboring countries.
-
-
-8. [Trump Orders Government to Stop Using Anthropic After Pentagon Standoff](https://www.nytimes.com/2026/02/27/us/politics/anthropic-military-ai.html)
-
-The company had clashed with the military over how officials wanted to use its cutting-edge A.I. model. The order could vastly complicate intelligence analysis and defense work.
+El Mencho’s brutality and business acumen put him atop the cartel world, until he made a fatal mistake.
 
 
-9. [Neil Sedaka, Singing Craftsman of Memorable Pop Songs, Dies at 86](https://www.nytimes.com/2026/02/27/arts/music/neil-sedaka-dead.html)
+6. [Here’s What Members of Congress Are Saying About the Attacks on Iran](https://www.nytimes.com/2026/02/28/world/middleeast/congress-iran-attacks-reaction.html)
 
-He sang and co-wrote some of the definitive teenage anthems of the 1950s and early ’60s, including “Breaking Up Is Hard to Do,” and then reinvented his career in the ’70s.
+As explosions rocked Tehran, Republicans largely voiced support as Democrats warned about a costly and unauthorized conflict.
 
 
-10. [Justice Thomas Bemoans Incivility as Security Prompts Cancellation of In-Person Speech](https://www.nytimes.com/2026/02/27/us/politics/supreme-court-thomas-security.html)
+7. [In the Northwest, Polyamory Finds Something New: Legal Protection](https://www.nytimes.com/2026/02/28/us/pacific-northwest-polyamory-legal-protection.html)
+
+From big cities like Seattle and Portland, Ore., to small ones like Astoria, Ore., proponents of “nontraditional” romantic relationships are making headway in getting legal recognition.
+
+
+8. [Justice Thomas Bemoans Incivility as Security Prompts Cancellation of In-Person Speech](https://www.nytimes.com/2026/02/27/us/politics/supreme-court-thomas-security.html)
 
 The justice participated remotely in a closed-door session of a legal conference, a reminder of the heightened threats facing jurists in recent years.
+
+
+9. [How Israel Lost Americans](https://www.nytimes.com/2026/02/27/opinion/israel-american-public-opinion.html)
+
+Netanyahu and his government deserve the growing bipartisan opprobrium they’re receiving.
+
+
+10. [Trump’s Attack on Iran Is Reckless](https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html)
+
+Donald Trump promised voters that he would end wars, not start them.
 
 
