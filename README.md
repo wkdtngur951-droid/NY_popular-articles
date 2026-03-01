@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-01 14:30:40)
+## 📰 NYTimes Most Popular (Updated: 2026-03-01 15:30:42)
 
-1. [Kash Patel’s Girlfriend Seeks Fame and Fortune, Escorted by an F.B.I. SWAT Team](https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html)
+1. [The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.](https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html)
 
-Former F.B.I. officials say Mr. Patel beefed up field office staffing near his girlfriend in Nashville and ordered a team to ferry her on errands and to events.
-
-
-2. [Diagramming the Blows to Iran’s Leadership](https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html)
-
-Among those killed in strikes, according to the U.S. and Israel, were Iran’s supreme leader and three of his top military commanders.
+The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
 
 
-3. [Maggie Gyllenhaal on Envy, Rage and Reaching Out to Her Brother](https://www.nytimes.com/2026/02/28/magazine/maggie-gyllenhaal-interview.html)
+2. [For Trump, the Iran Attack Is the Ultimate War of Choice](https://www.nytimes.com/2026/02/28/us/politics/trump-iran-attack.html)
 
-With a big budget and a lot to say, the filmmaker is unleashing her inner monster with “The Bride!”
-
-
-4. [Park Service to Revive Statue of Founding Father Who Enslaved Hundreds](https://www.nytimes.com/2026/02/28/climate/caesar-rodney-statue-trump.html)
-
-Caesar Rodney, whose statue was placed in storage amid racial injustice protests in 2020, will be honored in Washington this summer.
+There was no immediate threat from Iran. But the president saw a chance to push a weakened government over the edge, and is betting he can spark a popular uprising.
 
 
-5. [Justice Thomas Bemoans Incivility as Security Prompts Cancellation of In-Person Speech](https://www.nytimes.com/2026/02/27/us/politics/supreme-court-thomas-security.html)
+3. [Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86](https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html)
 
-The justice participated remotely in a closed-door session of a legal conference, a reminder of the heightened threats facing jurists in recent years.
+As Iran’s second supreme leader, he brutally crushed dissent at home and expanded Iran’s footprint abroad, challenging Saudi Arabia for regional dominance.
+
+
+4. [The Bloody Rise and Fall of Mexico’s Top Crime Boss](https://www.nytimes.com/2026/02/28/world/americas/mexico-mencho-career-death.html)
+
+El Mencho’s brutality and business acumen put him atop the cartel world, until he made a fatal mistake.
+
+
+5. [Here’s What World Leaders Are Saying About the U.S.-Led Attack on Iran](https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-reaction.html)
+
+Governments around the world urged restraint after the United States and Israel launched a major assault, and Iran vowed retaliation.
 
 
 6. [Trump’s Attack on Iran Is Reckless](https://www.nytimes.com/2026/02/28/opinion/iran-attack-trump-war.html)
@@ -30,9 +30,9 @@ The justice participated remotely in a closed-door session of a legal conference
 Donald Trump promised voters that he would end wars, not start them.
 
 
-7. [Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’](https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html)
+7. [‘Avalanche!’: Survivors Recount the Tragedy at Perry’s Peak](https://www.nytimes.com/interactive/2026/02/28/us/tahoe-avalanche-survivors.html)
 
-A small stable of doctors gave V.I.P. medical services to the sex offender and the women around him. Some doctors bent or broke the ethical rules of their profession.
+The story of how nine skiers were killed, and six survived, in the deadliest avalanche in modern California history.
 
 
 8. [What to Know About the U.S. Attacks on Iran](https://www.nytimes.com/2026/02/28/world/middleeast/iran-attacks-what-to-know.html)
@@ -40,13 +40,13 @@ A small stable of doctors gave V.I.P. medical services to the sex offender and t
 Iran’s supreme leader, Ayatollah Ali Khamenei, was killed in the major assault launched by the United States and Israel.
 
 
-9. [‘Avalanche!’: Survivors Recount the Tragedy at Perry’s Peak](https://www.nytimes.com/interactive/2026/02/28/us/tahoe-avalanche-survivors.html)
+9. [Justice Thomas Bemoans Incivility as Security Prompts Cancellation of In-Person Speech](https://www.nytimes.com/2026/02/27/us/politics/supreme-court-thomas-security.html)
 
-The story of how nine skiers were killed, and six survived, in the deadliest avalanche in modern California history.
+The justice participated remotely in a closed-door session of a legal conference, a reminder of the heightened threats facing jurists in recent years.
 
 
-10. [The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.](https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html)
+10. [Flashback: Your Weekly History Quiz, Feb. 28, 2026](https://www.nytimes.com/interactive/2026/02/27/upshot/flashback.html)
 
-The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
+Can you sort 8 historical events?
 
 
