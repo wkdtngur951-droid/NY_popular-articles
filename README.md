@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-02 22:35:29)
+## 📰 NYTimes Most Popular (Updated: 2026-03-02 23:33:52)
 
-1. [The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.](https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html)
-
-The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
-
-
-2. [How to Think About Trump’s War With Iran](https://www.nytimes.com/2026/03/02/opinion/trump-iran-war-future.html)
-
-Ending the Islamic republic’s regime will be long and arduous, but perhaps a softer version will emerge.
-
-
-3. [Iran Got Trump All Wrong](https://www.nytimes.com/2026/03/01/opinion/iran-trump-bad-faith.html)
-
-We should not squander this moment, when Iran is uniquely weak and vulnerable and we hold all of the advantages — literally.
-
-
-4. [War and Peace Cannot Be Left to One Man — Especially Not This Man](https://www.nytimes.com/2026/03/01/opinion/trump-iran-congress-approval.html)
-
-The Constitution isn’t a technicality.
-
-
-5. [Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late.](https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html)
+1. [Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late.](https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html)
 
 Heinous allegations have prompted state officials to restart an inquiry, which went cold in 2019, into the convicted sex offender’s lesser-known property.
 
 
-6. [The U.S. Released the Epstein Files. The Arrests Are Overseas.](https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html)
+2. [Iran Got Trump All Wrong](https://www.nytimes.com/2026/03/01/opinion/iran-trump-bad-faith.html)
 
-While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place.
+We should not squander this moment, when Iran is uniquely weak and vulnerable and we hold all of the advantages — literally.
 
 
-7. [Democrats Denounce Trump’s Iran Attack, but Subtle Divisions Emerge](https://www.nytimes.com/2026/03/01/us/politics/trump-iran-attack-democratic-divisions.html)
+3. [Democrats Denounce Trump’s Iran Attack, but Subtle Divisions Emerge](https://www.nytimes.com/2026/03/01/us/politics/trump-iran-attack-democratic-divisions.html)
 
 While most Democrats have opposed his decision, their responses reveal differences over Middle East policy and national security that loom over the party’s future.
 
 
-8. [F.B.I. Investigates Whether Texas Bar Shooting Was Act of Terror](https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html)
+4. [Trump May Come to Regret This](https://www.nytimes.com/2026/03/02/opinion/trump-iran.html)
 
-The shooter killed two and injured 14 early Sunday at an Austin bar. The police and the F.B.I. searched the home of a suspect who was shot and killed by authorities at the scene.
+The old U.S.-led order is dead. The new one feels unstable and ominous, as if a storm could descend at any moment.
 
 
-9. [3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says](https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html)
+5. [3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says](https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html)
 
 Separately, a drone attack hit the U.S. Embassy compound in the Persian Gulf state, as Iran continues to target American assets across the Middle East.
 
 
-10. [Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’](https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html)
+6. [Diagramming the Blows to Iran’s Leadership](https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html)
 
-A small stable of doctors gave V.I.P. medical services to the sex offender and the women around him. Some doctors bent or broke the ethical rules of their profession.
+Among those killed in strikes, according to the U.S. and Israel, were Iran’s supreme leader and three of his top military commanders.
+
+
+7. [14 Unforgettable Looks at the SAG Actor Awards](https://www.nytimes.com/2026/03/01/style/sag-actor-awards-looks-fashion.html)
+
+Painted torsos, tulip skirts, Jazz Age style and more.
+
+
+8. [Kash Patel’s Girlfriend Seeks Fame and Fortune, Escorted by an F.B.I. SWAT Team](https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html)
+
+Former F.B.I. officials say Mr. Patel beefed up field office staffing near his girlfriend in Nashville and ordered a team to ferry her on errands and to events.
+
+
+9. [Why the Epstein Investigations Took So Long and Did So Little](https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html)
+
+Decades of tips and investigations yielded charges against only two people. A combination of missed chances, narrow laws and prosecutors’ limited focus helps explain why.
+
+
+10. [The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.](https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html)
+
+The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
 
 
