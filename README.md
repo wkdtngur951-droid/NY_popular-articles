@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-02 14:51:00)
+## 📰 NYTimes Most Popular (Updated: 2026-03-02 15:49:34)
 
-1. [Iranians Take to the Streets to Celebrate Khamenei’s Death](https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html)
+1. [The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.](https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html)
 
-Some Iranians said on social media that they were privately mourning the supreme leader. But displays of exuberance broke out in cities across the country.
-
-
-2. [Trump Stays Out of Public View After U.S. Launches Military Assault on Iran](https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html)
-
-President Trump did not deliver a formal address to the American public to explain why the country was at war, a departure from his predecessors.
+The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
 
 
-3. [Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86](https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html)
+2. [Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86](https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html)
 
 As Iran’s second supreme leader, he brutally crushed dissent at home and expanded Iran’s footprint abroad, challenging Saudi Arabia for regional dominance.
+
+
+3. [Diagramming the Blows to Iran’s Leadership](https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html)
+
+Among those killed in strikes, according to the U.S. and Israel, were Iran’s supreme leader and three of his top military commanders.
 
 
 4. [War and Peace Cannot Be Left to One Man — Especially Not This Man](https://www.nytimes.com/2026/03/01/opinion/trump-iran-congress-approval.html)
@@ -20,33 +20,33 @@ As Iran’s second supreme leader, he brutally crushed dissent at home and expan
 The Constitution isn’t a technicality.
 
 
-5. [Why the Epstein Investigations Took So Long and Did So Little](https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html)
+5. [F.B.I. Investigates Whether Texas Bar Shooting Was Act of Terror](https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html)
 
-Decades of tips and investigations yielded charges against only two people. A combination of missed chances, narrow laws and prosecutors’ limited focus helps explain why.
-
-
-6. [The U.S. Released the Epstein Files. The Arrests Are Overseas.](https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html)
-
-While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place.
+The shooter killed two and injured 14 early Sunday at an Austin bar. The police and the F.B.I. searched the home of a suspect who was shot and killed by authorities at the scene.
 
 
-7. [Iran’s Attacks on Persian Gulf Countries Crack Their Safe Haven Image](https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html)
+6. [Iran Fires Cheap Drones Into Arab Countries, Wreaking Havoc](https://www.nytimes.com/2026/03/01/world/middleeast/iran-fires-drones.html)
 
-More than 100 people were injured and at least four were killed after Iran fired hundreds of missiles and drones at Gulf cities, including Dubai, Abu Dhabi and Doha.
+It already proved its effectiveness on the battlefields of Ukraine. Now the Iranian-made Shahed-136 kamikaze has been unleashed across the Persian Gulf.
 
 
-8. [Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’](https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html)
+7. [Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’](https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html)
 
 A small stable of doctors gave V.I.P. medical services to the sex offender and the women around him. Some doctors bent or broke the ethical rules of their profession.
 
 
-9. [Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late.](https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html)
+8. [Iran Got Trump All Wrong](https://www.nytimes.com/2026/03/01/opinion/iran-trump-bad-faith.html)
 
-Heinous allegations have prompted state officials to restart an inquiry, which went cold in 2019, into the convicted sex offender’s lesser-known property.
+We should not squander this moment, when Iran is uniquely weak and vulnerable and we hold all of the advantages — literally.
 
 
-10. [Diagramming the Blows to Iran’s Leadership](https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html)
+9. [Trump Stays Out of Public View After U.S. Launches Military Assault on Iran](https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html)
 
-Among those killed in strikes, according to the U.S. and Israel, were Iran’s supreme leader and three of his top military commanders.
+President Trump did not deliver a formal address to the American public to explain why the country was at war, a departure from his predecessors.
+
+
+10. [Trump Says War Could Last Weeks and Offers Contradictory Visions of New Regime](https://www.nytimes.com/2026/03/01/us/politics/trump-iran-war-interview.html)
+
+In a brief interview, he said the country’s hardened military should simply surrender their weapons to the Iranian public.
 
 
