@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-02 05:58:06)
+## 📰 NYTimes Most Popular (Updated: 2026-03-02 07:11:32)
 
-1. [Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late.](https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html)
+1. [Iran’s Regime May Survive, but the Middle East Will Be Changed](https://www.nytimes.com/2026/03/01/world/europe/iran-regime-middle-east-khamenei.html)
 
-Heinous allegations have prompted state officials to restart an inquiry, which went cold in 2019, into the convicted sex offender’s lesser-known property.
+A badly weakened Iran will no longer intimidate or threaten its neighbors in the same way. The regional impact could be comparable to the collapse of the Soviet Union.
 
 
-2. [Iranians Take to the Streets to Celebrate Khamenei’s Death](https://www.nytimes.com/2026/02/28/world/middleeast/iran-khameni-celebrations.html)
+2. [Why the Epstein Investigations Took So Long and Did So Little](https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html)
 
-Some Iranians said on social media that they were privately mourning the supreme leader. But displays of exuberance broke out in cities across the country.
+Decades of tips and investigations yielded charges against only two people. A combination of missed chances, narrow laws and prosecutors’ limited focus helps explain why.
 
 
 3. [The U.S. Released the Epstein Files. The Arrests Are Overseas.](https://www.nytimes.com/2026/03/01/world/europe/epstein-files-arrests-europe-uk.html)
@@ -15,38 +15,38 @@ Some Iranians said on social media that they were privately mourning the supreme
 While the latest tranche of documents about the sex offender Jeffrey Epstein has exposed a deeply American scandal, it is Europe where the aggressive enforcement is taking place.
 
 
-4. [War and Peace Cannot Be Left to One Man — Especially Not This Man](https://www.nytimes.com/2026/03/01/opinion/trump-iran-congress-approval.html)
+4. [‘It’s Surreal’: Iranians in Disbelief After Supreme Leader Is Killed](https://www.nytimes.com/2026/03/01/world/middleeast/iran-disbelief-khamenei-assassination.html)
 
-The Constitution isn’t a technicality.
+Large crowds of people celebrated the killing of Ayatollah Ali Khamenei in American and Israeli strikes, while many others gathered to mourn.
 
 
-5. [F.B.I. Investigates Whether Texas Bar Shooting Was Act of Terror](https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html)
+5. [Iran’s Attacks on Persian Gulf Countries Crack Their Safe Haven Image](https://www.nytimes.com/2026/03/01/world/middleeast/iran-attacks-dubai-persian-gulf-countries-retaliation.html)
+
+More than 100 people were injured and at least four were killed after Iran fired hundreds of missiles and drones at Gulf cities, including Dubai, Abu Dhabi and Doha.
+
+
+6. [The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.](https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html)
+
+The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
+
+
+7. [F.B.I. Investigates Whether Texas Bar Shooting Was Act of Terror](https://www.nytimes.com/2026/03/01/us/austin-shooting-bufords-6th-street.html)
 
 The shooter killed two and injured 14 early Sunday at an Austin bar. The police and the F.B.I. searched the home of a suspect who was shot and killed by authorities at the scene.
 
 
-6. [Why the Epstein Investigations Took So Long and Did So Little](https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html)
+8. [A Tyrant Falls. Dangerous Uncertainty Begins.](https://www.nytimes.com/2026/03/01/opinion/iran-khamenei-killed-what-next.html)
 
-Decades of tips and investigations yielded charges against only two people. A combination of missed chances, narrow laws and prosecutors’ limited focus helps explain why.
-
-
-7. [It’s an Obscure Psychedelic Used to Treat Trauma. Could It Help Me?](https://www.nytimes.com/2026/03/01/magazine/ibogaine-psychedelic-treatment-trauma-mental-health.html)
-
-Veterans and others who have suffered trauma and injuries are flocking to clinics around the world to take ibogaine. My own reason was deeply personal.
+No one should mourn Ayatollah Khamenei, but Trump is creating the opportunity for chaos and violence with his campaign against Iran.
 
 
-8. [Iran Got Trump All Wrong](https://www.nytimes.com/2026/03/01/opinion/iran-trump-bad-faith.html)
+9. [Iran Got Trump All Wrong](https://www.nytimes.com/2026/03/01/opinion/iran-trump-bad-faith.html)
 
 We should not squander this moment, when Iran is uniquely weak and vulnerable and we hold all of the advantages — literally.
 
 
-9. [Elite Doctors Served Jeffrey Epstein While Treating His ‘Girls’](https://www.nytimes.com/2026/02/28/us/jeffrey-epstein-doctors.html)
+10. [Ayatollah Ali Khamenei, Hard-Line Cleric Who Made Iran a Regional Power, Is Dead at 86](https://www.nytimes.com/2026/02/28/world/middleeast/ayatollah-ali-khamenei-dead.html)
 
-A small stable of doctors gave V.I.P. medical services to the sex offender and the women around him. Some doctors bent or broke the ethical rules of their profession.
-
-
-10. [Trump Stays Out of Public View After U.S. Launches Military Assault on Iran](https://www.nytimes.com/2026/02/28/us/politics/trump-iran-public-comments.html)
-
-President Trump did not deliver a formal address to the American public to explain why the country was at war, a departure from his predecessors.
+As Iran’s second supreme leader, he brutally crushed dissent at home and expanded Iran’s footprint abroad, challenging Saudi Arabia for regional dominance.
 
 
