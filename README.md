@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-03 13:14:07)
+## 📰 NYTimes Most Popular (Updated: 2026-03-03 14:52:49)
 
 1. [Trump Administration Abandons Efforts to Impose Orders on Law Firms](https://www.nytimes.com/2026/03/02/us/politics/trump-executive-orders-law-firms.html)
 
 The move amounts to a surrender in a clash that has led many law firms to submit to the president rather than face the threat of his executive orders.
 
 
-2. [6 Conservative Voters React to Attacks on Iran Ahead of the Texas Primaries](https://www.nytimes.com/2026/03/02/us/americans-react-iran-attacks.html)
+2. [Labor Secretary Is a Rare Presence at Department in Turmoil](https://www.nytimes.com/2026/03/02/us/politics/labor-secretary-chavez-deremer-investigation.html)
 
-President Trump said the attacks were necessary for U.S. security and to free the Iranian people from oppression. Do people who support him agree?
-
-
-3. [Democrats Denounce Trump’s Iran Attack, but Subtle Divisions Emerge](https://www.nytimes.com/2026/03/01/us/politics/trump-iran-attack-democratic-divisions.html)
-
-While most Democrats have opposed his decision, their responses reveal differences over Middle East policy and national security that loom over the party’s future.
+Lori Chavez-DeRemer is under investigation internally after allegations of misconduct and misuse of department funds.
 
 
-4. [Germany’s Chancellor Is in Washington. It Gets Worse.](https://www.nytimes.com/2026/03/02/opinion/merz-trump-visit-germany.html)
-
-Friedrich Merz’s chancellorship is in choppy waters.
-
-
-5. [Nothing to See Here, Folks](https://www.nytimes.com/2026/03/02/opinion/international-world/iran-hegseth-war.html)
+3. [Nothing to See Here, Folks](https://www.nytimes.com/2026/03/02/opinion/international-world/iran-hegseth-war.html)
 
 The American public has received too little information to effectively judge the goals and objectives of the largest U.S. military operation in the Middle East in a generation.
 
 
-6. [3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says](https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html)
+4. [3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says](https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html)
 
 Separately, a drone attack hit the U.S. Embassy compound in the Persian Gulf state, as Iran continues to target American assets across the Middle East.
 
 
-7. [How Trump Decided to Go to War](https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html)
+5. [Watch the Moon Turn Blood Red During a Total Lunar Eclipse](https://www.nytimes.com/2026/03/02/science/blood-moon-lunar-eclipse-time-when-tonight.html)
 
-President Trump’s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president’s advisers voiced opposition.
-
-
-8. [Welcome to Wyoming, the Frontier of America’s New Gilded Age](https://www.nytimes.com/2026/03/02/us/billionaire-boom-jackson-teton-wyoming.html)
-
-Jackson, Wyo., has long been a refuge for the rich. But the last five years saw a boom in wealth of a kind never before seen. Across the country, the 2017 tax cuts minted hundreds of new billionaires.
+Earth’s shadow will temporarily drape the moon in a copper hue before sunrise on Tuesday.
 
 
-9. [What to Know About the Widening Fallout From the Bombing of Iran](https://www.nytimes.com/2026/03/02/world/middleeast/iran-attacks-damage-what-to-know.html)
+6. [Latest Question on Trump’s Health: What Is That Neck Rash?](https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html)
 
-The Middle East is facing deaths and destruction as Iran retaliates against a huge American-Israeli military campaign.
+President Trump’s physician did not explain what the skin condition was or what medication he was using to treat it.
 
 
-10. [Trump May Come to Regret This](https://www.nytimes.com/2026/03/02/opinion/trump-iran.html)
+7. [Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late.](https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html)
 
-The old U.S.-led order is dead. The new one feels unstable and ominous, as if a storm could descend at any moment.
+Heinous allegations have prompted state officials to restart an inquiry, which went cold in 2019, into the convicted sex offender’s lesser-known property.
+
+
+8. [Our Hospice System Subverts the Very Point of Hospice Care](https://www.nytimes.com/2026/03/02/opinion/hospice-care.html)
+
+Too many hospice care responsibilities are placed on families.
+
+
+9. [14 Unforgettable Looks at the SAG Actor Awards](https://www.nytimes.com/2026/03/01/style/sag-actor-awards-looks-fashion.html)
+
+Painted torsos, tulip skirts, Jazz Age style and more.
+
+
+10. [After ‘Priceless’ Violin Flies on Lap, Lufthansa Changes Carry-On Rules](https://www.nytimes.com/2026/03/02/travel/musical-instruments-travel-accommodations.html)
+
+Carolin Widmann had to cradle her centuries-old, multimillion-dollar instrument during a flight to Germany. Her predicament resonated with musicians who have faced similar challenges.
 
 
