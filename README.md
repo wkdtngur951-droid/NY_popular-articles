@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-02 23:33:52)
+## 📰 NYTimes Most Popular (Updated: 2026-03-03 02:46:11)
 
-1. [Epstein’s New Mexico Ranch Gets Scrutiny at Last. It May Be Too Late.](https://www.nytimes.com/2026/03/01/us/jeffrey-epstein-new-mexico-zorro-ranch.html)
-
-Heinous allegations have prompted state officials to restart an inquiry, which went cold in 2019, into the convicted sex offender’s lesser-known property.
-
-
-2. [Iran Got Trump All Wrong](https://www.nytimes.com/2026/03/01/opinion/iran-trump-bad-faith.html)
-
-We should not squander this moment, when Iran is uniquely weak and vulnerable and we hold all of the advantages — literally.
-
-
-3. [Democrats Denounce Trump’s Iran Attack, but Subtle Divisions Emerge](https://www.nytimes.com/2026/03/01/us/politics/trump-iran-attack-democratic-divisions.html)
-
-While most Democrats have opposed his decision, their responses reveal differences over Middle East policy and national security that loom over the party’s future.
-
-
-4. [Trump May Come to Regret This](https://www.nytimes.com/2026/03/02/opinion/trump-iran.html)
+1. [Trump May Come to Regret This](https://www.nytimes.com/2026/03/02/opinion/trump-iran.html)
 
 The old U.S.-led order is dead. The new one feels unstable and ominous, as if a storm could descend at any moment.
 
 
-5. [3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says](https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html)
+2. [As Trump Bombs Iran, America’s Allies Watch Fitfully From Sidelines](https://www.nytimes.com/2026/03/02/world/europe/trump-iran-europe.html)
+
+Disregarded by President Trump over Iran, Europe’s leaders are adapting to a world in which they are little more than bystanders.
+
+
+3. [Our Hospice System Subverts the Very Point of Hospice Care](https://www.nytimes.com/2026/03/02/opinion/hospice-care.html)
+
+Too many hospice care responsibilities are placed on families.
+
+
+4. [Trump and Netanyahu Are Doing the Free World a Favor](https://www.nytimes.com/2026/03/01/opinion/trump-netanyahu-iran-free-world.html)
+
+American hearts should be moved by moments like this, when free nations band together to administer justice and supply hope.
+
+
+5. [Stocks Seesaw as Investors Brace for Iran War’s Economic Repercussions](https://www.nytimes.com/2026/03/01/business/stock-market-iran-war-fallout.html)
+
+The strikes come at a precarious time for stocks, forcing investors to weigh the fallout of a potential prolonged disruption to oil supplies and logistics.
+
+
+6. [3 U.S. Planes Are Shot Down in ‘Friendly Fire’ in Kuwait, U.S. Military Says](https://www.nytimes.com/2026/03/02/world/middleeast/iran-kuwait-us-attack-planes.html)
 
 Separately, a drone attack hit the U.S. Embassy compound in the Persian Gulf state, as Iran continues to target American assets across the Middle East.
-
-
-6. [Diagramming the Blows to Iran’s Leadership](https://www.nytimes.com/2026/02/28/world/middleeast/iran-leadership-khamenei-shamkhani-pakpour-nasirzadeh.html)
-
-Among those killed in strikes, according to the U.S. and Israel, were Iran’s supreme leader and three of his top military commanders.
 
 
 7. [14 Unforgettable Looks at the SAG Actor Awards](https://www.nytimes.com/2026/03/01/style/sag-actor-awards-looks-fashion.html)
@@ -35,18 +35,18 @@ Among those killed in strikes, according to the U.S. and Israel, were Iran’s s
 Painted torsos, tulip skirts, Jazz Age style and more.
 
 
-8. [Kash Patel’s Girlfriend Seeks Fame and Fortune, Escorted by an F.B.I. SWAT Team](https://www.nytimes.com/2026/02/28/us/politics/kash-patel-girlfriend.html)
+8. [How Trump Decided to Go to War](https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html)
 
-Former F.B.I. officials say Mr. Patel beefed up field office staffing near his girlfriend in Nashville and ordered a team to ferry her on errands and to events.
-
-
-9. [Why the Epstein Investigations Took So Long and Did So Little](https://www.nytimes.com/2026/03/01/us/epstein-justice-department-investigations.html)
-
-Decades of tips and investigations yielded charges against only two people. A combination of missed chances, narrow laws and prosecutors’ limited focus helps explain why.
+President Trump’s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president’s advisers voiced opposition.
 
 
-10. [The C.I.A. Helped Pinpoint a Gathering of Iranian Leaders. Then Israel Struck.](https://www.nytimes.com/2026/03/01/us/politics/cia-israel-ayatollah-compound.html)
+9. [Germany’s Chancellor Is in Washington. It Gets Worse.](https://www.nytimes.com/2026/03/02/opinion/merz-trump-visit-germany.html)
 
-The killing of Iran’s supreme leader and other top Iranian officials came after close intelligence sharing between the United States and Israel, according to people familiar with the operation.
+Friedrich Merz’s chancellorship is in choppy waters.
+
+
+10. [After ‘Priceless’ Violin Flies on Lap, Lufthansa Changes Carry-On Rules](https://www.nytimes.com/2026/03/02/travel/musical-instruments-travel-accommodations.html)
+
+Carolin Widmann had to cradle her centuries-old, multimillion-dollar instrument during a flight to Germany. Her predicament resonated with musicians who have faced similar challenges.
 
 
