@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-04 15:51:41)
+## 📰 NYTimes Most Popular (Updated: 2026-03-04 16:56:15)
 
-1. [Father’s Murder Conviction in School Attack Puts New Onus on Parents](https://www.nytimes.com/2026/03/03/us/colin-gray-verdict-apalachee-shooting.html)
+1. [Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor](https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html)
 
-A jury found that Colin Gray, the father of the suspect, bore criminal responsibility for the attack at a Georgia school by failing to heed warnings of his son’s struggles.
+If Mojtaba Khamenei is chosen by Iran’s senior clerics, it may signal a victory for hard-liners, an analyst said.
 
 
-2. [Latest Question on Trump’s Health: What Is That Neck Rash?](https://www.nytimes.com/2026/03/02/us/politics/trump-rash-neck.html)
+2. [Seven Takeaways From the Clintons’ Epstein Depositions](https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html)
 
-President Trump’s physician did not explain what the skin condition was or what medication he was using to treat it.
+Former Secretary of State Hillary Clinton was defiant. Former President Bill Clinton spoke of President Trump’s ties to Epstein. A Republican raised a conspiracy theory.
 
 
 3. [How Trump Decided to Go to War](https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html)
@@ -15,34 +15,34 @@ President Trump’s physician did not explain what the skin condition was or wha
 President Trump’s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president’s advisers voiced opposition.
 
 
-4. [Results in Key Races](https://www.nytimes.com/interactive/2026/us/elections/results-key-races-march-3.html)
-
-Follow the latest results in the key primary elections from Texas, North Carolina and Arkansas.
-
-
-5. [Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor](https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html)
-
-If Mojtaba Khamenei is chosen by Iran’s senior clerics, it may signal a victory for hard-liners, an analyst said.
-
-
-6. [Iran’s Strategy: Expand the War, Increase the Cost, Outlast Trump](https://www.nytimes.com/2026/03/03/world/europe/iran-war-strategy-trump-israel.html)
-
-The Islamic Republic is aiming to draw out the conflict and broaden the fighting. That would force President Trump to risk more casualties and more political capital.
-
-
-7. [Texas Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-primary.html)
+4. [Texas Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-primary.html)
 
 Get live results and maps from the 2026 Texas primary elections.
 
 
-8. [Labor Secretary’s Top Aides Forced Out](https://www.nytimes.com/2026/03/03/us/politics/labor-department-secretary-aides-resign.html)
+5. [In Plunging Into a Mideast Conflict, Trump Gambles His Presidency](https://www.nytimes.com/2026/03/02/us/politics/iran-trump-polls-republicans.html)
 
-The two aides to Labor Secretary Lori Chavez-DeRemer had been on leave during an investigation of misconduct at the department.
+The risks for President Trump from the assault on Iran are escalating as casualties mount, oil prices rise and the war expands across the region.
 
 
-9. [Get a Dog, Live Longer?](https://www.nytimes.com/2026/03/03/well/pet-longevity-health-benefits.html)
+6. [Get a Dog, Live Longer?](https://www.nytimes.com/2026/03/03/well/pet-longevity-health-benefits.html)
 
 Research suggests pets keep you healthier. But there are some caveats.
+
+
+7. [Texas U.S. Senate Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-senate-primary.html)
+
+Get live results and maps from the 2026 Texas primary election.
+
+
+8. [U.S. Opens Military Action in Ecuador Against ‘Terrorist Organizations’](https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html)
+
+U.S. Special Forces soldiers are advising and supporting Ecuadorean commandos on raids across the country against suspected drug shipment facilities and other drug-related sites.
+
+
+9. [Supreme Court Sides With Religious Parents, Blocking California’s Trans Student Policy](https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html)
+
+Christian teachers and parents challenged the state’s policies, which they say require schools to hide students’ transgender status from their parents.
 
 
 10. [Trump Lays Out His ‘Worst Case’ Scenario in Iran](https://www.nytimes.com/2026/03/03/us/politics/trump-iran-leaders.html)
