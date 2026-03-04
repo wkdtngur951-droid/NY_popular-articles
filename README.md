@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-04 16:56:15)
+## 📰 NYTimes Most Popular (Updated: 2026-03-04 17:49:14)
 
-1. [Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor](https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html)
-
-If Mojtaba Khamenei is chosen by Iran’s senior clerics, it may signal a victory for hard-liners, an analyst said.
-
-
-2. [Seven Takeaways From the Clintons’ Epstein Depositions](https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html)
+1. [Seven Takeaways From the Clintons’ Epstein Depositions](https://www.nytimes.com/2026/03/02/us/politics/clinton-bill-hillary-epstein-deposition-video.html)
 
 Former Secretary of State Hillary Clinton was defiant. Former President Bill Clinton spoke of President Trump’s ties to Epstein. A Republican raised a conspiracy theory.
 
 
-3. [How Trump Decided to Go to War](https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html)
+2. [The Reason Gen Z Isn’t Dating](https://www.nytimes.com/2026/03/03/opinion/gen-z-dating-clavicular.html)
 
-President Trump’s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president’s advisers voiced opposition.
+Clavicular is a symptom of a larger disease.
 
 
-4. [Texas Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-primary.html)
+3. [Father’s Murder Conviction in School Attack Puts New Onus on Parents](https://www.nytimes.com/2026/03/03/us/colin-gray-verdict-apalachee-shooting.html)
+
+A jury found that Colin Gray, the father of the suspect, bore criminal responsibility for the attack at a Georgia school by failing to heed warnings of his son’s struggles.
+
+
+4. [‘I See Him as a Pretty Thoroughgoing Illiberal at This Stage’](https://www.nytimes.com/2026/03/03/opinion/jd-vance-has-his-reasons.html)
+
+The vice president’s political transformation from Trump skeptic to MAGA superstar has many roots.
+
+
+5. [Texas Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-primary.html)
 
 Get live results and maps from the 2026 Texas primary elections.
 
 
-5. [In Plunging Into a Mideast Conflict, Trump Gambles His Presidency](https://www.nytimes.com/2026/03/02/us/politics/iran-trump-polls-republicans.html)
+6. [These American Service Members Have Died in the Iran Conflict](https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html)
 
-The risks for President Trump from the assault on Iran are escalating as casualties mount, oil prices rise and the war expands across the region.
-
-
-6. [Get a Dog, Live Longer?](https://www.nytimes.com/2026/03/03/well/pet-longevity-health-benefits.html)
-
-Research suggests pets keep you healthier. But there are some caveats.
+They were from Nebraska, Florida, Iowa and Minnesota. One was wrapping up his final deployment and hoped to open a martial arts studio.
 
 
 7. [Texas U.S. Senate Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-senate-primary.html)
@@ -35,18 +35,18 @@ Research suggests pets keep you healthier. But there are some caveats.
 Get live results and maps from the 2026 Texas primary election.
 
 
-8. [U.S. Opens Military Action in Ecuador Against ‘Terrorist Organizations’](https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html)
+8. [Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor](https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html)
 
-U.S. Special Forces soldiers are advising and supporting Ecuadorean commandos on raids across the country against suspected drug shipment facilities and other drug-related sites.
-
-
-9. [Supreme Court Sides With Religious Parents, Blocking California’s Trans Student Policy](https://www.nytimes.com/2026/03/02/us/politics/supreme-court-california-trans-students.html)
-
-Christian teachers and parents challenged the state’s policies, which they say require schools to hide students’ transgender status from their parents.
+If Mojtaba Khamenei is chosen by Iran’s senior clerics, it may signal a victory for hard-liners, an analyst said.
 
 
-10. [Trump Lays Out His ‘Worst Case’ Scenario in Iran](https://www.nytimes.com/2026/03/03/us/politics/trump-iran-leaders.html)
+9. [How Trump Decided to Go to War](https://www.nytimes.com/2026/03/02/us/politics/trump-war-iran-israel.html)
 
-Who will lead Iran once the war is over? “Most of the people we had in mind are dead,” says President Trump.
+President Trump’s embrace of military action in Iran was spurred by an Israeli leader determined to end diplomatic negotiations. Few of the president’s advisers voiced opposition.
+
+
+10. [Representative Dan Crenshaw Loses G.O.P. Primary in Texas](https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html)
+
+The victory by Steve Toth, a hard-line Texas state representative, underscored how even a conservative House member could lose Republican voters by breaking with President Trump.
 
 
