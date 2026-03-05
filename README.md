@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-05 07:02:26)
+## 📰 NYTimes Most Popular (Updated: 2026-03-05 08:54:13)
 
-1. [Talarico Triumphs as G.O.P. Heads to Runoff: 6 Takeaways From Texas](https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html)
+1. [How Every Senator Voted on the Iran War Powers Resolution](https://www.nytimes.com/interactive/2026/03/04/us/iran-war-powers.html)
 
-James Talarico won the state’s Democratic primary for Senate, while Senator John Cornyn faces a runoff against Ken Paxton, his right-wing challenger.
-
-
-2. [U.S. Opens Military Action in Ecuador Against ‘Terrorist Organizations’](https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html)
-
-U.S. Special Forces soldiers are advising and supporting Ecuadorean commandos on raids across the country against suspected drug shipment facilities and other drug-related sites.
+The Senate rejected on a measure to rein in the use of military force in Iran.
 
 
-3. [I Worked for Block. Its A.I. Job Cuts Aren’t What They Seem.](https://www.nytimes.com/2026/03/04/opinion/block-jack-dorsey-layoffs-ai.html)
-
-Is Block’s announcement just a convenient and flashy new cover for typical corporate downsizing?
+2. [Allies of Gov. Sarah Huckabee Sanders suffer primary defeats in Arkansas.](https://www.nytimes.com/live/2026/03/04/us/primary-elections-midterms-tx-nc-ar/anti-prison-incumbents-arkansas-sanders)
 
 
-4. [Trump Tries to Quiet Claims Among Supporters That Israel Dragged Him Into War](https://www.nytimes.com/2026/03/03/us/politics/trump-israel-iran.html)
-
-Many of President Trump’s allies have urged him and his Make America Great Again movement to shift away from their close ties to Israel and military entanglements in the Middle East.
 
 
-5. [How War in the Middle East Is Choking Off the World’s Oil and Gas](https://www.nytimes.com/interactive/2026/03/03/business/iran-war-oil-gas-strait-of-hormuz.html)
+3. [Chimpanzees Are Really Into Crystals](https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html)
 
-One-fifth of the global oil supply and substantial amounts of natural gas travel through the Strait of Hormuz, which has become a no-go zone for many tankers as fighting continues.
-
-
-6. [Results in Key Races](https://www.nytimes.com/interactive/2026/us/elections/results-key-races-march-3.html)
-
-Follow the latest results in the key primary elections from Texas, North Carolina and Arkansas.
+In an attempt to understand our own fascination with the shiny minerals, researchers gave some to chimps.
 
 
-7. [These American Service Members Died in the Iran Conflict](https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html)
+4. [Ayatollah Ali Khamenei’s Son Emerges as Leading Choice to Be His Successor](https://www.nytimes.com/2026/03/03/world/middleeast/iran-mojtaba-khamenei-successor.html)
+
+If Mojtaba Khamenei is chosen by Iran’s senior clerics, it may signal a victory for hard-liners, an analyst said.
+
+
+5. [Representative Dan Crenshaw Loses G.O.P. Primary in Texas](https://www.nytimes.com/2026/03/04/us/elections/texas-district-2-primary.html)
+
+The victory by Steve Toth, a hard-line Texas state representative, underscored how even a conservative House member could lose Republican voters by breaking with President Trump.
+
+
+6. [These American Service Members Died in the Iran Conflict](https://www.nytimes.com/2026/03/03/world/middleeast/us-soldiers-killed-iran-war.html)
 
 They were from states across the country, in a unit dedicated to resupplying troops. One was wrapping up his final deployment and hoped to open a martial arts studio.
 
 
-8. [The Fantasy of a Comfy Retirement Has Always Been a Mirage](https://www.nytimes.com/2026/03/04/opinion/gen-x-retirement.html)
+7. [U.S. Submarine Torpedoed Iranian Warship Off Sri Lanka as Conflict Widens](https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html)
 
-On the sorry state of retirement savings in the United States, and a policy that could help.
-
-
-9. [‘Cheap’ and ‘Appalling’: Trump’s Ballroom Plans Receive a Flood of Negative Comments](https://www.nytimes.com/2026/03/03/us/politics/trump-ballroom-comments.html)
-
-The National Capital Planning Commission received about 32,000 messages during its public comment period. Suffice it to say: Many people are not happy with the president’s ballroom plans.
+Defense Secretary Pete Hegseth said it was the first such strike since World War II. The Sri Lankan authorities said they had rescued 32 sailors from the crew of 180.
 
 
-10. [Justice Dept., Under Pressure From Trump, Fails to Build Autopen Case Against Biden](https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html)
+8. [The Piano Man’s Long Goodbye to Long Island](https://www.nytimes.com/2026/03/03/realestate/billy-joel-house-sale-long-island.html)
 
-Prosecutors in the U.S. attorney’s office in Washington were unable to build a case, underscoring the department’s increasing inability to follow through on the president’s desire to indict his rivals.
+Why Billy Joel’s dream home finally sold for $14 million under the asking price.
+
+
+9. [Did You Know These Oscar-Nominated Actresses Started in Reality TV?](https://www.nytimes.com/2026/03/04/movies/oscar-actresses-reality-tv-emma-stone-teyana-taylor.html)
+
+Hollywood careers don’t always begin where you expect them to, as Jessie Buckley, Teyana Taylor and Emma Stone could tell you.
+
+
+10. [U.S. Opens Military Action in Ecuador Against ‘Terrorist Organizations’](https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html)
+
+U.S. Special Forces soldiers are advising and supporting Ecuadorean commandos on raids across the country against suspected drug shipment facilities and other drug-related sites.
 
 
