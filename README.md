@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-05 23:02:34)
+## 📰 NYTimes Most Popular (Updated: 2026-03-06 02:39:19)
 
-1. [Texas U.S. Senate Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-us-senate-primary.html)
+1. [A Killing Spree in Utah Rattles a Region and Puzzles Officials](https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html)
 
-Get live results and maps from the 2026 Texas primary election.
-
-
-2. [U.S. Submarine Torpedoed Iranian Warship Off Sri Lanka as Conflict Widens](https://www.nytimes.com/2026/03/04/world/middleeast/iran-navy-ship-sri-lanka.html)
-
-Defense Secretary Pete Hegseth said it was the first such strike since World War II. The Sri Lankan authorities said they had rescued 32 sailors from the crew of 180.
+Three women were slain in two locations, officials said on Thursday. A frantic manhunt involving four states led to an arrest, but a motive was still unclear.
 
 
-3. [I Worked for Block. Its A.I. Job Cuts Aren’t What They Seem.](https://www.nytimes.com/2026/03/04/opinion/block-jack-dorsey-layoffs-ai.html)
+2. [Lindsey Halligan Is Under Investigation by the Florida Bar](https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html)
 
-Is Block’s announcement just a convenient and flashy new cover for typical corporate downsizing?
-
-
-4. [Trump Tries to Quiet Claims Among Supporters That Israel Dragged Him Into War](https://www.nytimes.com/2026/03/03/us/politics/trump-israel-iran.html)
-
-Many of President Trump’s allies have urged him and his Make America Great Again movement to shift away from their close ties to Israel and military entanglements in the Middle East.
+The actions of Ms. Halligan, who as a U.S. attorney brought criminal cases against President Trump’s enemies, are under review by the organization that licensed her to practice law.
 
 
-5. [Trump Wants a Quick Victory in Iran. But the War May Be Costly.](https://www.nytimes.com/2026/03/05/us/politics/trump-iran-war-deaths.html)
+3. [Senator Helps Officers Forcibly Remove Protesting Veteran From Hearing](https://www.nytimes.com/2026/03/05/us/senator-tim-sheehy-marine-war-protester.html)
 
-The opening days of the conflict are challenging the idea that President Trump can project force abroad while safeguarding American lives and the economy.
-
-
-6. [U.S. Opens Military Action in Ecuador Against ‘Terrorist Organizations’](https://www.nytimes.com/2026/03/03/us/politics/us-ecuador-trump-military-operations.html)
-
-U.S. Special Forces soldiers are advising and supporting Ecuadorean commandos on raids across the country against suspected drug shipment facilities and other drug-related sites.
+The physical struggle, involving Senator Tim Sheehy of Montana, was captured on video. The protester, Brian McGinnis, said on social media that his arm was broken.
 
 
-7. [A Political Earthquake Rattles the North Carolina Legislature](https://www.nytimes.com/2026/03/05/us/north-carolina-primary-election-legislature.html)
+4. [Who’s Running for Governor of California?](https://www.nytimes.com/interactive/2026/us/politics/california-governor-race.html)
+
+A cluster of lesser-known Democrats, two Republicans and a Green candidate will fight for the attention of frustrated voters.
+
+
+5. [A Political Earthquake Rattles the North Carolina Legislature](https://www.nytimes.com/2026/03/05/us/north-carolina-primary-election-legislature.html)
 
 Voters across this politically purple state made it clear on Tuesday that they wanted to punish the powerful on both sides of the aisle. It may be a warning to incumbents elsewhere.
 
 
-8. [Talarico Triumphs as G.O.P. Heads to Runoff: 6 Takeaways From Texas](https://www.nytimes.com/2026/03/04/us/politics/primary-election-takeaways-tx-nc-ar.html)
+6. [Iran Has Friends, but Where Are They Now?](https://www.nytimes.com/2026/03/05/world/middleeast/iran-turkey-india-russia.html)
 
-James Talarico won the state’s Democratic primary for Senate, while Senator John Cornyn faces a runoff against Ken Paxton, his right-wing challenger.
+Iran maintains ties with a range of countries, including Turkey, India, Russia and China. Yet in this war, their support is mostly rhetoric.
 
 
-9. [Justice Dept., Under Pressure From Trump, Fails to Build Autopen Case Against Biden](https://www.nytimes.com/2026/03/04/us/politics/trump-biden-autopen.html)
+7. [Trump’s Lopsided Vision for the White House](https://www.nytimes.com/interactive/2026/03/04/us/politics/trump-white-house-east-wing-ballroom-design-plan.html)
 
-Prosecutors in the U.S. attorney’s office in Washington were unable to build a case, underscoring the department’s increasing inability to follow through on the president’s desire to indict his rivals.
+See how much his East Wing ballroom design will upend the White House symmetry.
+
+
+8. [Iran Calls Torpedoing of Ship by U.S. an ‘Atrocity’](https://www.nytimes.com/2026/03/05/world/middleeast/us-iran-iris-dena-ship-sri-lanka.html)
+
+Iran’s foreign minister accused the United States of committing an “atrocity at sea,” after a U.S. Navy submarine attacked an Iranian frigate in the Indian Ocean.
+
+
+9. [Trader Joe’s Recalls 4 Frozen Food Products That May Contain Glass](https://www.nytimes.com/2026/03/04/us/trader-joes-recall-frozen-asian-food.html)
+
+No injuries had been confirmed, but consumers reported finding glass in their products. The announcement was part of a larger recall of nearly 37 million pounds of food products.
 
 
 10. [Mass Hysteria. Thousands of Jobs Lost. Just How Bad Is It Going to Get?](https://www.nytimes.com/2026/03/05/opinion/ai-jobs-white-collar-apocalpyse.html)
