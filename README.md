@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-07 07:34:51)
+## 📰 NYTimes Most Popular (Updated: 2026-03-07 08:39:46)
 
-1. [Lindsey Halligan Is Under Investigation by the Florida Bar](https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html)
+1. [America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)
 
-The actions of Ms. Halligan, who as a U.S. attorney brought criminal cases against President Trump’s enemies, are under review by the organization that licensed her to practice law.
+America’s strength has always been its private sector. Empowering it can save us from A.I.’s worst effects on jobs.
 
 
-2. [Senate Democrat Pushes to Investigate Noem for Perjury](https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html)
+2. [Trump’s Fantasy Is Crashing Down](https://www.nytimes.com/2026/03/06/opinion/trump-iran-war-gulf.html)
+
+The repercussions of his reckless war in Iran are just beginning.
+
+
+3. [Top National Symphony Leader Quits in New Blow to Kennedy Center](https://www.nytimes.com/2026/03/06/arts/music/kennedy-center-national-symphony-orchestra-leader-quits.html)
+
+The executive director, Jean Davidson, said her departure reflects frustration at the turmoil that has engulfed the arts center.
+
+
+4. [Senate Democrat Pushes to Investigate Noem for Perjury](https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html)
 
 Senator Richard Blumenthal of Connecticut said Democrats had evidence to suggest Kristi Noem lied under oath during a Senate hearing on Tuesday.
 
 
-3. [Justice Dept. Releases Missing Interviews With Woman Who Made Claims Against Trump](https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html)
+5. [He Grew Up Watching Her on TV. Years Later, She Joined His World.](https://www.nytimes.com/2026/03/06/style/brooke-hyland-brian-thalman-wedding.html)
 
-The pages had been withheld from the trove of documents related to the convicted sex offender Jeffrey Epstein because of what officials called a mistaken determination that they were duplicates.
-
-
-4. [A Killing Spree in Utah Rattles a Region and Puzzles Officials](https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html)
-
-Three women were slain in two locations, officials said on Thursday. A frantic manhunt involving four states led to an arrest, but a motive was still unclear.
-
-
-5. [U.S. Gas Prices Jump Again as Oil Tops $90 for First Time in Years](https://www.nytimes.com/2026/03/06/business/gas-prices-jump.html)
-
-The price of a gallon of gasoline hits its highest level in a year and a half on Friday. Surging oil prices suggest that the increases will continue.
+Brian Thalman became familiar with Brooke Hyland while watching her on “Dance Moms.” The two met seven years after her final season on the reality TV show.
 
 
 6. [The Allure of ‘Slop Bowls’ Fades as Consumers Tighten Spending](https://www.nytimes.com/2026/03/06/business/chipotle-cava-sweetgreen-bowl-sales-prices.html)
