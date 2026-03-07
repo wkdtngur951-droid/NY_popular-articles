@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-06 23:34:23)
+## 📰 NYTimes Most Popular (Updated: 2026-03-07 02:32:16)
 
 1. [Daryl Hannah: How Can ‘Love Story’ Get Away With This?](https://www.nytimes.com/2026/03/06/opinion/daryl-hannah-love-story-jfk-jr.html)
 
 The character “Daryl Hannah” in “Love Story” is not even a remotely accurate representation of my life or my conduct — and these kinds of lies don’t go away.
 
 
-2. [A Political Earthquake Rattles the North Carolina Legislature](https://www.nytimes.com/2026/03/05/us/north-carolina-primary-election-legislature.html)
+2. [Trump’s Fantasy Is Crashing Down](https://www.nytimes.com/2026/03/06/opinion/trump-iran-war-gulf.html)
 
-Voters across this politically purple state made it clear on Tuesday that they wanted to punish the powerful on both sides of the aisle. It may be a warning to incumbents elsewhere.
-
-
-3. [America Cannot Withstand the Economic Shock That’s Coming](https://www.nytimes.com/2026/03/06/opinion/ai-labor-unemployment.html)
-
-America’s strength has always been its private sector. Empowering it can save us from A.I.’s worst effects on jobs.
+The repercussions of his reckless war in Iran are just beginning.
 
 
-4. [Lindsey Halligan Is Under Investigation by the Florida Bar](https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html)
-
-The actions of Ms. Halligan, who as a U.S. attorney brought criminal cases against President Trump’s enemies, are under review by the organization that licensed her to practice law.
-
-
-5. [A Killing Spree in Utah Rattles a Region and Puzzles Officials](https://www.nytimes.com/2026/03/05/us/wayne-county-utah-murders-manhunt.html)
-
-Three women were slain in two locations, officials said on Thursday. A frantic manhunt involving four states led to an arrest, but a motive was still unclear.
-
-
-6. [Senate Democrat Pushes to Investigate Noem for Perjury](https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html)
-
-Senator Richard Blumenthal of Connecticut said Democrats had evidence to suggest Kristi Noem lied under oath during a Senate hearing on Tuesday.
-
-
-7. [As Trump Out-Putins Putin, Russia’s Global Influence Erodes](https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html)
+3. [As Trump Out-Putins Putin, Russia’s Global Influence Erodes](https://www.nytimes.com/2026/03/06/world/europe/russia-iran-putin.html)
 
 The conflict in Iran may give Moscow a short-term boost economically and in Ukraine. But it has also shown the limits of Russia’s partnerships.
 
 
-8. [Insulting the Mayor Is Nothing New. But This Was Shocking.](https://www.nytimes.com/2026/03/04/nyregion/muslim-mamdani-hate-speech.html)
+4. [Trump Demands ‘Unconditional Surrender’ by Iran, Shifting U.S. Objectives Again](https://www.nytimes.com/2026/03/06/us/politics/trump-unconditional-surrender-iran.html)
 
-A well-known conservative radio host in New York called Mayor Zohran Mamdani a cockroach, resurfacing anti-Muslim sentiments that the mayor said were all too common.
-
-
-9. [McDonald’s C.E.O. Takes a Big Bite Out of a Burger. Maybe Scratch ‘Big.’](https://www.nytimes.com/2026/03/05/business/mcdonalds-ceo-big-arch-burger-video.html)
-
-Chris Kempczinski’s rather tentative chomp drew mirth online, even from some competitors.
+President Trump laid out yet another, more ambitious goal of U.S. military action, one that could extend the war.
 
 
-10. [Iran Has Friends, but Where Are They Now?](https://www.nytimes.com/2026/03/05/world/middleeast/iran-turkey-india-russia.html)
+5. [Senate Democrat Pushes to Investigate Noem for Perjury](https://www.nytimes.com/2026/03/05/us/politics/noem-perjury-investigation-blumenthal.html)
 
-Iran maintains ties with a range of countries, including Turkey, India, Russia and China. Yet in this war, their support is mostly rhetoric.
+Senator Richard Blumenthal of Connecticut said Democrats had evidence to suggest Kristi Noem lied under oath during a Senate hearing on Tuesday.
+
+
+6. [Analysis Suggests School Was Hit Amid U.S. Strikes on Iranian Naval Base](https://www.nytimes.com/2026/03/05/world/middleeast/iran-school-us-strikes-naval-base.html)
+
+The Feb. 28 school strike in Minab, which killed dozens, including children, appears to have been part of an attack on an adjacent naval base in southern Iran, where officials said U.S. forces were operating.
+
+
+7. [Justice Dept. Releases Missing Interviews With Woman Who Made Claims Against Trump](https://www.nytimes.com/2026/03/05/us/politics/trump-epstein-interviews-woman-justice-department.html)
+
+The pages had been withheld from the trove of documents related to the convicted sex offender Jeffrey Epstein because of what officials called a mistaken determination that they were duplicates.
+
+
+8. [Lindsey Halligan Is Under Investigation by the Florida Bar](https://www.nytimes.com/2026/03/05/us/politics/lindsey-halligan-investigation-florida-bar.html)
+
+The actions of Ms. Halligan, who as a U.S. attorney brought criminal cases against President Trump’s enemies, are under review by the organization that licensed her to practice law.
+
+
+9. [Top National Symphony Leader Quits in New Blow to Kennedy Center](https://www.nytimes.com/2026/03/06/arts/music/kennedy-center-national-symphony-orchestra-leader-quits.html)
+
+The executive director, Jean Davidson, said her departure reflects frustration at the turmoil that has engulfed the arts center.
+
+
+10. [The Allure of ‘Slop Bowls’ Fades as Consumers Tighten Spending](https://www.nytimes.com/2026/03/06/business/chipotle-cava-sweetgreen-bowl-sales-prices.html)
+
+Sales and traffic at restaurant chains like Cava, Chipotle and Sweetgreen are falling, as customers grow tired of both salad bowls and their rising price tags.
 
 
