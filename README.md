@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-08 19:30:10)
+## 📰 NYTimes Most Popular (Updated: 2026-03-08 20:35:12)
 
-1. [ The New York Times News Quiz, March 6, 2026](https://www.nytimes.com/interactive/2026/03/06/briefing/news-quiz-iran-khamenei.html)
+1. [The Future We Feared Is Already Here](https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+The showdown between the Pentagon and Anthropic is a window into how unprepared we are for the questions we are facing.
 
 
-2. [Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.](https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html)
+2. [In War’s First Week, a Punishing Military Campaign With No Coherent Endgame](https://www.nytimes.com/2026/03/07/us/politics/iran-war-first-week.html)
+
+The U.S. and Israel have pounded Iran’s leadership and undercut its defense capabilities, but President Trump has offered wildly different explanations for what he hopes to achieve.
+
+
+3. [Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.](https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html)
 
 President Trump, who values loyalty, has at times tried to distance himself from his administration’s own actions when they become politically toxic.
-
-
-3. [What Watching a Furious Hillary Clinton Showed Me](https://www.nytimes.com/2026/03/07/opinion/hillary-clinton-rage-epstein-deposition.html)
-
-Her exasperation during her Epstein-related deposition channeled the national mood for some of us.
 
 
 4. [‘Wuthering Heights,’ MAGA Style](https://www.nytimes.com/2026/03/07/opinion/kristi-noem-corey-lewandowski-wuthering-heights.html)
@@ -25,28 +25,28 @@ Kristi and Corey cavorted in the swamp as D.H.S. got bogged down.
 Masoud Pezeshkian, the Iranian president, apologized for Iranian strikes on Gulf states before backtracking after criticism from other Iranian leaders. Despite his remarks, Iran has continued its attacks.
 
 
-6. [Ian Huntley, Whose Murder of Schoolgirls Appalled Britain, Dies After Prison Attack](https://www.nytimes.com/2026/03/07/world/europe/ian-huntley-dead-soham-murders-uk.html)
+6. [Flashback: Your Weekly History Quiz, March 7, 2026](https://www.nytimes.com/interactive/2026/03/06/upshot/flashback.html)
 
-The 2002 deaths of Holly Wells and Jessica Chapman, and the manhunt that led to a local school caretaker, shook the U.K.
-
-
-7. [Daryl Hannah: How Can ‘Love Story’ Get Away With This?](https://www.nytimes.com/2026/03/06/opinion/daryl-hannah-love-story-jfk-jr.html)
-
-The character “Daryl Hannah” in “Love Story” is not even a remotely accurate representation of my life or my conduct — and these kinds of lies don’t go away.
+Can you sort 8 historical events?
 
 
-8. [From 1998: Florence Griffith Joyner, 38, Champion Sprinter, Is Dead](https://www.nytimes.com/2026/03/06/sports/florence-griffith-joyner-dead.html)
+7. [There Is One Crucial Reason We’re Talking About Boots on the Ground](https://www.nytimes.com/2026/03/07/opinion/trump-iran-nuclear-weapons-enriched-uranium-war.html)
 
-She revolutionized women’s sprinting with her speed and flamboyant fashion sense, and was a three-time gold medalist at the 1988 Summer Olympics.
-
-
-9. [A Schools Chief So Charming That Los Angeles Overlooked His Red Flags](https://www.nytimes.com/2026/03/07/us/alberto-carvalho-lausd-scandals.html)
-
-Alberto Carvalho was seen as a catch for the nation’s second-largest school district. Then his home and office were raided by the F.B.I.
+The U.S. and Israel have no good options to address an unavoidable problem.
 
 
-10. [Seat 11A: The Windowless Inside Joke at 30,000 Feet](https://www.nytimes.com/2026/03/07/us/seat-11a-no-window-ryanair-airlines.html)
+8. [A Sex Scandal and ‘Mein Kampf’ Give Democrats Hope in West Texas Race](https://www.nytimes.com/2026/03/06/us/politics/texas-democrats-brandon-herrera-youtube.html)
 
-What looks like a prime spot on the seat maps is prompting disappointment and humor for passengers who find only a blank wall.
+What had been a safe G.O.P. seat was looking more attainable for Democrats after Representative Tony Gonzales bowed out in favor of a hard-right candidate.
+
+
+9. [One Sleep Habit Experts Wish You Would Adopt](https://www.nytimes.com/2026/01/05/well/health-benefits-sleep-consistency.html)
+
+Working this overlooked practice into your sleep routine could have real benefits for your health.
+
+
+10. [Punching, Slamming, Screaming: A Chef’s Past Abuse Haunts Noma, the World’s Top-Rated Restaurant](https://www.nytimes.com/2026/03/07/dining/rene-redzepi-noma-abuse-allegations.html)
+
+Dozens of former employees say René Redzepi inflicted physical and psychological violence on the staff for years.
 
 
