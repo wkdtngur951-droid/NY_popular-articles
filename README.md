@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-08 23:31:09)
+## 📰 NYTimes Most Popular (Updated: 2026-03-09 02:46:46)
 
-1. [Ian Huntley, Whose Murder of Schoolgirls Appalled Britain, Dies After Prison Attack](https://www.nytimes.com/2026/03/07/world/europe/ian-huntley-dead-soham-murders-uk.html)
+1. [ICE Detention of Teen Musicians Roils Texas Mariachi Community](https://www.nytimes.com/2026/03/08/us/teen-mariachi-musicians-detained-ice-texas.html)
 
-The 2002 deaths of Holly Wells and Jessica Chapman, and the manhunt that led to a local school caretaker, shook the U.K.
-
-
-2. [James Talarico Is a Christian X-Ray](https://www.nytimes.com/2026/03/08/opinion/james-talarico-christian-democrat-texas-primary.html)
-
-The Democratic senate candidate in Texas is teaching us about what faith really means.
+Two brothers who were recognized by their congresswoman last year, along with their parents and younger brother, are facing deportation.
 
 
-3. [ The New York Times News Quiz, March 6, 2026](https://www.nytimes.com/interactive/2026/03/06/briefing/news-quiz-iran-khamenei.html)
+2. [On ‘S.N.L.’, Pete Hegseth Says Iran ‘Isn’t a War, It’s a Situationship’](https://www.nytimes.com/2026/03/08/arts/television/snl-ryan-gosling-harry-styles-iran-war.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-4. [Daryl Hannah: How Can ‘Love Story’ Get Away With This?](https://www.nytimes.com/2026/03/06/opinion/daryl-hannah-love-story-jfk-jr.html)
-
-The character “Daryl Hannah” in “Love Story” is not even a remotely accurate representation of my life or my conduct — and these kinds of lies don’t go away.
+Colin Jost added to his airtime playing Hegseth, the defense secretary, in the opening of a “Saturday Night Live” broadcast hosted by Ryan Gosling.
 
 
-5. [Iranian President’s Apology Showcases Leadership Rifts](https://www.nytimes.com/2026/03/07/world/middleeast/iran-president-pezeshkian-gulf-apology-war.html)
+3. [Iran Could Retrieve Uranium at Site U.S. Bombed Last Year, Officials Say](https://www.nytimes.com/2026/03/07/us/politics/iran-nuclear-site-uranium-intel.html)
 
-Masoud Pezeshkian, the Iranian president, apologized for Iranian strikes on Gulf states before backtracking after criticism from other Iranian leaders. Despite his remarks, Iran has continued its attacks.
-
-
-6. [There Is One Crucial Reason We’re Talking About Boots on the Ground](https://www.nytimes.com/2026/03/07/opinion/trump-iran-nuclear-weapons-enriched-uranium-war.html)
-
-The U.S. and Israel have no good options to address an unavoidable problem.
+The fate of the highly enriched uranium and the options for securing it have become critical issues for the Trump administration.
 
 
-7. [One Sleep Habit Experts Wish You Would Adopt](https://www.nytimes.com/2026/01/05/well/health-benefits-sleep-consistency.html)
+4. [Punching, Slamming, Screaming: A Chef’s Past Abuse Haunts Noma, the World’s Top-Rated Restaurant](https://www.nytimes.com/2026/03/07/dining/rene-redzepi-noma-abuse-allegations.html)
 
-Working this overlooked practice into your sleep routine could have real benefits for your health.
-
-
-8. [A Sex Scandal and ‘Mein Kampf’ Give Democrats Hope in West Texas Race](https://www.nytimes.com/2026/03/06/us/politics/texas-democrats-brandon-herrera-youtube.html)
-
-What had been a safe G.O.P. seat was looking more attainable for Democrats after Representative Tony Gonzales bowed out in favor of a hard-right candidate.
+Dozens of former employees say René Redzepi inflicted physical and psychological violence on the staff for years.
 
 
-9. [What Watching a Furious Hillary Clinton Showed Me](https://www.nytimes.com/2026/03/07/opinion/hillary-clinton-rage-epstein-deposition.html)
+5. [Kristi Noem Survived Many Crises. Then She Crossed a Trump Red Line.](https://www.nytimes.com/2026/03/06/us/politics/trump-noem.html)
+
+President Trump, who values loyalty, has at times tried to distance himself from his administration’s own actions when they become politically toxic.
+
+
+6. [Trump Wants to ‘Take Over’ Elections. These States Are Prime Targets.](https://www.nytimes.com/2026/03/08/us/politics/trump-elections-fulton-county-ballots.html)
+
+President Trump thinks Republicans should control voting procedures in parts of the United States. But where? Here are some possibilities.
+
+
+7. [What Watching a Furious Hillary Clinton Showed Me](https://www.nytimes.com/2026/03/07/opinion/hillary-clinton-rage-epstein-deposition.html)
 
 Her exasperation during her Epstein-related deposition channeled the national mood for some of us.
 
 
-10. [From 1998: Florence Griffith Joyner, 38, Champion Sprinter, Is Dead](https://www.nytimes.com/2026/03/06/sports/florence-griffith-joyner-dead.html)
+8. [How Trump’s War in Iran Has Echoes of Putin and Ukraine](https://www.nytimes.com/2026/03/08/us/politics/trump-russia-ukraine-iran-war.html)
 
-She revolutionized women’s sprinting with her speed and flamboyant fashion sense, and was a three-time gold medalist at the 1988 Summer Olympics.
+The many similarities between the White House’s justification for war in Iran and Russia’s messaging on Ukraine underscore the risks of a vaguely defined, open-ended war.
+
+
+9. [The Popcorn Resistance of ‘One Battle After Another’](https://www.nytimes.com/2026/03/08/opinion/one-battle-after-another-weathermen.html)
+
+My parents were radical. Paul Thomas Anderson’s film is anything but.
+
+
+10. [The Future We Feared Is Already Here](https://www.nytimes.com/2026/03/08/opinion/ai-anthropic-claude-pentagon-hegseth-amodei.html)
+
+The showdown between the Pentagon and Anthropic is a window into how unprepared we are for the questions we are facing.
 
 
