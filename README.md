@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-10 05:52:43)
+## 📰 NYTimes Most Popular (Updated: 2026-03-10 07:00:45)
 
-1. [Iran’s New Leader, Ayatollah Khamenei’s Son, Is a Mysterious Figure](https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html)
+1. [They Feel Bugs Inside Them. Doctors Don’t Know Why.](https://www.nytimes.com/2026/03/09/opinion/diagnosis-delusional-infestation-bugs.html)
 
-The succession of the slain leader’s son is seen as a signal of the Islamic republic’s defiance of Israel and the United States, and of continuity during crisis.
-
-
-2. [Trump Threatens to Crowd Out Republicans’ Midterm Message](https://www.nytimes.com/2026/03/09/us/politics/trump-republicans-midterms.html)
-
-As the G.O.P. gathered in Miami for a party retreat where lawmakers hoped to focus on the economy, the president threatened to block his own party’s legislative agenda.
+Delusional infestation is one of the darkest embodiments of medical uncertainty.
 
 
-3. [Country Joe McDonald, Whose Antiwar Song Became an Anthem, Dies at 84](https://www.nytimes.com/2026/03/08/arts/music/country-joe-mcdonald-dead.html)
+2. [We Are Being Governed by Unserious People](https://www.nytimes.com/2026/03/09/opinion/kristi-noem-trump.html)
 
-One of the starring acts at Woodstock, he and his band, the Fish, came out of the Bay Area’s psychedelic rock scene. He went on to a long career as a solo artist.
-
-
-4. [For China, Billions of Dollars Are at Risk From a Widening War](https://www.nytimes.com/2026/03/09/business/china-trade-persian-gulf-iran.html)
-
-The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.
+Kristi Noem epitomizes the incompetence of this White House.
 
 
-5. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
-
-The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
-
-
-6. [U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows](https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html)
-
-The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.
-
-
-7. [White House Removes Republican Member of N.T.S.B.](https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html)
-
-J. Todd Inman, who was prominent in the investigation of the midair collision in Washington last year, said no reason was given for his firing two years into his term on the transportation safety board.
-
-
-8. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
+3. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
 
 Barely-there gowns are more popular than ever, but they aren’t necessarily new. Our critic traces the look across time.
 
 
-9. [His Mother Vanished When He Was 14. 33 Years Later, He Found Her.](https://www.nytimes.com/2026/03/09/us/antonio-wiley-missing-mother-found.html)
+4. [This Is the Moment Adam Smith Has Been Waiting For](https://www.nytimes.com/2026/03/09/opinion/adam-smith-anniversary.html)
 
-Antonio Wiley’s mother, Anita, vanished during a time when her hometown Detroit was wracked by drugs and crime. It took three decades and an extraordinary effort by a missing persons detective to locate her.
+The news is good. Really.
 
 
-10. [How ICE Plans to Put 8,500 Immigrants in This Warehouse](https://www.nytimes.com/interactive/2026/03/09/us/politics/ice-georgia-immigration-social-circle-warehouse.html)
+5. [A Trump Order Protected a Weedkiller. And Also a Weapon of War.](https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html)
 
-Experts say the initial designs raise health, safety and security concerns.
+Citing national security, an unusual executive order gave protection to the herbicide Roundup. It also protected the U.S.’s only supply of a controversial, highly flammable munition.
+
+
+6. [Country Joe McDonald, Whose Antiwar Song Became an Anthem, Dies at 84](https://www.nytimes.com/2026/03/08/arts/music/country-joe-mcdonald-dead.html)
+
+One of the starring acts at Woodstock, he and his band, the Fish, came out of the Bay Area’s psychedelic rock scene. He went on to a long career as a solo artist.
+
+
+7. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
+
+The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
+
+
+8. [U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows](https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html)
+
+The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.
+
+
+9. [For China, Billions of Dollars Are at Risk From a Widening War](https://www.nytimes.com/2026/03/09/business/china-trade-persian-gulf-iran.html)
+
+The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.
+
+
+10. [Iran’s New Leader, Ayatollah Khamenei’s Son, Is a Mysterious Figure](https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html)
+
+The succession of the slain leader’s son is seen as a signal of the Islamic republic’s defiance of Israel and the United States, and of continuity during crisis.
 
 
