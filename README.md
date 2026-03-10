@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-10 07:00:45)
+## 📰 NYTimes Most Popular (Updated: 2026-03-10 08:54:30)
 
-1. [They Feel Bugs Inside Them. Doctors Don’t Know Why.](https://www.nytimes.com/2026/03/09/opinion/diagnosis-delusional-infestation-bugs.html)
-
-Delusional infestation is one of the darkest embodiments of medical uncertainty.
-
-
-2. [We Are Being Governed by Unserious People](https://www.nytimes.com/2026/03/09/opinion/kristi-noem-trump.html)
-
-Kristi Noem epitomizes the incompetence of this White House.
-
-
-3. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
+1. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
 
 Barely-there gowns are more popular than ever, but they aren’t necessarily new. Our critic traces the look across time.
 
 
-4. [This Is the Moment Adam Smith Has Been Waiting For](https://www.nytimes.com/2026/03/09/opinion/adam-smith-anniversary.html)
+2. [In Scathing Ruling, Judge Says 3 Trump Prosecutors Are in Unlawful Roles](https://www.nytimes.com/2026/03/09/nyregion/us-attorney-nj-prosecutors.html)
 
-The news is good. Really.
-
-
-5. [A Trump Order Protected a Weedkiller. And Also a Weapon of War.](https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html)
-
-Citing national security, an unusual executive order gave protection to the herbicide Roundup. It also protected the U.S.’s only supply of a controversial, highly flammable munition.
+The ruling found that the three-person leadership team in New Jersey’s federal prosecutor’s office was illegal, and sharply questioned President Trump’s priorities.
 
 
-6. [Country Joe McDonald, Whose Antiwar Song Became an Anthem, Dies at 84](https://www.nytimes.com/2026/03/08/arts/music/country-joe-mcdonald-dead.html)
+3. [What Happens When One Party Monopolizes Competence?](https://www.nytimes.com/2026/03/09/opinion/republican-governance-red-states.html)
 
-One of the starring acts at Woodstock, he and his band, the Fish, came out of the Bay Area’s psychedelic rock scene. He went on to a long career as a solo artist.
+Old guard Republicans have maintained good governance in many red states, but MAGA chaos is coming for them, too.
 
 
-7. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
+4. [Ohio State President Resigns Over ‘Inappropriate Relationship’](https://www.nytimes.com/2026/03/09/us/ohio-state-president-resigns.html)
+
+The university said it was investigating a company owned by a podcaster after the president, Walter Carter Jr., said he had “made a mistake.”
+
+
+5. [They Feel Bugs Inside Them. Doctors Don’t Know Why.](https://www.nytimes.com/2026/03/09/opinion/diagnosis-delusional-infestation-bugs.html)
+
+Delusional infestation is one of the darkest embodiments of medical uncertainty.
+
+
+6. [We Are Being Governed by Unserious People](https://www.nytimes.com/2026/03/09/opinion/kristi-noem-trump.html)
+
+Kristi Noem epitomizes the incompetence of this White House.
+
+
+7. [White House Removes Republican Member of N.T.S.B.](https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html)
+
+J. Todd Inman, who was prominent in the investigation of the midair collision in Washington last year, said no reason was given for his firing two years into his term on the transportation safety board.
+
+
+8. [France Is Sending a Large Naval Force to the Middle East](https://www.nytimes.com/2026/03/09/world/middleeast/france-warships-middle-east.html)
+
+President Emmanuel Macron said the warships would help protect France’s allies in the region, and could be part of a force to escort ships through the Strait of Hormuz. He said the war could continue for “several days, maybe several weeks.”
+
+
+9. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
+
+Only when the U.S.-Israeli bombing of Iran comes to a halt, without destroying the state, can the Iranian people sort out their fate.
+
+
+10. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
 
 The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
-
-
-8. [U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows](https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html)
-
-The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.
-
-
-9. [For China, Billions of Dollars Are at Risk From a Widening War](https://www.nytimes.com/2026/03/09/business/china-trade-persian-gulf-iran.html)
-
-The country found a home in the Middle East for its investments and growing markets for steel, electric vehicles and solar panels. Those are now at stake.
-
-
-10. [Iran’s New Leader, Ayatollah Khamenei’s Son, Is a Mysterious Figure](https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html)
-
-The succession of the slain leader’s son is seen as a signal of the Islamic republic’s defiance of Israel and the United States, and of continuity during crisis.
 
 
