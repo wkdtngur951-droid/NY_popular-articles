@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-10 14:57:34)
+## 📰 NYTimes Most Popular (Updated: 2026-03-10 16:08:25)
 
-1. [Ohio State President Resigns Over ‘Inappropriate Relationship’](https://www.nytimes.com/2026/03/09/us/ohio-state-president-resigns.html)
-
-The university said it was investigating a company owned by a podcaster after the president, Walter Carter Jr., said he had “made a mistake.”
-
-
-2. [White House Removes Republican Member of N.T.S.B.](https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html)
-
-J. Todd Inman, who was prominent in the investigation of the midair collision in Washington last year, said no reason was given for his firing two years into his term on the transportation safety board.
-
-
-3. [Chaos on Mamdani’s Doorstep: ‘We’ve Never Had Anything Like This Here’](https://www.nytimes.com/2026/03/09/nyregion/gracie-bomb-scene-mamdani.html)
-
-For two hours, the streets around Gracie Mansion became the stage for a heated protest, reflecting a nation seething with angst and unease.
-
-
-4. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
+1. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
 
 The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
+
+
+2. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
+
+The verdict comes more than a month after the trial began in Federal District Court in Manhattan where the jury heard weeks of emotional and often graphic testimony.
+
+
+3. [His Mother Vanished When He Was 14. 33 Years Later, He Found Her.](https://www.nytimes.com/2026/03/09/us/antonio-wiley-missing-mother-found.html)
+
+Antonio Wiley’s mother, Anita, vanished during a time when her hometown Detroit was wracked by drugs and crime. It took three decades and an extraordinary effort by a missing persons detective to locate her.
+
+
+4. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
+
+Only when the U.S.-Israeli bombing of Iran comes to a halt, without destroying the state, can the Iranian people sort out their fate.
 
 
 5. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
@@ -25,28 +25,28 @@ The teacher’s family “supports getting the charges dropped for all involved,
 Barely-there gowns are more popular than ever, but they aren’t necessarily new. Our critic traces the look across time.
 
 
-6. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
+6. [In Scathing Ruling, Judge Says 3 Trump Prosecutors Are in Unlawful Roles](https://www.nytimes.com/2026/03/09/nyregion/us-attorney-nj-prosecutors.html)
 
-Only when the U.S.-Israeli bombing of Iran comes to a halt, without destroying the state, can the Iranian people sort out their fate.
-
-
-7. [What Happens When One Party Monopolizes Competence?](https://www.nytimes.com/2026/03/09/opinion/republican-governance-red-states.html)
-
-Old guard Republicans have maintained good governance in many red states, but MAGA chaos is coming for them, too.
+The ruling found that the three-person leadership team in New Jersey’s federal prosecutor’s office was illegal, and sharply questioned President Trump’s priorities.
 
 
-8. [A Trump Order Protected a Weedkiller. And Also a Weapon of War.](https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html)
+7. [Ohio State President Resigns Over ‘Inappropriate Relationship’](https://www.nytimes.com/2026/03/09/us/ohio-state-president-resigns.html)
+
+The university said it was investigating a company owned by a podcaster after the president, Walter Carter Jr., said he had “made a mistake.”
+
+
+8. [They Feel Bugs Inside Them. Doctors Don’t Know Why.](https://www.nytimes.com/2026/03/09/opinion/diagnosis-delusional-infestation-bugs.html)
+
+Delusional infestation is one of the darkest embodiments of medical uncertainty.
+
+
+9. [A Trump Order Protected a Weedkiller. And Also a Weapon of War.](https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html)
 
 Citing national security, an unusual executive order gave protection to the herbicide Roundup. It also protected the U.S.’s only supply of a controversial, highly flammable munition.
 
 
-9. [Iran’s New Leader, Ayatollah Khamenei’s Son, Is a Mysterious Figure](https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html)
+10. [Two Supreme Court Justices Debate Handling of Trump Emergency Cases](https://www.nytimes.com/2026/03/09/us/politics/supreme-court-justices-emergency-cases.html)
 
-The succession of the slain leader’s son is seen as a signal of the Islamic republic’s defiance of Israel and the United States, and of continuity during crisis.
-
-
-10. [France Is Sending a Large Naval Force to the Middle East](https://www.nytimes.com/2026/03/09/world/middleeast/france-warships-middle-east.html)
-
-President Emmanuel Macron said the warships would help protect France’s allies in the region, and could be part of a force to escort ships through the Strait of Hormuz. He said the war could continue for “several days, maybe several weeks.”
+In a rare joint appearance, Justices Ketanji Brown Jackson and Brett M. Kavanaugh offered sharply different views on how the court should handle emergency requests.
 
 
