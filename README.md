@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-10 16:08:25)
+## 📰 NYTimes Most Popular (Updated: 2026-03-10 17:52:16)
 
-1. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
+1. [U.S. Tomahawk Hit Naval Base Beside Iranian School, Video Shows](https://www.nytimes.com/2026/03/08/world/middleeast/iran-minab-school-strike.html)
 
-The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
+The evidence contradicts President Trump’s claim that Iran was responsible for a strike at the school that killed 175 people, most of them children.
 
 
-2. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
+2. [We Are Being Governed by Unserious People](https://www.nytimes.com/2026/03/09/opinion/kristi-noem-trump.html)
+
+Kristi Noem epitomizes the incompetence of this White House.
+
+
+3. [What Happens When One Party Monopolizes Competence?](https://www.nytimes.com/2026/03/09/opinion/republican-governance-red-states.html)
+
+Old guard Republicans have maintained good governance in many red states, but MAGA chaos is coming for them, too.
+
+
+4. [France Is Sending a Large Naval Force to the Middle East](https://www.nytimes.com/2026/03/09/world/middleeast/france-warships-middle-east.html)
+
+President Emmanuel Macron said the warships would help protect France’s allies in the region, and could be part of a force to escort ships through the Strait of Hormuz. He said the war could continue for “several days, maybe several weeks.”
+
+
+5. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
 
 The verdict comes more than a month after the trial began in Federal District Court in Manhattan where the jury heard weeks of emotional and often graphic testimony.
 
 
-3. [His Mother Vanished When He Was 14. 33 Years Later, He Found Her.](https://www.nytimes.com/2026/03/09/us/antonio-wiley-missing-mother-found.html)
+6. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
 
-Antonio Wiley’s mother, Anita, vanished during a time when her hometown Detroit was wracked by drugs and crime. It took three decades and an extraordinary effort by a missing persons detective to locate her.
-
-
-4. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
-
-Only when the U.S.-Israeli bombing of Iran comes to a halt, without destroying the state, can the Iranian people sort out their fate.
+The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
 
 
-5. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
+7. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
 
 Barely-there gowns are more popular than ever, but they aren’t necessarily new. Our critic traces the look across time.
 
 
-6. [In Scathing Ruling, Judge Says 3 Trump Prosecutors Are in Unlawful Roles](https://www.nytimes.com/2026/03/09/nyregion/us-attorney-nj-prosecutors.html)
+8. [White House Removes Republican Member of N.T.S.B.](https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html)
 
-The ruling found that the three-person leadership team in New Jersey’s federal prosecutor’s office was illegal, and sharply questioned President Trump’s priorities.
-
-
-7. [Ohio State President Resigns Over ‘Inappropriate Relationship’](https://www.nytimes.com/2026/03/09/us/ohio-state-president-resigns.html)
-
-The university said it was investigating a company owned by a podcaster after the president, Walter Carter Jr., said he had “made a mistake.”
+J. Todd Inman, who was prominent in the investigation of the midair collision in Washington last year, said no reason was given for his firing two years into his term on the transportation safety board.
 
 
-8. [They Feel Bugs Inside Them. Doctors Don’t Know Why.](https://www.nytimes.com/2026/03/09/opinion/diagnosis-delusional-infestation-bugs.html)
+9. [Trump Is Making Jimmy Carter’s Mistake on Iran and Oil](https://www.nytimes.com/2026/03/09/opinion/iran-war-trump-oil-prices.html)
 
-Delusional infestation is one of the darkest embodiments of medical uncertainty.
-
-
-9. [A Trump Order Protected a Weedkiller. And Also a Weapon of War.](https://www.nytimes.com/2026/03/08/climate/bayer-white-phosphate-glyphosate-roundup-trump-executive-order-munition.html)
-
-Citing national security, an unusual executive order gave protection to the herbicide Roundup. It also protected the U.S.’s only supply of a controversial, highly flammable munition.
+America is a big oil producer. But its overreliance on crude and the president’s efforts to keep it that way mean times like these can hurt.
 
 
-10. [Two Supreme Court Justices Debate Handling of Trump Emergency Cases](https://www.nytimes.com/2026/03/09/us/politics/supreme-court-justices-emergency-cases.html)
+10. [His Mother Vanished When He Was 14. 33 Years Later, He Found Her.](https://www.nytimes.com/2026/03/09/us/antonio-wiley-missing-mother-found.html)
 
-In a rare joint appearance, Justices Ketanji Brown Jackson and Brett M. Kavanaugh offered sharply different views on how the court should handle emergency requests.
+Antonio Wiley’s mother, Anita, vanished during a time when her hometown Detroit was wracked by drugs and crime. It took three decades and an extraordinary effort by a missing persons detective to locate her.
 
 
