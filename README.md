@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-10 23:34:37)
+## 📰 NYTimes Most Popular (Updated: 2026-03-11 02:37:11)
 
-1. [Vote on Your Favorite Miscast Stars in the Movies](https://www.nytimes.com/interactive/2026/03/09/movies/worst-casting-actors-movies.html)
+1. [Georgia Teacher Is Killed After Teenagers’ Prank Goes Wrong](https://www.nytimes.com/2026/03/08/us/georgia-teacher-killed-prank.html)
 
-A new Oscar celebrates the process of matching actor and role. But whether a star is hired for artistic or box office reasons, mismatches can be memorable. Here our favorites from recent decades. What do you think?
-
-
-2. [How Did the Naked Dressing Trend Start?](https://www.nytimes.com/2026/03/09/fashion/naked-dressing-red-carpet.html)
-
-Barely-there gowns are more popular than ever, but they aren’t necessarily new. Our critic traces the look across time.
+The teacher’s family “supports getting the charges dropped for all involved,” after a planned toilet-paper prank became a fatal car accident.
 
 
-3. [White House Removes Republican Member of N.T.S.B.](https://www.nytimes.com/2026/03/08/us/politics/todd-inman-fired-national-transportation-safety-board.html)
+2. [Trump’s War in Iran, and Rising Gas Prices, Collide With Midterm Agenda](https://www.nytimes.com/2026/03/09/us/politics/trump-iran-gas-prices-gop-agenda.html)
 
-J. Todd Inman, who was prominent in the investigation of the midair collision in Washington last year, said no reason was given for his firing two years into his term on the transportation safety board.
-
-
-4. [New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran](https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html)
-
-His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.
+The attack on Iran has led to a surge in energy prices at a moment when the cost of living is a major issue heading into the fall elections.
 
 
-5. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
+3. [In Scathing Ruling, Judge Says 3 Trump Prosecutors Are in Unlawful Roles](https://www.nytimes.com/2026/03/09/nyregion/us-attorney-nj-prosecutors.html)
+
+The ruling found that the three-person leadership team in New Jersey’s federal prosecutor’s office was illegal, and sharply questioned President Trump’s priorities.
+
+
+4. [Kennedy to Undergo Rotator Cuff Surgery](https://www.nytimes.com/2026/03/10/us/rfk-jr-rotator-cuff-surgery.html)
+
+The secretary of health and human services, known for his Make America Healthy Again campaign, is expected to be back at work on Monday.
+
+
+5. [The Bay Area Considers the Unthinkable: Life Without BART](https://www.nytimes.com/2026/03/10/us/bart-bay-area-san-francisco-transit.html)
+
+The Bay Area Rapid Transit system was once so successful, it could rely mostly on riders to sustain itself. But the pandemic dealt BART an unusually heavy blow.
+
+
+6. [The Smash-and-Grab Presidency Reaches Its Apex](https://www.nytimes.com/2026/03/10/opinion/trumps-iran-dirsruption-destruction.html)
+
+When disruption becomes destruction.
+
+
+7. [Alabama Governor Spares Death Row Inmate Who Didn’t Pull the Trigger](https://www.nytimes.com/2026/03/10/us/alabama-ivey-charles-burton.html)
+
+It is only the second commutation for Gov. Kay Ivey, a Republican. The inmate, Charles Burton, was scheduled to die even though the gunman’s sentence had been commuted years ago.
+
+
+8. [Noma Loses American Express Sponsorship After Report of Past Abuse by Its Chef](https://www.nytimes.com/2026/03/10/dining/noma-sponsors-american-express-blackbird.html)
+
+Two companies have withdrawn from a series of dinners in Los Angeles after The New York Times reported allegations that René Redzepi attacked workers.
+
+
+9. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
 
 The verdict comes more than a month after the trial began in Federal District Court in Manhattan where the jury heard weeks of emotional and often graphic testimony.
 
 
-6. [Ohio State President Resigns Over ‘Inappropriate Relationship’](https://www.nytimes.com/2026/03/09/us/ohio-state-president-resigns.html)
-
-The university said it was investigating a company owned by a podcaster after the president, Walter Carter Jr., said he had “made a mistake.”
-
-
-7. [His Mother Vanished When He Was 14. 33 Years Later, He Found Her.](https://www.nytimes.com/2026/03/09/us/antonio-wiley-missing-mother-found.html)
-
-Antonio Wiley’s mother, Anita, vanished during a time when her hometown Detroit was wracked by drugs and crime. It took three decades and an extraordinary effort by a missing persons detective to locate her.
-
-
-8. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
+10. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
 
 Only when the U.S.-Israeli bombing of Iran comes to a halt, without destroying the state, can the Iranian people sort out their fate.
-
-
-9. [Judge Is Skeptical of Penn’s Argument Against Trump Demand for List of Jews](https://www.nytimes.com/2026/03/10/us/trump-penn-list-of-jews-subpoena.html)
-
-A federal judge appeared receptive to the Trump administration’s demands for information about the University of Pennsylvania’s Jewish faculty and staff as the government pursues an antisemitism investigation.
-
-
-10. [Iran’s New Leader, Ayatollah Khamenei’s Son, Is a Mysterious Figure](https://www.nytimes.com/2026/03/08/world/middleeast/mojtaba-khamenei-iran-leader.html)
-
-The succession of the slain leader’s son is seen as a signal of the Islamic republic’s defiance of Israel and the United States, and of continuity during crisis.
 
 
