@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-11 17:02:44)
+## 📰 NYTimes Most Popular (Updated: 2026-03-11 19:01:59)
 
-1. [In Marjorie Taylor Greene’s District, a Trump-Backed Candidate Advances](https://www.nytimes.com/2026/03/10/us/politics/georgia-election-marjorie-taylor-greene.html)
+1. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
 
-Clayton Fuller will face Shawn Harris, a Democrat, in an April runoff. Mr. Fuller’s win over a flashier Republican showed the power of the president’s support.
-
-
-2. [Judge Is Skeptical of Penn’s Argument Against Trump Demand for List of Jews](https://www.nytimes.com/2026/03/10/us/trump-penn-list-of-jews-subpoena.html)
-
-A federal judge appeared receptive to the Trump administration’s demands for information about the University of Pennsylvania’s Jewish faculty and staff as the government pursues an antisemitism investigation.
+Only when the U.S.-Israeli bombing of Iran comes to a halt, without destroying the state, can the Iranian people sort out their fate.
 
 
-3. [Culture at Columbia Shielded Sexual Assault by Physician, Report Finds](https://www.nytimes.com/2026/03/10/nyregion/columbia-hospitals-hadden-resignation.html)
+2. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
+
+The fairy tale was 1990s New York.
+
+
+3. [U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says](https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html)
+
+Outdated targeting data may have resulted in a mistaken missile strike, according to the ongoing military investigation, which undercuts President Trump’s assertion that Iran could be to blame.
+
+
+4. [Culture at Columbia Shielded Sexual Assault by Physician, Report Finds](https://www.nytimes.com/2026/03/10/nyregion/columbia-hospitals-hadden-resignation.html)
 
 Two doctors affiliated with the university and NewYork-Presbyterian Hospital stepped down after an external report found that the administrators mishandled allegations of abuse against Robert Hadden.
 
 
-4. [The Bay Area Considers the Unthinkable: Life Without BART](https://www.nytimes.com/2026/03/10/us/bart-bay-area-san-francisco-transit.html)
+5. [New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran](https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html)
 
-The Bay Area Rapid Transit system was once so successful, it could rely mostly on riders to sustain itself. But the pandemic dealt BART an unusually heavy blow.
-
-
-5. [4 Continents in 62 Hours: How One American Got Out of Qatar](https://www.nytimes.com/2026/03/10/travel/canceled-flights-middle-east-iran-war.html)
-
-When conflict broke out in the Middle East, thousands of travelers were stranded. We followed a New Orleans doctor on his epic journey to get home.
+His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.
 
 
-6. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
+6. [Do You Really Need to Wash New Clothes Before Wearing Them?](https://www.nytimes.com/2026/03/10/well/wash-new-clothes-before-wearing.html)
 
-The verdict comes more than a month after the trial began in Federal District Court in Manhattan where the jury heard weeks of emotional and often graphic testimony.
-
-
-7. [Iranian Military Shows It Knows How to Adapt, U.S. Officials Say](https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html)
-
-Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.
+We asked experts whether they can irritate your skin or cause other problems.
 
 
-8. [Vote on Your Favorite Miscast Stars in the Movies](https://www.nytimes.com/interactive/2026/03/09/movies/worst-casting-actors-movies.html)
+7. [Two Supreme Court Justices Debate Handling of Trump Emergency Cases](https://www.nytimes.com/2026/03/09/us/politics/supreme-court-justices-emergency-cases.html)
 
-A new Oscar celebrates the process of matching actor and role. But whether a star is hired for artistic or box office reasons, mismatches can be memorable. Here our favorites from recent decades. What do you think?
+In a rare joint appearance, Justices Ketanji Brown Jackson and Brett M. Kavanaugh offered sharply different views on how the court should handle emergency requests.
 
 
-9. [Bondi Is Said to Move to Military Housing Because of Threats](https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html)
+8. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
 
-The attorney general relocated from a Washington apartment to a base in the area within the past month, according to people familiar with the situation.
+In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
+
+
+9. [New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say](https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html)
+
+Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago.
 
 
 10. [Who’s a Better Writer: A.I. or Humans? Take Our Quiz.](https://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html)
