@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-11 15:55:54)
+## 📰 NYTimes Most Popular (Updated: 2026-03-11 17:02:44)
 
-1. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
+1. [In Marjorie Taylor Greene’s District, a Trump-Backed Candidate Advances](https://www.nytimes.com/2026/03/10/us/politics/georgia-election-marjorie-taylor-greene.html)
 
-In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
+Clayton Fuller will face Shawn Harris, a Democrat, in an April runoff. Mr. Fuller’s win over a flashier Republican showed the power of the president’s support.
 
 
-2. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
+2. [Judge Is Skeptical of Penn’s Argument Against Trump Demand for List of Jews](https://www.nytimes.com/2026/03/10/us/trump-penn-list-of-jews-subpoena.html)
 
-The verdict comes more than a month after the trial began in Federal District Court in Manhattan where the jury heard weeks of emotional and often graphic testimony.
+A federal judge appeared receptive to the Trump administration’s demands for information about the University of Pennsylvania’s Jewish faculty and staff as the government pursues an antisemitism investigation.
 
 
 3. [Culture at Columbia Shielded Sexual Assault by Physician, Report Finds](https://www.nytimes.com/2026/03/10/nyregion/columbia-hospitals-hadden-resignation.html)
@@ -15,38 +15,38 @@ The verdict comes more than a month after the trial began in Federal District Co
 Two doctors affiliated with the university and NewYork-Presbyterian Hospital stepped down after an external report found that the administrators mishandled allegations of abuse against Robert Hadden.
 
 
-4. [New Iranian Leader Was Wounded Early in the War, Iranian and Israeli Officials Say](https://www.nytimes.com/2026/03/11/world/middleeast/khamenei-iran-leader-injured.html)
+4. [The Bay Area Considers the Unthinkable: Life Without BART](https://www.nytimes.com/2026/03/10/us/bart-bay-area-san-francisco-transit.html)
 
-Officials say Mojtaba Khamenei’s legs were hurt, but the circumstances as well as the extent of his injuries were unclear. He has remained out of view since being announced as leader three days ago.
-
-
-5. [Senate Moves Toward Passing Sweeping Housing Bill, but Challenges Lie Ahead](https://www.nytimes.com/2026/03/10/us/politics/senate-housing-bill.html)
-
-The legislation’s progress is all the more surprising because it addresses an issue that is shaping up to be the main battleground of the midterm elections: affordability. The effort could still stall.
+The Bay Area Rapid Transit system was once so successful, it could rely mostly on riders to sustain itself. But the pandemic dealt BART an unusually heavy blow.
 
 
-6. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
+5. [4 Continents in 62 Hours: How One American Got Out of Qatar](https://www.nytimes.com/2026/03/10/travel/canceled-flights-middle-east-iran-war.html)
 
-The fairy tale was 1990s New York.
-
-
-7. [Noma Loses American Express Sponsorship After Report of Past Abuse by Its Chef](https://www.nytimes.com/2026/03/10/dining/noma-sponsors-american-express-blackbird.html)
-
-Two companies have withdrawn from a series of dinners in Los Angeles after The New York Times reported allegations that René Redzepi attacked workers.
+When conflict broke out in the Middle East, thousands of travelers were stranded. We followed a New Orleans doctor on his epic journey to get home.
 
 
-8. [Trump Has No Idea How to End the War With Iran](https://www.nytimes.com/2026/03/09/opinion/iran-israel-united-states-bombing.html)
+6. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
 
-Only when the U.S.-Israeli bombing of Iran comes to a halt, without destroying the state, can the Iranian people sort out their fate.
-
-
-9. [New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran](https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html)
-
-His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.
+The verdict comes more than a month after the trial began in Federal District Court in Manhattan where the jury heard weeks of emotional and often graphic testimony.
 
 
-10. [Two Supreme Court Justices Debate Handling of Trump Emergency Cases](https://www.nytimes.com/2026/03/09/us/politics/supreme-court-justices-emergency-cases.html)
+7. [Iranian Military Shows It Knows How to Adapt, U.S. Officials Say](https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html)
 
-In a rare joint appearance, Justices Ketanji Brown Jackson and Brett M. Kavanaugh offered sharply different views on how the court should handle emergency requests.
+Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.
+
+
+8. [Vote on Your Favorite Miscast Stars in the Movies](https://www.nytimes.com/interactive/2026/03/09/movies/worst-casting-actors-movies.html)
+
+A new Oscar celebrates the process of matching actor and role. But whether a star is hired for artistic or box office reasons, mismatches can be memorable. Here our favorites from recent decades. What do you think?
+
+
+9. [Bondi Is Said to Move to Military Housing Because of Threats](https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html)
+
+The attorney general relocated from a Washington apartment to a base in the area within the past month, according to people familiar with the situation.
+
+
+10. [Who’s a Better Writer: A.I. or Humans? Take Our Quiz.](https://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html)
+
+A.I. chatbots contain the sum of all human knowledge. That can make them pretty good writers.
 
 
