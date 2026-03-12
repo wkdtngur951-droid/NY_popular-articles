@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-11 23:33:41)
+## 📰 NYTimes Most Popular (Updated: 2026-03-12 02:43:08)
 
-1. [Do You Really Need to Wash New Clothes Before Wearing Them?](https://www.nytimes.com/2026/03/10/well/wash-new-clothes-before-wearing.html)
+1. [Woman Found Innocent After 22 Years in Prison Will Not Be Deported](https://www.nytimes.com/2026/03/10/us/mejia-texas-child-scalding-deportation.html)
 
-We asked experts whether they can irritate your skin or cause other problems.
-
-
-2. [New Supreme Leader Inherits Sprawling, Secretive Office That Dominates Iran](https://www.nytimes.com/2026/03/10/world/middleeast/iran-supreme-leader-secretive-office.html)
-
-His father, Ayatollah Ali Khamenei, had turned what was traditionally a religious affairs office into a shadowy national security juggernaut.
+Carmen Mejia was cleared of murder in connection with the death of a baby in her care, who was scalded by hot water in 2003 in Austin, Texas. Federal officials said she will be allowed to stay in the U.S.
 
 
-3. [Unlike Past U.S. Conflicts, Iran Attack Is Opposed by Most Americans](https://www.nytimes.com/2026/03/10/us/politics/polls-wars-us-support.html)
+2. [Iranian Military Shows It Knows How to Adapt, U.S. Officials Say](https://www.nytimes.com/2026/03/10/us/politics/iran-military-tactics.html)
 
-While the public has historically backed military intervention initially in international conflicts, deep polarization has left the latest strikes against Iran with record-low support.
+Iran appears to be targeting what it views as American vulnerabilities, including air defenses meant to guard troops and assets in the region.
 
 
-4. [Bondi Is Said to Move to Military Housing Because of Threats](https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html)
+3. [Here’s One Boast Trump Won’t Be Making Anymore](https://www.nytimes.com/2026/03/11/opinion/trump-gas-prices.html)
+
+The administration’s attacks on renewable energy mean higher costs for everyone.
+
+
+4. [At Least 17 U.S. Sites Damaged in War With Iran, Analysis Shows](https://www.nytimes.com/interactive/2026/03/11/world/middleeast/iran-us-military-bases-strikes-map.html)
+
+A New York Times analysis of satellite imagery and verified videos shows damage to more than a dozen American military sites and installations from Iran’s retaliatory strikes.
+
+
+5. [Felt Cute, Until They Gave Their Husbands the Phone](https://www.nytimes.com/2026/03/11/style/bad-husband-boyfriend-photos-camera-roll.html)
+
+Perfect lighting and backdrops do not guarantee a great photo, as one social media trend highlights. Even professionals are not immune.
+
+
+6. [Bondi Is Said to Move to Military Housing Because of Threats](https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html)
 
 The attorney general relocated from a Washington apartment to a base in the area within the past month, according to people familiar with the situation.
 
 
-5. [Vote on Your Favorite Miscast Stars in the Movies](https://www.nytimes.com/interactive/2026/03/09/movies/worst-casting-actors-movies.html)
+7. [Trump Files Missing in Epstein Release Highlight Justice Dept.’s Missteps](https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html)
 
-A new Oscar celebrates the process of matching actor and role. But whether a star is hired for artistic or box office reasons, mismatches can be memorable. Here our favorites from recent decades. What do you think?
-
-
-6. [Alexander Brothers Found Guilty on All Counts in Sex-Trafficking Trial](https://www.nytimes.com/2026/03/09/nyregion/verdict-alexander-brothers-sex-trafficking.html)
-
-The verdict comes more than a month after the trial began in Federal District Court in Manhattan where the jury heard weeks of emotional and often graphic testimony.
+In late July, an F.B.I. agent asked colleagues to get started on a sensitive task relating to Jeffrey Epstein, listing the names of 14 prominent men, with President Trump at the top.
 
 
-7. [U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says](https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html)
+8. [Who’s a Better Writer: A.I. or Humans? Take Our Quiz.](https://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html)
 
-Outdated targeting data may have resulted in a mistaken missile strike, according to the ongoing military investigation, which undercuts President Trump’s assertion that Iran could be to blame.
-
-
-8. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
-
-The fairy tale was 1990s New York.
+A.I. chatbots contain the sum of all human knowledge. That can make them pretty good writers.
 
 
-9. [Culture at Columbia Shielded Sexual Assault by Physician, Report Finds](https://www.nytimes.com/2026/03/10/nyregion/columbia-hospitals-hadden-resignation.html)
+9. [V.A. Begins Drive to Put Some Homeless Veterans Into Guardianship](https://www.nytimes.com/2026/03/11/us/politics/veterans-homeless-guardianship-trump.html)
 
-Two doctors affiliated with the university and NewYork-Presbyterian Hospital stepped down after an external report found that the administrators mishandled allegations of abuse against Robert Hadden.
+The Trump administration will expand the power of government attorneys to initiate court proceedings for veterans “unable to make their own health care decisions.”
 
 
-10. [The Bay Area Considers the Unthinkable: Life Without BART](https://www.nytimes.com/2026/03/10/us/bart-bay-area-san-francisco-transit.html)
+10. [Mark Zuckerberg Is Said to Have Made a Record Florida Home Purchase](https://www.nytimes.com/2026/03/11/realestate/mark-zuckerberg-ivana-trump-david-lynch-real-estate.html)
 
-The Bay Area Rapid Transit system was once so successful, it could rely mostly on riders to sustain itself. But the pandemic dealt BART an unusually heavy blow.
+The Meta C.E.O. bought a waterfront compound for $170 million, The Wall Street Journal reported. Ivana Trump’s townhouse and a “Breaking Bad” house also sold.
 
 
