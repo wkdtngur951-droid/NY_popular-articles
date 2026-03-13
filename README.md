@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-12 23:35:04)
+## 📰 NYTimes Most Popular (Updated: 2026-03-13 02:41:16)
 
-1. [Who’s a Better Writer: A.I. or Humans? Take Our Quiz.](https://www.nytimes.com/interactive/2026/03/09/business/ai-writing-quiz.html)
-
-A.I. chatbots contain the sum of all human knowledge. That can make them pretty good writers.
-
-
-2. [Bondi Is Said to Move to Military Housing Because of Threats](https://www.nytimes.com/2026/03/10/us/politics/bondi-military-housing-threats.html)
-
-The attorney general relocated from a Washington apartment to a base in the area within the past month, according to people familiar with the situation.
-
-
-3. [U.S. at Fault in Strike on School in Iran, Preliminary Inquiry Says](https://www.nytimes.com/2026/03/11/us/politics/iran-school-missile-strike.html)
-
-Outdated targeting data may have resulted in a mistaken missile strike, according to the ongoing military investigation, which undercuts President Trump’s assertion that Iran could be to blame.
-
-
-4. [Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War](https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html)
-
-The influential podcast host described the conflict as a sharp reversal from the policies the president had campaigned on.
-
-
-5. [Trump Files Missing in Epstein Release Highlight Justice Dept.’s Missteps](https://www.nytimes.com/2026/03/11/us/politics/trump-epstein-files-fbi-doj.html)
-
-In late July, an F.B.I. agent asked colleagues to get started on a sensitive task relating to Jeffrey Epstein, listing the names of 14 prominent men, with President Trump at the top.
-
-
-6. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
-
-In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
-
-
-7. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
-
-In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
-
-
-8. [I Went to Florida to See the 31-Year-Old Candidate Thrilling Gen Z. We’re in Trouble.](https://www.nytimes.com/2026/03/12/opinion/james-fishback-gen-z-republican-florida.html)
-
-James Fishback has managed to bring the paranoid, transgressive, meme-drunk spirit of the right-wing internet into the real world.
-
-
-9. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
+1. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
 
 Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
 
 
-10. [René Redzepi Steps Down at Noma Amid Allegations of Past Abuse](https://www.nytimes.com/2026/03/11/dining/rene-redzepi-noma-resign-abuse.html)
+2. [A Statue of Trump and Epstein Re-enacting ‘Titanic’ Pose Appears on National Mall](https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html)
 
-After 23 years running the Copenhagen restaurant, widely considered one of the most innovative and important in the world, the chef is leaving.
+The installation is the latest in a series of satirical statues created by an anonymous group of artists called the Secret Handshake.
+
+
+3. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
+
+The fairy tale was 1990s New York.
+
+
+4. [Trump Endorses Jake Paul (Who Isn’t Running for Office)](https://www.nytimes.com/2026/03/12/us/politics/trump-jake-paul-endorsement.html)
+
+The president called Mr. Paul, a boxer and provocative influencer, a “great guy” and predicted that he would run for an elected position.
+
+
+5. [James Clyburn to Run for House Again, Defying Push for Generational Change](https://www.nytimes.com/2026/03/12/us/politics/james-clyburn-reelection.html)
+
+The Democratic power broker had kept his plans under wraps but signaled he wanted to be around to see the first Black speaker elected, a milestone the party is well positioned to reach next year.
+
+
+6. [Judge Dismisses Bulk of Lawsuit Over Trump’s Funding Freeze for Tunnel](https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html)
+
+The case is mostly moot, a federal judge said, because the administration has resumed the flow of more than $200 million in funding that it had temporarily stopped.
+
+
+7. [A Call for Reporting Tips Rankles Pentagon Officials](https://www.nytimes.com/2026/03/12/business/media/a-call-for-reporting-tips-rankles-pentagon-officials.html)
+
+A Washington Post appeal for information about the military qualified as prohibited “solicitation,” according to defense officials.
+
+
+8. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
+
+In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
+
+
+9. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
+
+In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
+
+
+10. [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
+
+Julie T. Le, a former government lawyer, described in stark terms how overstretched the legal system had become during the administration’s immigration crackdown in Minnesota. Now, she said, she hopes to fix the “system’s failures” by running for Congress.
 
 
