@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-13 02:41:16)
+## 📰 NYTimes Most Popular (Updated: 2026-03-13 04:50:21)
 
-1. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
+1. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
 
-Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
+In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
 
 
-2. [A Statue of Trump and Epstein Re-enacting ‘Titanic’ Pose Appears on National Mall](https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html)
+2. [Oscars 2026 Predictions: Who Will Win Best Picture, Actor and Actress?](https://www.nytimes.com/2026/03/12/movies/oscar-academy-awards-predictions-odds.html)
 
-The installation is the latest in a series of satirical statues created by an anonymous group of artists called the Secret Handshake.
+“Sinners” and “One Battle After Another” have been neck and neck all season. Here’s what our expert thinks will go the distance.
 
 
 3. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
@@ -15,38 +15,38 @@ The installation is the latest in a series of satirical statues created by an an
 The fairy tale was 1990s New York.
 
 
-4. [Trump Endorses Jake Paul (Who Isn’t Running for Office)](https://www.nytimes.com/2026/03/12/us/politics/trump-jake-paul-endorsement.html)
+4. [How Neighborly Do Home Additions Have to Be?](https://www.nytimes.com/2026/03/12/realestate/massive-home-addition-nimby-debate.html)
 
-The president called Mr. Paul, a boxer and provocative influencer, a “great guy” and predicted that he would run for an elected position.
-
-
-5. [James Clyburn to Run for House Again, Defying Push for Generational Change](https://www.nytimes.com/2026/03/12/us/politics/james-clyburn-reelection.html)
-
-The Democratic power broker had kept his plans under wraps but signaled he wanted to be around to see the first Black speaker elected, a milestone the party is well positioned to reach next year.
+As municipalities encourage more housing density, neighbors debate what kind of construction should be allowed.
 
 
-6. [Judge Dismisses Bulk of Lawsuit Over Trump’s Funding Freeze for Tunnel](https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html)
+5. [Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack](https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html)
 
-The case is mostly moot, a federal judge said, because the administration has resumed the flow of more than $200 million in funding that it had temporarily stopped.
-
-
-7. [A Call for Reporting Tips Rankles Pentagon Officials](https://www.nytimes.com/2026/03/12/business/media/a-call-for-reporting-tips-rankles-pentagon-officials.html)
-
-A Washington Post appeal for information about the military qualified as prohibited “solicitation,” according to defense officials.
+The Iranian Navy sought refuge in Sri Lanka and India. While India obliged, Sri Lanka stalled over fears it would threaten its neutrality.
 
 
-8. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
+6. [‘He Seems Really Bad at Getting Advice’: 3 Opinion Writers on Trump and Iran](https://www.nytimes.com/2026/03/12/opinion/iran-trump-war.html)
 
-In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
+Is Trump triumphing or has he committed a grave error? A debate on the Iran war.
 
 
-9. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
+7. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
+
+Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
+
+
+8. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
 
 In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
 
 
-10. [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
+9. [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
 
 Julie T. Le, a former government lawyer, described in stark terms how overstretched the legal system had become during the administration’s immigration crackdown in Minnesota. Now, she said, she hopes to fix the “system’s failures” by running for Congress.
+
+
+10. [Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War](https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html)
+
+The influential podcast host described the conflict as a sharp reversal from the policies the president had campaigned on.
 
 
