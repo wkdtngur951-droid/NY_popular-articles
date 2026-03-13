@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-13 04:50:21)
+## 📰 NYTimes Most Popular (Updated: 2026-03-13 05:55:29)
 
-1. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
+1. [With Disputed Legal Maneuver, Trump Tries to Set Policy Without Legislation](https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html)
 
-In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
-
-
-2. [Oscars 2026 Predictions: Who Will Win Best Picture, Actor and Actress?](https://www.nytimes.com/2026/03/12/movies/oscar-academy-awards-predictions-odds.html)
-
-“Sinners” and “One Battle After Another” have been neck and neck all season. Here’s what our expert thinks will go the distance.
+By suing Republican states and making sharp reversals in old cases, the Trump administration is using courts to fast-track major shifts in policy.
 
 
-3. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
+2. [I Went to Florida to See the 31-Year-Old Candidate Thrilling Gen Z. We’re in Trouble.](https://www.nytimes.com/2026/03/12/opinion/james-fishback-gen-z-republican-florida.html)
+
+James Fishback has managed to bring the paranoid, transgressive, meme-drunk spirit of the right-wing internet into the real world.
+
+
+3. [A Statue of Trump and Epstein Re-enacting ‘Titanic’ Pose Appears on National Mall](https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html)
+
+The installation is the latest in a series of satirical statues created by an anonymous group of artists called the Secret Handshake.
+
+
+4. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
 
 The fairy tale was 1990s New York.
 
 
-4. [How Neighborly Do Home Additions Have to Be?](https://www.nytimes.com/2026/03/12/realestate/massive-home-addition-nimby-debate.html)
+5. [Felt Cute, Until They Gave Their Husbands the Phone](https://www.nytimes.com/2026/03/11/style/bad-husband-boyfriend-photos-camera-roll.html)
 
-As municipalities encourage more housing density, neighbors debate what kind of construction should be allowed.
+Perfect lighting and backdrops do not guarantee a great photo, as one social media trend highlights. Even professionals are not immune.
 
 
-5. [Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack](https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html)
+6. [Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack](https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html)
 
 The Iranian Navy sought refuge in Sri Lanka and India. While India obliged, Sri Lanka stalled over fears it would threaten its neutrality.
 
 
-6. [‘He Seems Really Bad at Getting Advice’: 3 Opinion Writers on Trump and Iran](https://www.nytimes.com/2026/03/12/opinion/iran-trump-war.html)
+7. [René Redzepi Steps Down at Noma Amid Allegations of Past Abuse](https://www.nytimes.com/2026/03/11/dining/rene-redzepi-noma-resign-abuse.html)
 
-Is Trump triumphing or has he committed a grave error? A debate on the Iran war.
-
-
-7. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
-
-Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
+After 23 years running the Copenhagen restaurant, widely considered one of the most innovative and important in the world, the chef is leaving.
 
 
-8. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
+8. [Mortgage Rates Rise as Iran War Ripples Through Financial Markets](https://www.nytimes.com/2026/03/12/business/mortgage-rates-rise-above-6-percent.html)
 
-In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
-
-
-9. [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
-
-Julie T. Le, a former government lawyer, described in stark terms how overstretched the legal system had become during the administration’s immigration crackdown in Minnesota. Now, she said, she hopes to fix the “system’s failures” by running for Congress.
+Mortgage rates fell below the critical 6 percent threshold just a couple weeks ago. But they’re climbing again as new inflation concerns have roiled financial markets.
 
 
-10. [Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War](https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html)
+9. [Judge Dismisses Bulk of Lawsuit Over Trump’s Funding Freeze for Tunnel](https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html)
 
-The influential podcast host described the conflict as a sharp reversal from the policies the president had campaigned on.
+The case is mostly moot, a federal judge said, because the administration has resumed the flow of more than $200 million in funding that it had temporarily stopped.
+
+
+10. [Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict](https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html)
+
+Treasury Secretary Scott Bessent said it was “unfortunate” that the move could benefit Russia, but maintained that it was only for the short term.
 
 
