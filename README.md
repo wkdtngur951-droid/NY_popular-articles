@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-13 14:51:26)
+## 📰 NYTimes Most Popular (Updated: 2026-03-13 15:51:17)
 
-1. [A Statue of Trump and Epstein Re-enacting ‘Titanic’ Pose Appears on National Mall](https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html)
-
-The installation is the latest in a series of satirical statues created by an anonymous group of artists called the Secret Handshake.
-
-
-2. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
-
-In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
-
-
-3. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
-
-The fairy tale was 1990s New York.
-
-
-4. [Judge Dismisses Bulk of Lawsuit Over Trump’s Funding Freeze for Tunnel](https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html)
-
-The case is mostly moot, a federal judge said, because the administration has resumed the flow of more than $200 million in funding that it had temporarily stopped.
-
-
-5. [Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War](https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html)
-
-The influential podcast host described the conflict as a sharp reversal from the policies the president had campaigned on.
-
-
-6. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
-
-Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
-
-
-7. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
-
-In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
-
-
-8. [6 Killed in Crash of U.S. Refueling Plane in Iraq, Military Says](https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html)
+1. [6 Killed in Crash of U.S. Refueling Plane in Iraq, Military Says](https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html)
 
 The crash was not caused by hostile or friendly fire, U.S. Central Command said. All six crew members died, it said, bringing the number of U.S. service members killed in the Iran conflict to at least 13.
 
 
-9. [Felt Cute, Until They Gave Their Husbands the Phone](https://www.nytimes.com/2026/03/11/style/bad-husband-boyfriend-photos-camera-roll.html)
+2. [Trump Endorses Jake Paul (Who Isn’t Running for Office)](https://www.nytimes.com/2026/03/12/us/politics/trump-jake-paul-endorsement.html)
+
+The president called Mr. Paul, a boxer and provocative influencer, a “great guy” and predicted that he would run for an elected position.
+
+
+3. [René Redzepi Steps Down at Noma Amid Allegations of Past Abuse](https://www.nytimes.com/2026/03/11/dining/rene-redzepi-noma-resign-abuse.html)
+
+After 23 years running the Copenhagen restaurant, widely considered one of the most innovative and important in the world, the chef is leaving.
+
+
+4. [Felt Cute, Until They Gave Their Husbands the Phone](https://www.nytimes.com/2026/03/11/style/bad-husband-boyfriend-photos-camera-roll.html)
 
 Perfect lighting and backdrops do not guarantee a great photo, as one social media trend highlights. Even professionals are not immune.
 
 
-10. ['That's When the Boos Started': The Oscars Speech That Lost the Room](https://www.nytimes.com/interactive/2026/03/12/magazine/oscar-academy-award-michael-moore-speech.html)
+5. [Weakened by War, Iran Hits Back by Strangling a Vital Waterway](https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html)
 
-Days after the 2003 invasion of Iraq, Michael Moore used his moment in the spotlight to rail against the war. Here’s what he and others onstage remember.
+The threats to shipping in the Strait of Hormuz are complicating President Trump’s calculations about how and when to end the war.
+
+
+6. [I Went to Florida to See the 31-Year-Old Candidate Thrilling Gen Z. We’re in Trouble.](https://www.nytimes.com/2026/03/12/opinion/james-fishback-gen-z-republican-florida.html)
+
+James Fishback has managed to bring the paranoid, transgressive, meme-drunk spirit of the right-wing internet into the real world.
+
+
+7. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
+
+Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
+
+
+8. [A Statue of Trump and Epstein Re-enacting ‘Titanic’ Pose Appears on National Mall](https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html)
+
+The installation is the latest in a series of satirical statues created by an anonymous group of artists called the Secret Handshake.
+
+
+9. [Iran’s Frantic Attempt to Save Its Ships Before Torpedo Attack](https://www.nytimes.com/2026/03/12/world/asia/iran-ships-sri-lanka.html)
+
+The Iranian Navy sought refuge in Sri Lanka and India. While India obliged, Sri Lanka stalled over fears it would threaten its neutrality.
+
+
+10. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
+
+In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
 
 
