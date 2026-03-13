@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-13 13:15:27)
+## 📰 NYTimes Most Popular (Updated: 2026-03-13 14:51:26)
 
-1. [How Neighborly Do Home Additions Have to Be?](https://www.nytimes.com/2026/03/12/realestate/massive-home-addition-nimby-debate.html)
+1. [A Statue of Trump and Epstein Re-enacting ‘Titanic’ Pose Appears on National Mall](https://www.nytimes.com/2026/03/12/us/politics/trump-epstein-statue-titanic-national-mall.html)
 
-As municipalities encourage more housing density, neighbors debate what kind of construction should be allowed.
-
-
-2. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
-
-In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
+The installation is the latest in a series of satirical statues created by an anonymous group of artists called the Secret Handshake.
 
 
-3. [Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War](https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html)
+2. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
+
+In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
+
+
+3. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
+
+The fairy tale was 1990s New York.
+
+
+4. [Judge Dismisses Bulk of Lawsuit Over Trump’s Funding Freeze for Tunnel](https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html)
+
+The case is mostly moot, a federal judge said, because the administration has resumed the flow of more than $200 million in funding that it had temporarily stopped.
+
+
+5. [Joe Rogan Says Trump’s Supporters Feel ‘Betrayed’ by Iran War](https://www.nytimes.com/2026/03/11/us/politics/rogan-trump-iran-war.html)
 
 The influential podcast host described the conflict as a sharp reversal from the policies the president had campaigned on.
-
-
-4. [Felt Cute, Until They Gave Their Husbands the Phone](https://www.nytimes.com/2026/03/11/style/bad-husband-boyfriend-photos-camera-roll.html)
-
-Perfect lighting and backdrops do not guarantee a great photo, as one social media trend highlights. Even professionals are not immune.
-
-
-5. [‘He Seems Really Bad at Getting Advice’: 3 Opinion Writers on Trump and Iran](https://www.nytimes.com/2026/03/12/opinion/iran-trump-war.html)
-
-Is Trump triumphing or has he committed a grave error? A debate on the Iran war.
 
 
 6. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
@@ -30,23 +30,23 @@ Is Trump triumphing or has he committed a grave error? A debate on the Iran war.
 Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
 
 
-7. [Oil Shock Sends Tremors Through World Economy: ‘This Really Is the Big One’](https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html)
+7. [Coding After Coders: The End of Computer Programming as We Know It](https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html)
 
-Countries already walloped by a breakdown of the international trading order, war in Ukraine and chaotic U.S. policymaking are facing potentially lasting economic damage.
-
-
-8. [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
-
-Julie T. Le, a former government lawyer, described in stark terms how overstretched the legal system had become during the administration’s immigration crackdown in Minnesota. Now, she said, she hopes to fix the “system’s failures” by running for Congress.
+In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.
 
 
-9. [Carolyn Bessette Was Living the Dream. Then She Met John.](https://www.nytimes.com/2026/03/11/opinion/carolyn-bessette-kennedy-love-story.html)
+8. [6 Killed in Crash of U.S. Refueling Plane in Iraq, Military Says](https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html)
 
-The fairy tale was 1990s New York.
+The crash was not caused by hostile or friendly fire, U.S. Central Command said. All six crew members died, it said, bringing the number of U.S. service members killed in the Iran conflict to at least 13.
 
 
-10. [How Trump and His Advisers Miscalculated Iran’s Response to War](https://www.nytimes.com/2026/03/10/us/politics/how-trump-miscalculated-iran-response.html)
+9. [Felt Cute, Until They Gave Their Husbands the Phone](https://www.nytimes.com/2026/03/11/style/bad-husband-boyfriend-photos-camera-roll.html)
 
-In the lead-up to the U.S.-Israeli attack, President Trump downplayed the risks to the energy markets as a short-term concern that should not overshadow the mission to decapitate the Iranian regime.
+Perfect lighting and backdrops do not guarantee a great photo, as one social media trend highlights. Even professionals are not immune.
+
+
+10. ['That's When the Boos Started': The Oscars Speech That Lost the Room](https://www.nytimes.com/interactive/2026/03/12/magazine/oscar-academy-award-michael-moore-speech.html)
+
+Days after the 2003 invasion of Iraq, Michael Moore used his moment in the spotlight to rail against the war. Here’s what he and others onstage remember.
 
 
