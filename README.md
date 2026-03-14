@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-13 23:35:22)
+## 📰 NYTimes Most Popular (Updated: 2026-03-14 02:39:37)
 
-1. [How Hegseth Came to See Moral Purpose in War as Weakness](https://www.nytimes.com/2026/03/12/us/politics/hegseth-iran-war.html)
+1. [6 Killed in Crash of U.S. Refueling Plane in Iraq, Military Says](https://www.nytimes.com/2026/03/12/world/middleeast/us-refueling-plane-crash-iraq.html)
 
-Defense Secretary Pete Hegseth’s bellicose and vengeful rhetoric describing the military’s war in Iran grew out of his experience in Iraq.
-
-
-2. [Trump Removes Sanctions on Russia to Help Oil Flow Amid Iran Conflict](https://www.nytimes.com/2026/03/12/us/politics/trump-russia-oil-sanctions.html)
-
-Treasury Secretary Scott Bessent said it was “unfortunate” that the move could benefit Russia, but maintained that it was only for the short term.
+The crash was not caused by hostile or friendly fire, U.S. Central Command said. All six crew members died, it said, bringing the number of U.S. service members killed in the Iran war to at least 13.
 
 
-3. [Trump Endorses Jake Paul (Who Isn’t Running for Office)](https://www.nytimes.com/2026/03/12/us/politics/trump-jake-paul-endorsement.html)
+2. [Trump Administration Readies Plans to Dismantle Renowned Science Lab](https://www.nytimes.com/2026/03/13/climate/ncar-breakup-plan-nasa-noaa.html)
 
-The president called Mr. Paul, a boxer and provocative influencer, a “great guy” and predicted that he would run for an elected position.
+Proposals include transferring a supercomputer to the University of Wyoming and shifting a space weather lab to a private company.
+
+
+3. [N.C. Sheriff Poised to Pull Off Stunning Upset in Consequential G.O.P. Primary](https://www.nytimes.com/2026/03/13/us/berger-page-north-carolina-senate.html)
+
+A formal tally on Friday showed Sam Page ahead of Phil Berger, the powerful longtime leader of the State Senate. A recount is expected but experts say that is unlikely to flip the results.
 
 
 4. [Trump Will Destroy Washington if It’s the Last Thing He Does](https://www.nytimes.com/2026/03/13/opinion/culture/white-house-ballroom-trump.html)
@@ -20,33 +20,33 @@ The president called Mr. Paul, a boxer and provocative influencer, a “great gu
 Trump’s plans for Washington bring to mind what Mussolini did — and tried to do — to Rome.
 
 
-5. [Oil Shock Sends Tremors Through World Economy: ‘This Really Is the Big One’](https://www.nytimes.com/2026/03/12/business/economy/iran-oil-shock-economy-global-impact.html)
+5. [How Iran’s Naval Mines Work](https://www.nytimes.com/interactive/2026/03/13/world/middleeast/iran-mines-strait-hormuz.html)
 
-Countries already walloped by a breakdown of the international trading order, war in Ukraine and chaotic U.S. policymaking are facing potentially lasting economic damage.
-
-
-6. [Felt Cute, Until They Gave Their Husbands the Phone](https://www.nytimes.com/2026/03/11/style/bad-husband-boyfriend-photos-camera-roll.html)
-
-Perfect lighting and backdrops do not guarantee a great photo, as one social media trend highlights. Even professionals are not immune.
+Iran’s arsenal of some 5,000 mines could further complicate efforts to restart shipping in the Persian Gulf.
 
 
-7. [Weakened by War, Iran Hits Back by Strangling a Vital Waterway](https://www.nytimes.com/2026/03/12/us/politics/strait-of-hormuz-iran-war.html)
+6. [Wall Street Bankers Offered Lucrative Access to Join the Pentagon](https://www.nytimes.com/2026/03/13/us/politics/wall-street-access-pentagon.html)
 
-The threats to shipping in the Strait of Hormuz are complicating President Trump’s calculations about how and when to end the war.
-
-
-8. [Treasure Hunter Released From Prison After Refusing to Turn Over Gold Coins](https://www.nytimes.com/2026/03/12/us/tommy-thompson-jail-released-gold-coins.html)
-
-Thomas G. Thompson was held in contempt for 10 years for repeatedly denying he knew the whereabouts of 500 missing gold coins.
+A presentation from a headhunting firm aimed to recruit Wall Street investors to the Pentagon by offering “unmatched access” to government officials and fund-raising opportunities among foreign sovereigns.
 
 
-9. [ICE Lawyer Who Told Judge She Was Overwhelmed Seeks New Role: Lawmaker](https://www.nytimes.com/2026/03/11/us/ice-lawyer-congress-julie-t-le.html)
+7. [Synagogue Attacker Loaded Vehicle With Fireworks and Killed Himself During Gunfight, Officials Say](https://www.nytimes.com/2026/03/13/us/synagogue-attack-lebanon-family.html)
 
-Julie T. Le, a former government lawyer, described in stark terms how overstretched the legal system had become during the administration’s immigration crackdown in Minnesota. Now, she said, she hopes to fix the “system’s failures” by running for Congress.
+The man, a U.S. citizen born in Lebanon, lost family members during an airstrike there last week. The attack on a Michigan synagogue rattled Jewish communities across America.
 
 
-10. [Judge Dismisses Bulk of Lawsuit Over Trump’s Funding Freeze for Tunnel](https://www.nytimes.com/2026/03/12/nyregion/gateway-hudson-tunnel-project-trump-funding.html)
+8. [I Went to Florida to See the 31-Year-Old Candidate Thrilling Gen Z. We’re in Trouble.](https://www.nytimes.com/2026/03/12/opinion/james-fishback-gen-z-republican-florida.html)
 
-The case is mostly moot, a federal judge said, because the administration has resumed the flow of more than $200 million in funding that it had temporarily stopped.
+James Fishback has managed to bring the paranoid, transgressive, meme-drunk spirit of the right-wing internet into the real world.
+
+
+9. [With Disputed Legal Maneuver, Trump Tries to Set Policy Without Legislation](https://www.nytimes.com/2026/03/12/us/politics/trump-lawsuits-settlements.html)
+
+By suing Republican states and making sharp reversals in old cases, the Trump administration is using courts to fast-track major shifts in policy.
+
+
+10. [Hegseth’s Claim About Killing a Would-Be Assassin Creates a Mystery](https://www.nytimes.com/2026/03/13/us/politics/hegseth-claim-iran-trump.html)
+
+The defense secretary said the leader of an Iranian unit that had planned to assassinate President Trump had been killed. But U.S. officials privately acknowledge the story is not that simple.
 
 
