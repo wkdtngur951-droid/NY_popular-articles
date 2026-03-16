@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-16 20:48:38)
+## 📰 NYTimes Most Popular (Updated: 2026-03-16 21:48:52)
 
-1. [How Trump’s Homeland Security Pick, a Prolific Investor, Got a Lot Wealthier in Congress](https://www.nytimes.com/2026/03/15/us/politics/trump-markwayne-mullin-homeland-security-stocks.html)
+1. [Oscars 2026 Winners: The Complete List](https://www.nytimes.com/2026/03/15/movies/oscars-winners-list.html)
 
-Markwayne Mullin’s financial dealings take on new importance as the Senate considers his nomination to lead an agency whose budget has vastly expanded.
+The winning actors, directors, pictures and more at the 98th annual Academy Awards.
 
 
-2. [I Predicted the 2008 Financial Crisis. What Is Coming May Be Worse.](https://www.nytimes.com/2026/03/16/opinion/financial-crisis-private-credit-ai-iran-taiwan.html)
+2. [Why Minnesota Matters More Than Iran for America’s Future](https://www.nytimes.com/2026/03/15/opinion/columnists/minneapolis-ice-trump-neighbor.html)
 
-Richard Bookstaber warns that what appears to be disparate forces adding risk to our economy are all part of one deeply connected system.
+Moms donating their breast milk to strangers, dads taking someone else’s kids to school: Minnesotans showed a basic human impulse to look out for their neighbors.
 
 
 3. [17 Unforgettable Looks at the Oscars](https://www.nytimes.com/2026/03/15/style/oscars-red-carpet-2026.html)
@@ -15,38 +15,38 @@ Richard Bookstaber warns that what appears to be disparate forces adding risk to
 Jewel-tone gowns, bumblebee brooches, overalls and more.
 
 
-4. [Wasn’t Timothée Chalamet Supposed to Be a New Kind of Leading Man?](https://www.nytimes.com/2026/03/15/opinion/culture/timothee-chalamet-leading-man.html)
-
-He’s no longer that heart-on-his-sleeve sensitive soft boy many people fell for.
-
-
-5. ['That's When the Boos Started': The Oscars Speech That Lost the Room](https://www.nytimes.com/interactive/2026/03/12/magazine/oscar-academy-award-michael-moore-speech.html)
+4. ['That's When the Boos Started': The Oscars Speech That Lost the Room](https://www.nytimes.com/interactive/2026/03/12/magazine/oscar-academy-award-michael-moore-speech.html)
 
 Days after the 2003 invasion of Iraq, Michael Moore used his moment in the spotlight to rail against the war. Here’s what he and others onstage remember.
 
 
-6. [I Was an F.B.I. Agent for 25 Years. Kash Patel Is Playing a Dangerous Game.](https://www.nytimes.com/2026/03/16/opinion/kash-patel-fbi-iran.html)
+5. [Sean Penn Wins Best Supporting Actor but Opts for Ukraine, Not the Oscars](https://www.nytimes.com/2026/03/15/movies/sean-penn-oscars.html)
 
-Let’s hope it doesn’t take another Sept. 11 to snap the F.B.I.’s leadership into action.
-
-
-7. [Dreams of Flight and Service for 6 U.S. Military Members Killed in Iraq](https://www.nytimes.com/2026/03/14/us/names-of-us-soliders-killed-tanker-crash.html)
-
-The crew members who died in the crash of a refueling tanker in Iraq had been part of the U.S. and Israel’s war on Iran, bringing the death toll of American service members in the conflict to at least 13.
+The actor has a history with the country’s president, Volodymyr Zelensky, and had been skipping awards ceremonies.
 
 
-8. [Entering War’s Third Week, Trump Faces Stark Choices](https://www.nytimes.com/2026/03/15/us/politics/trump-stark-choices-iran-war.html)
+6. [The Billionaire Backlash Against a Philanthropic Dream](https://www.nytimes.com/2026/03/15/business/the-billionaire-backlash-against-a-philanthropic-dream.html)
 
-As the conflict with Iran expands and intensifies, President Trump’s options — to fight on, or to move toward declaring victory and pulling back — both carry deeply problematic consequences.
-
-
-9. [Best and Worst Moments From the 2026 Oscars](https://www.nytimes.com/2026/03/16/movies/oscars-moments-best-worst.html)
-
-There was a lot to take in, from Michael B. Jordan’s thrilling win to the perplexing “bum drum.”
+The Giving Pledge, once trendy among the world’s richest, has come upon hard times.
 
 
-10. [We Have Reached End-Stage Polarization](https://www.nytimes.com/2026/03/15/opinion/trump-talarico-maga-religious-political-division.html)
+7. [F.C.C. Chair Threatens to Revoke Broadcasters’ Licenses Over War Coverage](https://www.nytimes.com/2026/03/14/world/middleeast/fcc-broadcasters-iran-war.html)
 
-The omnipresence of Trump should open our eyes.
+The comment from Brendan Carr came on the heels of a social media message from President Trump criticizing the news media’s coverage of the war with Iran.
+
+
+8. [Nations Rebuff Trump’s Call to Send Warships to Strait of Hormuz](https://www.nytimes.com/2026/03/15/world/middleeast/trump-strait-of-hormuz-iran-warships.html)
+
+President Trump has urged China, Britain, France, Japan and South Korea to send warships to help reopen the waterway, even though they are not involved in the U.S.-Israeli attack on Iran.
+
+
+9. [Wasn’t Timothée Chalamet Supposed to Be a New Kind of Leading Man?](https://www.nytimes.com/2026/03/15/opinion/culture/timothee-chalamet-leading-man.html)
+
+He’s no longer that heart-on-his-sleeve sensitive soft boy many people fell for.
+
+
+10. [Could This Be the End of Dubai?](https://www.nytimes.com/2026/03/16/opinion/dubai-hormuz-war-iran-elite.html)
+
+Could This Be the End of Dubai?
 
 
