@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-19 21:42:38)
+## 📰 NYTimes Most Popular (Updated: 2026-03-19 22:36:11)
 
-1. [Firm That Planned Trump’s Jan. 6 Rally Received No-Bid Contracts](https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html)
-
-This administration has given the company, staffed by the president’s allies, multimillion-dollar contracts it was guaranteed to win.
-
-
-2. [This Is What the President Is Fixated on Right Now?](https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html)
-
-Trump’s SAVE Act would do anything but save America.
-
-
-3. [‘Their Power Feels Like Mine’: A Dog Sled Racer Says Goodbye to Her Pack](https://www.nytimes.com/2026/03/18/magazine/sled-dogs-pack-racing-mushing.html)
-
-After years of racing, I wanted to take my sled dogs back into the wilderness.
-
-
-4. [Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years](https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html)
-
-An investigation by The New York Times found extensive evidence that the United Farm Workers co-founder groomed and sexually abused girls who worked in the movement.
-
-
-5. [Trump Promised the ‘World’s Lowest’ Drug Prices. We Checked the Numbers.](https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html)
-
-The TrumpRx website claims to offer the best prices for medications. Here’s where Americans still pay more — and much more.
-
-
-6. [Joe Kent’s Resignation Letter Is Dangerous Because It’s Half True](https://www.nytimes.com/2026/03/18/opinion/joe-kent-israel-iran.html)
-
-Kent’s resignation letter is partly rooted in truth, even if it taps into old antisemitic tropes about occult Jewish control.
-
-
-7. [U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War](https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html)
-
-On Wednesday, the director of national intelligence and C.I.A. director contradicted one of the justifications the Trump administration had given for its attacks on Iran.
-
-
-8. [Why This Jump in Gas Prices Feels Different](https://www.nytimes.com/2026/03/18/upshot/gas-prices-lookup.html)
-
-A state-by-state look at the increase and how it could affect you.
-
-
-9. [Pentagon Seeks $200 Billion to Fund Iran War](https://www.nytimes.com/2026/03/19/world/middleeast/pentagon-200-billion-iran-war-funding-hegseth.html)
+1. [Pentagon Seeks $200 Billion to Fund Iran War](https://www.nytimes.com/2026/03/19/world/middleeast/pentagon-200-billion-iran-war-funding-hegseth.html)
 
 The request, which the White House has not yet submitted to Congress, is already encountering some resistance.
 
 
-10. [Alvin Greene, a No-Show Senate Nominee Who Won Primary, Dies at 48](https://www.nytimes.com/2026/03/18/us/politics/alvin-greene-dead.html)
+2. [Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html)
 
-He made no effort to campaign but won the South Carolina Democratic primary in 2010, becoming the state’s first Black major-party nominee for the Senate.
+Breaking a taboo, President Trump needled Japan’s prime minister about the World War II attack, as she widened her eyes and appeared to take a deep breath in the Oval Office.
+
+
+3. [This Is What the President Is Fixated on Right Now?](https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html)
+
+Trump’s SAVE Act would do anything but save America.
+
+
+4. [Joseph Duggar of ‘19 Kids and Counting’ Faces Child Sex Abuse Charges](https://www.nytimes.com/2026/03/18/us/joseph-duggar-arrest-child-sex-abuse.html)
+
+Mr. Duggar, a former star of the TLC reality show, was arrested in Arkansas and was awaiting extradition to Florida, where the authorities said he molested a 9-year-old girl in 2020.
+
+
+5. [Vance Says He Welcomes Disagreement, but Supports Joe Kent’s Resignation](https://www.nytimes.com/2026/03/18/us/politics/jd-vance-joe-kent-resignation.html)
+
+In Michigan, Vice President JD Vance said that “when the president of the United States makes a decision, it’s your job to help make that decision as effective and successful as possible.”
+
+
+6. [Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years](https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html)
+
+An investigation by The New York Times found extensive evidence that the United Farm Workers co-founder groomed and sexually abused girls who worked in the movement.
+
+
+7. [Why This Jump in Gas Prices Feels Different](https://www.nytimes.com/2026/03/18/upshot/gas-prices-lookup.html)
+
+A state-by-state look at the increase and how it could affect you.
+
+
+8. [I Predicted the 2008 Financial Crisis. What Is Coming May Be Worse.](https://www.nytimes.com/2026/03/16/opinion/financial-crisis-private-credit-ai-iran-taiwan.html)
+
+Richard Bookstaber warns that what appears to be disparate forces adding risk to our economy are all part of one deeply connected system.
+
+
+9. [‘The Bachelorette’ Season Canceled After Leaked Video of Assault](https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html)
+
+Taylor Frankie Paul, who was set to star in the TV show, had pleaded guilty to aggravated assault after an encounter with her partner in 2023.
+
+
+10. [If You Hate Trump’s Economy, I Have News for You](https://www.nytimes.com/2026/03/18/opinion/economy-us-trump-biden.html)
+
+It’s all a matter of perspective.
 
 
