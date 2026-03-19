@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-18 23:36:31)
+## 📰 NYTimes Most Popular (Updated: 2026-03-19 02:51:14)
 
-1. [Why Won’t Europe Help Trump in Iran? Let’s Count the Reasons.](https://www.nytimes.com/2026/03/17/world/europe/europe-trump-strait-hormuz-oil.html)
+1. [U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War](https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html)
 
-President Trump says his NATO allies are disloyal for not helping the United States to clear an oil blockade. But they have a long list of incentives to refuse.
-
-
-2. [America, Alone](https://www.nytimes.com/2026/03/17/briefing/america-alone.html)
-
-We explain why America’s allies aren’t coming to the rescue in the Strait of Hormuz.
+On Wednesday, the director of national intelligence and C.I.A. director contradicted one of the justifications the Trump administration had given for its attacks on Iran.
 
 
-3. [Utah Woman Found Guilty of Fatally Poisoning Husband](https://www.nytimes.com/2026/03/16/us/kouri-richins-murder-verdict.html)
+2. [This Is What the President Is Fixated on Right Now?](https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html)
 
-Kouri Richins was accused of mixing a lethal dose of fentanyl into a drink she made for her husband. She later wrote a children’s book about coping with grief.
-
-
-4. [We Study Mass Shooters. Something Terrifying Is Happening Online.](https://www.nytimes.com/2026/03/17/opinion/mass-shooters-online-radicalization.html)
-
-The violence is not a means to an end. It is the end.
+Trump’s SAVE Act would do anything but save America.
 
 
-5. [Admiral’s Comments Undercut Pentagon’s Cluster Munition Policy](https://www.nytimes.com/2026/03/17/us/politics/cluster-munitions-iran.html)
+3. [Joe Kent’s Resignation Letter Is Dangerous Because It’s Half True](https://www.nytimes.com/2026/03/18/opinion/joe-kent-israel-iran.html)
 
-The first Trump administration defended cluster munitions as “legitimate,” but on Monday, Adm. Brad Cooper condemned them as “inherently indiscriminate.”
-
-
-6. [Trump Airs a House Republican’s Terminal Diagnosis, Claiming to Have Reversed It](https://www.nytimes.com/2026/03/16/us/politics/trump-neal-dunn-terminal-diagnosis-johnson.html)
-
-The president leaned on House Speaker Mike Johnson to name a Florida Republican whose grave prognosis was imperiling the party’s already slim voting margin. Both said his prospects had improved.
+Kent’s resignation letter is partly rooted in truth, even if it taps into old antisemitic tropes about occult Jewish control.
 
 
-7. [Trump Promised the ‘World’s Lowest’ Drug Prices. We Checked the Numbers.](https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html)
+4. [Rift Widens Among Republicans Over Israel and War in Iran](https://www.nytimes.com/2026/03/17/us/politics/iran-war-trump-conservative-divide-israel.html)
 
-The TrumpRx website claims to offer the best prices for medications. Here’s where Americans still pay more — and much more.
-
-
-8. [Joe Kent, a Top U.S. Counterterrorism Official, Resigns Over the Iran War](https://www.nytimes.com/2026/03/17/us/politics/joe-kent-counterterrorism-resigns-iran-war.html)
-
-Mr. Kent is the highest-ranking Trump administration official to quit in opposition to the conflict. He is also known for his support of conspiracy theories.
+As the U.S.-Israel-Iran war continues, conservatism’s most famous figures  are in a rhetorical brawl over America’s role.
 
 
-9. [Judge Ejects Federal Prosecutor From Court and Orders Bosses to Testify](https://www.nytimes.com/2026/03/17/nyregion/judge-quraishi-new-jersey-attorneys-office.html)
+5. [He’s Openly Antisemitic. Young Male Conservatives in Florida Love Him.](https://www.nytimes.com/2026/03/18/opinion/fishback-florida-governor-antisemitism.html)
 
-Judge Zahid Quraishi ordered a hearing on who had the authority to lead New Jersey’s top federal law enforcement office.
+Michelle Goldberg on the right’s growing antisemitism problem.
 
 
-10. [If You Hate Trump’s Economy, I Have News for You](https://www.nytimes.com/2026/03/18/opinion/economy-us-trump-biden.html)
+6. [Iran’s Intelligence Minister Killed in an Airstrike](https://www.nytimes.com/2026/03/18/world/middleeast/iran-intelligence-minister-khatib-israel.html)
 
-It’s all a matter of perspective.
+The Israeli military said on Wednesday that it had killed Esmaeil Khatib in an airstrike. Iran confirmed the killing.
+
+
+7. [Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years](https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html)
+
+An investigation by The New York Times found extensive evidence that the United Farm Workers co-founder groomed and sexually abused girls who worked in the movement.
+
+
+8. [Why This Jump in Gas Prices Feels Different](https://www.nytimes.com/2026/03/18/upshot/gas-prices-lookup.html)
+
+A state-by-state look at the increase and how it could affect you.
+
+
+9. [For Once, We Fight With an Equal Ally](https://www.nytimes.com/2026/03/17/opinion/iran-war-israel-us-allies.html)
+
+Israel is the rare U.S. ally that pulls its weight, shares the risk and contributes to victory.
+
+
+10. [Kharg Island Is an Appealing Target for Trump, With High Risks](https://www.nytimes.com/2026/03/17/us/politics/kharg-island-iran-trump-risks.html)
+
+A U.S. attack or a move to seize control of Iran’s main oil export hub could cripple the country’s ability to profit from its natural resources. But it would also risk sending energy prices even higher.
 
 
