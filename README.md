@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-19 23:36:41)
+## 📰 NYTimes Most Popular (Updated: 2026-03-20 02:41:54)
 
-1. [On Iran, Gabbard Turned Intelligence Duties Over to Trump](https://www.nytimes.com/2026/03/18/us/politics/tulsi-gabbard-iran-trump.html)
+1. [‘It Feels Like There’s No Jobs’: 12 Gen Z Voters on the U.S. Economy](https://www.nytimes.com/interactive/2026/03/19/opinion/focus-group-gen-z-jobs.html)
 
-Tulsi Gabbard, the director of national intelligence, was left to square the president’s comments about an imminent nuclear threat from Iran with a letter from one of her trusted aides.
-
-
-2. [Trump Promised the ‘World’s Lowest’ Drug Prices. We Checked the Numbers.](https://www.nytimes.com/2026/03/18/world/europe/trumprx-drug-prices-really-cheapest-world-comparison.html)
-
-The TrumpRx website claims to offer the best prices for medications. Here’s where Americans still pay more — and much more.
+The group discusses the labor market, work and how A.I. and hustle culture are influencing their lives.
 
 
-3. [Firm That Planned Trump’s Jan. 6 Rally Received No-Bid Contracts](https://www.nytimes.com/2026/03/18/us/politics/jan-6-contracts.html)
+2. [Homeland Security Nominee Clears Key Hurdle](https://www.nytimes.com/2026/03/19/us/politics/markwayne-mullin-dhs.html)
 
-This administration has given the company, staffed by the president’s allies, multimillion-dollar contracts it was guaranteed to win.
-
-
-4. [This Is What the President Is Fixated on Right Now?](https://www.nytimes.com/2026/03/18/opinion/trump-save-america-act.html)
-
-Trump’s SAVE Act would do anything but save America.
+If confirmed, Senator Markwayne Mullin of Oklahoma would be taking over the department at a sensitive moment.
 
 
-5. [U.S. Intelligence Saw No Change in Iran’s Missile Capabilities Before War](https://www.nytimes.com/2026/03/18/world/middleeast/tulsi-gabbard-senate-testimony-iran-war.html)
+3. [She Killed a Family With Her Speeding Car. Is Probation Enough?](https://www.nytimes.com/2026/03/19/us/san-francisco-pedestrian-deaths-toddler.html)
 
-On Wednesday, the director of national intelligence and C.I.A. director contradicted one of the justifications the Trump administration had given for its attacks on Iran.
-
-
-6. [In His Resignation Letter, Joe Kent Spoke About the Death of His Wife](https://www.nytimes.com/2026/03/17/us/politics/joe-kent-shannon-kent-iran-syria.html)
-
-Chief Petty Officer Shannon Kent was killed in action during a special operations mission in Syria in 2019. Mr. Kent said he could not support “sending the next generation off to fight and die” in Iran.
+Two years ago, an older driver killed a couple, their toddler and their baby as her vehicle sped through San Francisco. A judge has indicated that he intends to let her avoid prison, home detention and community service.
 
 
-7. [‘The Bachelorette’ Season Canceled After Leaked Video of Assault](https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html)
+4. [‘The Bachelorette’ Season Canceled After Leaked Video of Assault](https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html)
 
 Taylor Frankie Paul, who was set to star in the TV show, had pleaded guilty to aggravated assault after an encounter with her partner in 2023.
 
 
-8. [Why This Jump in Gas Prices Feels Different](https://www.nytimes.com/2026/03/18/upshot/gas-prices-lookup.html)
+5. [Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years](https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html)
 
-A state-by-state look at the increase and how it could affect you.
-
-
-9. [I Predicted the 2008 Financial Crisis. What Is Coming May Be Worse.](https://www.nytimes.com/2026/03/16/opinion/financial-crisis-private-credit-ai-iran-taiwan.html)
-
-Richard Bookstaber warns that what appears to be disparate forces adding risk to our economy are all part of one deeply connected system.
+An investigation by The New York Times found extensive evidence that the United Farm Workers co-founder groomed and sexually abused girls who worked in the movement.
 
 
-10. [F.B.I. Investigates Joe Kent, Whose Resignation Over Iran War Angered Trump](https://www.nytimes.com/2026/03/18/us/politics/fbi-joe-kent-intelligence-leak.html)
+6. [Taylor Frankie Paul’s ‘Bachelorette’ Controversy, Explained](https://www.nytimes.com/2026/03/18/arts/television/bachelorette-taylor-frankie-paul.html)
+
+On Thursday, ABC announced that it is pulling the new season of the dating show after a video of Paul attacking her ex-boyfriend surfaced.
+
+
+7. [Trump Jokes About Pearl Harbor in Meeting With Japan’s Leader](https://www.nytimes.com/2026/03/19/us/politics/trump-japan-pearl-harbor-oval-office-takaichi.html)
+
+Breaking a taboo, President Trump needled Japan’s prime minister about the World War II attack, as she widened her eyes and appeared to take a deep breath in the Oval Office.
+
+
+8. [F.B.I. Investigates Joe Kent, Whose Resignation Over Iran War Angered Trump](https://www.nytimes.com/2026/03/18/us/politics/fbi-joe-kent-intelligence-leak.html)
 
 Mr. Kent is under investigation for a possible intelligence leak, according to people familiar with the situation. The inquiry is said to predate his resignation this week as the top U.S. counterterrorism official.
+
+
+9. [Trump Has Only Himself to Blame](https://www.nytimes.com/2026/03/19/opinion/trump-iran-war.html)
+
+It should never have come to this.
+
+
+10. [Body of Missing American College Student Is Found in Spain, Police Say](https://www.nytimes.com/2026/03/19/world/europe/american-student-missing-spain-barcelona-james-gracey.html)
+
+James Gracey, 20, a student at the University of Alabama, disappeared during a visit to a beachfront nightclub in Barcelona. His body was found on Thursday, the police said.
 
 
