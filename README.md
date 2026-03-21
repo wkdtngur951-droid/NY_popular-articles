@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-21 11:29:33)
+## 📰 NYTimes Most Popular (Updated: 2026-03-21 13:04:29)
 
-1. [Chuck Norris, Black-Belt Action Star of Movies and Television, Dies at 86](https://www.nytimes.com/2026/03/20/movies/chuck-norris-dead.html)
+1. [Hegseth Invokes Divine Purpose to Justify Military Might](https://www.nytimes.com/2026/03/20/us/politics/hegseth-christianity-military.html)
 
-He channeled his martial arts skills into heroic roles in films like “The Delta Force” and “Missing in Action” and in the long-running TV series “Walker, Texas Ranger.”
+Defense Secretary Pete Hegseth has imbued U.S. military actions with a Christian moral underpinning that suggests they are divinely sanctioned.
 
 
 2. [Iran Executes 3 Men, Including a Star Teenage Wrestler](https://www.nytimes.com/2026/03/20/world/middleeast/iran-executed-wrestler-mohammadi-hanging-protests.html)
@@ -10,39 +10,39 @@ He channeled his martial arts skills into heroic roles in films like “The Delt
 The Iranian authorities accused the men of killing two police officers during anti-government protests in January. Human rights groups had raised concerns about the cases against them.
 
 
-3. [Judge Rules Pentagon Restrictions on Press Are Unconstitutional](https://www.nytimes.com/2026/03/20/business/media/pentagon-press-restrictions-new-york-times.html)
-
-A federal judge tossed parts of the Pentagon’s restrictions on news outlets, saying they violated the First Amendment, in a lawsuit brought by The New York Times.
-
-
-4. [U.S. Prosecutors Investigate Colombia’s President, a Onetime Trump Foe](https://www.nytimes.com/2026/03/20/nyregion/colombia-president-petro-investigation-drugs.html)
-
-The Justice Department is examining whether President Gustavo Petro of Colombia has ties to drug traffickers.
-
-
-5. [In Japan, Trump’s Pearl Harbor Joke Elicits Scorn and Dismay](https://www.nytimes.com/2026/03/20/world/asia/japan-trump-pearl-harbor.html)
+3. [In Japan, Trump’s Pearl Harbor Joke Elicits Scorn and Dismay](https://www.nytimes.com/2026/03/20/world/asia/japan-trump-pearl-harbor.html)
 
 Some people criticized President Trump’s decision to invoke a painful chapter of history. Others worried it might harm U.S.-Japan relations.
 
 
-6. [Spain Says the Sun Shields It From Rising Gas Costs. Is That True?](https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html)
-
-Pedro Sánchez, Spain’s prime minister, said the nation’s renewable energy system has softened the financial fallout from the war in Iran. The story is more complex.
-
-
-7. [‘Once and for All’ Means Never](https://www.nytimes.com/2026/03/20/opinion/iran-israel-united-states-hamas.html)
-
-Hamas has survived waves of killings of its leaders. More than force will be necessary to overturn the Islamic regime of Iran.
-
-
-8. [‘The Bachelorette’ Season Canceled After Leaked Video of Assault](https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html)
+4. [‘The Bachelorette’ Season Canceled After Leaked Video of Assault](https://www.nytimes.com/2026/03/19/arts/television/bachelorette-canceled-taylor-frankie-paul-video.html)
 
 Taylor Frankie Paul, who was set to star in the TV show, had pleaded guilty to aggravated assault after an encounter with her partner in 2023.
 
 
-9. [Nicholas Brendon, Beloved Sidekick on ‘Buffy the Vampire Slayer,’ Dies at 54](https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html)
+5. [A Gift From Trump to the Supreme Court](https://www.nytimes.com/2026/03/19/us/the-docket-gift-trump-supreme-court.html)
 
-He played the part of Xander Harris, one of Buffy’s closest friends, on the hit television show about a teenage girl who protects the world from monsters.
+In a caustic critique of the court issued on social media late Sunday night, the president inadvertently buttressed its independence.
+
+
+6. [Judge Rules Pentagon Restrictions on Press Are Unconstitutional](https://www.nytimes.com/2026/03/20/business/media/pentagon-press-restrictions-new-york-times.html)
+
+A federal judge tossed parts of the Pentagon’s restrictions on news outlets, saying they violated the First Amendment, in a lawsuit brought by The New York Times.
+
+
+7. [Spain Says the Sun Shields It From Rising Gas Costs. Is That True?](https://www.nytimes.com/2026/03/20/world/europe/spain-iran-energy-renewables-gas-sun.html)
+
+Pedro Sánchez, Spain’s prime minister, said the nation’s renewable energy system has softened the financial fallout from the war in Iran. The story is more complex.
+
+
+8. [5 Places Where the Iran War Could Get Worse](https://www.nytimes.com/interactive/2026/03/20/opinion/iran-war-attacks-map.html)
+
+How the conflict could further destabilize the region.
+
+
+9. [U.S. Prosecutors Investigate Colombia’s President, a Onetime Trump Foe](https://www.nytimes.com/2026/03/20/nyregion/colombia-president-petro-investigation-drugs.html)
+
+The Justice Department is examining whether President Gustavo Petro of Colombia has ties to drug traffickers.
 
 
 10. [Cesar Chavez, a Civil Rights Icon, Is Accused of Abusing Girls for Years](https://www.nytimes.com/2026/03/18/us/cesar-chavez-sexual-abuse-allegations-ufw.html)
