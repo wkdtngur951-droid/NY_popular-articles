@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-22 22:33:25)
+## 📰 NYTimes Most Popular (Updated: 2026-03-22 23:35:00)
 
-1. [Trump’s Reaction to Mueller’s Death: ‘Good, I’m Glad.’](https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html)
+1. [Trump Has Made a Fundamental Miscalculation about Iran](https://www.nytimes.com/2026/03/22/opinion/trump-iran-war-memes.html)
 
-The president has been known to disparage foes after their deaths. His response to Mr. Mueller’s death drew criticism from Republicans and Democrats.
-
-
-2. [Andy Beshear Delivers a Scathing Attack on JD Vance in Ohio, Stoking 2028 Tensions](https://www.nytimes.com/2026/03/21/us/politics/beshear-vance-2028-presidential-race.html)
-
-Mr. Beshear, the Democratic governor of Kentucky, sharply criticized Mr. Vance as both angle for potential presidential runs.
+America shouldn’t fight a war like this.
 
 
-3. [Nicholas Brendon, Beloved Sidekick on ‘Buffy the Vampire Slayer,’ Dies at 54](https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html)
+2. [No Pills or Needles, Just Paper: How Deadly Drugs Are Changing](https://www.nytimes.com/2026/03/21/world/deadly-drugs-paper.html)
+
+Lab-made drugs soaked into the pages of letters, books and even legal documents are being smuggled behind bars, killing inmates and frustrating investigators.
+
+
+3. [Flashback: Your Weekly History Quiz, March 21, 2026](https://www.nytimes.com/interactive/2026/03/20/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+4. [Nicholas Brendon, Beloved Sidekick on ‘Buffy the Vampire Slayer,’ Dies at 54](https://www.nytimes.com/2026/03/20/arts/television/nicholas-brendon-dead.html)
 
 He played the part of Xander Harris, one of Buffy’s closest friends, on the hit television show about a teenage girl who protects the world from monsters.
 
 
-4. [Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?](https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html)
+5. [Robert S. Mueller III, 81, Dies; Rebuilt F.B.I. and Led Trump Inquiry](https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html)
 
-President Trump says he is considering “winding down” operations in Iran. But many of his original war goals remain unaccomplished.
+He imposed the most significant overhaul of the F.B.I. in its history. Later, after concluding that Russia had interfered in the 2016 election, he became a target of the president’s anger.
 
 
-5. [ICE to Aid Airport Security Amid Partial Shutdown, Border Czar Says](https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html)
+6. [ICE to Aid Airport Security Amid Partial Shutdown, Border Czar Says](https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html)
 
 Tom Homan, President Trump’s chief border official, cast the operation largely as one to help ease long security lines that have been frustrating passengers at U.S. airports.
 
 
-6. [President Trump’s Ballroom Architect, Roasting in the Hot Seat](https://www.nytimes.com/2026/03/21/us/politics/trump-ballroom-architect.html)
+7. [How Corey Lewandowski Wielded Power Inside D.H.S.](https://www.nytimes.com/2026/03/21/us/politics/corey-lewandowski-noem-dhs.html)
 
-Shalom Baranes, who arrived in the U.S. as a Libyan refugee and went on to renovate the Pentagon, is baffling fellow architects for accepting the job. But he said some of his previous projects have drawn outrage too.
+While he was supposed to serve in a limited role as an adviser to Kristi Noem, Mr. Lewandowski had wide influence over contracts, personnel and operations inside the agency over the last year.
 
 
-7. [Let-It-Rip Jeremy vs. Sneaky Sam](https://www.nytimes.com/2026/03/21/opinion/jeremy-o-harris-sam-altman.html)
+8. [Trump Says He Will Send ICE Agents to Airports on Monday](https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html)
+
+The president issued a threat to deploy ICE agents in an apparent attempt to force Democrats to approve a new budget for the Department of Homeland Security.
+
+
+9. [Let-It-Rip Jeremy vs. Sneaky Sam](https://www.nytimes.com/2026/03/21/opinion/jeremy-o-harris-sam-altman.html)
 
 Nothing artificial about this Hollywood A.I. smackdown.
 
 
-8. [What Are Jacket Potatoes, and Why Are the English Waiting Hours for Them?](https://www.nytimes.com/2026/03/20/dining/jacket-potatoes-uk-food-trend-social-media.html)
+10. [Andy Beshear Delivers a Scathing Attack on JD Vance in Ohio, Stoking 2028 Tensions](https://www.nytimes.com/2026/03/21/us/politics/beshear-vance-2028-presidential-race.html)
 
-The heavily topped tubers, a British classic, are having a culinary comeback thanks to social media.
-
-
-9. [The New York Times News Quiz, March 20, 2026](https://www.nytimes.com/interactive/2026/03/20/briefing/iran-trump-oscars-joe-kent-news-quiz.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-10. [Robert S. Mueller III, 81, Dies; Rebuilt F.B.I. and Led Trump Inquiry](https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html)
-
-He imposed the most significant overhaul of the F.B.I. in its history. Later, after concluding that Russia had interfered in the 2016 election, he became a target of the president’s anger.
+Mr. Beshear, the Democratic governor of Kentucky, sharply criticized Mr. Vance as both angle for potential presidential runs.
 
 
