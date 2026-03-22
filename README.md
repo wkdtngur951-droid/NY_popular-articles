@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-22 14:35:15)
+## 📰 NYTimes Most Popular (Updated: 2026-03-22 15:33:24)
 
-1. [President Trump’s Ballroom Architect, Roasting in the Hot Seat](https://www.nytimes.com/2026/03/21/us/politics/trump-ballroom-architect.html)
+1. [Robert S. Mueller III, 81, Dies; Rebuilt F.B.I. and Led Trump Inquiry](https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html)
 
-Shalom Baranes, who arrived in the U.S. as a Libyan refugee and went on to renovate the Pentagon, is baffling fellow architects for accepting the job. But he said some of his previous projects have drawn outrage too.
-
-
-2. [Flashback: Your Weekly History Quiz, March 21, 2026](https://www.nytimes.com/interactive/2026/03/20/upshot/flashback.html)
-
-Can you sort 8 historical events?
+He imposed the most significant overhaul of the F.B.I. in its history. Later, after concluding that Russia had interfered in the 2016 election, he became a target of the president’s anger.
 
 
-3. [Striking Down Pentagon Press Limits, Judge Vindicates Independent Journalism](https://www.nytimes.com/2026/03/20/us/federal-judge-constitution-press-freedom.html)
+2. [Let-It-Rip Jeremy vs. Sneaky Sam](https://www.nytimes.com/2026/03/21/opinion/jeremy-o-harris-sam-altman.html)
 
-The ruling cut deeper than left-versus-right politics, declaring that the policy imposed by Defense Secretary Pete Hegseth is unconstitutional.
-
-
-4. [Inside the Arrest That Led to Banksy’s Possible Unmasking Decades Later](https://www.nytimes.com/2026/03/20/nyregion/banksy-identity-robin-gunningham-arrest.html)
-
-In 2000, Banksy was a largely unknown street artist hanging around downtown Manhattan when the police nabbed him for trying to deface a billboard.
+Nothing artificial about this Hollywood A.I. smackdown.
 
 
-5. [What to Know About Electric Cars When Gas Prices Are Surging](https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html)
-
-War in Iran has disrupted global oil supplies, which is prompting some car shoppers to look for ways to climb off “the gas-price roller coaster.”
-
-
-6. [Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?](https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html)
+3. [Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?](https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html)
 
 President Trump says he is considering “winding down” operations in Iran. But many of his original war goals remain unaccomplished.
 
 
-7. [Trump’s Reaction to Mueller’s Death: ‘Good, I’m Glad.’](https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html)
+4. [Flashback: Your Weekly History Quiz, March 21, 2026](https://www.nytimes.com/interactive/2026/03/20/upshot/flashback.html)
 
-The president has been known to disparage foes after their deaths. His response to Mr. Mueller’s death drew criticism from Republicans and Democrats.
+Can you sort 8 historical events?
 
 
-8. [Trump Friend Asked ICE to Detain the Mother of His Child](https://www.nytimes.com/2026/03/20/us/paolo-zampolli-ice-melania-trump-epstein.html)
+5. [Hegseth Invokes Divine Purpose to Justify Military Might](https://www.nytimes.com/2026/03/20/us/politics/hegseth-christianity-military.html)
+
+Defense Secretary Pete Hegseth has imbued U.S. military actions with a Christian moral underpinning that suggests they are divinely sanctioned.
+
+
+6. [Trump Friend Asked ICE to Detain the Mother of His Child](https://www.nytimes.com/2026/03/20/us/paolo-zampolli-ice-melania-trump-epstein.html)
 
 Paolo Zampolli, a former modeling agent and a longtime Trump ally, was in a custody battle over his son. An ICE official agreed to help.
 
 
-9. [A Look at the Escalating Battle for the Strait of Hormuz](https://www.nytimes.com/2026/03/20/us/politics/battle-for-strait-of-hormuz.html)
+7. [What Are Jacket Potatoes, and Why Are the English Waiting Hours for Them?](https://www.nytimes.com/2026/03/20/dining/jacket-potatoes-uk-food-trend-social-media.html)
 
-There are several ways the United States could attempt to reopen the waterway, all of which carry substantial risks.
+The heavily topped tubers, a British classic, are having a culinary comeback thanks to social media.
+
+
+8. [Andy Beshear Delivers a Scathing Attack on JD Vance in Ohio, Stoking 2028 Tensions](https://www.nytimes.com/2026/03/21/us/politics/beshear-vance-2028-presidential-race.html)
+
+Mr. Beshear, the Democratic governor of Kentucky, sharply criticized Mr. Vance as both angle for potential presidential runs.
+
+
+9. [What to Know About Electric Cars When Gas Prices Are Surging](https://www.nytimes.com/2026/03/21/business/energy-environment/gas-prices-electric-vehicles-iran.html)
+
+War in Iran has disrupted global oil supplies, which is prompting some car shoppers to look for ways to climb off “the gas-price roller coaster.”
 
 
 10. [Trump Says He Will Send ICE Agents to Airports on Monday](https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html)
