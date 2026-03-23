@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-23 05:09:33)
+## 📰 NYTimes Most Popular (Updated: 2026-03-23 07:21:37)
 
-1. [Robert S. Mueller III, 81, Dies; Rebuilt F.B.I. and Led Trump Inquiry](https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html)
+1. [Christopher Columbus Statue Is Installed on White House Grounds](https://www.nytimes.com/2026/03/22/arts/design/columbus-statue-trump-white-house.html)
 
-He imposed the most significant overhaul of the F.B.I. in its history. Later, after concluding that Russia had interfered in the 2016 election, he became a target of the president’s anger.
-
-
-2. [‘I Am the News’: The Absurd Drama (and High Stakes) of the Don Lemon Affair](https://www.nytimes.com/2026/03/22/magazine/don-lemon-trump-minnesota-cnn-youtube.html)
-
-A Minnesota church protest made the former anchor a star again — and a target for the Trump administration.
+The statue of the explorer, a replica of one that protesters toppled in 2020, was placed outside the Eisenhower Executive Office Building.
 
 
-3. [The Billionaire Funding France’s Far Right](https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html)
-
-Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.
-
-
-4. [Flashback: Your Weekly History Quiz, March 21, 2026](https://www.nytimes.com/interactive/2026/03/20/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-5. [ICE to Aid Airport Security Amid Partial Shutdown, Border Czar Says](https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html)
+2. [ICE to Aid Airport Security Amid Partial Shutdown, Border Czar Says](https://www.nytimes.com/2026/03/22/us/politics/ice-airports-homan-trump.html)
 
 Tom Homan, President Trump’s chief border official, cast the operation largely as one to help ease long security lines. The Homeland Security Department said 14 airports across the country would be involved.
 
 
-6. [Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?](https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html)
+3. [Trump Is Finally Eyeing an Exit From Iran. But Will He Take It?](https://www.nytimes.com/2026/03/21/us/politics/trump-iran-offramp.html)
 
 President Trump says he is considering “winding down” operations in Iran. But many of his original war goals remain unaccomplished.
 
 
-7. [Mullin Explored Bipartisan Deal to Rein in Immigration Crackdown](https://www.nytimes.com/2026/03/21/us/politics/markwayne-mullin-bipartisan-immigration-deal.html)
+4. [The End of the Free-Range, Device-Free ‘Stand By Me’ Childhood](https://www.nytimes.com/2026/03/22/opinion/stand-by-me-stephen-king-rob-reiner-screen-time.html)
 
-The G.O.P. senator President Trump chose to lead the Department of Homeland Security privately discussed concessions the White House has repeatedly rejected.
+What a 40-year-old movie told me about childhood today.
 
 
-8. [Not All Malls Are Struggling](https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html)
+5. [Trump Says He Will Send ICE Agents to Airports on Monday](https://www.nytimes.com/2026/03/21/us/politics/trump-ice-agents-airports.html)
+
+The president issued a threat to deploy ICE agents in an apparent attempt to force Democrats to approve a new budget for the Department of Homeland Security.
+
+
+6. [Not All Malls Are Struggling](https://www.nytimes.com/2026/03/21/business/dealbook/shopping-mall-resurgence.html)
 
 A certain type of shopping mall has become a surprising bright spot for real estate investors.
 
 
-9. [To Dress Up Is to Live](https://www.nytimes.com/2026/03/22/opinion/fashion-odesa-ukraine-war.html)
+7. [The Billionaire Funding France’s Far Right](https://www.nytimes.com/2026/03/22/world/europe/pierre-eduoard-sterin-france-far-right.html)
 
-In Odesa, the older generation continues to dress up, showing people’s determination to carry on despite the blows of history.
+Pierre-Édouard Stérin is financing projects to make France less Muslim, more Catholic and more capitalist. He says his program has trained thousands running for municipal office on Sunday.
 
 
-10. [The Chaotic Downfall of the ‘Bachelor’ Empire](https://www.nytimes.com/2026/03/22/arts/taylor-frankie-paul-bachelorette-canceled.html)
+8. [Andy Beshear Delivers a Scathing Attack on JD Vance in Ohio, Stoking 2028 Tensions](https://www.nytimes.com/2026/03/21/us/politics/beshear-vance-2028-presidential-race.html)
 
-As competing dating shows lean into modern norms, the ABC franchise finds itself mired in scandals and stymied by its traditional approach to love.
+Mr. Beshear, the Democratic governor of Kentucky, sharply criticized Mr. Vance as both angle for potential presidential runs.
+
+
+9. [Trump’s Reaction to Mueller’s Death: ‘Good, I’m Glad.’](https://www.nytimes.com/2026/03/21/us/politics/trump-mueller-death.html)
+
+The president has been known to disparage foes after their deaths. His response to Mr. Mueller’s death drew criticism from Republicans and Democrats.
+
+
+10. [Robert S. Mueller III, 81, Dies; Rebuilt F.B.I. and Led Trump Inquiry](https://www.nytimes.com/2026/03/21/us/politics/robert-s-mueller-dead.html)
+
+He imposed the most significant overhaul of the F.B.I. in its history. Later, after concluding that Russia had interfered in the 2016 election, he became a target of the president’s anger.
 
 
