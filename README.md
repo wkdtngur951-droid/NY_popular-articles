@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-25 21:48:37)
+## 📰 NYTimes Most Popular (Updated: 2026-03-25 22:45:38)
 
-1. [Gregory Bovino’s Final Days: Harsh Words and Few Regrets](https://www.nytimes.com/2026/03/24/us/gregory-bovino-border-patrol.html)
+1. [Florida Democrats Win Special Election in Mar-a-Lago’s District](https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html)
 
-He was the face of the Trump administration’s immigration crackdown. But as he begins a retirement that was not entirely voluntary, the Border Patrol leader says he did not go far enough.
+Emily Gregory’s victory in Palm Beach brought the Democratic surge to President Trump’s backyard, while a union leader leads in a race for a state senate seat vacated by Florida’s lieutenant governor.
 
 
-2. [Tracking Wait Times at Major U.S. Airports](https://www.nytimes.com/interactive/2026/us/tsa-wait-times-us-airports.html)
+2. [T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport](https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html)
+
+Transportation Security Administration officials told ICE that a mother and daughter under a detention order had planned to fly domestically, federal documents show.
+
+
+3. [Trump Faces Blowback on Easing Iran Oil Sanctions](https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html)
+
+President Trump once assailed the Obama administration for making cash payments to Iran. Now he supports sanctions relief that could give the country a $14 billion windfall.
+
+
+4. [Tracking Wait Times at Major U.S. Airports](https://www.nytimes.com/interactive/2026/us/tsa-wait-times-us-airports.html)
 
 Travelers are facing long lines at airport security as the partial government shutdown has strained T.S.A. staffing. The New York Times is tracking the latest available wait times across the country.
 
 
-3. [‘I’m Tainted. I’m in the Files.’](https://www.nytimes.com/2026/03/24/us/david-a-ross-jeffrey-epstein-donations.html)
+5. [Trump’s Ultimatum to Iran Was Almost Up. Then He Found an Offramp.](https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html)
 
-He mastered the world of the “Epstein Class” to build great museums. Now he’s confronting the cost.
-
-
-4. [Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border](https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html)
-
-A policy of turning back many asylum seekers at the border was rescinded in 2021, but the Justice Department wants the flexibility to reinstate it as a tool for border control.
+President Trump postponed his threat to strike power plants in Iran, citing “productive conversations” with the Iranians. But officials said the talks were in an early stage and not substantive.
 
 
-5. [‘What if Donald Shouts at Me?’ Trump Sours on British Leader Over Iran War](https://www.nytimes.com/2026/03/24/world/europe/trump-starmer-snl.html)
+6. [Saudi Leader Is Said to Push Trump to Continue Iran War in Recent Calls](https://www.nytimes.com/2026/03/24/us/politics/saudi-prince-iran-trump.html)
 
-President Trump once called Prime Minister Keir Starmer a friend. But Britain’s decision not to join the attacks on Iran has led to merciless mocking by the president.
-
-
-6. [Air Canada Pilots Killed in Crash Were Early in Flying Careers](https://www.nytimes.com/2026/03/24/nyregion/air-canada-pilots-laguardia.html)
-
-The pilots were identified as Antoine Forest, 30, and Mackenzie Gunther. They were the only two fatalities in the plane’s collision with a fire truck at New York’s LaGuardia Airport.
+Crown Prince Mohammed bin Salman sees a “historic opportunity” to remake the region, according to people briefed by U.S. officials on the conversations.
 
 
-7. [See How the LaGuardia Plane Crash Unfolded](https://www.nytimes.com/interactive/2026/03/23/us/laguardia-plane-crash-timeline.html)
+7. [The War Is Going Better Than You Think](https://www.nytimes.com/2026/03/24/opinion/iran-war-history.html)
 
-Flight data, video of the crash and imagery of the aftermath reveal how an Air Canada jet collided with a fire truck, killing two people and injuring dozens.
-
-
-8. [For Putin, the War in Iran Changed Everything](https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html)
-
-In one swoop, it overturned the conditions for conciliation.
+How the fight in Iran compares to past conflicts.
 
 
-9. [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
+8. [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
 
 Artificial intelligence could reshape work, but for now a low-hire, low-fire labor market is the main impediment for young people seeking employment.
 
 
-10. [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
+9. [Why It’s So Hard to Reopen the Strait of Hormuz](https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html)
 
-A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.
+There may be no country better situated geographically than Iran when it comes to bringing an oil-dependent world to its knees.
+
+
+10. [America Has Become a Dangerous Nation](https://www.nytimes.com/2026/03/24/opinion/trump-iran-world-america-first.html)
+
+Pax Americana, meet Lax Americana.
 
 
