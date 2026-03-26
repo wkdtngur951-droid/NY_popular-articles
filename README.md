@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-25 23:41:37)
+## 📰 NYTimes Most Popular (Updated: 2026-03-26 02:55:22)
 
-1. [The War Is Going Better Than You Think](https://www.nytimes.com/2026/03/24/opinion/iran-war-history.html)
-
-How the fight in Iran compares to past conflicts.
-
-
-2. [Tracking Wait Times at Major U.S. Airports](https://www.nytimes.com/interactive/2026/us/tsa-wait-times-us-airports.html)
-
-Travelers are facing long lines at airport security as the partial government shutdown has strained T.S.A. staffing. The New York Times is tracking the latest available wait times across the country.
-
-
-3. [Trump’s Ultimatum to Iran Was Almost Up. Then He Found an Offramp.](https://www.nytimes.com/2026/03/23/us/politics/trump-iran-gas-oil-strait.html)
-
-President Trump postponed his threat to strike power plants in Iran, citing “productive conversations” with the Iranians. But officials said the talks were in an early stage and not substantive.
-
-
-4. [T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport](https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html)
+1. [T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport](https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html)
 
 Transportation Security Administration officials told ICE that a mother and daughter under a detention order had planned to fly domestically, federal documents show.
 
 
-5. [Why It’s So Hard to Reopen the Strait of Hormuz](https://www.nytimes.com/interactive/2026/03/24/world/middleeast/strait-of-hormuz-difficulties-iran-trump.html)
+2. [What Happened After a U.S. Warship Hit an Iranian Mine in 1988](https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html)
 
-There may be no country better situated geographically than Iran when it comes to bringing an oil-dependent world to its knees.
-
-
-6. [Supreme Court Seems Open to Trump Request to Block Asylum Seekers at Border](https://www.nytimes.com/2026/03/24/us/politics/supreme-court-trump-asylum-seekers.html)
-
-A policy of turning back many asylum seekers at the border was rescinded in 2021, but the Justice Department wants the flexibility to reinstate it as a tool for border control.
+President Trump has suggested providing escorts for stranded tankers. A mine strike on a U.S. frigate in the Persian Gulf shows the perils of doing so.
 
 
-7. [Trump Faces Blowback on Easing Iran Oil Sanctions](https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html)
+3. [Trump Faces Blowback on Easing Iran Oil Sanctions](https://www.nytimes.com/2026/03/23/business/trump-iran-sanctions-relief-oil.html)
 
 President Trump once assailed the Obama administration for making cash payments to Iran. Now he supports sanctions relief that could give the country a $14 billion windfall.
 
 
-8. [‘I’m Tainted. I’m in the Files.’](https://www.nytimes.com/2026/03/24/us/david-a-ross-jeffrey-epstein-donations.html)
+4. [The Choking of Hormuz](https://www.nytimes.com/interactive/2026/03/25/business/energy-environment/strait-hormuz-oil-gas.html)
 
-He mastered the world of the “Epstein Class” to build great museums. Now he’s confronting the cost.
-
-
-9. [Young Graduates Face the Grimmest Job Market in Years](https://www.nytimes.com/2026/03/24/business/economy/college-graduates-job-market-hiring.html)
-
-Artificial intelligence could reshape work, but for now a low-hire, low-fire labor market is the main impediment for young people seeking employment.
+Trade is trickling through the vital artery connecting the Persian Gulf and the world, creating an economic shock thousands of miles away.
 
 
-10. [This Muscle Is the Unsung Hero of Longevity](https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html)
+5. [For Putin, the War in Iran Changed Everything](https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html)
 
-Building your butt muscles will help you stay injury free and independent in midlife and beyond.
+In one swoop, it overturned the conditions for conciliation.
+
+
+6. [A Missile Fragment in a Schoolyard](https://www.nytimes.com/2026/03/25/world/europe/iran-missile-photograph-israeli-settlement-school.html)
+
+Examining an image of children near a missile fragment, which landed near a school as several families were sheltering inside it.
+
+
+7. [Supreme Court Sides With Internet Provider in Copyright Fight Over Pirated Music](https://www.nytimes.com/2026/03/25/us/politics/supreme-court-cox-music-copyright.html)
+
+Leading music labels sued Cox Communications for failing to terminate accounts of subscribers flagged for distributing copyrighted music.
+
+
+8. [This Is Why Flying Is So Awful](https://www.nytimes.com/2026/03/25/opinion/laguardia-crash-air-travel.html)
+
+There's a deeper story behind the turbulence in the airline industry.
+
+
+9. [Final 3 Minutes: A Breakdown in Communication Before the LaGuardia Crash](https://www.nytimes.com/interactive/2026/03/24/us/laguardia-crash-timeline-air-canada.html)
+
+Air traffic audio and a detailed timeline from federal investigators reveal the final moments before a jetliner collided with a fire truck.
+
+
+10. [Trump Cannot See That the Opposition Is Real](https://www.nytimes.com/2026/03/25/opinion/trump-iran-opposition-solipsism.html)
+
+What happens when a narcissist goes to war.
 
 
