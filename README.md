@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-26 07:20:07)
+## 📰 NYTimes Most Popular (Updated: 2026-03-26 09:06:35)
 
-1. [T.S.A. Tipped Off ICE Agents Before Arrests at San Francisco Airport](https://www.nytimes.com/2026/03/24/us/tsa-data-ice-deportation-san-francisco-airport.html)
+1. [What Happened After a U.S. Warship Hit an Iranian Mine in 1988](https://www.nytimes.com/2026/03/25/business/iran-mines-gulf-hormuz-strike-naval-escort-history-1988.html)
 
-Transportation Security Administration officials told ICE that a mother and daughter under a detention order had planned to fly domestically, federal documents show.
-
-
-2. [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
-
-A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.
+President Trump has suggested providing escorts for stranded tankers. A mine strike on a U.S. frigate in the Persian Gulf shows the perils of doing so.
 
 
-3. [The War Is Going Better Than You Think](https://www.nytimes.com/2026/03/24/opinion/iran-war-history.html)
-
-How the fight in Iran compares to past conflicts.
-
-
-4. [Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans](https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html)
-
-By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.
-
-
-5. [The 7 Decluttering Myths Keeping You From Cleaning Up](https://www.nytimes.com/2026/03/25/realestate/decluttering-myths-spring-cleaning.html)
-
-Experts said these were the most commonly held beliefs about organization — and they’re holding you back.
-
-
-6. [A Missile Fragment in a Schoolyard](https://www.nytimes.com/2026/03/25/world/europe/iran-missile-photograph-israeli-settlement-school.html)
+2. [A Missile Fragment in a Schoolyard](https://www.nytimes.com/2026/03/25/world/europe/iran-missile-photograph-israeli-settlement-school.html)
 
 Examining an image of children near a missile fragment, which landed near a school as several families were sheltering inside it.
 
 
-7. [Trump Says He’s Talking With Iran. Iran Says He’s Not. Here’s Why.](https://www.nytimes.com/2026/03/25/world/middleeast/trump-iran-talks-contradiction.html)
+3. [NATO’s ‘Trump Whisperer’ Faces Blowback Over Support for Iran War](https://www.nytimes.com/2026/03/25/world/middleeast/iran-nato-rutte-trump.html)
 
-The president has domestic and international political motivations for touting negotiations to end the war. Iran has similar ones to deny discussions.
-
-
-8. [This Muscle Is the Unsung Hero of Longevity](https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html)
-
-Building your butt muscles will help you stay injury free and independent in midlife and beyond.
+Critics say Mark Rutte, the alliance’s secretary general, has gone beyond his remit by openly supporting a war that does not directly involve Europe’s collective defense.
 
 
-9. [Massachusetts Teacher Charged With Raping Two Students](https://www.nytimes.com/2026/03/24/us/teacher-rape-miss-halls-massachusetts.html)
+4. [The ‘Shy Girl’ Fiasco Shows Why Trust in Writers Is Plummeting](https://www.nytimes.com/2026/03/25/opinion/shy-girl-ai-publishing.html)
+
+As more A.I. generated writing is unleashed on the world, more readers will question who — or what — has penned their favorite works.
+
+
+5. [Massachusetts Teacher Charged With Raping Two Students](https://www.nytimes.com/2026/03/24/us/teacher-rape-miss-halls-massachusetts.html)
 
 The students say the former teacher at Miss Hall’s, a boarding school, groomed them and began having sex with them at age 16, which state law considers old enough for consent.
 
 
-10. [Florida Democrats Win Special Election in Mar-a-Lago’s District](https://www.nytimes.com/2026/03/24/us/politics/florida-special-election-emily-gregory.html)
+6. [Final 3 Minutes: A Breakdown in Communication Before the LaGuardia Crash](https://www.nytimes.com/interactive/2026/03/24/us/laguardia-crash-timeline-air-canada.html)
 
-Emily Gregory’s victory in Palm Beach brought the Democratic surge to President Trump’s backyard, while a union leader leads in a race for a state senate seat vacated by Florida’s lieutenant governor.
+Air traffic audio and a detailed timeline from federal investigators reveal the final moments before a jetliner collided with a fire truck.
+
+
+7. [Trump Cannot See That the Opposition Is Real](https://www.nytimes.com/2026/03/25/opinion/trump-iran-opposition-solipsism.html)
+
+What happens when a narcissist goes to war.
+
+
+8. [Leon Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans](https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html)
+
+By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.
+
+
+9. [For Putin, the War in Iran Changed Everything](https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html)
+
+In one swoop, it overturned the conditions for conciliation.
+
+
+10. [This Is Why Flying Is So Awful](https://www.nytimes.com/2026/03/25/opinion/laguardia-crash-air-travel.html)
+
+There's a deeper story behind the turbulence in the airline industry.
 
 
