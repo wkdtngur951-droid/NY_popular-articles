@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-26 23:38:53)
+## 📰 NYTimes Most Popular (Updated: 2026-03-27 03:16:40)
 
-1. [This Muscle Is the Unsung Hero of Longevity](https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html)
+1. [It’s Not Trump. It’s America.](https://www.nytimes.com/2026/03/26/opinion/trump-america-iran-war.html)
 
-Building your butt muscles will help you stay injury free and independent in midlife and beyond.
-
-
-2. [For Putin, the War in Iran Changed Everything](https://www.nytimes.com/2026/03/25/opinion/russia-putin-iran-war.html)
-
-In one swoop, it overturned the conditions for conciliation.
+The country’s faith in its ability to shape the world to its liking is a much older malady.
 
 
-3. [This Is Why Flying Is So Awful](https://www.nytimes.com/2026/03/25/opinion/laguardia-crash-air-travel.html)
-
-There's a deeper story behind the turbulence in the airline industry.
-
-
-4. [Trump Eyes White House Treaty Room for Latest Renovation Project](https://www.nytimes.com/2026/03/26/us/trump-eyes-white-house-treaty-room-for-latest-renovation-project.html)
+2. [Trump Eyes White House Treaty Room for Latest Renovation Project](https://www.nytimes.com/2026/03/26/us/trump-eyes-white-house-treaty-room-for-latest-renovation-project.html)
 
 President Trump is making new plans in one of the most significant renovations in the history of the White House.
 
 
-5. [Final 3 Minutes: A Breakdown in Communication Before the LaGuardia Crash](https://www.nytimes.com/interactive/2026/03/24/us/laguardia-crash-timeline-air-canada.html)
+3. [Men of the Trump Administration, 2026](https://www.nytimes.com/2026/03/26/opinion/trump-war-democrats.html)
 
-Air traffic audio and a detailed timeline from federal investigators reveal the final moments before a jetliner collided with a fire truck.
-
-
-6. [Tracking T.S.A. Wait Times at Major U.S. Airports](https://www.nytimes.com/interactive/2026/us/tsa-wait-times-us-airports.html)
-
-Travelers are facing long lines at airport security as the partial government shutdown has strained T.S.A. staffing. The New York Times is tracking the latest available wait times across the country.
+Are Democrats ugly? Asking for a friend.
 
 
-7. [The 7 Decluttering Myths Keeping You From Cleaning Up](https://www.nytimes.com/2026/03/25/realestate/decluttering-myths-spring-cleaning.html)
+4. [Prominent Pastor Calls for Texas Democrat to be ‘Crucified With Christ’](https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html)
 
-Experts said these were the most commonly held beliefs about organization — and they’re holding you back.
-
-
-8. [Savannah Guthrie Says 2 Ransom Notes About Her Mother Were Likely Genuine](https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html)
-
-Her interview on the “Today” show came more than 50 days after her mother, Nancy Guthrie, was taken from her home near Tucson, Ariz.
+James Talarico, the Democratic nominee for Senate in Texas, said, “You may pray for my death, Pastor, but I still love you.” The pastor said he was calling for Mr. Talarico’s religious conversion.
 
 
-9. [Massachusetts Teacher Charged With Raping Two Students](https://www.nytimes.com/2026/03/24/us/teacher-rape-miss-halls-massachusetts.html)
+5. [Meta and YouTube Found Negligent in Landmark Social Media Addiction Case](https://www.nytimes.com/2026/03/25/technology/social-media-trial-verdict.html)
 
-The students say the former teacher at Miss Hall’s, a boarding school, groomed them and began having sex with them at age 16, which state law considers old enough for consent.
+A jury found the companies harmed a young user with design features that were addictive and led to her mental health distress.
 
 
-10. [Leonid Radvinsky, 43, Dies; Built the Adult-Entertainment Giant OnlyFans](https://www.nytimes.com/2026/03/25/business/media/leonid-radvinsky-dead.html)
+6. [How Can America Be So Miserable When It’s So Rich?](https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html)
 
-By leveraging social media and the influencer economy, he turned his website into a byword for online pornography in the 21st century.
+The just resentments of a shrinking middle class.
+
+
+7. [Trump Says He Will Order T.S.A. Agents Paid as Funding Deal Stalls](https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html)
+
+President Trump’s announcement came as talks on Capitol Hill over funding the Department of Homeland Security faltered, and airport lines continued to grow.
+
+
+8. [It Was One of the Cold War’s Greatest Crimes. No One Has Paid a Price.](https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html)
+
+No one apart from the Congolese people has ever paid a price for the CIA-backed assassination of Patrice Lumumba.
+
+
+9. [Republicans in Congress Fret Over Iran War as Pentagon Offers Few Answers](https://www.nytimes.com/2026/03/25/world/middleeast/republicans-congress-iran-war-trump.html)
+
+G.O.P. lawmakers who have given the Trump administration wide latitude to wage war with no congressional input are growing frustrated as officials offer little detail about ground troops, cost or timeline.
+
+
+10. [Olympic Committee Bars Transgender Athletes From Women’s Events](https://www.nytimes.com/2026/03/26/world/olympics/ioc-transgender-athletes-ban.html)
+
+The decision is the most significant since Kirsty Coventry was elected last year to serve as president of the I.O.C.
 
 
