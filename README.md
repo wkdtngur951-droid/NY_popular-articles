@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-28 07:49:08)
+## 📰 NYTimes Most Popular (Updated: 2026-03-28 08:50:39)
 
-1. [Stocks Slide to 5th Weekly Loss as Investors Lose Patience With Iran War](https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html)
-
-The S&P 500 is down nearly 9 percent from a January high. The weekly losing streak is its worst in roughly four years.
-
-
-2. [What We Know About Saturday’s ‘No Kings’ Protests](https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html)
-
-Thousands of demonstrations against the Trump administration are scheduled to take place in cities and towns across the country on Saturday.
-
-
-3. [Standoff With Iran Raises Fresh Doubts About Trump’s Freestyle Diplomacy](https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html)
-
-A jumble of emissaries — a friend, a family member, a dove and a hawk — on the Iran crisis reflects President Trump’s improvisational approach.
-
-
-4. [Another Senior House Republican Will Retire as Midterm Exodus Grows](https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html)
-
-Representative Sam Graves, the chairman of the Transportation and Infrastructure Committee, said he would leave Congress after nearly three decades, the latest sign that the G.O.P. is bracing for big losses.
-
-
-5. [Senate Votes to Fund Most of D.H.S. in Bid to End Partial Shutdown](https://www.nytimes.com/2026/03/27/us/politics/senate-dhs-ice-shutdown-funding.html)
-
-The bill excludes funding for ICE and Border Patrol but restores it for federal airport security workers. The House could consider the package on Friday.
-
-
-6. [Trump Administration Begins Inquiries Into 3 Medical Schools in Show of Power](https://www.nytimes.com/2026/03/26/us/politics/trump-medical-schools-civil-rights.html)
-
-The Justice Department’s demands for admissions-related data from Stanford, Ohio State and the University of California, San Diego, reveal an expansion of its higher-education pressure campaign.
-
-
-7. [Trump Said This Policy Would Make Manhattan a ‘Ghost Town.’ He Was Wrong.](https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html)
-
-The success of congestion pricing is a reminder that government, done right, has immense power to improve people’s lives.
-
-
-8. [Hacked Files of F.B.I. Director Kash Patel Circulate Online](https://www.nytimes.com/2026/03/27/us/fbi-director-kash-patel-hacked-email-iran.html)
-
-What appeared to be personal emails from before Mr. Patel’s time as director were posted on a website that identified itself as Iranian but seemed to be hosted in Russia.
-
-
-9. [Gulf States Crack Down on Videos of Iranian Attacks Posted Online](https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html)
+1. [Gulf States Crack Down on Videos of Iranian Attacks Posted Online](https://www.nytimes.com/2026/03/27/world/middleeast/iran-war-videos-arrests-uae-gulf-states.html)
 
 The authorities have made a wave of arrests to stop people posting footage of strikes, citing security risks. Experts also see a fear of damage to the countries’ image as safe havens.
 
 
-10. [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
+2. [Standoff With Iran Raises Fresh Doubts About Trump’s Freestyle Diplomacy](https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html)
 
-Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.
+A jumble of emissaries — a friend, a family member, a dove and a hawk — on the Iran crisis reflects President Trump’s improvisational approach.
+
+
+3. [These Airports Don’t Use T.S.A. Your Current Wait: Minutes, Not Hours.](https://www.nytimes.com/2026/03/26/travel/tsa-airports-shutdown-security-sfo-mci.html)
+
+A handful of airports, including San Francisco and Kansas City International, participate in a program that lets them rely on private screeners instead of T.S.A. agents.
+
+
+4. [Florida’s Immigration Crackdown Is Showing Cracks: ‘We’re Hurting People’](https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html)
+
+Some conservative sheriffs have raised concerns about the aggressive enforcement tactics that Gov. Ron DeSantis, a Republican, has embraced.
+
+
+5. [Trump Said This Policy Would Make Manhattan a ‘Ghost Town.’ He Was Wrong.](https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html)
+
+The success of congestion pricing is a reminder that government, done right, has immense power to improve people’s lives.
+
+
+6. [Will Iran Break Trumpism?](https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html)
+
+The right-wing thinker Christopher Caldwell believes the Iran war is the end of Trumpism. Is he right? What was Trumpism in the first place?
+
+
+7. [Trump’s Signature Is Set to Be Added to America’s Currency](https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html)
+
+President Trump is poised to be the first sitting president to have his signature appear on the U.S. dollar.
+
+
+8. [This Muscle Is the Unsung Hero of Longevity](https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html)
+
+Building your butt muscles will help you stay injury free and independent in midlife and beyond.
+
+
+9. [Stocks Slide to 5th Weekly Loss as Investors Lose Patience With Iran War](https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html)
+
+The S&P 500 is down nearly 9 percent from a January high. The weekly losing streak is its worst in roughly four years.
+
+
+10. [Man Tied to Pro-Israel Extremists Accused of Targeting Palestinian Activist](https://www.nytimes.com/2026/03/27/nyregion/nerdeen-kiswani-assassination-plot.html)
+
+A man linked to a pro-Israel terrorist group was charged with making Molotov cocktails for what officials said was a plot to assassinate the New York City-based activist Nerdeen Kiswani.
 
 
