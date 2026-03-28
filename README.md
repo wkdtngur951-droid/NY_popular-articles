@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-27 23:39:24)
+## 📰 NYTimes Most Popular (Updated: 2026-03-28 02:47:45)
 
-1. [How Can America Be So Miserable When It’s So Rich?](https://www.nytimes.com/2026/03/26/opinion/economy-attitudes-republicans-democrats.html)
-
-The just resentments of a shrinking middle class.
-
-
-2. [Tracking T.S.A. Wait Times at Major U.S. Airports](https://www.nytimes.com/interactive/2026/us/tsa-wait-times-us-airports.html)
-
-Travelers are facing long lines at airport security as the partial government shutdown has strained T.S.A. staffing. The New York Times is tracking the latest available wait times across the country.
-
-
-3. [Republicans Know This War Is Going Badly](https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html)
-
-Never before has America arrived at the threshold of a quagmire so quickly.
-
-
-4. [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
+1. [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
 
 Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.
 
 
-5. [Savannah Guthrie Says 2 Ransom Notes About Her Mother Were Likely Genuine](https://www.nytimes.com/2026/03/26/us/savannah-guthrie-interview.html)
+2. [Another Senior House Republican Will Retire as Midterm Exodus Grows](https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html)
 
-Her interview on the “Today” show came more than 50 days after her mother, Nancy Guthrie, was taken from her home near Tucson, Ariz.
-
-
-6. [Trump Eyes White House Treaty Room for Latest Renovation Project](https://www.nytimes.com/2026/03/26/us/trump-eyes-white-house-treaty-room-for-latest-renovation-project.html)
-
-President Trump is making new plans in one of the most significant renovations in the history of the White House.
+Representative Sam Graves, the chairman of the Transportation and Infrastructure Committee, said he would leave Congress after nearly three decades, the latest sign that the G.O.P. is bracing for big losses.
 
 
-7. [This Muscle Is the Unsung Hero of Longevity](https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html)
+3. [Stocks Slide to 5th Weekly Loss as Investors Lose Patience With Iran War](https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html)
 
-Building your butt muscles will help you stay injury free and independent in midlife and beyond.
-
-
-8. [It Was One of the Cold War’s Greatest Crimes. No One Has Paid a Price.](https://www.nytimes.com/2026/03/26/opinion/congo-lumumba-cia-assassination.html)
-
-No one apart from the Congolese people has ever paid a price for the CIA-backed assassination of Patrice Lumumba.
+The S&P 500 is down nearly 9 percent from a January high. The weekly losing streak is its worst in roughly four years.
 
 
-9. [Prominent Pastor Calls for Texas Democrat to be ‘Crucified With Christ’](https://www.nytimes.com/2026/03/25/us/politics/talarico-response-love-pastor-hegseth-crucified-christ.html)
+4. [Trump Said This Policy Would Make Manhattan a ‘Ghost Town.’ He Was Wrong.](https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html)
 
-James Talarico, the Democratic nominee for Senate in Texas, said, “You may pray for my death, Pastor, but I still love you.” The pastor said he was calling for Mr. Talarico’s religious conversion.
+The success of congestion pricing is a reminder that government, done right, has immense power to improve people’s lives.
 
 
-10. [Trump Says He Will Order T.S.A. Agents Paid as Funding Deal Stalls](https://www.nytimes.com/2026/03/26/us/politics/congress-senators-homeland-security-funding.html)
+5. [Roman Catholic Churches See a Surge of New Converts](https://www.nytimes.com/2026/03/26/us/catholics-converts.html)
 
-President Trump’s announcement came as talks on Capitol Hill over funding the Department of Homeland Security faltered, and airport lines continued to grow.
+Bishops are trying to understand what’s behind the wave. People joining the church described their reasons as highly personal.
+
+
+6. [Hegseth Strikes Two Black and Two Female Officers From Promotion List](https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html)
+
+Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias.
+
+
+7. [Senate Votes to Fund Most of D.H.S. in Bid to End Partial Shutdown](https://www.nytimes.com/2026/03/27/us/politics/senate-dhs-ice-shutdown-funding.html)
+
+The bill excludes funding for ICE and Border Patrol but restores it for federal airport security workers. The House could consider the package on Friday.
+
+
+8. [Republicans Know This War Is Going Badly](https://www.nytimes.com/2026/03/27/opinion/republicans-iran-war.html)
+
+Never before has America arrived at the threshold of a quagmire so quickly.
+
+
+9. [Scientists Filmed a Whale Birth. The Surprise: Mom Had Many Helpers.](https://www.nytimes.com/2026/03/26/climate/sperm-whale-birth-assistance.html)
+
+The episode, involving a group of sperm whales, adds to evidence that humans aren’t the only species that gets some form of assistance during and after delivery.
+
+
+10. [Trump Administration Begins Inquiries Into 3 Medical Schools in Show of Power](https://www.nytimes.com/2026/03/26/us/politics/trump-medical-schools-civil-rights.html)
+
+The Justice Department’s demands for admissions-related data from Stanford, Ohio State and the University of California, San Diego, reveal an expansion of its higher-education pressure campaign.
 
 
