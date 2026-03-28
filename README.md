@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-28 13:09:58)
+## 📰 NYTimes Most Popular (Updated: 2026-03-28 14:38:37)
 
-1. [Savannah Guthrie Is Returning to ‘Today’](https://www.nytimes.com/2026/03/27/business/media/savannah-guthrie-today.html)
+1. [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
 
-NBC said that she would return as an anchor of the show on April 6, a little more than two months after the disappearance of her mother.
+Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.
 
 
-2. [Trump Said This Policy Would Make Manhattan a ‘Ghost Town.’ He Was Wrong.](https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html)
+2. [Trump’s Signature Is Set to Be Added to America’s Currency](https://www.nytimes.com/2026/03/26/us/politics/trump-signature-us-dollars.html)
+
+President Trump is poised to be the first sitting president to have his signature appear on the U.S. dollar.
+
+
+3. [Trump Said This Policy Would Make Manhattan a ‘Ghost Town.’ He Was Wrong.](https://www.nytimes.com/2026/03/27/opinion/congestion-pricing-traffic-new-york.html)
 
 The success of congestion pricing is a reminder that government, done right, has immense power to improve people’s lives.
 
 
-3. [Will Iran Break Trumpism?](https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html)
+4. [This Muscle Is the Unsung Hero of Longevity](https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html)
 
-The right-wing thinker Christopher Caldwell believes the Iran war is the end of Trumpism. Is he right? What was Trumpism in the first place?
-
-
-4. [Before the LaGuardia Crash, Why Didn’t Truck 1 Stop?](https://www.nytimes.com/2026/03/27/nyregion/laguardia-crash-air-canada-truck.html)
-
-After a fatal runway collision between a jet and a fire truck, one of the key questions is why the truck didn’t heed frantic calls to stop.
+Building your butt muscles will help you stay injury free and independent in midlife and beyond.
 
 
-5. [Stocks Slide to 5th Weekly Loss as Investors Lose Patience With Iran War](https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html)
+5. [Hegseth Strikes Two Black and Two Female Officers From Promotion List](https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html)
+
+Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias.
+
+
+6. [Another Senior House Republican Will Retire as Midterm Exodus Grows](https://www.nytimes.com/2026/03/27/us/politics/sam-graves-retirement.html)
+
+Representative Sam Graves, the chairman of the Transportation and Infrastructure Committee, said he would leave Congress after nearly three decades, the latest sign that the G.O.P. is bracing for big losses.
+
+
+7. [What We Know About Saturday’s ‘No Kings’ Protests](https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html)
+
+Thousands of demonstrations against the Trump administration are scheduled to take place in cities and towns across the country on Saturday.
+
+
+8. [Stocks Slide to 5th Weekly Loss as Investors Lose Patience With Iran War](https://www.nytimes.com/2026/03/27/business/iran-war-stock-market-investors.html)
 
 The S&P 500 is down nearly 9 percent from a January high. The weekly losing streak is its worst in roughly four years.
 
 
-6. [Man Tied to Pro-Israel Extremists Accused of Targeting Palestinian Activist](https://www.nytimes.com/2026/03/27/nyregion/nerdeen-kiswani-assassination-plot.html)
+9. [House Vote Sets Up Clash With the Senate on D.H.S. Funding, Prolonging Shutdown](https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html)
 
-A man linked to a pro-Israel terrorist group was charged with making Molotov cocktails for what officials said was a plot to assassinate the New York City-based activist Nerdeen Kiswani.
-
-
-7. [Trump Administration Begins Inquiries Into 3 Medical Schools in Show of Power](https://www.nytimes.com/2026/03/26/us/politics/trump-medical-schools-civil-rights.html)
-
-The Justice Department’s demands for admissions-related data from Stanford, Ohio State and the University of California, San Diego, reveal an expansion of its higher-education pressure campaign.
+Republicans revolted over a Senate measure to fund the Department of Homeland Security and passed a rival bill, dimming the chances of a quick end to the crisis crippling airports.
 
 
-8. [Hacked Files of F.B.I. Director Kash Patel Circulate Online](https://www.nytimes.com/2026/03/27/us/fbi-director-kash-patel-hacked-email-iran.html)
+10. [Will Iran Break Trumpism?](https://www.nytimes.com/2026/03/27/opinion/ezra-klein-podcast-christopher-caldwell.html)
 
-What appeared to be personal emails from before Mr. Patel’s time as director were posted on a website that identified itself as Iranian but seemed to be hosted in Russia.
-
-
-9. [Standoff With Iran Raises Fresh Doubts About Trump’s Freestyle Diplomacy](https://www.nytimes.com/2026/03/26/us/politics/trump-iran-talks.html)
-
-A jumble of emissaries — a friend, a family member, a dove and a hawk — on the Iran crisis reflects President Trump’s improvisational approach.
-
-
-10. [This Muscle Is the Unsung Hero of Longevity](https://www.nytimes.com/2026/03/25/well/move/strong-glutes-health-longevity.html)
-
-Building your butt muscles will help you stay injury free and independent in midlife and beyond.
+The right-wing thinker Christopher Caldwell believes the Iran war is the end of Trumpism. Is he right? What was Trumpism in the first place?
 
 
