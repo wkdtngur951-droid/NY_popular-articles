@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-29 13:11:12)
+## 📰 NYTimes Most Popular (Updated: 2026-03-29 14:40:05)
 
-1. [Trump and Modi Had a Call About the Iran War. Elon Musk Joined Them.](https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html)
-
-Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.
-
-
-2. [Actress Says She’s Found Her Secret Online Abuser: Her Husband](https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html)
-
-Collien Fernandes said her spouse had posted deepfakes of her. The account, disputed by her husband, spurred outrage, protests and parliamentary debates in Germany.
-
-
-3. [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
-
-Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.
-
-
-4. [Flashback: Your Weekly History Quiz, March 28, 2026](https://www.nytimes.com/interactive/2026/03/27/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-5. [Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War](https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html)
+1. [Wild Ultimatums and ‘Bombing Our Little Hearts Out’: A Portrait of Trump at War](https://www.nytimes.com/2026/03/28/us/politics/trump-iran-war.html)
 
 President Trump has vacillated between boasting about U.S. military superiority and deep frustration that his war of choice is not always having the desired effects.
 
 
-6. [A Challenge for ‘No Kings’ Protests, the Third Time Around](https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html)
+2. [A Challenge for ‘No Kings’ Protests, the Third Time Around](https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html)
 
 Organizers want this to be the largest protest yet. But is hitting a number enough to deliver an effective political movement?
 
 
-7. [What We Know About Saturday’s ‘No Kings’ Protests](https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html)
+3. [What Jackie and Ethel Kennedy Knew](https://www.nytimes.com/2026/03/28/opinion/love-story-kennedy-bessette-jackie-ethel.html)
 
-Thousands of demonstrations against the Trump administration are scheduled to take place in cities and towns across the country and the world on Saturday.
-
-
-8. [‘We Are Going to Deeply Regret This War’](https://www.nytimes.com/2026/03/28/opinion/iran-trump-israel-geopolitics.html)
-
-Three journalists on the potential repercussions of Operation Epic Fury.
+“Love Story” wasn’t really about John Kennedy or Carolyn Bessette.
 
 
-9. [Trump Does Anything He Wants — and More](https://www.nytimes.com/2026/03/28/opinion/trump-does-anything-he-wants-and-more.html)
+4. [Stephen Miller’s Latest Low](https://www.nytimes.com/2026/03/28/opinion/stephen-miller-birthright-citizenship-14th-amendment.html)
+
+His project of subordination at home and abroad continues unabated.
+
+
+5. [Iran and Immigration Frustrations Fuel New Wave of ‘No Kings’ Rallies](https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html)
+
+Thousands of organized demonstrations stretched across the country. Minnesota was a focal point of the protests after a tumultuous immigration crackdown.
+
+
+6. [Hegseth Criticized for Removing Four Officers From Promotion List](https://www.nytimes.com/2026/03/27/us/politics/hegseth-generals-promotion.html)
+
+Bitter rifts have opened over the defense secretary’s campaign to reverse policies that he says are prejudiced against white officers.
+
+
+7. [Trump and Modi Had a Call About the Iran War. Elon Musk Joined Them.](https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html)
+
+Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.
+
+
+8. [Trump Does Anything He Wants — and More](https://www.nytimes.com/2026/03/28/opinion/trump-does-anything-he-wants-and-more.html)
 
 When you’re a wannabe king they let you do it.
 
 
-10. [Iran and Immigration Frustrations Fuel New Wave of ‘No Kings’ Rallies](https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html)
+9. [Flashback: Your Weekly History Quiz, March 28, 2026](https://www.nytimes.com/interactive/2026/03/27/upshot/flashback.html)
 
-Thousands of organized demonstrations stretched across the country. Minnesota was a focal point of the protests after a tumultuous immigration crackdown.
+Can you sort 8 historical events?
+
+
+10. [For House Republicans, an Exodus Rivaled Only by Trump’s First Term](https://www.nytimes.com/interactive/2026/03/27/us/politics/house-republicans-departures-midterms-trump.html)
+
+The number of Republicans departing the House this cycle is one of the highest since 1930.
 
 
