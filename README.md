@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-28 23:38:28)
+## 📰 NYTimes Most Popular (Updated: 2026-03-29 03:20:55)
 
-1. [The New York Times News Quiz, March 27, 2026](https://www.nytimes.com/interactive/2026/03/27/briefing/news-quiz-iran-tsa-bts-trump.html)
+1. [Trump and Modi Had a Call About the Iran War. Elon Musk Joined Them.](https://www.nytimes.com/2026/03/27/us/politics/musk-joins-call-with-trump-modi.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+Mr. Musk’s participation was notable because it is rare for a private citizen to be on a call between heads of state. It also suggests that Mr. Musk is back on better terms with the president.
 
 
 2. [A Challenge for ‘No Kings’ Protests, the Third Time Around](https://www.nytimes.com/2026/03/28/us/politics/no-kings-protests-trump-organizers.html)
@@ -10,43 +10,43 @@ Did you follow the news this week? Take our quiz to see how well you stack up wi
 Organizers want this to be largest protest yet. But is hitting a number enough to deliver an effective political movement?
 
 
-3. [Tracking T.S.A. Wait Times at Major U.S. Airports](https://www.nytimes.com/interactive/2026/us/tsa-wait-times-us-airports.html)
+3. [What Jackie and Ethel Kennedy Knew](https://www.nytimes.com/2026/03/28/opinion/love-story-kennedy-bessette-jackie-ethel.html)
 
-Travelers are facing long lines at airport security as the partial government shutdown has strained T.S.A. staffing. The New York Times is tracking the latest available wait times across the country.
-
-
-4. [Man Tied to Pro-Israel Extremists Accused of Targeting Palestinian Activist](https://www.nytimes.com/2026/03/27/nyregion/nerdeen-kiswani-assassination-plot.html)
-
-A man linked to a pro-Israel terrorist group was charged with making Molotov cocktails for what officials said was a plot to assassinate the New York City-based activist Nerdeen Kiswani.
+“Love Story” wasn’t really about John Kennedy or Carolyn Bessette.
 
 
-5. [Trump Administration Begins Inquiries Into 3 Medical Schools in Show of Power](https://www.nytimes.com/2026/03/26/us/politics/trump-medical-schools-civil-rights.html)
+4. [What We Know About Saturday’s ‘No Kings’ Protests](https://www.nytimes.com/2026/03/27/us/no-kings-protests-cities.html)
 
-The Justice Department’s demands for admissions-related data from Stanford, Ohio State and the University of California, San Diego, reveal an expansion of its higher-education pressure campaign.
-
-
-6. [Florida’s Immigration Crackdown Is Showing Cracks: ‘We’re Hurting People’](https://www.nytimes.com/2026/03/27/us/florida-immigration-desantis-republicans.html)
-
-Some conservative sheriffs have raised concerns about the aggressive enforcement tactics that Gov. Ron DeSantis, a Republican, has embraced.
+Thousands of demonstrations against the Trump administration are scheduled to take place in cities and towns across the country and the world on Saturday.
 
 
-7. [Senate Votes to Fund Most of D.H.S. in Bid to End Partial Shutdown](https://www.nytimes.com/2026/03/27/us/politics/senate-dhs-ice-shutdown-funding.html)
+5. [Outside Kennedy Center, Jane Fonda and Joan Baez Raise Voices in Protest](https://www.nytimes.com/2026/03/27/arts/jane-fonda-joan-baez-kennedy-center-protest.html)
 
-The bill excludes funding for ICE and Border Patrol but restores it for federal airport security workers. The House could consider the package on Friday.
-
-
-8. [Hacked Files of F.B.I. Director Kash Patel Circulate Online](https://www.nytimes.com/2026/03/27/us/fbi-director-kash-patel-hacked-email-iran.html)
-
-What appeared to be personal emails from before Mr. Patel’s time as director were posted on a website that identified itself as Iranian but seemed to be hosted in Russia.
+The pair joined in a gathering of artists and others who denounced censorship and faulted President Trump’s growing influence over the nation’s cultural life.
 
 
-9. [There’s a Good Reason You Can’t Concentrate](https://www.nytimes.com/2026/03/27/opinion/technology-mental-fitness-cognitive.html)
+6. [Hegseth Strikes Two Black and Two Female Officers From Promotion List](https://www.nytimes.com/2026/03/27/us/hegseth-promotion-list.html)
 
-Just as we changed our thinking around physical fitness, we need to change our attitude toward cognitive fitness.
+Defense Secretary Pete Hegseth’s highly unusual decision to remove officers from a one-star promotion list has spurred allegations of racial and gender bias.
 
 
-10. [House Vote Sets Up Clash With the Senate on D.H.S. Funding, Prolonging Shutdown](https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html)
+7. [House Vote Sets Up Clash With the Senate on D.H.S. Funding, Prolonging Shutdown](https://www.nytimes.com/2026/03/27/us/politics/house-republicans-dhs-funding-shutdown.html)
 
 Republicans revolted over a Senate measure to fund the Department of Homeland Security and passed a rival bill, dimming the chances of a quick end to the crisis crippling airports.
+
+
+8. [Flashback: Your Weekly History Quiz, March 28, 2026](https://www.nytimes.com/interactive/2026/03/27/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+9. [‘We Are Going to Deeply Regret This War’](https://www.nytimes.com/2026/03/28/opinion/iran-trump-israel-geopolitics.html)
+
+Three journalists on the potential repercussions of Operation Epic Fury.
+
+
+10. [Hacked Files of F.B.I. Director Kash Patel Circulate Online](https://www.nytimes.com/2026/03/27/us/fbi-director-kash-patel-hacked-email-iran.html)
+
+What appeared to be personal emails from before Mr. Patel’s time as director were posted on a website that identified itself as Iranian but seemed to be hosted in Russia.
 
 
