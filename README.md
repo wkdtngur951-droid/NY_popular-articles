@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-30 19:09:58)
+## 📰 NYTimes Most Popular (Updated: 2026-03-30 20:55:16)
 
-1. [Trump’s Ballroom Design Has Barely Been Scrutinized](https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html)
+1. [5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up](https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html)
 
-A stairway to nowhere: Three months that could change the White House for generations.
+The war in Iran was a galvanizing force, but plenty of protesters focused on President Trump’s immigration crackdown. Senate candidates in several key races joined the crowds.
 
 
 2. [New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows](https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html)
@@ -10,24 +10,24 @@ A stairway to nowhere: Three months that could change the White House for genera
 The Pentagon used missiles untested in combat in a deadly attack that struck civilian sites near a military compound on Feb. 28, according to visual evidence examined by The Times and weapons experts.
 
 
-3. [Mamdani and Curtis Sliwa Performed a Skit. N.Y. Republicans Are Livid.](https://www.nytimes.com/2026/03/29/nyregion/mamdani-sliwa-skit-ny-republicans.html)
+3. [A Secret History of Psychosis](https://www.nytimes.com/2026/03/29/health/a-secret-history-of-psychosis.html)
 
-Mayor Zohran Mamdani and his former Republican opponent recorded a skit on cat adoption for the Inner Circle, an annual press corps roast. Some politicians weren’t laughing.
-
-
-4. [The Air Canada Crash: Before and After the Frantic Call to ‘Stop, Stop, Stop’](https://www.nytimes.com/2026/03/29/nyregion/laguardia-air-canada-crash-reconstruction.html)
-
-How a cascade of seemingly minor events led to the worst runway disaster at LaGuardia Airport in decades.
+Cohen Miles-Rath heard voices telling him to kill his father. After they passed, he spent years retracing the path of his delusions.
 
 
-5. [Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones](https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html)
+4. [Chromebook Remorse: Tech Backlash at Schools Extends Beyond Phones](https://www.nytimes.com/2026/03/29/technology/chromebook-remorse-kansas-school-laptops.html)
 
 No more YouTube or video games on school laptops. Textbooks and pencils are back. Some seventh graders say they prefer learning offline.
 
 
-6. [A Secret History of Psychosis](https://www.nytimes.com/2026/03/29/health/a-secret-history-of-psychosis.html)
+5. [Is It 1914 in America?](https://www.nytimes.com/2026/03/29/opinion/israel-us-war-iran-literature.html)
 
-Cohen Miles-Rath heard voices telling him to kill his father. After they passed, he spent years retracing the path of his delusions.
+The planners of the Iran war had plenty of on-the-ground intelligence but operated with little insight into the minds of their enemies.
+
+
+6. [Iran and Immigration Frustrations Fuel New Wave of ‘No Kings’ Rallies](https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html)
+
+Thousands of organized demonstrations stretched across the country. Minnesota was a focal point of the protests after a tumultuous immigration crackdown.
 
 
 7. [I Saw Something New in San Francisco](https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html)
@@ -35,14 +35,14 @@ Cohen Miles-Rath heard voices telling him to kill his father. After they passed,
 Marshall McLuhan was right about Claude, too.
 
 
-8. [U.S. Allows Russian Oil Tanker to Reach Cuba, Despite Blockade](https://www.nytimes.com/2026/03/29/world/americas/cuba-russian-oil-tanlker.html)
+8. [How the Iran War Has Rippled Across the World](https://www.nytimes.com/interactive/2026/03/29/world/middleeast/iran-war-global-impact-economy-fuel.html)
 
-The tanker full of crude oil could reach its expected destination by Monday, providing a lifeline to the island amid intense U.S. pressure.
+Deflated balloons? Pricier sugar? The fighting in the Middle East has played out across the world in sometimes surprising ways.
 
 
-9. [Air Canada C.E.O. to Step Down Amid Backlash Over Comments After Crash](https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html)
+9. [Mamdani and Curtis Sliwa Performed a Skit. N.Y. Republicans Are Livid.](https://www.nytimes.com/2026/03/29/nyregion/mamdani-sliwa-skit-ny-republicans.html)
 
-Michael Rousseau’s mostly English statement after a fatal runway collision drew sharp criticism. The airline said it would emphasize French fluency in its search for a successor.
+Mayor Zohran Mamdani and his former Republican opponent recorded a skit on cat adoption for the Inner Circle, an annual press corps roast. Some politicians weren’t laughing.
 
 
 10. [Actress Says She’s Found Her Secret Online Abuser: Her Husband](https://www.nytimes.com/2026/03/27/world/europe/collien-fernandes-deepfake-online-abuse.html)
