@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-31 11:01:26)
+## 📰 NYTimes Most Popular (Updated: 2026-03-31 13:49:28)
 
-1. [Australian Sky Turns an Apocalyptic Blood Red](https://www.nytimes.com/2026/03/29/world/australia/australia-red-sky-tropical-cyclone.html)
-
-Winds from Tropical Cyclone Narelle stirred up rust-colored dust from iron-rich soil, tinging the sky over Western Australia with a reddish Mars-like hue.
-
-
-2. [Trump’s Ballroom Design Has Barely Been Scrutinized](https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html)
-
-A stairway to nowhere: Three months that could change the White House for generations.
-
-
-3. [5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up](https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html)
+1. [5 Takeaways From the ‘No Kings’ Rallies as the Midterms Heat Up](https://www.nytimes.com/2026/03/29/us/politics/no-kings-rallies-takeaways.html)
 
 The war in Iran was a galvanizing force, but plenty of protesters focused on President Trump’s immigration crackdown. Senate candidates in several key races joined the crowds.
 
 
-4. [New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows](https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html)
+2. [Renoir, Cézanne and Matisse Paintings Are Stolen in 3-Minute Museum Heist, Police Say](https://www.nytimes.com/2026/03/30/world/europe/parma-art-heist-renoir-matisse-cezanne-italy.html)
 
-The Pentagon used missiles untested in combat in a deadly attack that struck civilian sites near a military compound on Feb. 28, according to visual evidence examined by The Times and weapons experts.
-
-
-5. [Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks](https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html)
-
-Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.
+Thieves broke into the Magnani-Rocca Foundation outside Parma, Italy, officials said, and made off with paintings worth millions.
 
 
-6. [‘I Think That MAGA Is Dying’: Inside the Youth Movement at CPAC](https://www.nytimes.com/2026/03/30/style/cpac-scene-maga.html)
-
-At a sparsely attended Conservative Political Action Conference, young Republicans were eager to start the post-Trump era.
-
-
-7. [She Was a Famous Millennial Feminist. Her Polyamory Memoir Is Heartbreaking.](https://www.nytimes.com/2026/03/30/opinion/feminism-polyamory-lindy-west.html)
+3. [She Was a Famous Millennial Feminist. Her Polyamory Memoir Is Heartbreaking.](https://www.nytimes.com/2026/03/30/opinion/feminism-polyamory-lindy-west.html)
 
 Almost every ideology can be wielded to make women feel that they’re failing.
 
 
-8. [A Democratic Electrician Nabs a State Senate Seat in Republican Florida](https://www.nytimes.com/2026/03/30/us/politics/brian-nathan-florida-special-election.html)
+4. [This Is What Happens When the Gas Runs Out](https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html)
 
-With Brian Nathan’s victory certified, Democrats won two of three state legislative races in this month’s special elections, all in Republican-leaning districts.
-
-
-9. [She Wrote a Book About Her Throuple. The Internet Lost Its Mind.](https://www.nytimes.com/2026/03/30/opinion/why-are-so-many-people-obsessed-with-lindy-wests-polyamory.html)
-
-Is Lindy West a feminist? Is she happy? Everyone has an opinion.
+With a cutoff in shipments imminent, Asian countries, the biggest importers of liquefied natural gas from the Middle East, are already burning more coal and reducing consumption.
 
 
-10. [Israel Pulls Battalion From West Bank After Soldier Talks of ‘Revenge’](https://www.nytimes.com/2026/03/30/world/middleeast/israel-west-bank-battalion.html)
+5. [A Border Wall Plan Unites Republicans and Democrats in Texas: ‘This Is Insane’](https://www.nytimes.com/2026/03/30/us/a-border-wall-plan-unites-republicans-and-democrats-in-texas-this-is-insane.html)
 
-While detaining a CNN crew, a soldier said that Israeli troops were motivated by “revenge” against Palestinians and that all of the West Bank was “for the Jews.”
+Plans for a wall in Big Bend National Park prompted public protests and behind-the-scenes lobbying to sway the Trump administration to stop.
+
+
+6. [Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks](https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html)
+
+Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.
+
+
+7. [Trump’s Ballroom Design Has Barely Been Scrutinized](https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html)
+
+A stairway to nowhere: Three months that could change the White House for generations.
+
+
+8. [They’re Plus-Size and Kind of Famous at Disney World](https://www.nytimes.com/2026/03/30/travel/plus-size-park-hoppers-disney.html)
+
+Five influencer friends have amassed half a million online followers with videos that help larger people find comfy chairs, ride roller coasters and feel confident.
+
+
+9. [Trump Reveals New Look for White House Ballroom After Times Article](https://www.nytimes.com/2026/03/30/upshot/trump-white-house-ballroom-plans.html)
+
+Architects and preservation organizations have warned that little scrutiny has been given to the project’s design plans.
+
+
+10. [The Epstein Class Had a Signature Weakness](https://www.nytimes.com/2026/03/30/opinion/epstein-elite-men.html)
+
+Epstein flourished by helping elite men reconcile their private desires with their public appearances.
 
 
