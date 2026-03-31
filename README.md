@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-03-30 23:42:19)
+## 📰 NYTimes Most Popular (Updated: 2026-03-31 02:56:57)
 
-1. [A Toothless Iran? Missile and Drone Strikes Show It Can Still Inflict Pain.](https://www.nytimes.com/2026/03/29/world/middleeast/iran-missiles-war.html)
+1. [New U.S. Missile Hit Iranian Sports Hall and School, Analysis Shows](https://www.nytimes.com/2026/03/29/world/middleeast/us-precision-strike-missile-iran-lamerd.html)
 
-A wave of strikes across the Middle East in recent days shows that Iran has not lost the capacity to retaliate.
-
-
-2. [Iran and Immigration Frustrations Fuel New Wave of ‘No Kings’ Rallies](https://www.nytimes.com/2026/03/28/us/no-kings-trump-iran-immigration-minnesota.html)
-
-Thousands of organized demonstrations stretched across the country. Minnesota was a focal point of the protests after a tumultuous immigration crackdown.
+The Pentagon used missiles untested in combat in a deadly attack that struck civilian sites near a military compound on Feb. 28, according to visual evidence examined by The Times and weapons experts.
 
 
-3. [I Saw Something New in San Francisco](https://www.nytimes.com/2026/03/29/opinion/ai-claude-chatgpt-gemini-mcluhan.html)
+2. [The Epstein Class Had a Signature Weakness](https://www.nytimes.com/2026/03/30/opinion/epstein-elite-men.html)
 
-Marshall McLuhan was right about Claude, too.
-
-
-4. [Trump’s Birthright Citizenship Order at Supreme Court Splits Conservative Scholars](https://www.nytimes.com/2026/03/30/us/politics/supreme-court-trump-birthright-conservatives.html)
-
-Before President Trump’s order to limit birthright citizenship, there was widespread agreement that the 14th Amendment guaranteed citizenship for U.S.-born babies.
+Epstein flourished by helping elite men reconcile their private desires with their public appearances.
 
 
-5. [There Are Now Over 50,000 American Troops in the Mideast](https://www.nytimes.com/2026/03/29/us/politics/us-marines-middle-east-iran-war.html)
+3. [This Is What Happens When the Gas Runs Out](https://www.nytimes.com/2026/03/30/business/lng-supply-asia-qatar-iran.html)
 
-The arrival of 2,500 Marines and another 2,500 sailors is keeping the number of American troops in the region at roughly 10,000 more than usual.
+With a cutoff in shipments imminent, Asian countries, the biggest importers of liquefied natural gas from the Middle East, are already burning more coal and reducing consumption.
 
 
-6. [Mamdani and Curtis Sliwa Performed a Skit. N.Y. Republicans Are Livid.](https://www.nytimes.com/2026/03/29/nyregion/mamdani-sliwa-skit-ny-republicans.html)
+4. [Mamdani and Curtis Sliwa Performed a Skit. N.Y. Republicans Are Livid.](https://www.nytimes.com/2026/03/29/nyregion/mamdani-sliwa-skit-ny-republicans.html)
 
 Mayor Zohran Mamdani and his former Republican opponent recorded a skit on cat adoption for the Inner Circle, an annual press corps roast. Some politicians weren’t laughing.
 
 
-7. [Trump’s Ballroom Design Has Barely Been Scrutinized](https://www.nytimes.com/interactive/2026/03/29/upshot/white-house-ballroom.html)
+5. [A Democratic Electrician Nabs a State Senate Seat in Republican Florida](https://www.nytimes.com/2026/03/30/us/politics/brian-nathan-florida-special-election.html)
 
-A stairway to nowhere: Three months that could change the White House for generations.
+With Brian Nathan’s victory certified, Democrats won two of three state legislative races in this month’s special elections, all in Republican-leaning districts.
+
+
+6. [Israel Passes Law to Hang Palestinians Convicted of Deadly Attacks](https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html)
+
+Experts say the law was written in such a way as to ensure that it was unlikely to ever apply to Jewish extremists who commit similar crimes.
+
+
+7. [She Wrote a Book About Her Throuple. The Internet Lost Its Mind.](https://www.nytimes.com/2026/03/30/opinion/why-are-so-many-people-obsessed-with-lindy-wests-polyamory.html)
+
+Is Lindy West a feminist? Is she happy? Everyone has an opinion.
 
 
 8. [Air Canada C.E.O. to Step Down Amid Backlash Over Comments After Crash](https://www.nytimes.com/2026/03/30/business/air-canada-ceo-crash-retire.html)
@@ -40,13 +40,13 @@ A stairway to nowhere: Three months that could change the White House for genera
 Michael Rousseau’s mostly English statement after a fatal runway collision drew sharp criticism. The airline said it would emphasize French fluency in its search for a successor.
 
 
-9. [Stephen Miller’s Latest Low](https://www.nytimes.com/2026/03/28/opinion/stephen-miller-birthright-citizenship-14th-amendment.html)
+9. [They’re Plus-Size and Kind of Famous at Disney World](https://www.nytimes.com/2026/03/30/travel/plus-size-park-hoppers-disney.html)
 
-His project of subordination at home and abroad continues unabated.
+Five influencer friends have amassed half a million online followers with videos that help larger people find comfy chairs, ride roller coasters and feel confident.
 
 
-10. [How the Iran War Has Rippled Across the World](https://www.nytimes.com/interactive/2026/03/29/world/middleeast/iran-war-global-impact-economy-fuel.html)
+10. [Australian Sky Turns an Apocalyptic Blood Red](https://www.nytimes.com/2026/03/29/world/australia/australia-red-sky-tropical-cyclone.html)
 
-Deflated balloons? Pricier sugar? The fighting in the Middle East has played out across the world in sometimes surprising ways.
+Winds from Tropical Cyclone Narelle stirred up rust-colored dust from iron-rich soil, tinging the sky over Western Australia with a reddish Mars-like hue.
 
 
