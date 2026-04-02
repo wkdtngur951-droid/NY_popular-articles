@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-02 10:58:57)
+## 📰 NYTimes Most Popular (Updated: 2026-04-02 11:53:47)
 
-1. [Federal Judge Approves Trump Effort to Obtain List of Jews From Penn](https://www.nytimes.com/2026/03/31/us/politics/trump-jews-penn-list-judge.html)
+1. [Trump Attends Supreme Court Oral Arguments, Then Leaves an Hour In](https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html)
 
-The government’s effort to collect the names and phone numbers of Jewish people on campus as it investigates antisemitism has upset some people who worry about how the information will be used.
-
-
-2. [Supreme Court’s Birthright Decision Could Deal a Heavy Blow to Asians](https://www.nytimes.com/2026/04/01/us/politics/birthright-citizenship-asian-immigrants.html)
-
-A new study found that an end to universal birthright citizenship would disproportionately affect babies born to Asian parents.
+President Trump’s presence in the court, a presidential first, put him face to face with justices whom he has tried to bully and intimidate.
 
 
-3. [Trump’s Fixation on This Phrase Reveals Something About the War in Iran](https://www.nytimes.com/2026/04/01/opinion/trump-hegseth-rubio-iran-war.html)
+2. [Man in Custody After 7-Month-Old Girl Is Fatally Shot in Brooklyn](https://www.nytimes.com/2026/04/01/nyregion/williamsburg-nyc-baby-shooting.html)
 
-In Iran, the schedule is our most malleable illusion.
-
-
-4. [Placing U.S. Troops in Middle East Hotels May Violate Laws of War](https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html)
-
-U.S. commanders have kept many troops away from bases in the region to protect them from Iran’s ballistic missile attacks.
+The baby was struck by a stray bullet on Wednesday afternoon in the Williamsburg neighborhood. The police said they were still looking for another person.
 
 
-5. [Who Murdered Minerliz? How a Diner Meet-up Cracked the Case.](https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html)
+3. [Newsom’s New Attack on Political Enemies: You’re Gay](https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html)
 
-In 1999, a 13-year-old girl was found dead in the Bronx. Then the trail went cold for 20 years, until an ingenious ploy by detectives produced a vital clue to her killer.
+Gov. Gavin Newsom’s aides said that their online insults were meant to ridicule figures on the right. But some critics say they are homophobic.
 
 
-6. [G.O.P. Leaders Strike Deal to End Homeland Security Shutdown](https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html)
+4. [G.O.P. Leaders Strike Deal to End Homeland Security Shutdown](https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html)
 
 A bill to reopen the department, which the House G.O.P. rejected on Friday, could be approved as early as Thursday. It was a sharp turnaround by the lawmakers and President Trump.
 
 
-7. [Padma Lakshmi: The Decision That Would Create a Permanent American Underclass](https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html)
+5. [Supreme Court’s Birthright Decision Could Deal a Heavy Blow to Asians](https://www.nytimes.com/2026/04/01/us/politics/birthright-citizenship-asian-immigrants.html)
+
+A new study found that an end to universal birthright citizenship would disproportionately affect babies born to Asian parents.
+
+
+6. [Trump’s Fixation on This Phrase Reveals Something About the War in Iran](https://www.nytimes.com/2026/04/01/opinion/trump-hegseth-rubio-iran-war.html)
+
+In Iran, the schedule is our most malleable illusion.
+
+
+7. [Placing U.S. Troops in Middle East Hotels May Violate Laws of War](https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html)
+
+U.S. commanders have kept many troops away from bases in the region to protect them from Iran’s ballistic missile attacks.
+
+
+8. [Padma Lakshmi: The Decision That Would Create a Permanent American Underclass](https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html)
 
 Trump wants to take away a fundamental American promise.
 
 
-8. [Remember the Oil Shocks of the ’70s? This Is Going to Be Worse. Much Worse.](https://www.nytimes.com/2026/04/01/opinion/oil-crisis-iran-electric-solar.html)
+9. [Why the Artemis II Astronauts Will Be Wearing Orange](https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html)
 
-Higher oil prices and limited supply will accelerate a turn toward cleaner technologies, especially in Asia and Europe.
-
-
-9. [Justice Dept. Struggles to Respond to Trump’s Suit Against I.R.S.](https://www.nytimes.com/2026/03/31/us/politics/trump-irs-lawsuit-doj.html)
-
-Officials at the department and the White House are in the middle of a messy and complicated debate over how to respond to President Trump’s lawsuit demanding $10 billion from the I.R.S.
+It’s not just any orange. It’s International Orange.
 
 
 10. [Trump Has Discussed Firing Attorney General Pam Bondi](https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html)
