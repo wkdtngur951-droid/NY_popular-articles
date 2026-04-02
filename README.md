@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-02 13:42:55)
+## 📰 NYTimes Most Popular (Updated: 2026-04-02 15:05:15)
 
-1. [Supreme Court’s Birthright Decision Could Deal a Heavy Blow to Asians](https://www.nytimes.com/2026/04/01/us/politics/birthright-citizenship-asian-immigrants.html)
+1. [In South Dakota, Neighbors Feel Sorry for Kristi Noem’s Husband](https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html)
 
-A new study found that an end to universal birthright citizenship would disproportionately affect babies born to Asian parents.
+In the tiny town of Castlewood, S.D., where everyone knows the Noems, the prevailing sense was that people can’t help but feel bad for Bryon Noem after a tabloid photo leak.
 
 
-2. [Trump’s Fixation on This Phrase Reveals Something About the War in Iran](https://www.nytimes.com/2026/04/01/opinion/trump-hegseth-rubio-iran-war.html)
+2. [Padma Lakshmi: The Decision That Would Create a Permanent American Underclass](https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html)
+
+Trump wants to take away a fundamental American promise.
+
+
+3. [Trump’s Fixation on This Phrase Reveals Something About the War in Iran](https://www.nytimes.com/2026/04/01/opinion/trump-hegseth-rubio-iran-war.html)
 
 In Iran, the schedule is our most malleable illusion.
 
 
-3. [Newsom’s New Attack on Political Enemies: You’re Gay](https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html)
+4. [Newsom’s New Attack on Political Enemies: You’re Gay](https://www.nytimes.com/2026/03/31/us/politics/newsom-social-media-grindr-homophobia.html)
 
 Gov. Gavin Newsom’s aides said that their online insults were meant to ridicule figures on the right. But some critics say they are homophobic.
 
 
-4. [Trump Attends Supreme Court Oral Arguments, Then Leaves an Hour In](https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html)
+5. [G.O.P. Leaders Strike Deal to End Homeland Security Shutdown](https://www.nytimes.com/2026/04/01/us/politics/senate-house-homeland-security-shutdown.html)
 
-President Trump’s presence in the court, a presidential first, put him face to face with justices whom he has tried to bully and intimidate.
-
-
-5. [How Pam Bondi’s Missteps on the Epstein Files Jeopardized Her Job](https://www.nytimes.com/2026/04/01/us/politics/bondi-epstein-files-doj-trump.html)
-
-Ms. Bondi’s critics inside and outside the administration say she has made unforced errors that have turned the Justice Department’s handling of the Epstein files into a political crisis.
+A bill to reopen the department, which the House G.O.P. rejected on Friday, could be approved as early as Thursday. It was a sharp turnaround by the lawmakers and President Trump.
 
 
-6. [Trump Has Discussed Firing Attorney General Pam Bondi](https://www.nytimes.com/2026/04/01/us/politics/trump-pam-bondi-future.html)
+6. [D.H.S. Inspector General Inquiry Focuses in Part on Top Noem Aide](https://www.nytimes.com/2026/04/01/us/politics/dhs-inspector-general-inquiry-lewandowski.html)
 
-President Trump has not made a final decision, but he has floated the idea of replacing Ms. Bondi with Lee Zeldin, the E.P.A. administrator.
-
-
-7. [SpaceX Files to Go Public, Setting Stage for Huge I.P.O.](https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html)
-
-An initial public offering of Elon Musk’s rocket and satellite company would most likely be a generational wealth event and one of the largest offerings ever.
+The investigation comes as administration officials have fielded complaints about how Kristi Noem’s top adviser, Corey Lewandowski, dealt with companies seeking federal contracts.
 
 
-8. [Key Justices Appear Skeptical of Limiting Birthright Citizenship](https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html)
+7. [Placing U.S. Troops in Middle East Hotels May Violate Laws of War](https://www.nytimes.com/2026/04/01/us/politics/troops-iran-hotels.html)
 
-President Trump appeared in court, watching as members of the court’s conservative majority raised questions about his efforts to limit birthright citizenship.
-
-
-9. [Who Murdered Minerliz? How a Diner Meet-up Cracked the Case.](https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html)
-
-In 1999, a 13-year-old girl was found dead in the Bronx. Then the trail went cold for 20 years, until an ingenious ploy by detectives produced a vital clue to her killer.
+U.S. commanders have kept many troops away from bases in the region to protect them from Iran’s ballistic missile attacks.
 
 
-10. [In South Dakota, Neighbors Feel Sorry for Kristi Noem’s Husband](https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html)
+8. [Why the Artemis II Astronauts Will Be Wearing Orange](https://www.nytimes.com/2026/03/31/style/artemis-ii-spacesuits-orange-astronauts.html)
 
-In the tiny town of Castlewood, S.D., where everyone knows the Noems, the prevailing sense was that people can’t help but feel bad for Bryon Noem after a tabloid photo leak.
+It’s not just any orange. It’s International Orange.
+
+
+9. [Federal Judge Approves Trump Effort to Obtain List of Jews From Penn](https://www.nytimes.com/2026/03/31/us/politics/trump-jews-penn-list-judge.html)
+
+The government’s effort to collect the names and phone numbers of Jewish people on campus as it investigates antisemitism has upset some people who worry about how the information will be used.
+
+
+10. [Five Takeaways From the Birthright Citizenship Argument](https://www.nytimes.com/2026/04/01/us/politics/scotus-birthright-citizenship-takeaways.html)
+
+The justices grappled with questions about domiciles and foundlings, avoided policy debates and mused about the sweep of possible rulings.
 
 
