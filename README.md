@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-01 23:42:07)
+## 📰 NYTimes Most Popular (Updated: 2026-04-02 02:53:25)
 
-1. [The People Trump Pardoned Are on a Crime Spree](https://www.nytimes.com/2026/03/31/opinion/trump-jan-6-pardons-crimes-recidivism.html)
+1. [Trump Has a Way Out of the War](https://www.nytimes.com/2026/03/31/opinion/trump-iran-war-nuclear-regime-change-peace.html)
 
-The president and the Republican Party deserve to pay a political price for the pardons.
+Trump should set aside his 15-point peace plan and reduce it to these two points.
 
 
-2. [What One Month of Intense Red-Light Therapy Did to My Mind](https://www.nytimes.com/2026/03/31/magazine/red-light-therapy-blanket-wellness-benefits.html)
+2. [Key Justices Appear Skeptical of Limiting Birthright Citizenship](https://www.nytimes.com/2026/04/01/us/politics/supreme-court-birthright-citizenship-arguments.html)
 
-Celebrities are obsessed. People swear it gives them thicker hair and perfect skin. But what if the biggest effect of red light is stranger than that?
+President Trump appeared in court, watching as members of the court’s conservative majority raised questions about his efforts to limit birthright citizenship.
 
 
 3. [Hegseth Reverses Helicopter Crew Suspension Over Kid Rock Flyby](https://www.nytimes.com/2026/03/30/us/kid-rock-nashville-helicopter-video-army-inquiry.html)
@@ -15,38 +15,38 @@ Celebrities are obsessed. People swear it gives them thicker hair and perfect sk
 Videos posted Saturday showed the pro-Trump musician saluting two Apache attack choppers, which appeared to be the same ones that flew low over a “No Kings” rally in Nashville.
 
 
-4. [Trump Has a Way Out of the War](https://www.nytimes.com/2026/03/31/opinion/trump-iran-war-nuclear-regime-change-peace.html)
+4. [Remember the Oil Shocks of the ’70s? This Is Going to Be Worse. Much Worse.](https://www.nytimes.com/2026/04/01/opinion/oil-crisis-iran-electric-solar.html)
 
-Trump should set aside his 15-point peace plan and reduce it to these two points.
-
-
-5. [Will $4 Gas Hurt Trump’s Approval Ratings? Here’s What History Shows.](https://www.nytimes.com/2026/03/31/us/politics/trump-approval-ratings-gas-prices.html)
-
-Presidents since at least the Carter administration have seen their approval ratings tied to gas prices. But there are signs the correlation may be weakening.
+Higher oil prices and limited supply will accelerate a turn toward cleaner technologies, especially in Asia and Europe.
 
 
-6. [Trump Reveals New Look for White House Ballroom After Times Article](https://www.nytimes.com/2026/03/30/upshot/trump-white-house-ballroom-plans.html)
+5. [Trump Attends Supreme Court Oral Arguments, Then Leaves an Hour In](https://www.nytimes.com/2026/04/01/us/politics/trump-supreme-court-visit.html)
 
-Architects and preservation organizations have warned that little scrutiny has been given to the project’s design plans.
+President Trump’s presence in the court, a presidential first, put him face to face with justices whom he has tried to bully and intimidate.
 
 
-7. [In South Dakota, Neighbors Feel Sorry for Kristi Noem’s Husband](https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html)
+6. [SpaceX Files to Go Public, Setting Stage for Huge I.P.O.](https://www.nytimes.com/2026/04/01/technology/spacex-ipo-elon-musk.html)
+
+An initial public offering of Elon Musk’s rocket and satellite company would most likely be a generational wealth event and one of the largest offerings ever.
+
+
+7. [Supreme Court’s Birthright Decision Could Deal a Heavy Blow to Asians](https://www.nytimes.com/2026/04/01/us/politics/birthright-citizenship-asian-immigrants.html)
+
+A new study found that an end to universal birthright citizenship would disproportionately affect babies born to Asian parents.
+
+
+8. [Who Murdered Minerliz? How a Diner Meet-up Cracked the Case.](https://www.nytimes.com/2026/04/01/nyregion/jupiter-joe-bronx-murder.html)
+
+In 1999, a 13-year-old girl was found dead in the Bronx. Then the trail went cold for 20 years, until an ingenious ploy by detectives produced a vital clue to her killer.
+
+
+9. [In South Dakota, Neighbors Feel Sorry for Kristi Noem’s Husband](https://www.nytimes.com/2026/03/31/us/politics/kristi-noem-husband-photos-daily-mail.html)
 
 In the tiny town of Castlewood, S.D., where everyone knows the Noems, the prevailing sense was that people can’t help but feel bad for Bryon Noem after a tabloid photo leak.
 
 
-8. [Federal Judge Approves Trump Effort to Obtain List of Jews From Penn](https://www.nytimes.com/2026/03/31/us/politics/trump-jews-penn-list-judge.html)
+10. [Padma Lakshmi: The Decision That Would Create a Permanent American Underclass](https://www.nytimes.com/2026/04/01/opinion/padma-lakshmi-birthright-citizenship-food.html)
 
-The government’s effort to collect the names and phone numbers of Jewish people on campus as it investigates antisemitism has upset some people who worry about how the information will be used.
-
-
-9. [‘The Book of Mormon’ Is Sorry if You Were Offended for 15 Years](https://www.nytimes.com/2026/03/31/theater/book-of-mormon-stone-parker.html)
-
-The taboo-busting, gasp-inducing Broadway musical comedy has been a hit with audiences and critics. But could it be produced today?
-
-
-10. [A New Jersey Teen Finds Treasure, and More, in Abandoned Storage Units](https://www.nytimes.com/2026/03/31/style/new-jersey-teen-storage-units.html)
-
-Michael Haskell, 17, set out to make some money from his locker dives. He ended up learning about life.
+Trump wants to take away a fundamental American promise.
 
 
