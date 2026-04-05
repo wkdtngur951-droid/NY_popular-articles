@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-05 20:41:47)
+## 📰 NYTimes Most Popular (Updated: 2026-04-05 21:39:30)
 
-1. [Student Debt Burdened Them, So They Moved Abroad and Stopped Paying](https://www.nytimes.com/2026/04/04/business/student-loans-abroad-default.html)
+1. [‘I Got Back Every Penny’: Inside Trump’s Supercharged Tax Season](https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html)
 
-A record number of student loan borrowers are in delinquency and default. Some are making the drastic decision to leave the country and abandon their loans.
+The law Republicans passed last year has so far been largely imperceptible to most Americans. That’s changing as tens of millions file their taxes this spring.
 
 
-2. [Pam and Kristi, Kicked to the Curb](https://www.nytimes.com/2026/04/04/opinion/pam-bondi-kristi-noem-trump.html)
+2. [How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline](https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html)
 
-Trump girls gone wild — or just gone.
+The intelligence agency also executed a deception campaign aimed at drawing Iranian forces away from where the missing Air Force officer was hiding.
 
 
 3. [U.S. Commandos Rescue Downed Air Force Officer Deep Inside Iran](https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html)
@@ -20,14 +20,14 @@ An Air Force officer of a F-15E Strike Eagle shot down on Friday by Iran spent a
 The pictures were released on the third day of the first mission since 1972 to send people around the moon.
 
 
-5. [Flashback: Your Weekly History Quiz, April 4, 2026](https://www.nytimes.com/interactive/2026/04/03/upshot/flashback.html)
+5. [Hegseth Says U.S. Troops Are Fighting for Jesus. The Pope Disagrees.](https://www.nytimes.com/2026/04/03/world/middleeast/pope-iran-war.html)
 
-Can you sort 8 historical events?
+In sharp contrast to the Trump administration’s calls for Christian prayers for the war effort, Pope Leo XIV says military domination is “entirely foreign to the way of Jesus Christ.”
 
 
-6. [Finish the Job: How Trump Can Still Win in Iran](https://www.nytimes.com/2026/04/04/opinion/iran-war-trump-win.html)
+6. [New Attorney General, Same Albatross: Trump’s Quest for Retribution](https://www.nytimes.com/2026/04/04/us/politics/attorney-general-trump.html)
 
-Our strength and leverage over events in Iran are growing, not diminishing.
+The name atop the Justice Department’s organizational chart matters less than the presence of a president whose demands for revenge have become so extreme that even his most obsequious appointees have fallen short.
 
 
 7. [America Is Used to Hiding Its Wars. Trump Is Doing the Opposite.](https://www.nytimes.com/2026/04/04/magazine/iran-war-trump-drones-ai.html)
@@ -35,18 +35,18 @@ Our strength and leverage over events in Iran are growing, not diminishing.
 The administration’s videos are possible only in a country that asks little from its people beyond their YouTube clicks.
 
 
-8. [No One at Waffle House Remembers FEMA Official Who Says He Teleported In](https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html)
+8. [What We Know About the Rescue of a U.S. Airman After Two Jet Crashes](https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html)
 
-Gregg Phillips, who is in charge of responding to fires and floods, says the hand of God suddenly and mysteriously moved him to a 24-hour breakfast spot in Rome, Ga.
-
-
-9. [How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline](https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html)
-
-The intelligence agency also executed a deception campaign aimed at drawing Iranian forces away from where the missing Air Force officer was hiding.
+An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran.
 
 
-10. [Missing Airman Raises Concerns That Iran Could Gain Leverage Over the U.S.](https://www.nytimes.com/2026/04/04/world/middleeast/missing-airman-iran.html)
+9. [The New York Times News Quiz, April 3, 2026](https://www.nytimes.com/interactive/2026/04/03/briefing/news-quiz-artemis-trump-supreme-court.html)
 
-Since 1979, Iran has repeatedly used Americans and Europeans detained on its territory to win concessions over more powerful adversaries.
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+10. [Trump Contemplates Other Cabinet Changes as He Faces Political Clock](https://www.nytimes.com/2026/04/03/us/politics/trump-cabinet-changes.html)
+
+With the midterms approaching, the president may be running out of time to get new cabinet members confirmed without bipartisan support.
 
 
