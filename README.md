@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-06 15:56:13)
+## 📰 NYTimes Most Popular (Updated: 2026-04-06 16:59:22)
 
-1. [Why We Chose to Go Back to the Moon](https://www.nytimes.com/interactive/2026/04/03/science/space/moon-map-nasa-artemis-ii.html)
+1. [‘I Got Back Every Penny’: Inside Trump’s Supercharged Tax Season](https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html)
 
-These lunar resources could be valuable to us on Earth and in space.
+The law Republicans passed last year has so far been largely imperceptible to most Americans. That’s changing as tens of millions file their taxes this spring.
 
 
-2. [U.S. Rescues Downed Air Force Officer Deep Inside Iran, Trump Says](https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html)
+2. [My Husband Can’t Get a Job. Should I Divorce Him?](https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html)
+
+Plus, whether to use A.I. to get ahead at work — if you think the technology is evil.
+
+
+3. [Their Parents Were Taken by ICE. The Children Had to Raise One Another.](https://www.nytimes.com/2026/04/05/us/ice-arrests-texas-families.html)
+
+Andrea García and her siblings are carrying on in a home reshaped by fear, loss and new responsibility.
+
+
+4. [U.S. Rescues Downed Air Force Officer Deep Inside Iran, Trump Says](https://www.nytimes.com/2026/04/04/us/politics/military-iran-airman-rescue.html)
 
 An Air Force officer of a F-15E Strike Eagle shot down on Friday by Iran spent a day in hostile territory with little more than a pistol for protection.
 
 
-3. [What Were Bob Dylan and John Lennon Really Saying in the Back of That Limo?](https://www.nytimes.com/2026/04/05/style/bob-dylan-john-lennon-limo-ride.html)
+5. [A Harrowing Race Against Time to Find a Downed U.S. Airman in Iran](https://www.nytimes.com/2026/04/05/us/iran-airman-fighter-jet-rescue-mission.html)
 
-A film scene of Dylan and Lennon at a low moment in 1966 has held a grim fascination for fans. Beneath the repartee, a touchy issue was at stake.
-
-
-4. [Former Matador Is Gored to Death Before Annual Bullfight in Spain](https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html)
-
-The accident happened before the Corrida Picassiana, an annual event in Malaga that honors the painter Pablo Picasso.
+For the Iranians, the Air Force colonel whose fighter jet had been shot down was possible leverage. For the U.S. military, finding him was a moral imperative.
 
 
-5. [Under 40 and Diagnosed With Cancer](https://www.nytimes.com/interactive/2026/04/04/well/early-onset-cancer.html)
+6. [Trump Revels in Threats to Commit War Crimes in Iran](https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html)
 
-Hundreds of New York Times readers shared their experiences with early-onset cancers. Here are seven of their stories.
-
-
-6. [In New Threats, Trump Seems Emboldened by a Successful Rescue](https://www.nytimes.com/2026/04/05/world/middleeast/trump-truth-social-post-iran-allah-strait-of-hormuz.html)
-
-In an expletive-filled social media post, Mr. Trump said Iran should open the Strait of Hormuz or he will bomb bridges and power plants.
+The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.
 
 
-7. [No One at Waffle House Remembers FEMA Official Who Says He Teleported In](https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html)
+7. [What We Know About the Rescue of a U.S. Airman After Two Jet Crashes](https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html)
 
-Gregg Phillips, who is in charge of responding to fires and floods, says the hand of God suddenly and mysteriously moved him to a 24-hour breakfast spot in Rome, Ga.
+An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran.
 
 
 8. [The Scale of the War in the Middle East in Five Maps](https://www.nytimes.com/interactive/2026/04/05/world/middleeast/war-middle-east-five-maps.html)
@@ -40,13 +40,13 @@ Gregg Phillips, who is in charge of responding to fires and floods, says the han
 See how the area of the countries affected by the war compares with other parts of the world.
 
 
-9. [‘I Got Back Every Penny’: Inside Trump’s Supercharged Tax Season](https://www.nytimes.com/2026/04/04/business/economy/taxes-deductions-cuts.html)
+9. [Why We Chose to Go Back to the Moon](https://www.nytimes.com/interactive/2026/04/03/science/space/moon-map-nasa-artemis-ii.html)
 
-The law Republicans passed last year has so far been largely imperceptible to most Americans. That’s changing as tens of millions file their taxes this spring.
+These lunar resources could be valuable to us on Earth and in space.
 
 
-10. [The Light That Changed My Life](https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html)
+10. [ICE Agents Detain Newlywed Spouse of Soldier Training to Deploy](https://www.nytimes.com/2026/04/05/us/ice-detains-military-wife-soldier-deployment.html)
 
-The light that changed my life.
+The 22-year-old wife of an Army staff sergeant came to the U.S. as a toddler. She was taken from a military base where the couple planned to live.
 
 
