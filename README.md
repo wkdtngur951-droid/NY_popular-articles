@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-06 23:42:05)
+## 📰 NYTimes Most Popular (Updated: 2026-04-07 03:16:23)
 
-1. [Newly Obtained Video of Minneapolis Shooting Undermines ICE Account](https://www.nytimes.com/2026/04/06/us/minnesota-ice-shooting-video.html)
+1. [No One at Waffle House Remembers FEMA Official Who Says He Teleported In](https://www.nytimes.com/2026/04/03/us/fema-gregg-phillips-waffle-house-teleportation.html)
 
-Prosecutors did not watch video of the shooting until weeks after charging the wounded man, an official said.
-
-
-2. [What We Know About the Rescue of a U.S. Airman After Two Jet Crashes](https://www.nytimes.com/2026/04/03/world/middleeast/f-15-us-fighter-jet-iran.html)
-
-An airman was rescued on Saturday night, President Trump said. The rescue came after a risky two-day operation deep inside Iran.
+Gregg Phillips, who is in charge of responding to fires and floods, says the hand of God suddenly and mysteriously moved him to a 24-hour breakfast spot in Rome, Ga.
 
 
-3. [My Husband Can’t Get a Job. Should I Divorce Him?](https://www.nytimes.com/2026/04/04/business/my-husband-cant-get-a-job-should-i-divorce-him.html)
+2. [I’ve Covered Women in the Workplace for 15 Years. Something Alarming Is Happening.](https://www.nytimes.com/2026/04/06/opinion/women-workplace-dei-feminism.html)
 
-Plus, whether to use A.I. to get ahead at work — if you think the technology is evil.
-
-
-4. [What Were Bob Dylan and John Lennon Really Saying in the Back of That Limo?](https://www.nytimes.com/2026/04/05/style/bob-dylan-john-lennon-limo-ride.html)
-
-A film scene of Dylan and Lennon at a low moment in 1966 has held a grim fascination for fans. Beneath the repartee, a touchy issue was at stake.
+As women are erased from the narrative, injustices against them go unnoticed.
 
 
-5. [Former Matador Is Gored to Death Before Annual Bullfight in Spain](https://www.nytimes.com/2026/04/05/world/europe/matador-dead-bull-fighting-malaga.html)
+3. [Trump Administration Pulls Out of Civil Rights Settlements Backing Trans Students](https://www.nytimes.com/2026/04/06/us/politics/transgender-students-civil-rights.html)
 
-The accident happened before the Corrida Picassiana, an annual event in Malaga that honors the painter Pablo Picasso.
-
-
-6. [On ‘S.N.L.,’ Bondi Boasts of Being ‘First Woman Ever Fired as Attorney General’](https://www.nytimes.com/2026/04/05/arts/television/snl-pam-bondi-firing-trump.html)
-
-Ashley Padilla was both Pam Bondi and Kristi Noem on “Saturday Night Live,” with Tina Fey, Candice Bergen and Melissa McCarthy. Jack Black and Jack White were host and musical guest.
+The Education Department said there was no precedent for the federal government terminating settlements stemming from civil rights investigations into schools.
 
 
-7. [Under 40 and Diagnosed With Cancer](https://www.nytimes.com/interactive/2026/04/04/well/early-onset-cancer.html)
-
-Hundreds of New York Times readers shared their experiences with early-onset cancers. Here are seven of their stories.
-
-
-8. [How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline](https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html)
+4. [How the C.I.A. Helped Locate a U.S. Airman Hiding on an Iranian Ridgeline](https://www.nytimes.com/2026/04/05/world/middleeast/cia-us-airman-rescue-iran.html)
 
 The intelligence agency also executed a deception campaign aimed at drawing Iranian forces away from where the missing Air Force officer was hiding.
 
 
-9. [Trump Revels in Threats to Commit War Crimes in Iran](https://www.nytimes.com/2026/04/05/us/politics/trump-iran-war-crimes-truth-social.html)
+5. [The Islands That Give Iran Sway Over Hormuz](https://www.nytimes.com/interactive/2026/04/06/world/middleeast/iran-islands-strait-of-hormuz-control.html)
 
-The president said he would bomb Iran “back to the Stone Ages.” Until this administration, American leaders had insisted they were trying to follow international law in war.
+A U.S. invasion of islands in the world’s most vital oil corridor would come with extraordinary risks.
 
 
-10. [The Light That Changed My Life](https://www.nytimes.com/2026/04/05/opinion/easter-vigil-paschal-candle.html)
+6. [Enough With the Nepo Candidates, Democrats](https://www.nytimes.com/2026/04/06/opinion/democrats-candidates-nepotism.html)
 
-Just one candle in the darkness.
+Democrats smother their best message — change — when they try to reserve public offices for relatives and cronies.
+
+
+7. [The Latest Blows to Iran’s Leadership](https://www.nytimes.com/2026/04/06/world/middleeast/killings-iran-leadership.html)
+
+An Iranian intelligence chief killed overnight on Monday was one of several Iranian officials who occupied their posts for only a few months.
+
+
+8. [Jamie Dimon Warns Investors Over Risks From War and Threat of Rising Inflation](https://www.nytimes.com/2026/04/06/business/dealbook/jamie-dimon-war-private-credit.html)
+
+In his annual letter to shareholders, Jamie Dimon, the chief executive of JPMorgan Chase, said investors and businesses faced a series of challenges.
+
+
+9. [This Is Not China’s War, but Beijing Started Preparing for It Years Ago](https://www.nytimes.com/2026/04/06/business/china-oil-shock-iran-war.html)
+
+Long concerned about geopolitical crises, China redoubled efforts to secure energy security when President Trump started raising the stakes in his first term.
+
+
+10. [Newly Obtained Video of Minneapolis Shooting Undermines ICE Account](https://www.nytimes.com/2026/04/06/us/minnesota-ice-shooting-video.html)
+
+Prosecutors did not watch video of the shooting until weeks after charging the wounded man, an official said.
 
 
