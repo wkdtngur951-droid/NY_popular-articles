@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-08 22:50:43)
+## 📰 NYTimes Most Popular (Updated: 2026-04-08 23:46:27)
 
-1. [Trump Finds His Offramp With Iran. But the Causes of War Remain Unresolved.](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html)
+1. [With Threat to Wipe Out Iran’s Civilization, Trump’s Rhetoric Goes Beyond Bluster](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-civilization-threat.html)
 
-President Trump’s short-term intimidation may have worked, but the fundamental divides with Iran are as sharp as they were in February.
-
-
-2. [Justice Dept.’s Civil Rights Division Is Investigating Star Witness Against Trump](https://www.nytimes.com/2026/04/07/us/doj-cassidy-hutchinson-investigation-trump.html)
-
-It was a highly unusual move by Justice Department leadership to direct a case that appears to involve accusations of lying to Congress to a division that normally focuses on civil rights abuses.
+The president’s violent rhetoric risks damaging his credibility as a negotiator and the country’s standing in the world.
 
 
-3. [How Much Humiliation Can Vance Take?](https://www.nytimes.com/2026/04/07/opinion/jd-vance-trump-iran-hungary-orban.html)
+2. [I’ve Covered Women in the Workplace for 15 Years. Something Alarming Is Happening.](https://www.nytimes.com/2026/04/06/opinion/women-workplace-dei-feminism.html)
 
-The vice president gets saddled with the Iran war and eroding popularity.
-
-
-4. [How Trump Took the U.S. to War With Iran](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html)
-
-In a series of Situation Room meetings, President Trump weighed his instincts against the deep concerns of his vice president and a pessimistic intelligence assessment. Here’s the inside story of how he made the fateful decision.
+As women are erased from the narrative, injustices against them go unnoticed.
 
 
-5. [Hours Before News of Cease-Fire, Pope Leo XIV Issues Strong Rebuke of Trump](https://www.nytimes.com/2026/04/07/world/middleeast/pope-leo-xiv-trump-iran-threats.html)
+3. [How Tolls in the Strait of Hormuz Would Undercut International Law](https://www.nytimes.com/2026/04/07/climate/strait-of-hormuz-law-of-the-sea-tolls.html)
 
-The first U.S.-born pontiff has consistently called for dialogue to resolve the war in the Middle East. He referred to Trump’s Iran threats as ‘truly unacceptable.’
+Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas.
 
 
-6. [Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline](https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html)
+4. [Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline](https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html)
 
 President Trump has threatened devastating attacks if Iran does not reopen the Strait of Hormuz. Some Iranians questioned what had happened to American values.
 
 
-7. [6 Takeaways From the Story of Trump’s Decision to Go to War With Iran](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-takeaways.html)
+5. [Chairman of the Joint Chiefs Struggles to Justify Trump’s Threats](https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html)
 
-New details from the weeks leading up to the campaign show how President Trump’s alignment with Benjamin Netanyahu and a lack of sustained opposition from his inner circle put the United States on a course to war.
+The president’s apocalyptic rhetoric clashes with the responsibility of Gen. Dan Caine to protect the military’s honor.
+
+
+6. [Hours Before News of Cease-Fire, Pope Leo XIV Issues Strong Rebuke of Trump](https://www.nytimes.com/2026/04/07/world/middleeast/pope-leo-xiv-trump-iran-threats.html)
+
+The first U.S.-born pontiff has consistently called for dialogue to resolve the war in the Middle East. He referred to Trump’s Iran threats as ‘truly unacceptable.’
+
+
+7. [Trump Finds His Offramp With Iran. But the Causes of War Remain Unresolved.](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html)
+
+President Trump’s short-term intimidation may have worked, but the fundamental divides with Iran are as sharp as they were in February.
 
 
 8. [The Hair-Loss Drug Rewriting the Rules of Masculinity](https://www.nytimes.com/2026/04/07/magazine/male-hair-loss-treatment-finasteride.html)
@@ -40,13 +40,13 @@ New details from the weeks leading up to the campaign show how President Trump�
 A pill to cure baldness is changing the way men age — and how they see themselves.
 
 
-9. [Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ](https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html)
+9. [Melania Trump’s Unexpected Easter Look](https://www.nytimes.com/2026/04/06/style/easter-egg-roll-melania-trump-ralph-lauren.html)
+
+The first lady makes a statement in Ralph Lauren at the annual egg roll.
+
+
+10. [Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ](https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html)
 
 President Trump also asserted that God supports the American war against Iran “because God is good, and God wants to see people taken care of.”
-
-
-10. [Anthropic’s Restraint Is a Terrifying Warning Sign](https://www.nytimes.com/2026/04/07/opinion/anthropic-ai-claude-mythos.html)
-
-The rapid advance of artificial intelligence is happening now.
 
 
