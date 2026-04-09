@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-08 23:46:27)
+## 📰 NYTimes Most Popular (Updated: 2026-04-09 02:54:21)
 
-1. [With Threat to Wipe Out Iran’s Civilization, Trump’s Rhetoric Goes Beyond Bluster](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-civilization-threat.html)
+1. [Democrats Pulled Off Their Biggest Shift Yet Among House Specials Since 2024](https://www.nytimes.com/2026/04/07/us/elections/georgia-house-special-shifts.html)
 
-The president’s violent rhetoric risks damaging his credibility as a negotiator and the country’s standing in the world.
-
-
-2. [I’ve Covered Women in the Workplace for 15 Years. Something Alarming Is Happening.](https://www.nytimes.com/2026/04/06/opinion/women-workplace-dei-feminism.html)
-
-As women are erased from the narrative, injustices against them go unnoticed.
+Shawn Harris lost by about 12 percentage points in the 14th Congressional District, but he shifted the district 25 points to the left.
 
 
-3. [How Tolls in the Strait of Hormuz Would Undercut International Law](https://www.nytimes.com/2026/04/07/climate/strait-of-hormuz-law-of-the-sea-tolls.html)
+2. [Dealer Who Sold Ketamine to Matthew Perry Is Sentenced to 15 Years](https://www.nytimes.com/2026/04/08/arts/ketamine-queen-sentence-matthew-perry.html)
 
-Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas.
-
-
-4. [Iranians Voice Shock and Defiance in Face of Trump’s Looming Deadline](https://www.nytimes.com/2026/04/07/world/middleeast/iran-shock-defiance-trump-deadline-threat.html)
-
-President Trump has threatened devastating attacks if Iran does not reopen the Strait of Hormuz. Some Iranians questioned what had happened to American values.
+The sentence for Jasveen Sangha, who prosecutors say was known to customers as the Ketamine Queen, is the stiffest yet for those charged in the “Friends” star’s death.
 
 
-5. [Chairman of the Joint Chiefs Struggles to Justify Trump’s Threats](https://www.nytimes.com/2026/04/07/us/politics/general-caine-iran-war.html)
+3. [My Quest to Solve Bitcoin’s Great Mystery](https://www.nytimes.com/2026/04/08/business/bitcoin-satoshi-nakamoto-identity-adam-back.html)
 
-The president’s apocalyptic rhetoric clashes with the responsibility of Gen. Dan Caine to protect the military’s honor.
+Bitcoin’s creator has hidden behind the pseudonym Satoshi Nakamoto for 17 years. But a trail of clues buried deep in crypto lore led to a 55-year-old computer scientist named Adam Back.
 
 
-6. [Hours Before News of Cease-Fire, Pope Leo XIV Issues Strong Rebuke of Trump](https://www.nytimes.com/2026/04/07/world/middleeast/pope-leo-xiv-trump-iran-threats.html)
+4. [Warnings for the G.O.P.: 3 Takeaways From the Elections in Georgia and Wisconsin](https://www.nytimes.com/2026/04/08/us/politics/georgia-wisconsin-elections-takeaways.html)
+
+A Republican won Marjorie Taylor Greene’s seat, but Democrats shifted the district 25 points to the left since the 2024 presidential race. Conservative candidates lost in Wisconsin, too.
+
+
+5. [Hours Before News of Cease-Fire, Pope Leo XIV Issues Strong Rebuke of Trump](https://www.nytimes.com/2026/04/07/world/middleeast/pope-leo-xiv-trump-iran-threats.html)
 
 The first U.S.-born pontiff has consistently called for dialogue to resolve the war in the Middle East. He referred to Trump’s Iran threats as ‘truly unacceptable.’
+
+
+6. [Melania Trump’s Unexpected Easter Look](https://www.nytimes.com/2026/04/06/style/easter-egg-roll-melania-trump-ralph-lauren.html)
+
+The first lady makes a statement in Ralph Lauren at the annual egg roll.
 
 
 7. [Trump Finds His Offramp With Iran. But the Causes of War Remain Unresolved.](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-2-week-ceasefire.html)
@@ -35,18 +35,18 @@ The first U.S.-born pontiff has consistently called for dialogue to resolve the 
 President Trump’s short-term intimidation may have worked, but the fundamental divides with Iran are as sharp as they were in February.
 
 
-8. [The Hair-Loss Drug Rewriting the Rules of Masculinity](https://www.nytimes.com/2026/04/07/magazine/male-hair-loss-treatment-finasteride.html)
+8. [Trump’s Iran Threats Look Like Self-Incrimination for Potential War Crimes](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war-crimes.html)
 
-A pill to cure baldness is changing the way men age — and how they see themselves.
-
-
-9. [Melania Trump’s Unexpected Easter Look](https://www.nytimes.com/2026/04/06/style/easter-egg-roll-melania-trump-ralph-lauren.html)
-
-The first lady makes a statement in Ralph Lauren at the annual egg roll.
+President Trump, in vowing to systematically destroy civilian infrastructure and annihilate Iran’s entire civilization, appears to be creating evidence about his intentions.
 
 
-10. [Hegseth Likens Easter Rescue of U.S. Airman to Resurrection of Jesus Christ](https://www.nytimes.com/2026/04/06/us/politics/hegseth-religious-tone.html)
+9. [How Tolls in the Strait of Hormuz Would Undercut International Law](https://www.nytimes.com/2026/04/07/climate/strait-of-hormuz-law-of-the-sea-tolls.html)
 
-President Trump also asserted that God supports the American war against Iran “because God is good, and God wants to see people taken care of.”
+Both the U.S. and Iran are now talking about imposing fees on ships using the vital passageway. That could fray a treaty that ended centuries of lawlessness on the high seas.
+
+
+10. [We Are Witnessing the Rise of a New Aristocracy](https://www.nytimes.com/2026/04/08/opinion/ai-wealth-inequality-jobs-investment.html)
+
+A.I. will further enrich the winners and impoverish the losers, with inevitable societal impacts.
 
 
