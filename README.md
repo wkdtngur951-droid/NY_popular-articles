@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-10 22:46:12)
+## 📰 NYTimes Most Popular (Updated: 2026-04-10 23:42:52)
 
-1. [Orban’s Fate Is a Warning Not to Get Too Close to Trump](https://www.nytimes.com/2026/04/09/opinion/orban-hungary-election-trump.html)
-
-The Hungarian leader’s 16-year rule could be coming to a close.
-
-
-2. [U.S. Government Moves Toward Automatic Registration for Military Draft](https://www.nytimes.com/2026/04/09/us/us-military-draft-automatic-registration-war.html)
-
-For decades, draft-eligible men ages 18 to 25 have been required to register with the Selective Service System. Most states offer a registration option on driver’s license applications.
-
-
-3. [New Deadline Looms for U.S. and Iran as Truce Wavers](https://www.nytimes.com/2026/04/08/us/politics/iran-ceasefire-talks-jd-vance.html)
-
-Fractures were already emerging in the limited cease-fire. Vice President JD Vance will lead a U.S. delegation in talks this weekend.
-
-
-4. [White House Secures Foreign Steel for Ballroom Project](https://www.nytimes.com/2026/04/08/us/politics/white-house-foreign-steel-ballroom.html)
-
-ArcelorMittal, a European steel maker, is donating tens of millions of dollars of foreign steel for President Trump’s new ballroom.
-
-
-5. [How Ben Sasse Is Living Now That He Is Dying](https://www.nytimes.com/2026/04/09/opinion/ben-sasse-death-pancreatic-cancer.html)
+1. [How Ben Sasse Is Living Now That He Is Dying](https://www.nytimes.com/2026/04/09/opinion/ben-sasse-death-pancreatic-cancer.html)
 
 The former senator wants to heal the America he’s leaving behind.
 
 
-6. [Trump Lashes Out at Prominent Conservatives Over Iran War Criticism](https://www.nytimes.com/2026/04/09/us/politics/trump-tucker-carlson-candace-owens.html)
+2. [Melania Trump Says She Was Not Associated With Jeffrey Epstein](https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html)
+
+Responding to what she said were smears, the first lady said she never had knowledge of Jeffrey Epstein’s abuse and was not a victim of his. She called for a congressional hearing for his victims.
+
+
+3. [Once ‘Ultra MAGA’, Trump Supporters Fume About Iran on Truth Social](https://www.nytimes.com/2026/04/08/us/politics/trump-truth-social-iran.html)
+
+A growing chorus of disaffected Trump supporters is sounding off in the replies to his posts on the social media platform he founded.
+
+
+4. [A Republican Strategist Explains What’s Going On With the Party](https://www.nytimes.com/2026/04/10/opinion/trump-republicans-midterms-iran.html)
+
+Without Trump on the midterms ballot, how will his party fare?
+
+
+5. [Trump Lashes Out at Prominent Conservatives Over Iran War Criticism](https://www.nytimes.com/2026/04/09/us/politics/trump-tucker-carlson-candace-owens.html)
 
 In a lengthy social media post, the president attacked Tucker Carlson, Megyn Kelly and others in starkly personal terms. He also criticized the editorial board of The Wall Street Journal.
 
 
-7. [A Cease-Fire for Now in Iran, but a Blow to American Credibility](https://www.nytimes.com/2026/04/09/world/europe/iran-war-suez.html)
+6. [A Cease-Fire for Now in Iran, but a Blow to American Credibility](https://www.nytimes.com/2026/04/09/world/europe/iran-war-suez.html)
 
 Critics wonder if this is America’s “Suez moment,” when a leading power signals the start of its international decline.
 
 
-8. [Coming Home May Be the Most Dangerous Part of Artemis II](https://www.nytimes.com/2026/04/09/science/nasa-artemis-ii-earth-return-heat-shield.html)
+7. [Orban’s Fate Is a Warning Not to Get Too Close to Trump](https://www.nytimes.com/2026/04/09/opinion/orban-hungary-election-trump.html)
 
-After a successful flight around the moon, the astronauts are relying on a flawed heat shield to protect them as they re-enter Earth’s atmosphere.
+The Hungarian leader’s 16-year rule could be coming to a close.
 
 
-9. [Officials Release Design for 250-Foot Arch in Washington, as Trump Seeks Another Imprint](https://www.nytimes.com/2026/04/10/us/politics/arch-washington-trump.html)
+8. [How Trump Took the U.S. to War With Iran](https://www.nytimes.com/2026/04/07/us/politics/trump-iran-war.html)
 
-The president has proposed the arch, which would rise on a Washington roundabout across from the Lincoln Memorial, as a way to celebrate America’s 250th anniversary.
+In a series of Situation Room meetings, President Trump weighed his instincts against the deep concerns of his vice president and a pessimistic intelligence assessment. Here’s the inside story of how he made the fateful decision.
+
+
+9. [Mamdani Asserts Control Over N.Y.P.D., Saying He Would Overrule Tisch](https://www.nytimes.com/2026/04/09/nyregion/mamdani-nypd-tisch-police.html)
+
+Although Mayor Zohran Mamdani often seems to defer to his police commissioner, Jessica Tisch, he insisted that he had the final say in policing matters.
 
 
 10. [Judge Rejects Hegseth’s Second Attempt to Restrict Reporters at Pentagon](https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html)
