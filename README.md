@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-11 07:10:22)
+## 📰 NYTimes Most Popular (Updated: 2026-04-11 08:54:49)
 
-1. [Trump Lashes Out at Prominent Conservatives Over Iran War Criticism](https://www.nytimes.com/2026/04/09/us/politics/trump-tucker-carlson-candace-owens.html)
+1. [Jimmy Kimmel Salutes Melania’s White House Surprise](https://www.nytimes.com/2026/04/10/arts/television/jimmy-kimmel-melania-epstein.html)
 
-In a lengthy social media post, the president attacked Tucker Carlson, Megyn Kelly and others in starkly personal terms. He also criticized the editorial board of The Wall Street Journal.
-
-
-2. [How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean](https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html)
-
-Here’s what you need to know about Artemis II and the splashdown of the Orion capsule.
+The first lady addressed her relationship with Jeffrey Epstein in a prepared statement that the talk show host called “better than her movie.”
 
 
-3. [Swalwell Faces Sex Assault Accusations and Calls to Quit Governor’s Race](https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html)
+2. [Trump Says First Lady ‘Had a Right’ to Talk About Epstein](https://www.nytimes.com/2026/04/10/us/politics/trump-melania-epstein.html)
 
-Eric Swalwell, a Democratic congressman, denied the accounts published by CNN and The San Francisco Chronicle. Nancy Pelosi was among those who said he should withdraw from the California governor’s race.
+President Trump said in an interview that he had known his wife wanted to address rumors about the late sex offender at some point, but that he had not known exactly what she would say.
 
 
-4. [These Chimps Began the Bloodiest ‘War’ on Record. No One Knows Why.](https://www.nytimes.com/2026/04/09/science/chimpanzees-war-ngogo-uganda.html)
+3. [These Chimps Began the Bloodiest ‘War’ on Record. No One Knows Why.](https://www.nytimes.com/2026/04/09/science/chimpanzees-war-ngogo-uganda.html)
 
 A long-running conflict in a Ugandan park may provide clues to the origins of human warfare, and how to avoid it.
 
 
-5. [Iran Unable to Find Mines It Planted in Strait of Hormuz, U.S. Says](https://www.nytimes.com/2026/04/10/us/politics/iran-mines-strait.html)
-
-The lost mines have prevented Iran from quickly complying with President Trump’s demand to allow more ships to pass through the waterway.
-
-
-6. [This May Be the Most Important Medical Story of the Decade](https://www.nytimes.com/2026/04/09/opinion/genetic-editing-diseases-health-care.html)
+4. [This May Be the Most Important Medical Story of the Decade](https://www.nytimes.com/2026/04/09/opinion/genetic-editing-diseases-health-care.html)
 
 We can’t let the most important medical achievement of a decade slip through our fingers.
 
 
-7. [Officials Release Design for 250-Foot Arch in Washington, as Trump Seeks Another Imprint](https://www.nytimes.com/2026/04/10/us/politics/arch-washington-trump.html)
+5. [Judge Rejects Hegseth’s Second Attempt to Restrict Reporters at Pentagon](https://www.nytimes.com/2026/04/09/business/media/judge-hegseth-pentagon-reporters-rules.html)
+
+A federal judge gutted a set of rules that were adopted after the court declared an earlier press policy unconstitutional, in a case brought by The New York Times.
+
+
+6. [‘I’m Fed Up.’ Frustrated With Trump, Starmer Embraces Other Allies.](https://www.nytimes.com/2026/04/10/world/europe/trump-starmer-fed-up-iran-war.html)
+
+Prime Minister Keir Starmer of Britain is strengthening ties in Europe and the Middle East as the once-special relationship with America sours.
+
+
+7. [Trump Lashes Out at Prominent Conservatives Over Iran War Criticism](https://www.nytimes.com/2026/04/09/us/politics/trump-tucker-carlson-candace-owens.html)
+
+In a lengthy social media post, the president attacked Tucker Carlson, Megyn Kelly and others in starkly personal terms. He also criticized the editorial board of The Wall Street Journal.
+
+
+8. [Officials Release Design for 250-Foot Arch in Washington, as Trump Seeks Another Imprint](https://www.nytimes.com/2026/04/10/us/politics/arch-washington-trump.html)
 
 The president has proposed the arch, which would rise on a Washington roundabout across from the Lincoln Memorial, as a way to celebrate America’s 250th anniversary.
 
 
-8. [The Trump Administration Is in a Psychotic State](https://www.nytimes.com/2026/04/10/opinion/trump-iran-psychotic-state-institutions.html)
+9. [U.S. Government Moves Toward Automatic Registration for Military Draft](https://www.nytimes.com/2026/04/09/us/us-military-draft-automatic-registration-war.html)
 
-What are the implications if the government of the world’s most powerful country is chaotic in its thinking and not reliably in touch with reality?
-
-
-9. [Melania Trump Says She Was Not Associated With Jeffrey Epstein](https://www.nytimes.com/2026/04/09/us/politics/melania-trump-jeffrey-epstein.html)
-
-Responding to what she said were smears, the first lady said she never had knowledge of Jeffrey Epstein’s abuse and was not a victim of his. She called for a congressional hearing for his victims.
+For decades, draft-eligible men ages 18 to 25 have been required to register with the Selective Service System. Most states offer a registration option on driver’s license applications.
 
 
-10. [How Ben Sasse Is Living Now That He Is Dying](https://www.nytimes.com/2026/04/09/opinion/ben-sasse-death-pancreatic-cancer.html)
+10. [How and When to Watch NASA’s Artemis II Splash Down in Pacific Ocean](https://www.nytimes.com/2026/04/10/science/nasa-artemis-ii-splash-down-watch-time-stream.html)
 
-The former senator wants to heal the America he’s leaving behind.
+Here’s what you need to know about Artemis II and the splashdown of the Orion capsule.
 
 
