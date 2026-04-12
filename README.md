@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-12 21:41:46)
+## 📰 NYTimes Most Popular (Updated: 2026-04-12 22:42:48)
 
-1. [U.S. Intelligence Shows China Taking a More Active Role in Iran War](https://www.nytimes.com/2026/04/11/us/politics/china-iran-war-missiles-supplies.html)
+1. [Control of the Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points](https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html)
 
-China may have shipped missiles to Iran, and Beijing is allowing some companies to sell Tehran supplies that can be used in military production, American officials said.
-
-
-2. [Someone Has to Be Happy. Why Not Lauren Sánchez Bezos?](https://www.nytimes.com/2026/04/11/business/lauren-sanchez-bezos-jeff-bezos.html)
-
-As half of an unfathomably powerful couple, Mrs. Sánchez Bezos seems to have influenced the uber-rich to stop apologizing, and start enjoying themselves.
+The U.S. had demanded that Iran immediately reopen the strait to all maritime traffic, but Iran said it would do so only after a final peace deal, according to Iranian officials.
 
 
-3. [Trump Was Watching a U.F.C. Fight in Miami While Iran Talks Collapsed](https://www.nytimes.com/2026/04/11/us/politics/trump-ufc-iran-war.html)
-
-On his way to Florida, President Trump said it did not matter to him if a deal with Iran was reached or not: “We win, regardless,” he said.
-
-
-4. [Navy Enters Hormuz, Exits After Destroying Drone, U.S. Officials Say](https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html)
-
-Iran denied that the American destroyers had entered the strait, as negotiations for an extended cease-fire continued in Islamabad.
-
-
-5. [Judges Fired After Blocking Deportations of Pro-Palestinian Students](https://www.nytimes.com/2026/04/11/us/politics/immigration-judges-deportations-students.html)
-
-The immigration judges’ abrupt dismissals marked the latest efforts by the Trump administration to reshape the country’s immigration courts.
-
-
-6. [The Sphinx Thinks It Stinks](https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html)
+2. [The Sphinx Thinks It Stinks](https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html)
 
 Melania creates another mystery with a surprise statement.
 
 
-7. [What Now? Vance Leaves Iran Talks Without a Deal.](https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html)
+3. [What Now? Vance Leaves Iran Talks Without a Deal.](https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html)
 
 The lack of a breakthrough after 21 hours of negotiations leaves the Trump administration facing several unpalatable options.
 
 
-8. [Push to Expel Swalwell Could Touch Off Chain Reaction of House Removal Votes](https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html)
+4. [Someone Has to Be Happy. Why Not Lauren Sánchez Bezos?](https://www.nytimes.com/2026/04/11/business/lauren-sanchez-bezos-jeff-bezos.html)
+
+As half of an unfathomably powerful couple, Mrs. Sánchez Bezos seems to have influenced the uber-rich to stop apologizing, and start enjoying themselves.
+
+
+5. [Push to Expel Swalwell Could Touch Off Chain Reaction of House Removal Votes](https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html)
 
 The House could move within days to consider expelling Representative Eric Swalwell, Democrat of California, in light of sexual assault allegations against him. There could be more to come for both parties.
 
 
-9. [Swalwell Faces Sex Assault Accusations and Calls to Quit Governor’s Race](https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html)
+6. [Navy Enters Hormuz, Exits After Destroying Drone, U.S. Officials Say](https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html)
 
-Eric Swalwell, a Democratic congressman, denied the accounts published by CNN and The San Francisco Chronicle. Nancy Pelosi was among those who said he should withdraw from the California governor’s race.
+Iran denied that the American destroyers had entered the strait, as negotiations for an extended cease-fire continued in Islamabad.
 
 
-10. [Drafting a Presidential Son? The Manosphere Wants to Talk About It.](https://www.nytimes.com/2026/04/10/style/draft-barron-trump-army-iran-war-memes.html)
+7. [Investigation Opened Into Sexual Assault Allegation Against Swalwell](https://www.nytimes.com/2026/04/11/us/politics/eric-swalwell-california-governor-sexual-misconduct.html)
 
-With news of a change to the Selective Service, memes and social media chatter abound about who would be sent to war.
+The Manhattan district attorney’s office is examining a claim that Representative Eric Swalwell, a candidate for governor in California, assaulted a woman in New York City in 2024.
+
+
+8. [Iran Unable to Find Mines It Planted in Strait of Hormuz, U.S. Says](https://www.nytimes.com/2026/04/10/us/politics/iran-mines-strait.html)
+
+The lost mines have prevented Iran from quickly complying with President Trump’s demand to allow more ships to pass through the waterway.
+
+
+9. [Lena Dunham Is Still Trying to Figure Out Why People Hated Her So Much](https://www.nytimes.com/2026/04/11/magazine/lena-dunham-interview.html)
+
+The writer, actor and lightning rod is not done sharing yet.
+
+
+10. [How Ben Sasse Is Living Now That He Is Dying](https://www.nytimes.com/2026/04/09/opinion/ben-sasse-death-pancreatic-cancer.html)
+
+The former senator wants to heal the America he’s leaving behind.
 
 
