@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-12 03:30:46)
+## 📰 NYTimes Most Popular (Updated: 2026-04-12 05:58:24)
 
-1. [Lena Dunham Is Still Trying to Figure Out Why People Hated Her So Much](https://www.nytimes.com/2026/04/11/magazine/lena-dunham-interview.html)
+1. [Swalwell Faces Sex Assault Accusations and Calls to Quit Governor’s Race](https://www.nytimes.com/2026/04/10/us/politics/eric-swalwell-allegations-california-governor.html)
 
-The writer, actor and lightning rod is not done sharing yet.
+Eric Swalwell, a Democratic congressman, denied the accounts published by CNN and The San Francisco Chronicle. Nancy Pelosi was among those who said he should withdraw from the California governor’s race.
 
 
-2. [The Sphinx Thinks It Stinks](https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html)
+2. [How Ben Sasse Is Living Now That He Is Dying](https://www.nytimes.com/2026/04/09/opinion/ben-sasse-death-pancreatic-cancer.html)
+
+The former senator wants to heal the America he’s leaving behind.
+
+
+3. [Flashback: Your Weekly History Quiz, April 11, 2026](https://www.nytimes.com/interactive/2026/04/10/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+4. [The New York Times News Quiz, April 10, 2026](https://www.nytimes.com/interactive/2026/04/10/briefing/quiz-iran-moon-michigan-wireless.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+5. [The Sphinx Thinks It Stinks](https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html)
 
 Melania creates another mystery with a surprise statement.
 
 
-3. [Investigation Opened Into Sexual Assault Allegation Against Swalwell](https://www.nytimes.com/2026/04/11/us/politics/eric-swalwell-california-governor-sexual-misconduct.html)
+6. [Man Stabs 3 With Machete at Grand Central and Is Fatally Shot by Officer](https://www.nytimes.com/2026/04/11/nyregion/stabbing-nypd-shooting-grand-central.html)
 
-The Manhattan district attorney’s office is examining a claim that Representative Eric Swalwell, a candidate for governor in California, assaulted a woman in New York City in 2024.
+The victims, two older men and an older woman, were expected to survive after the subway platform attacks. The assailant was shot after he repeatedly refused to drop his weapon, the police said.
 
 
-4. [He Was ‘Trump Before Trump.’ Now He’s in Trouble.](https://www.nytimes.com/2026/04/11/opinion/viktor-orban-donald-trump-hungary-right.html)
+7. [Trump Says First Lady ‘Had a Right’ to Talk About Epstein](https://www.nytimes.com/2026/04/10/us/politics/trump-melania-epstein.html)
+
+President Trump said in an interview that he had known his wife wanted to address rumors about the late sex offender at some point, but that he had not known exactly what she would say.
+
+
+8. [He Was ‘Trump Before Trump.’ Now He’s in Trouble.](https://www.nytimes.com/2026/04/11/opinion/viktor-orban-donald-trump-hungary-right.html)
 
 An Orban defeat would have serious implications for the conservative movement worldwide.
 
 
-5. [Officials Release Design for 250-Foot Arch in Washington, as Trump Seeks Another Imprint](https://www.nytimes.com/2026/04/10/us/politics/arch-washington-trump.html)
+9. [Lena Dunham Is Still Trying to Figure Out Why People Hated Her So Much](https://www.nytimes.com/2026/04/11/magazine/lena-dunham-interview.html)
 
-The president has proposed the arch, which would rise on a Washington roundabout across from the Lincoln Memorial, as a way to celebrate America’s 250th anniversary.
-
-
-6. [Drafting a Presidential Son? The Manosphere Wants to Talk About It.](https://www.nytimes.com/2026/04/10/style/draft-barron-trump-army-iran-war-memes.html)
-
-With news of a change to the Selective Service, memes and social media chatter abound about who would be sent to war.
+The writer, actor and lightning rod is not done sharing yet.
 
 
-7. [“It Was Survival Mode”: The Lunar Mission That Nearly Ended in Disaster](https://www.nytimes.com/interactive/2026/04/10/magazine/apollo-13-return-nasa-flight-directors.html)
+10. [Navy Enters Hormuz, Exits After Destroying Drone, U.S. Officials Say](https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html)
 
-Fifty-six years ago, after a tense race to save the Apollo 13 crew, the astronauts finally splashed down safely. Here’s what flight directors who got them home remember.
-
-
-8. [As Election Looms, Washington Wonders if Trump Will Get a New Supreme Court Pick](https://www.nytimes.com/2026/04/11/us/politics/alito-trump-retirement-supreme-court.html)
-
-Justice Samuel A. Alito Jr. is the subject of intense speculation about whether he will retire in the coming months and give President Trump a fourth nominee.
-
-
-9. [Artemis II Splashdown Gives NASA Momentum in Renewed Moon Race](https://www.nytimes.com/2026/04/10/science/moon-astronauts-success.html)
-
-The astronauts — three Americans and one Canadian — captivated the world with their historic mission.
-
-
-10. [Here’s the Story … of a House Named Brady](https://www.nytimes.com/2026/04/10/us/brady-bunch-house.html)
-
-While only its exterior ever appeared in “The Brady Bunch,” stepping into the real-life Brady house now is like going back in time. Here’s a look.
+Iran denied that the American destroyers had entered the strait, as negotiations for an extended cease-fire continued in Islamabad.
 
 
