@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-12 23:43:32)
+## 📰 NYTimes Most Popular (Updated: 2026-04-13 03:37:00)
 
-1. [This Is Why There’s No Liberal Joe Rogan](https://www.nytimes.com/2026/04/12/opinion/hasan-piker-democrats.html)
+1. [21 Hours in Pakistan: How Vance Tried and Failed to End a War He Opposed](https://www.nytimes.com/2026/04/12/us/jd-vance-pakistan-iran-war-talks.html)
 
-Conversation is not a reward to be bestowed on those with whom we agree; it’s a base line practice.
-
-
-2. [Drafting a Presidential Son? The Manosphere Wants to Talk About It.](https://www.nytimes.com/2026/04/10/style/draft-barron-trump-army-iran-war-memes.html)
-
-With news of a change to the Selective Service, memes and social media chatter abound about who would be sent to war.
+Vice President JD Vance led the highest-level talks between the United States and Iran in nearly 50 years.
 
 
-3. [Orban, Beacon to the Right, Concedes Defeat in Hungary’s Election](https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html)
+2. [What We Know About the Eric Swalwell Sexual Misconduct Allegations](https://www.nytimes.com/2026/04/12/us/eric-swalwell-sexual-misconduct.html)
 
-Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens.
+Accusations that Mr. Swalwell, a congressman who was running for governor in California, sexually assaulted a former staffer and behaved inappropriately with other women have upended the race.
 
 
-4. [Investigation Opened Into Sexual Assault Allegation Against Swalwell](https://www.nytimes.com/2026/04/11/us/politics/eric-swalwell-california-governor-sexual-misconduct.html)
+3. [America’s Fastest-Growing County Wonders if ‘Paradise’ Is Growing Too Fast](https://www.nytimes.com/2026/04/12/us/jasper-county-south-carolina-population-growth.html)
 
-The Manhattan district attorney’s office is examining a claim that Representative Eric Swalwell, a candidate for governor in California, assaulted a woman in New York City in 2024.
+Jasper County, S.C., along the coast, has seen a crush of newcomers in recent years, drawn by its proximity to beaches and low taxes. Locals fear they may be losing their rural way of life.
+
+
+4. [The Sphinx Thinks It Stinks](https://www.nytimes.com/2026/04/11/opinion/melania-trump-epstein-statement.html)
+
+Melania creates another mystery with a surprise statement.
 
 
 5. [What Now? Vance Leaves Iran Talks Without a Deal.](https://www.nytimes.com/2026/04/12/us/politics/vance-iran-talks.html)
@@ -25,28 +25,28 @@ The Manhattan district attorney’s office is examining a claim that Representat
 The lack of a breakthrough after 21 hours of negotiations leaves the Trump administration facing several unpalatable options.
 
 
-6. [Trump Was Watching a U.F.C. Fight in Miami While Iran Talks Collapsed](https://www.nytimes.com/2026/04/11/us/politics/trump-ufc-iran-war.html)
+6. [Someone Has to Be Happy. Why Not Lauren Sánchez Bezos?](https://www.nytimes.com/2026/04/11/business/lauren-sanchez-bezos-jeff-bezos.html)
 
-On his way to Florida, President Trump said it did not matter to him if a deal with Iran was reached or not: “We win, regardless,” he said.
-
-
-7. [Push to Expel Swalwell Could Touch Off Chain Reaction of House Removal Votes](https://www.nytimes.com/2026/04/11/us/swalwell-house-removal-votes.html)
-
-The House could move within days to consider expelling Representative Eric Swalwell, Democrat of California, in light of sexual assault allegations against him. There could be more to come for both parties.
+As half of an unfathomably powerful couple, Mrs. Sánchez Bezos seems to have influenced the uber-rich to stop apologizing, and start enjoying themselves.
 
 
-8. [Judges Fired After Blocking Deportations of Pro-Palestinian Students](https://www.nytimes.com/2026/04/11/us/politics/immigration-judges-deportations-students.html)
+7. [Control of the Strait of Hormuz and Iran’s Uranium Stockpiles Were Sticking Points](https://www.nytimes.com/2026/04/11/world/middleeast/iran-strait-of-hormuz-uranium-stockpile-sticking-points.html)
+
+The U.S. had demanded that Iran immediately reopen the strait to all maritime traffic, but Iran said it would do so only after a final peace deal, according to Iranian officials.
+
+
+8. [Who Is Peter Magyar, the Man Who Toppled Viktor Orban?](https://www.nytimes.com/2026/04/12/world/europe/who-peter-magyar-hungary-election-opposition-orban.html)
+
+Mr. Magyar’s success in the Hungarian election is fueled in large part by widespread public anger at corruption and concern about sluggish economic growth.
+
+
+9. [Judges Fired After Blocking Deportations of Pro-Palestinian Students](https://www.nytimes.com/2026/04/11/us/politics/immigration-judges-deportations-students.html)
 
 The immigration judges’ abrupt dismissals marked the latest efforts by the Trump administration to reshape the country’s immigration courts.
 
 
-9. [Flashback: Your Weekly History Quiz, April 11, 2026](https://www.nytimes.com/interactive/2026/04/10/upshot/flashback.html)
+10. [Orban, Beacon to the Right, Concedes Defeat in Hungary’s Election](https://www.nytimes.com/2026/04/12/world/europe/hungary-election-orban-magyar.html)
 
-Can you sort 8 historical events?
-
-
-10. [Navy Enters Hormuz, Exits After Destroying Drone, U.S. Officials Say](https://www.nytimes.com/2026/04/11/us/politics/us-navy-warships-strait-of-hormuz-iran-mines.html)
-
-Iran denied that the American destroyers had entered the strait, as negotiations for an extended cease-fire continued in Islamabad.
+Prime Minister Viktor Orban, who has inspired populist movements globally, could not overcome the growing dissatisfaction of his own citizens.
 
 
