@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-15 14:00:45)
+## 📰 NYTimes Most Popular (Updated: 2026-04-15 16:10:00)
 
-1. [Hampshire College Will Close Amid Student Enrollment Declines](https://www.nytimes.com/2026/04/14/us/hampshire-college-closing-amherst-massachusetts-enrollment.html)
+1. [U.S. Is Negotiating an Iran Deal That Would Buy Time, Again](https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html)
 
-Other small private colleges like Hampshire have closed in recent years as financial pressures and competition for students increase.
-
-
-2. [Have These People Learned Nothing?](https://www.nytimes.com/2026/04/14/opinion/swalwell-did-nothing.html)
-
-Why no one is surprised when another member of Congress is accused of sexual misconduct.
+The United States proposed a 20-year “suspension” of all nuclear activity, even as President Trump demands assurances that Iran can never build a nuclear weapon.
 
 
-3. [Surgeon Who Removed Wrong Organ From Patient Is Charged in His Death](https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html)
+2. [In Leo, Trump Faces a Different Kind of Papal Opponent](https://www.nytimes.com/2026/04/14/us/politics/trump-pope-leo.html)
 
-Dr. Thomas Shaknovsky tried to persuade his colleagues in the operating room that the liver he removed from a 70-year-old patient was a spleen, according to Florida’s Health Department.
-
-
-4. [Late Night Takes Sides in the President vs. the Pope](https://www.nytimes.com/2026/04/14/arts/television/late-night-trump-pope.html)
-
-Jimmy Kimmel said President Trump’s social media post aimed at Pope Leo XIV “is what happens when you sell Bibles instead of reading them.”
+Unlike his predecessor, Pope Leo XIV enjoys growing support from a broad swath of conservative Catholics.
 
 
-5. [Trump Posted a Picture of Himself as Jesus. Now He’s Trying to Explain It Away.](https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html)
+3. [51 Percent of Americans Think the War in Iran Has Not Been Worthwhile.](https://www.nytimes.com/2026/04/14/us/politics/iran-military-action-americans-poll.html)
+
+A survey from Ipsos and Reuters, released on Tuesday, found few Americans — 24 percent — think the war in Iran has been worth the costs and benefits.
+
+
+4. [Trump Posted a Picture of Himself as Jesus. Now He’s Trying to Explain It Away.](https://www.nytimes.com/2026/04/13/us/politics/trump-jesus-picture-pope-leo.html)
 
 The image showed President Trump bathed in divine light and clad in religious robes. His interpretation was that the image depicted him as a doctor, not Jesus Christ.
 
 
-6. [Vance Says Pope Leo Should Stay Out of U.S. Affairs](https://www.nytimes.com/2026/04/13/us/politics/jd-vance-pope-leo-trump.html)
+5. [Vance Says Pope Leo Should Stay Out of U.S. Affairs](https://www.nytimes.com/2026/04/13/us/politics/jd-vance-pope-leo-trump.html)
 
 The vice president, a Catholic, defended President Trump, who had accused the pope of being too liberal and “weak on crime.” The pontiff has said that he has “no fear of the Trump administration.”
 
 
-7. [U.S. Is Negotiating an Iran Deal That Would Buy Time, Again](https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html)
+6. [Here’s How to Defeat Trumpism](https://www.nytimes.com/2026/04/14/opinion/magyar-orban-hungary-trump-defeat.html)
 
-The United States proposed a 20-year “suspension” of all nuclear activity, even as President Trump demands assurances that Iran can never build a nuclear weapon.
+The free world should take an honest look at how Hungary’s opposition party defeated a far-right giant.
+
+
+7. [Trump’s Blasphemy Is a Warning](https://www.nytimes.com/2026/04/14/opinion/trump-pope.html)
+
+Presidents can fight with popes. God is another matter.
 
 
 8. [Trump’s Attacks on Pope Leo Create Fresh Midterm Headaches for G.O.P.](https://www.nytimes.com/2026/04/14/us/politics/trump-attacks-pope-midterms.html)
@@ -40,13 +40,13 @@ The United States proposed a 20-year “suspension” of all nuclear activity, e
 Republicans are counting on the votes of Catholics to maintain control of Congress.
 
 
-9. [Trump’s Blasphemy Is a Warning](https://www.nytimes.com/2026/04/14/opinion/trump-pope.html)
-
-Presidents can fight with popes. God is another matter.
-
-
-10. [Vance Says the Pope Should Be More Careful When Talking About Theology](https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html)
+9. [Vance Says the Pope Should Be More Careful When Talking About Theology](https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html)
 
 The vice president, who is Catholic, took issue with Pope Leo XIV’s statement that disciples of Christ are “never on the side of those who once wielded the sword and today drop bombs.”
+
+
+10. [Trump’s Erratic Behavior and Extreme Comments Revive Mental Health Debate](https://www.nytimes.com/2026/04/13/us/politics/trump-mental-fitness-25th-amendment.html)
+
+As the president threatens to wipe out Iran and attacks the pope, even some former allies and advisers are questioning whether he has grown increasingly unbalanced, describing him as “lunatic” and “clearly insane.”
 
 
