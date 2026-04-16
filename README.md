@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-16 21:53:33)
+## 📰 NYTimes Most Popular (Updated: 2026-04-16 22:51:31)
 
-1. [Justice Sotomayor Apologizes for Highly Personal Criticism of Justice Kavanaugh](https://www.nytimes.com/2026/04/15/us/politics/supreme-court-sotomayor-kavanaugh.html)
+1. [Surgeon Who Removed Wrong Organ From Patient Is Charged in His Death](https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html)
 
-At the University of Kansas School of Law last week, she criticized her colleague while discussing his views in an immigration-related case.
+Dr. Thomas Shaknovsky tried to persuade his colleagues in the operating room that the liver he removed from a 70-year-old patient was a spleen, according to Florida’s Health Department.
 
 
-2. [Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion](https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html)
+2. [Trump’s ‘Triumphal Arch’ Draws Backlash, Even From an Expert Who Proposed It](https://www.nytimes.com/2026/04/15/us/politics/trump-arch-dc.html)
 
-A new pattern of deceptive activity by some vessels around the critical waterway suggests the new American blockade is changing how some ships linked to Iran are behaving.
+The story of how President Trump quadrupled the size of the original proposal for the arch follows a now-familiar pattern.
 
 
 3. [Virginia Ex-Lt. Gov. Justin Fairfax Kills Wife and Self, Police Say](https://www.nytimes.com/2026/04/16/us/virginia-lt-governor-justin-fairfax-murder-wife-suicide.html)
@@ -15,38 +15,38 @@ A new pattern of deceptive activity by some vessels around the critical waterway
 Mr. Fairfax, a Democrat, served as lieutenant governor from 2018 to 2022. The couple’s children were home at the time, the police said, and their son called 911.
 
 
-4. [Vance Says the Pope Should Be More Careful When Talking About Theology](https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html)
+4. [Late Night Laughs at Explanations of Trump’s Jesus ‘Joke’](https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html)
 
-The vice president, who is Catholic, took issue with Pope Leo XIV’s statement that disciples of Christ are “never on the side of those who once wielded the sword and today drop bombs.”
-
-
-5. [Yale Report Finds Colleges Deserve Blame for Higher Education’s Problems](https://www.nytimes.com/2026/04/15/us/yale-report-colleges-unversities-trust.html)
-
-A 10-member committee offered a brutal assessment of academia’s role in creating the forces challenging American colleges and universities.
+Ronny Chieng poked fun at JD Vance’s defense of President Trump posting an image of himself as a Christlike figure.
 
 
-6. [Done and Dusted? Trump’s Portrayal of the War in Iran Collides With Reality.](https://www.nytimes.com/2026/04/15/us/politics/trump-iran-war.html)
+5. [This Is Not a Man in Control of Himself](https://www.nytimes.com/2026/04/15/opinion/trump-iran-power-unitary-executive.html)
 
-President Trump is confronting a crisis that is not bending to his narrative of a “pretty reasonable” new regime in Iran and all-but-assured victory for the United States.
-
-
-7. [Trump and Meloni Split Amid Growing Dispute Over Pope and Iran](https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html)
-
-Prime Minister Giorgia Meloni was once considered one of President Trump’s closest European allies. Their friendship now appears in danger.
+Trump is in over his head.
 
 
-8. [Older Women Are in Demand by Younger Men](https://www.nytimes.com/2026/04/16/opinion/younger-men-dating-older-women.html)
+6. [Trump’s Blasphemy Is a Warning](https://www.nytimes.com/2026/04/14/opinion/trump-pope.html)
+
+Presidents can fight with popes. God is another matter.
+
+
+7. [Older Women Are in Demand by Younger Men](https://www.nytimes.com/2026/04/16/opinion/younger-men-dating-older-women.html)
 
 What a shift in the dating preferences of younger men reveals about our changing norms.
 
 
-9. [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
-
-In a verdict that could have far-reaching consequences in the music industry, the live colossus that includes Ticketmaster was found to have violated antitrust laws.
-
-
-10. [Labor Dept. Investigates Texts Among Secretary’s Family and Staff](https://www.nytimes.com/2026/04/15/us/politics/labor-secretary-text-messages.html)
+8. [Labor Dept. Investigates Texts Among Secretary’s Family and Staff](https://www.nytimes.com/2026/04/15/us/politics/labor-secretary-text-messages.html)
 
 Secretary Lori Chavez-DeRemer asked staff members to bring wine to her hotel room, and to keep in touch with her husband and father.
+
+
+9. [Trump and Meloni Split Amid Growing Dispute Over Pope and Iran](https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html)
+
+Prime Minister Giorgia Meloni was once considered one of President Trump’s closest European allies. Their friendship now appears in danger.
+
+
+10. [Saudi Fund to Back Away From LIV Golf Under Mounting Financial Pressures](https://www.nytimes.com/2026/04/15/world/middleeast/saudi-soverign-fund-liv-golf.html)
+
+The Saudi league, established in 2022, attracted some of the sport’s biggest stars with huge contracts.
 
 
