@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-15 23:51:36)
+## 📰 NYTimes Most Popular (Updated: 2026-04-16 03:32:43)
 
-1. [A Divided America Processes a War That Trump Has Scarcely Explained](https://www.nytimes.com/2026/04/14/us/politics/war-iran-americans-opinions.html)
+1. [Surgeon Who Removed Wrong Organ From Patient Is Charged in His Death](https://www.nytimes.com/2026/04/14/us/florida-surgeon-manslaughter-organ-removal.html)
 
-As the war in Iran extends into its seventh week and a truce feels increasingly shaky, many Americans expressed bewilderment about a conflict that came with little warning.
-
-
-2. [A New Accuser Says Eric Swalwell Sexually Assaulted Her](https://www.nytimes.com/2026/04/14/us/lonna-drewes-eric-swalwell-sexual-assault.html)
-
-The woman said Mr. Swalwell, who resigned from Congress on Tuesday afternoon, raped her in a West Hollywood hotel room in 2018. She said she believed she was drugged.
+Dr. Thomas Shaknovsky tried to persuade his colleagues in the operating room that the liver he removed from a 70-year-old patient was a spleen, according to Florida’s Health Department.
 
 
-3. [The Great American GLP-1 Experiment](https://www.nytimes.com/interactive/2026/04/15/opinion/glp1-health-effects.html)
+2. [Late Night Laughs at Explanations of Trump’s Jesus ‘Joke’](https://www.nytimes.com/2026/04/15/arts/television/late-night-trump-jesus.html)
 
-Millions of Americans are experimenting with the drugs. Science can’t keep up.
-
-
-4. [Trump’s Erratic Behavior and Extreme Comments Revive Mental Health Debate](https://www.nytimes.com/2026/04/13/us/politics/trump-mental-fitness-25th-amendment.html)
-
-As the president threatens to wipe out Iran and attacks the pope, even some former allies and advisers are questioning whether he has grown increasingly unbalanced, describing him as “lunatic” and “clearly insane.”
+Ronny Chieng poked fun at JD Vance’s defense of President Trump posting an image of himself as a Christlike figure.
 
 
-5. [Here’s How to Defeat Trumpism](https://www.nytimes.com/2026/04/14/opinion/magyar-orban-hungary-trump-defeat.html)
+3. [Ship ‘Spoofing’ in Strait of Hormuz May Compound Confusion](https://www.nytimes.com/2026/04/14/world/middleeast/strait-of-hormuz-naval-blockade-ship-spoofing.html)
 
-The free world should take an honest look at how Hungary’s opposition party defeated a far-right giant.
+A new pattern of deceptive activity by some vessels around the critical waterway suggests the new American blockade is changing how some ships linked to Iran are behaving.
 
 
-6. [This Is Not a Man in Control of Himself](https://www.nytimes.com/2026/04/15/opinion/trump-iran-power-unitary-executive.html)
+4. [Labor Dept. Investigates Texts Among Secretary’s Family and Staff](https://www.nytimes.com/2026/04/15/us/politics/labor-secretary-text-messages.html)
+
+Secretary Lori Chavez-DeRemer asked staff members to bring wine to her hotel room, and to keep in touch with her husband and father.
+
+
+5. [Jury Finds Live Nation Acts as a Monopoly in a Victory for States](https://www.nytimes.com/2026/04/15/arts/music/live-nation-antitrust-trial-verdict-monopoly.html)
+
+In a verdict that could have far-reaching consequences in the music industry, the live colossus that includes Ticketmaster was found to have violated antitrust laws.
+
+
+6. [Trump’s Blockade Risks Upending an Emerging Détente With China](https://www.nytimes.com/2026/04/14/us/politics/trump-iran-blockade-china.html)
+
+In a thinly veiled critique of the war in Iran, China’s leader said the world could not risk reverting “to the law of the jungle.”
+
+
+7. [This Is Not a Man in Control of Himself](https://www.nytimes.com/2026/04/15/opinion/trump-iran-power-unitary-executive.html)
 
 Trump is in over his head.
 
 
-7. [Gallego Dismissed Rumors of a ‘Flirty’ Swalwell, Highlighting a Culture of Silence](https://www.nytimes.com/2026/04/14/us/politics/gallego-swalwell-congress-culture.html)
+8. [Trump and Meloni Split Amid Growing Dispute Over Pope and Iran](https://www.nytimes.com/2026/04/15/world/europe/trump-meloni-italy-iran-pope.html)
 
-The admission by Senator Ruben Gallego that he had heard, but disbelieved, rumors about Eric Swalwell and women showed the attitude on Capitol Hill toward men accused of behaving badly.
-
-
-8. [U.S. Is Negotiating an Iran Deal That Would Buy Time, Again](https://www.nytimes.com/2026/04/13/us/politics/us-iran-deal.html)
-
-The United States proposed a 20-year “suspension” of all nuclear activity, even as President Trump demands assurances that Iran can never build a nuclear weapon.
+Prime Minister Giorgia Meloni was once considered one of President Trump’s closest European allies. Their friendship now appears in danger.
 
 
-9. [Vance Says the Pope Should Be More Careful When Talking About Theology](https://www.nytimes.com/2026/04/14/us/politics/vance-pope-trump-georgia.html)
+9. [Yale Report Finds Colleges Deserve Blame for Higher Education’s Problems](https://www.nytimes.com/2026/04/15/us/yale-report-colleges-unversities-trust.html)
 
-The vice president, who is Catholic, took issue with Pope Leo XIV’s statement that disciples of Christ are “never on the side of those who once wielded the sword and today drop bombs.”
+A 10-member committee offered a brutal assessment of academia’s role in creating the forces challenging American colleges and universities.
 
 
-10. [At a House Republican’s New York Event, Flashes of an Iran Backlash](https://www.nytimes.com/2026/04/14/us/politics/at-a-house-republicans-new-york-event-flashes-of-an-iran-backlash.html)
+10. [Don’t Use A.I. to Do This](https://www.nytimes.com/2026/04/15/opinion/art-artificial-intelligence.html)
 
-Representative Mike Lawler, who is seeking re-election in a swing district in the Hudson Valley, faced tough questions from constituents about his stance on the war in Iran.
+People are usually surprised when I admit that I love A.I.
 
 
