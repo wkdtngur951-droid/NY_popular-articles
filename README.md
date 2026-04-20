@@ -1,43 +1,43 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-20 22:53:02)
+## 📰 NYTimes Most Popular (Updated: 2026-04-20 23:52:02)
 
-1. [Why a Democratic Senate, Once Unthinkable, Is a Real Possibility](https://www.nytimes.com/2026/04/20/upshot/democrats-senate-midterms-chances.html)
+1. [They Went Abroad to Save Money. Moving Back Seems Unaffordable.](https://www.nytimes.com/2026/04/19/business/americans-abroad-cheaper-living-costs.html)
 
-Helped by a favorable national environment and strong candidate recruitment, Democrats are tied or ahead in four Republican-held seats, polls show.
-
-
-2. [D4vd Charged With Murder of Girl Whose Remains Were Found in His Car](https://www.nytimes.com/2026/04/20/arts/music/d4vd-murder-charges-celeste-rivas-hernandez.html)
-
-The singer is accused of sexually abusing Celeste Rivas Hernandez before killing the teenager with a sharp weapon and mutilating her body. He has pleaded not guilty.
+Americans have enjoyed lifestyles that would normally be out of reach to them by working remotely in countries with lower living costs.
 
 
-3. [Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed ‘Help’](https://www.nytimes.com/2026/04/19/us/michigan-gas-clerk-saves-teen.html)
+2. [The Inside Story of Five Days That Remade the Supreme Court](https://www.nytimes.com/2026/04/18/us/politics/supreme-court-shadow-docket.html)
 
-A fellow student who had witnessed the kidnapping called the police, and other students helped track the girl to a gas station.
+Secret memos obtained by The New York Times illuminate the origins of the court’s now-routine “shadow docket” rulings on presidential power.
 
 
-4. [The Trump Administration Is Coming After Birth Control Access in a Terrifying New Way](https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html)
+3. [The Trump Administration Is Coming After Birth Control Access in a Terrifying New Way](https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html)
 
 The new Title X guidance from the Trump administration mentions contraception only once.
 
 
-5. [Trump Administration Takes Steps to Refund $166 Billion in Tariffs](https://www.nytimes.com/2026/04/20/us/politics/trump-administration-tariff-refunds.html)
+4. [The Forces of Scarcity Hitting Asia May Soon Spread Across the World](https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html)
 
-The government debuted a system to repay importers two months after the Supreme Court struck down tariffs at the heart of the president’s trade policy.
-
-
-6. [The Great American GLP-1 Experiment](https://www.nytimes.com/interactive/2026/04/15/opinion/glp1-health-effects.html)
-
-Millions of Americans are experimenting with the drugs. Science can’t keep up.
+The Asia-Pacific was hit hard and quick by the war in Iran and its energy bottlenecks. Scenes of crisis there indicate that problems are multiplying and spreading.
 
 
-7. [Syrian Billionaires Needed a Favor in Washington. They Invoked the Trump Name.](https://www.nytimes.com/2026/04/19/us/politics/trump-syria-khayyat.html)
+5. [I Missed the Part About the Divine Right of Presidents](https://www.nytimes.com/2026/04/19/opinion/trum-christ-pope-image.html)
 
-The attempt by the Khayyats to influence foreign policy while discussions are underway about potential Trump family deals is an increasingly common feature of the president’s second term.
+It didn’t work out too well for kings, either.
 
 
-8. [My Wife Is 85. She Takes My Breath Away.](https://www.nytimes.com/2026/04/18/opinion/aging-women-beauty.html)
+6. [My Wife Is 85. She Takes My Breath Away.](https://www.nytimes.com/2026/04/18/opinion/aging-women-beauty.html)
 
 The old ladies that I know have a grace and stature that only long years of hoping and striving — and living — can bestow.
+
+
+7. [Tim Cook Will Step Down as Apple C.E.O.](https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html)
+
+The longtime leader of the iPhone maker will be replaced by John Ternus, the company’s head of hardware engineering.
+
+
+8. [In Qatar, Trapped Between the U.S. and Iran, War Forced a Reckoning](https://www.nytimes.com/2026/04/19/world/middleeast/qatar-iran-us-war.html)
+
+The gas-rich Gulf nation is in a state of “strategic shock” after the war dealt a serious blow to its economy, sending ripples around the world.
 
 
 9. [The Mind-Altering Power of Lucid Dreaming](https://www.nytimes.com/2026/04/19/opinion/lucid-dreams.html)
@@ -45,8 +45,8 @@ The old ladies that I know have a grace and stature that only long years of hopi
 Few people experience lucid dreams, yet those who do are able to appreciate as much asleep as the rest of us do awake.
 
 
-10. [Humans Who Used a Bear Suit to Defraud Car Insurers Are Sentenced to Jail](https://www.nytimes.com/2026/04/18/us/bear-suit-insurance-fraud-california.html)
+10. [Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed ‘Help’](https://www.nytimes.com/2026/04/19/us/michigan-gas-clerk-saves-teen.html)
 
-The California residents collected more than $141,000 in insurance payouts after staging bear attacks on their luxury cars, state officials said.
+A fellow student who had witnessed the kidnapping called the police, and other students helped track the girl to a gas station.
 
 
