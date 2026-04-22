@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-21 23:41:22)
+## 📰 NYTimes Most Popular (Updated: 2026-04-22 03:27:36)
 
-1. [Older Americans Are Hoarding America’s Potential](https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html)
+1. [Measles Took My Daughter. This Is What I Want Everyone to Know.](https://www.nytimes.com/2026/04/21/opinion/measles-child-britain-vaccination.html)
 
-Older Americans need incentives to give up accumulated housing, jobs and wealth.
-
-
-2. [The Poetry Challenge Day 1: Let’s learn one poem together this week.](https://www.nytimes.com/interactive/2026/books/wh-auden-the-more-loving-one-poetry-challenge.html)
-
-It’s about love, the cosmos and everything in between. And all week we’ll have games and readings by poets laureate, beloved authors and an Oscar winner to help you memorize it.
+If more people had gotten the vaccine, she might still be here.
 
 
-3. [Daniel Craig and Lily Allen Sell Their Brooklyn Brownstones](https://www.nytimes.com/2026/04/20/realestate/daniel-craig-lily-allen-sell-brooklyn-brownstones.html)
+2. [‘Easily the Worst President in U.S. History’](https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html)
 
-Mr. Craig and Rachel Weisz had owned their Cobble Hill home for almost a decade. Ms. Allen’s sale in Carroll Gardens comes amid the breakup of her marriage.
+There is a contest Trump is winning.
 
 
-4. [They Went Abroad to Save Money. Moving Back Seems Unaffordable.](https://www.nytimes.com/2026/04/19/business/americans-abroad-cheaper-living-costs.html)
+3. [Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed ‘Help’](https://www.nytimes.com/2026/04/19/us/michigan-gas-clerk-saves-teen.html)
 
-Americans have enjoyed lifestyles that would normally be out of reach to them by working remotely in countries with lower living costs.
+A fellow student who had witnessed the kidnapping called the police, and other students helped track the girl to a gas station.
+
+
+4. [Gunman Kills Canadian Tourist and Wounds Several Others at Mexican Pyramids](https://www.nytimes.com/2026/04/20/world/americas/mexico-shooting-pyramids-teotihuacan.html)
+
+A gunman opened fire at the Teotihuacán archaeological site outside Mexico City before killing himself, the authorities said. Six Americans were among those injured, including two from gunshots.
 
 
 5. [Gilgo Beach Killer Told His Wife That He Murdered 7 Women in Their Home](https://www.nytimes.com/2026/04/20/nyregion/gilgo-beach-killer-wife-peacock-documentary.html)
@@ -25,28 +25,28 @@ Americans have enjoyed lifestyles that would normally be out of reach to them by
 Rex Heuermann, who pleaded guilty to murdering eight women, told his wife that he killed seven of the victims in a downstairs room in their Long Island home, she said in a Peacock documentary.
 
 
-6. [Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed ‘Help’](https://www.nytimes.com/2026/04/19/us/michigan-gas-clerk-saves-teen.html)
+6. [How the Cole Disaster Drove the U.S. to Develop New Warship Defenses](https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html)
 
-A fellow student who had witnessed the kidnapping called the police, and other students helped track the girl to a gas station.
-
-
-7. [Measles Took My Daughter. This Is What I Want Everyone to Know.](https://www.nytimes.com/2026/04/21/opinion/measles-child-britain-vaccination.html)
-
-If more people had gotten the vaccine, she might still be here.
+The Navy destroyers enforcing a blockade of Iranian ports carry weapons fielded after an American warship was attacked and nearly sunk more than 25 years ago.
 
 
-8. [The Forces of Scarcity Hitting Asia May Soon Spread Across the World](https://www.nytimes.com/2026/04/20/world/asia/asia-pacific-iran-war-oil.html)
+7. [Labor Secretary Steps Down Amid Internal Investigation](https://www.nytimes.com/2026/04/20/us/politics/lori-chavez-deremer-labor-secretary-steps-down.html)
 
-The Asia-Pacific was hit hard and quick by the war in Iran and its energy bottlenecks. Scenes of crisis there indicate that problems are multiplying and spreading.
-
-
-9. [The Trump Administration Is Coming After Birth Control Access in a Terrifying New Way](https://www.nytimes.com/2026/04/20/opinion/trump-birth-control.html)
-
-The new Title X guidance from the Trump administration mentions contraception only once.
+Lori Chavez-DeRemer was facing multiple scandals and an internal inquiry into charges of misconduct.
 
 
-10. [‘Easily the Worst President in U.S. History’](https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html)
+8. [Tim Cook Will Step Down as Apple C.E.O.](https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html)
 
-There is a contest Trump is winning.
+The longtime leader of the iPhone maker will be replaced by John Ternus, the company’s head of hardware engineering.
+
+
+9. [Daniel Craig and Lily Allen Sell Their Brooklyn Brownstones](https://www.nytimes.com/2026/04/20/realestate/daniel-craig-lily-allen-sell-brooklyn-brownstones.html)
+
+Mr. Craig and Rachel Weisz had owned their Cobble Hill home for almost a decade. Ms. Allen’s sale in Carroll Gardens comes amid the breakup of her marriage.
+
+
+10. [Jimmy Kimmel Refers to Kash Patel’s Job in the Past Tense](https://www.nytimes.com/2026/04/21/arts/television/jimmy-kimmel-kash-patel.html)
+
+The late night host called him “our soon-to-be former F.B.I. director” after publication of an article in The Atlantic alleging excessive drinking and unexplained absences.
 
 
