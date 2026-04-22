@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-22 12:02:43)
+## 📰 NYTimes Most Popular (Updated: 2026-04-22 14:50:34)
 
-1. [Gilgo Beach Killer Told His Wife That He Murdered 7 Women in Their Home](https://www.nytimes.com/2026/04/20/nyregion/gilgo-beach-killer-wife-peacock-documentary.html)
+1. [‘Easily the Worst President in U.S. History’](https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html)
 
-Rex Heuermann, who pleaded guilty to murdering eight women, told his wife that he killed seven of the victims in a downstairs room in their Long Island home, she said in a Peacock documentary.
-
-
-2. [Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon](https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html)
-
-A statue of the crucifixion of Christ has been replaced after one soldier photographed another swinging what looked like a sledgehammer at its head.
+There is a contest Trump is winning.
 
 
-3. [How the Cole Disaster Drove the U.S. to Develop New Warship Defenses](https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html)
+2. [U.S. Has Turned Back 27 Ships Since Strait of Hormuz Blockade Started](https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html)
 
-The Navy destroyers enforcing a blockade of Iranian ports carry weapons fielded after an American warship was attacked and nearly sunk more than 25 years ago.
-
-
-4. [Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo](https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html)
-
-A U.S. aid worker said that the Afghans, who were evacuated to Qatar, would face a choice between moving to the Democratic Republic of Congo and living under the Taliban.
+Marines are searching thousands of containers aboard the Touska, an Iranian cargo ship that the Navy disabled and seized on Sunday.
 
 
-5. [Justice Dept. Charges Prominent Civil Rights Group With Financial Crimes](https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html)
+3. [Justice Dept. Charges Prominent Civil Rights Group With Financial Crimes](https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html)
 
 Republicans have accused the Southern Poverty Law Center, which is best known for investigating hate groups, of unfairly targeting conservative and Christian organizations.
 
 
-6. [U.S. Abruptly Rescinds Subpoenas It Had Just Issued in John Brennan Inquiry](https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html)
+4. [Michigan Gas Clerk Helps Save Kidnapped Teen Girl Who Mouthed ‘Help’](https://www.nytimes.com/2026/04/19/us/michigan-gas-clerk-saves-teen.html)
 
-The reversal came after the Justice Department replaced a career prosecutor with a loyalist to President Trump in the administration’s effort to charge the former C.I.A. chief with a crime.
+A fellow student who had witnessed the kidnapping called the police, and other students helped track the girl to a gas station.
 
 
-7. [Daniel Craig and Lily Allen Sell Their Brooklyn Brownstones](https://www.nytimes.com/2026/04/20/realestate/daniel-craig-lily-allen-sell-brooklyn-brownstones.html)
+5. [Israeli Soldiers Sentenced to Jail for Damaging Jesus Statue in Lebanon](https://www.nytimes.com/2026/04/21/world/middleeast/israel-soldiers-statue-lebanon-replaced.html)
+
+A statue of the crucifixion of Christ has been replaced after one soldier photographed another swinging what looked like a sledgehammer at its head.
+
+
+6. [Older Americans Are Hoarding America’s Potential](https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html)
+
+Older Americans need incentives to give up accumulated housing, jobs and wealth.
+
+
+7. [Florida Democrat Resigns From Congress Just Before Panel Weighs Expelling Her](https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html)
+
+Sheila Cherfilus-McCormick stands accused of stealing $5 million in federal funds. She said she would step down minutes before an ethics panel was to vote on whether to recommend expelling her.
+
+
+8. [Daniel Craig and Lily Allen Sell Their Brooklyn Brownstones](https://www.nytimes.com/2026/04/20/realestate/daniel-craig-lily-allen-sell-brooklyn-brownstones.html)
 
 Mr. Craig and Rachel Weisz had owned their Cobble Hill home for almost a decade. Ms. Allen’s sale in Carroll Gardens comes amid the breakup of her marriage.
 
 
-8. [An Academic Miracle](https://www.nytimes.com/2026/04/21/opinion/yale-report-academia.html)
+9. [Federal Appeals Court Upholds Texas Ten Commandments Law](https://www.nytimes.com/2026/04/21/us/appeals-court-upholds-texas-ten-commandments-law.html)
 
-A Yale report offers some honest self-reflection on where the university went wrong.
-
-
-9. [Tim Cook Will Step Down as Apple C.E.O.](https://www.nytimes.com/2026/04/20/technology/tim-cook-apple-ceo-steps-down.html)
-
-The longtime leader of the iPhone maker will be replaced by John Ternus, the company’s head of hardware engineering.
+The U.S. Court of Appeals for the Fifth Circuit said the law does not violate the Constitution. The plaintiffs said they planned to ask the Supreme Court to reverse the decision.
 
 
-10. [A Year After U.S.A.I.D.’s Death, Fired Workers Find Few Jobs and Much Loss](https://www.nytimes.com/2026/04/21/us/politics/usaid-former-employees.html)
+10. [How the Cole Disaster Drove the U.S. to Develop New Warship Defenses](https://www.nytimes.com/2026/04/21/world/middleeast/us-navy-ship-defense-iran-hormuz.html)
 
-People have plowed through savings, cashed out retirement funds and moved in with relatives. Former U.S.A.I.D. workers estimate that less than half have found full-time work.
+The Navy destroyers enforcing a blockade of Iranian ports carry weapons fielded after an American warship was attacked and nearly sunk more than 25 years ago.
 
 
