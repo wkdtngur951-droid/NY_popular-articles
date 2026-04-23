@@ -1,43 +1,43 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-22 23:53:24)
+## 📰 NYTimes Most Popular (Updated: 2026-04-23 03:30:48)
 
-1. [Trump Is Said to Be in Talks to Send Afghans Who Aided U.S. Forces to Congo](https://www.nytimes.com/2026/04/21/world/europe/afghan-refugees-congo-us.html)
+1. [Navy Secretary Is Fired as Infighting Roils Pentagon](https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html)
 
-A U.S. aid worker said that the Afghans, who were evacuated to Qatar, would face a choice between moving to the Democratic Republic of Congo and living under the Taliban.
-
-
-2. [Graham Platner Went to Hell and Back. He Has a Simple Message for Democrats.](https://www.nytimes.com/2026/04/22/opinion/graham-platner-forever-war-trump.html)
-
-At campaign stops, he talks about high gas prices and Trump’s incompetence. But the core of his message is an unflinching disgust for forever war.
+John Phelan is leaving the Pentagon after months of tension with Pete Hegseth and other Pentagon leaders. The tumult comes as the Navy has been engaged in war with Iran.
 
 
-3. [A $440,000 Breast Reduction: How Doctors Cashed In on a Consumer Protection Law](https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html)
+2. [U.S. Abruptly Rescinds Subpoenas It Had Just Issued in John Brennan Inquiry](https://www.nytimes.com/2026/04/21/us/politics/justice-dept-john-brennan-subpoenas.html)
+
+The reversal came after the Justice Department replaced a career prosecutor with a loyalist to President Trump in the administration’s effort to charge the former C.I.A. chief with a crime.
+
+
+3. [Trump Holds the American People in Total Contempt](https://www.nytimes.com/2026/04/22/opinion/trump-crypto-pardons-corruption.html)
+
+The president is one of a kind.
+
+
+4. [Tucker Carlson Says He Is ‘Tormented’ by His Past Support for Trump](https://www.nytimes.com/2026/04/21/us/politics/tucker-carlson-trump-apology.html)
+
+“I want to say I’m sorry for misleading people,” said the conservative commentator, who has broken sharply with the president over the war with Iran.
+
+
+5. [F.B.I. Said to Have Investigated Times Reporter After Article on Patel’s Girlfriend](https://www.nytimes.com/2026/04/22/us/politics/fbi-times-reporter.html)
+
+The bureau said it is not pursuing a case, but the scrutiny is an example of the Trump administration weighing whether to criminalize routine news gathering.
+
+
+6. [There’s Another Reason Gen Z Can’t Find Work](https://www.nytimes.com/2026/04/22/opinion/gen-z-job-ladder.html)
+
+It’s not just because of A.I. This started 40 years ago.
+
+
+7. [With Midterms Coming Up, G.O.P. Is Bogged Down in Congress](https://www.nytimes.com/2026/04/22/us/politics/republicans-congress-midterm-elections.html)
+
+Republican majorities are at odds on big issues as the Senate resorts to extraordinary measures to pass homeland security funding over a Democratic blockade.
+
+
+8. [A $440,000 Breast Reduction: How Doctors Cashed In on a Consumer Protection Law](https://www.nytimes.com/2026/04/22/us/politics/doctors-insurers-arbitration.html)
 
 A law meant to end surprise medical billing accidentally created a multibillion-dollar industry that is making doctors richer.
-
-
-4. [Older Americans Are Hoarding America’s Potential](https://www.nytimes.com/2026/04/21/opinion/ageism-gerontacracy-america.html)
-
-Older Americans need incentives to give up accumulated housing, jobs and wealth.
-
-
-5. [U.S. Has Turned Back 27 Ships Since Strait of Hormuz Blockade Started](https://www.nytimes.com/2026/04/20/us/politics/military-blockade-iran-strait-hormuz.html)
-
-Marines are searching thousands of containers aboard the Touska, an Iranian cargo ship that the Navy disabled and seized on Sunday.
-
-
-6. [‘Easily the Worst President in U.S. History’](https://www.nytimes.com/2026/04/21/opinion/trump-legacy-history-presidents.html)
-
-There is a contest Trump is winning.
-
-
-7. [Justice Dept. Charges Prominent Civil Rights Group With Financial Crimes](https://www.nytimes.com/2026/04/21/us/politics/southern-poverty-law-center-doj-investigation.html)
-
-Republicans have accused the Southern Poverty Law Center, which is best known for investigating hate groups, of unfairly targeting conservative and Christian organizations.
-
-
-8. [Florida Democrat Resigns From Congress Just Before Panel Weighs Expelling Her](https://www.nytimes.com/2026/04/21/us/politics/cherfilus-mccormick-florida.html)
-
-Sheila Cherfilus-McCormick stands accused of stealing $5 million in federal funds. She said she would step down minutes before an ethics panel was to vote on whether to recommend expelling her.
 
 
 9. [College Where Charlie Kirk Was Killed Revokes Graduation Speaker’s Invite](https://www.nytimes.com/2026/04/22/us/politics/sharon-mcmahon-utah-valley-university-charlie-kirk.html)
@@ -45,8 +45,8 @@ Sheila Cherfilus-McCormick stands accused of stealing $5 million in federal fund
 Utah Valley University was thrilled that Sharon McMahon, a best-selling author, would speak at its graduation. And then her old posts resurfaced.
 
 
-10. [Virginia Redistricting Referendum Results](https://www.nytimes.com/interactive/2026/us/elections/results-virginia-redistricting.html)
+10. [Rep. David Scott, Longtime Georgia Lawmaker, Dies at 80](https://www.nytimes.com/2026/04/22/us/politics/david-scott-dead-georgia-congress.html)
 
-Get results and maps from the 2026 Virginia redistricting referendum.
+The former Georgia state lawmaker was an advocate for issues that affected Black communities. He drew attention for his refusal to exit politics amid health problems.
 
 
