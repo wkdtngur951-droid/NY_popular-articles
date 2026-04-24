@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-24 20:57:29)
+## 📰 NYTimes Most Popular (Updated: 2026-04-24 21:55:28)
 
 1. [Disapproval of Trump Hits Highest Level of His Second Term](https://www.nytimes.com/2026/04/23/us/politics/trump-approval-rating-poll.html)
 
 The president’s weakening poll numbers come as the war in Iran has driven up gas prices, and more Americans are expressing concerns about the economy.
 
 
-2. [The Conspiracy Theory Behind Tucker Carlson’s Apology](https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html)
+2. [Trump’s Dreams for a Battleship Led to His Navy Secretary’s Ouster](https://www.nytimes.com/2026/04/23/us/politics/trump-navy-secretary.html)
 
-Rather than honestly reckoning with their role in America’s derangement, MAGA apostates are creating a scapegoat to explain it away.
-
-
-3. [Navy Secretary Is Fired as Infighting Roils Pentagon](https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html)
-
-John Phelan is leaving the Pentagon after months of tension with Pete Hegseth and other Pentagon leaders. The tumult comes as the Navy has been engaged in war with Iran.
+The Navy secretary, John Phelan, was supposed to deliver the first of the president’s ships by 2028. The timeline was nearly impossible.
 
 
-4. [Iran War Has Drained U.S. Supplies of Critical, Costly Weapons](https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html)
+3. [Soldier Used Classified Information to Bet on Maduro’s Ouster, U.S. Says](https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html)
 
-The Pentagon’s rush to rearm its Mideast forces makes it less ready to confront potential adversaries like Russia and China, administration and congressional officials say.
-
-
-5. [A Lost Tribe in India Makes Its Exodus to Israel](https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html)
-
-The B’nei Menashe believe they are the descendants of Manasseh, a tribal patriarch from thousands of years ago. Evidence is thin, but Israel is welcoming them “home.”
+Federal prosecutors say that Sgt. Gannon Ken Van Dyke, who was involved in the operation to oust Nicolás Maduro from power in Venezuela, used the information to place bets on a prediction market.
 
 
-6. [Justice Dept. Targets Hundreds of Citizens in New Push for Denaturalization](https://www.nytimes.com/2026/04/23/us/politics/justice-dept-citizens-denaturalization.html)
+4. [Why Diesel Has Become a Much Bigger Economic Problem Than Gasoline](https://www.nytimes.com/2026/04/23/business/energy-environment/iran-war-diesel-prices-gasoline.html)
+
+The war in Iran has disrupted supplies of diesel, used to power trucks and heavy equipment, much more than gasoline, which is primarily used in passenger cars.
+
+
+5. [Justice Dept. Targets Hundreds of Citizens in New Push for Denaturalization](https://www.nytimes.com/2026/04/23/us/politics/justice-dept-citizens-denaturalization.html)
 
 The Trump administration is assigning denaturalization cases to regular prosecutors, which could lead to a surge of people stripped of U.S. citizenship.
 
 
-7. [How Well Will You Age? Take Our Quiz.](https://www.nytimes.com/interactive/2026/04/22/magazine/longevity-health-quiz-nutrition-sleep-exercise-aging.html)
-
-The little daily decisions we make add up — and ultimately shape our longevity.
-
-
-8. [Concern Grows Over Republican Congressman’s Mysterious Absence](https://www.nytimes.com/2026/04/23/nyregion/thomas-kean-jr-republican-missing.html)
+6. [Concern Grows Over Republican Congressman’s Mysterious Absence](https://www.nytimes.com/2026/04/23/nyregion/thomas-kean-jr-republican-missing.html)
 
 A spokesman for Representative Thomas Kean Jr. said an unspecified “personal medical issue” has led the New Jersey Republican to miss House votes.
 
 
-9. [Candidates for California Governor Debate: 5 Takeaways](https://www.nytimes.com/2026/04/23/us/politics/california-governor-debate-takeaways.html)
+7. [The Conspiracy Theory Behind Tucker Carlson’s Apology](https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html)
 
-The nonpartisan primary remains volatile after the departure of Eric Swalwell. A televised debate featured six leading candidates, but produced few fireworks.
+Rather than honestly reckoning with their role in America’s derangement, MAGA apostates are creating a scapegoat to explain it away.
 
 
-10. [4 Drugs That May Increase Your Dementia Risk](https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html)
+8. [The Padilla Pause: How the Breakout Star of ‘S.N.L.’ Nails Comic Timing](https://www.nytimes.com/2026/04/24/arts/television/ashley-padilla-saturday-night-live.html)
 
-Experts have flagged several over-the-counter and prescription medications.
+Ashley Padilla’s ability to extend a moment transforms what could be a routine joke into something stranger and more absurd.
+
+
+9. [I’ve Photographed Protests Around the World. This Still Surprises Me.](https://www.nytimes.com/2026/04/23/opinion/matthew-connors-photos-protest-authoritarianism.html)
+
+Scenes from life in a global era increasingly shaped by confrontations with authoritarian power.
+
+
+10. [A New Era and New Leadership: The Generals Who Are Running Iran](https://www.nytimes.com/2026/04/23/world/middleeast/iran-new-leadership-generals.html)
+
+The killing of Ayatollah Ali Khamenei ushered in a new form of collective leadership in the country, with more power for the Revolutionary Guards.
 
 
