@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-24 23:48:55)
+## 📰 NYTimes Most Popular (Updated: 2026-04-25 03:18:01)
 
-1. [The Padilla Pause: How the Breakout Star of ‘S.N.L.’ Nails Comic Timing](https://www.nytimes.com/2026/04/24/arts/television/ashley-padilla-saturday-night-live.html)
+1. [Rescue Effort for Russian Tanker Fails, in a New Era of Maritime Peril](https://www.nytimes.com/2026/04/23/world/europe/russian-tanker-mediterranean.html)
 
-Ashley Padilla’s ability to extend a moment transforms what could be a routine joke into something stranger and more absurd.
+The ship, which carried fuel and natural gas, has been adrift for weeks in the Mediterranean Sea after a drone attack, alarming officials who fear an environmental disaster.
 
 
-2. [Disapproval of Trump Hits Highest Level of His Second Term](https://www.nytimes.com/2026/04/23/us/politics/trump-approval-rating-poll.html)
+2. [The New York Times News Quiz, April 24, 2026](https://www.nytimes.com/interactive/2026/04/24/briefing/news-quiz-trump-warsh.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+3. [They Were Michael Jackson’s ‘Second Family.’ Now They Say He Abused Them.](https://www.nytimes.com/2026/04/24/arts/music/michael-jackson-second-family-cascio.html)
+
+The Cascio siblings are suing Mr. Jackson’s estate after standing by him for years as he faced accusations of child molestation.
+
+
+4. [Disapproval of Trump Hits Highest Level of His Second Term](https://www.nytimes.com/2026/04/23/us/politics/trump-approval-rating-poll.html)
 
 The president’s weakening poll numbers come as the war in Iran has driven up gas prices, and more Americans are expressing concerns about the economy.
 
 
-3. [Concern Grows Over Republican Congressman’s Mysterious Absence](https://www.nytimes.com/2026/04/23/nyregion/thomas-kean-jr-republican-missing.html)
-
-A spokesman for Representative Thomas Kean Jr. said an unspecified “personal medical issue” has led the New Jersey Republican to miss House votes.
-
-
-4. [4 Drugs That May Increase Your Dementia Risk](https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html)
-
-Experts have flagged several over-the-counter and prescription medications.
-
-
-5. [The ‘Make America Healthy Again’ Movement Is Cooling on Trump and Republicans](https://www.nytimes.com/2026/04/23/us/politics/maha-voters-midterms.html)
-
-Vaccine skeptics, “organic moms” and anti-pesticide activists came together to elect President Trump. But some voters are disillusioned and might not turn out again.
-
-
-6. [Navy Secretary Is Fired as Infighting Roils Pentagon](https://www.nytimes.com/2026/04/22/us/politics/navy-secretary-john-phelan.html)
-
-John Phelan is leaving the Pentagon after months of tension with Pete Hegseth and other Pentagon leaders. The tumult comes as the Navy has been engaged in war with Iran.
-
-
-7. [Iran War Has Drained U.S. Supplies of Critical, Costly Weapons](https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html)
+5. [Iran War Has Drained U.S. Supplies of Critical, Costly Weapons](https://www.nytimes.com/2026/04/23/us/politics/iran-war-cost-military.html)
 
 The Pentagon’s rush to rearm its Mideast forces makes it less ready to confront potential adversaries like Russia and China, administration and congressional officials say.
 
 
-8. [Soldier Used Classified Information to Bet on Maduro’s Ouster, U.S. Says](https://www.nytimes.com/2026/04/23/nyregion/polymarket-maduro-indictment-soldier.html)
+6. [Trump Says He’s Renovating ‘Filthy’ Reflecting Pool on the National Mall](https://www.nytimes.com/2026/04/23/us/politics/trump-reflecting-pool-renovation.html)
 
-Federal prosecutors say that Sgt. Gannon Ken Van Dyke, who was involved in the operation to oust Nicolás Maduro from power in Venezuela, used the information to place bets on a prediction market.
-
-
-9. [A Lost Tribe in India Makes Its Exodus to Israel](https://www.nytimes.com/2026/04/23/world/asia/india-jewish-tribe-israel-bnei-menashe.html)
-
-The B’nei Menashe believe they are the descendants of Manasseh, a tribal patriarch from thousands of years ago. Evidence is thin, but Israel is welcoming them “home.”
+The pool, which is more than 2,000 feet long, was the site of Martin Luther King Jr.’s “I Have a Dream” speech and other events.
 
 
-10. [How Well Will You Age? Take Our Quiz.](https://www.nytimes.com/interactive/2026/04/22/magazine/longevity-health-quiz-nutrition-sleep-exercise-aging.html)
+7. [A Man, a Howitzer and His Battle to Fire It Into the Adirondack Woods](https://www.nytimes.com/2026/04/24/nyregion/howitzer-adirondacks.html)
 
-The little daily decisions we make add up — and ultimately shape our longevity.
+In the mountains of northern New York, many local residents are weary of the military activities near an old missile silo and wary of the prospect of a howitzer range.
+
+
+8. [Britain and Spain Reject Reported Plans by Trump to Punish Them](https://www.nytimes.com/2026/04/24/world/europe/trump-britain-spain-falklands.html)
+
+An internal Pentagon email, reported by the Reuters news agency, suggested Washington was reviewing options to penalize the two nations for insufficiently supporting the war in Iran.
+
+
+9. [The Conspiracy Theory Behind Tucker Carlson’s Apology](https://www.nytimes.com/2026/04/24/opinion/conspiracy-theory-tucker-antisemitism.html)
+
+Rather than honestly reckoning with their role in America’s derangement, MAGA apostates are creating a scapegoat to explain it away.
+
+
+10. [Jimmy Kimmel Roasts Trump at a Mock White House Correspondents’ Dinner](https://www.nytimes.com/2026/04/24/arts/television/jimmy-kimmel-roasts-trump.html)
+
+The late night host took “a page from the Kid Rock alternative halftime show,” which aired during the Super Bowl, in offering his own “all-American” version of the Washington tradition.
 
 
