@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-27 14:12:09)
+## 📰 NYTimes Most Popular (Updated: 2026-04-27 16:46:55)
 
-1. [Most Guests Ducked for Cover. This Man Munched on His Burrata Salad.](https://www.nytimes.com/2026/04/26/us/politics/man-salad-white-house-correspondents-dinner.html)
+1. [California Man in Custody After Shooting at Dinner Attended by Trump](https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html)
 
-Michael Glantz, a top agent at Creative Artists Agency, calmly ate his appetizer during the commotion at the White House correspondents’ dinner. He had his reasons.
-
-
-2. [Meet the New Leader of the Free World](https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html)
-
-The world is looking to Volodymyr Zelensky for leadership.
+Shots were fired at the hotel hosting the White House correspondents’ dinner. Authorities said the attack was carried out by a lone gunman who was brought down by the Secret Service.
 
 
-3. [Trump Praises Journalist After Shooting at Media Dinner](https://www.nytimes.com/2026/04/26/us/politics/weijia-jiang-cbs-whca-shooting-trump.html)
+2. [The Mother Who Will Not Speak](https://www.nytimes.com/2026/04/26/nyregion/the-mother-who-will-not-speak.html)
 
-Weijia Jiang, a CBS correspondent, had been sitting next to the president at the White House Correspondents’ Association dinner when shots rang out. Soon afterward, she was reporting on the attack.
+When Jacqueline Pritchett’s 11-year-old son, Jacob, vanished last year, she refused to acknowledge that he existed. Her life is as mysterious as his disappearance.
 
 
-4. [Is the Supreme Court Coming Apart at the Seams?](https://www.nytimes.com/2026/04/26/opinion/clarence-thomas-sonia-sotomayor-supreme-court.html)
+3. [Is the Supreme Court Coming Apart at the Seams?](https://www.nytimes.com/2026/04/26/opinion/clarence-thomas-sonia-sotomayor-supreme-court.html)
 
 A revealing glimpse of the state of the Supreme Court, on the verge of momentous rulings in the weeks ahead.
 
 
-5. [A Timeline of the Attack at the White House Correspondents’ Dinner](https://www.nytimes.com/interactive/2026/04/26/us/white-house-correspondents-hilton-shots.html)
-
-Maps, floor plans and video show how an attack involving gunfire unfolded minutes into the White House Correspondents’ Association dinner.
-
-
-6. [She Found Out She Was Pregnant Just Before He Revealed an Affair](https://www.nytimes.com/2026/04/25/style/affair-marriage-pregnancy-divorce.html)
-
-Rachel Sanders eventually came to terms with Jason Miller’s confession that he was involved with a mutual male friend. “I lost my marriage,” she said, “but I accepted Jason.”
-
-
-7. [The Trump Administration Has Changed Almost Every Aspect of Food Stamps](https://www.nytimes.com/2026/04/26/us/trump-administration-food-stamps.html)
-
-Legislation and regulatory tweaks enacted over the past year have altered who is eligible, what recipients can buy and how much some receive in benefits, among other changes.
-
-
-8. [‘I’m Not a Basket Case’: Trump Describes His Mind-Set After an Evening of Chaos](https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html)
-
-Very little was clear about what had happened at the Washington Hilton on Saturday night. But the president wanted to talk about it.
-
-
-9. [‘It Wasn’t Real, but It Was Real’](https://www.nytimes.com/2026/04/26/opinion/ice-raids-chicago-constitution.html)
+4. [‘It Wasn’t Real, but It Was Real’](https://www.nytimes.com/2026/04/26/opinion/ice-raids-chicago-constitution.html)
 
 How ICE transformed a Chicago neighborhood.
 
 
-10. [Grievance Propelled Gala Attack Suspect Across Country, Authorities Say](https://www.nytimes.com/2026/04/27/us/politics/cole-allen-suspect-washington-correspondents-dinner-shooting.html)
+5. [Flashback: Your Weekly History Quiz, April 25, 2026](https://www.nytimes.com/interactive/2026/04/24/upshot/flashback.html)
 
-A man who has worked as a tutor and graduated from the California Institute of Technology is being held by authorities in connection with the armed attack at the White House correspondents’ dinner.
+Can you sort 8 historical events?
+
+
+6. [Most Guests Ducked for Cover. This Man Munched on His Burrata Salad.](https://www.nytimes.com/2026/04/26/us/politics/man-salad-white-house-correspondents-dinner.html)
+
+Michael Glantz, a top agent at Creative Artists Agency, calmly ate his appetizer during the commotion at the White House correspondents’ dinner. He had his reasons.
+
+
+7. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
+
+President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say.
+
+
+8. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+
+As prices for the precious metal soar, the industry’s guardrails have broken down.
+
+
+9. [Meet the New Leader of the Free World](https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html)
+
+The world is looking to Volodymyr Zelensky for leadership.
+
+
+10. [Rumors and Speculation Swirl Online After Shooting at Washington Dinner](https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html)
+
+Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.
 
 
