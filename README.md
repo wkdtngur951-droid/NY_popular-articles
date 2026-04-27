@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-27 18:10:03)
+## 📰 NYTimes Most Popular (Updated: 2026-04-27 20:12:49)
 
-1. [California Man in Custody After Shooting at Dinner Attended by Trump](https://www.nytimes.com/2026/04/26/us/politics/correspondents-dinner-shooting-suspect-california-man.html)
+1. [‘It Wasn’t Real, but It Was Real’](https://www.nytimes.com/2026/04/26/opinion/ice-raids-chicago-constitution.html)
 
-Shots were fired at the hotel hosting the White House correspondents’ dinner. Authorities said the attack was carried out by a lone gunman who was brought down by the Secret Service.
-
-
-2. [Rumors and Speculation Swirl Online After Shooting at Washington Dinner](https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html)
-
-Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.
+How ICE transformed a Chicago neighborhood.
 
 
-3. [Concern Grows Over Republican Congressman’s Mysterious Absence](https://www.nytimes.com/2026/04/23/nyregion/thomas-kean-jr-republican-missing.html)
+2. [Her Life Savings Mysteriously Disappeared After a Systems Glitch](https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html)
 
-A spokesman for Representative Thomas Kean Jr. said an unspecified “personal medical issue” has led the New Jersey Republican to miss House votes.
-
-
-4. [The Mother Who Will Not Speak](https://www.nytimes.com/2026/04/26/nyregion/the-mother-who-will-not-speak.html)
-
-When Jacqueline Pritchett’s 11-year-old son, Jacob, vanished last year, she refused to acknowledge that he existed. Her life is as mysterious as his disappearance.
+Fidelity Investments notified a customer that her phone number and email address had been removed from her profile. When she logged in, her accounts and savings were nowhere to be found.
 
 
-5. [Big-Game Hunter From California Is Killed by Elephant in Central Africa](https://www.nytimes.com/2026/04/25/world/africa/big-game-hunter-death-africa.html)
+3. [What We Know About the Gunman at the White House Press Dinner](https://www.nytimes.com/article/what-we-know-gunman-white-house-press-dinner.html)
 
-Ernie Dosio, 75, of Lodi, Calif., was hunting a species of antelope in the dense forests of Gabon when his hunting party stumbled on a small herd of female elephants with calves.
-
-
-6. [Is the Supreme Court Coming Apart at the Seams?](https://www.nytimes.com/2026/04/26/opinion/clarence-thomas-sonia-sotomayor-supreme-court.html)
-
-A revealing glimpse of the state of the Supreme Court, on the verge of momentous rulings in the weeks ahead.
+The authorities are investigating a motive for the attack by the suspect, identified as Cole Tomas Allen. Those who know him described him as a “completely average guy.”
 
 
-7. [Most Guests Ducked for Cover. This Man Munched on His Burrata Salad.](https://www.nytimes.com/2026/04/26/us/politics/man-salad-white-house-correspondents-dinner.html)
+4. [A Timeline of the Attack at the White House Correspondents’ Dinner](https://www.nytimes.com/interactive/2026/04/26/us/white-house-correspondents-hilton-shots.html)
+
+Maps, floor plans and video show how an attack involving gunfire unfolded minutes into the White House Correspondents’ Association dinner.
+
+
+5. [It’s the Age of Electricity and America Isn’t Ready](https://www.nytimes.com/interactive/2026/04/27/opinion/electricity-power-grid-infrastructure.html)
+
+Our grid is too old and our supply of electricity too small. If we don’t meet this moment, we will face an impoverished future.
+
+
+6. [Most Guests Ducked for Cover. This Man Munched on His Burrata Salad.](https://www.nytimes.com/2026/04/26/us/politics/man-salad-white-house-correspondents-dinner.html)
 
 Michael Glantz, a top agent at Creative Artists Agency, calmly ate his appetizer during the commotion at the White House correspondents’ dinner. He had his reasons.
+
+
+7. [Grievance Propelled Gala Attack Suspect Across Country, Authorities Say](https://www.nytimes.com/2026/04/27/us/politics/cole-allen-suspect-washington-correspondents-dinner-shooting.html)
+
+A man who has worked as a tutor and graduated from the California Institute of Technology was charged with trying to assassinate the president after an armed attack at the White House correspondents’ dinner.
 
 
 8. [‘I’m Not a Basket Case’: Trump Describes His Mind-Set After an Evening of Chaos](https://www.nytimes.com/2026/04/26/us/politics/trump-shooting-gunman-correspondents-dinner.html)
@@ -40,13 +40,13 @@ Michael Glantz, a top agent at Creative Artists Agency, calmly ate his appetizer
 Very little was clear about what had happened at the Washington Hilton on Saturday night. But the president wanted to talk about it.
 
 
-9. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
+9. [The Mother Who Will Not Speak](https://www.nytimes.com/2026/04/26/nyregion/the-mother-who-will-not-speak.html)
 
-As prices for the precious metal soar, the industry’s guardrails have broken down.
+When Jacqueline Pritchett’s 11-year-old son, Jacob, vanished last year, she refused to acknowledge that he existed. Her life is as mysterious as his disappearance.
 
 
-10. [Meet the New Leader of the Free World](https://www.nytimes.com/2026/04/26/opinion/zelensky-ukraine-trump-nato-leader.html)
+10. [Big-Game Hunter From California Is Killed by Elephant in Central Africa](https://www.nytimes.com/2026/04/25/world/africa/big-game-hunter-death-africa.html)
 
-The world is looking to Volodymyr Zelensky for leadership.
+Ernie Dosio, 75, of Lodi, Calif., was hunting a species of antelope in the dense forests of Gabon when his hunting party stumbled on a small herd of female elephants with calves.
 
 
