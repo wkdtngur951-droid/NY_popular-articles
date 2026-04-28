@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-27 23:03:50)
+## 📰 NYTimes Most Popular (Updated: 2026-04-28 03:50:31)
 
-1. [Longevity Science Is Overhyped. But This Research Really Could Change Humanity.](https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html)
+1. [What We Know About the Gunman at the White House Press Dinner](https://www.nytimes.com/article/what-we-know-gunman-white-house-press-dinner.html)
+
+The authorities are investigating a motive for the attack by the suspect, identified as Cole Tomas Allen. Those who know him described him as a “completely average guy.”
+
+
+2. [The Rise of the High-Range, Less Expensive E.V.](https://www.nytimes.com/2026/04/27/upshot/cheap-electric-cars-gas-prices.html)
+
+Even as the electric vehicle market has slumped, there are more long-range E.V.s under $40,000 than ever before.
+
+
+3. [Grievance Propelled Gala Attack Suspect Across Country, Authorities Say](https://www.nytimes.com/2026/04/27/us/politics/cole-allen-suspect-washington-correspondents-dinner-shooting.html)
+
+A man who has worked as a tutor and graduated from the California Institute of Technology was charged with trying to assassinate the president after an armed attack at the White House correspondents’ dinner.
+
+
+4. [President and First Lady Demand ABC Fire Jimmy Kimmel Over ‘Widow’ Joke](https://www.nytimes.com/2026/04/27/us/politics/trump-jimmy-kimmel-abc-widow-joke.html)
+
+The joke was recorded two days before the White House correspondents’ dinner, where a gunman tried to storm the press gala.
+
+
+5. [Longevity Science Is Overhyped. But This Research Really Could Change Humanity.](https://www.nytimes.com/2026/04/27/magazine/cell-rejuventation-biotech-longevity-research-altos-labs.html)
 
 A new therapy has the potential to cure hundreds of diseases — and even reverse aging.
 
 
-2. [Is the Supreme Court Coming Apart at the Seams?](https://www.nytimes.com/2026/04/26/opinion/clarence-thomas-sonia-sotomayor-supreme-court.html)
+6. [Canada Says Its Gold Is Traceable and Clean. So We Traced It.](https://www.nytimes.com/2026/04/27/world/canada/royal-canadian-mint-gold-drug-cartel-colombia.html)
 
-A revealing glimpse of the state of the Supreme Court, on the verge of momentous rulings in the weeks ahead.
-
-
-3. [Her Life Savings Mysteriously Disappeared After a Systems Glitch](https://www.nytimes.com/2026/04/25/your-money/fidelity-investments-fraud-alert.html)
-
-Fidelity Investments notified a customer that her phone number and email address had been removed from her profile. When she logged in, her accounts and savings were nowhere to be found.
+We ended up in a Colombian mine controlled by a drug cartel.
 
 
-4. [She Found Out She Was Pregnant Just Before He Revealed an Affair](https://www.nytimes.com/2026/04/25/style/affair-marriage-pregnancy-divorce.html)
+7. [By Week’s End, Trump’s War Will Be Plainly Illegal](https://www.nytimes.com/2026/04/27/opinion/trump-iran-war-powers.html)
 
-Rachel Sanders eventually came to terms with Jason Miller’s confession that he was involved with a mutual male friend. “I lost my marriage,” she said, “but I accepted Jason.”
-
-
-5. [Israel’s President, Putting Off Decision on Pardon for Netanyahu, Will Push for Plea Deal](https://www.nytimes.com/2026/04/26/world/middleeast/israel-netanyahu-pardon-herzog.html)
-
-President Isaac Herzog of Israel has decided not to issue a pardon to Prime Minister Benjamin Netanyahu in his corruption case at this time, and instead will seek mediation, officials say.
+Federal judges have a duty to enforce the War Powers Act.
 
 
-6. [Flashback: Your Weekly History Quiz, April 25, 2026](https://www.nytimes.com/interactive/2026/04/24/upshot/flashback.html)
+8. [U.S. Mint Buys Drug Cartel Gold and Sells It as ‘American’](https://www.nytimes.com/2026/04/26/world/americas/us-mint-gold-drug-cartel-colombia.html)
 
-Can you sort 8 historical events?
-
-
-7. [Most Guests Ducked for Cover. This Man Munched on His Burrata Salad.](https://www.nytimes.com/2026/04/26/us/politics/man-salad-white-house-correspondents-dinner.html)
-
-Michael Glantz, a top agent at Creative Artists Agency, calmly ate his appetizer during the commotion at the White House correspondents’ dinner. He had his reasons.
+As prices for the precious metal soar, the industry’s guardrails have broken down.
 
 
-8. [Rumors and Speculation Swirl Online After Shooting at Washington Dinner](https://www.nytimes.com/2026/04/26/technology/white-house-correspondents-dinner-shooting-conspiracy-theories.html)
+9. [The Iran War Is Starting to Expose Cracks in China’s Economy](https://www.nytimes.com/2026/04/27/business/china-economy-iran-war.html)
 
-Influencers jumped to fill the information void with conspiracy theories about the attack at the White House Correspondents’ dinner on Saturday.
-
-
-9. [Big-Game Hunter From California Is Killed by Elephant in Central Africa](https://www.nytimes.com/2026/04/25/world/africa/big-game-hunter-death-africa.html)
-
-Ernie Dosio, 75, of Lodi, Calif., was hunting a species of antelope in the dense forests of Gabon when his hunting party stumbled on a small herd of female elephants with calves.
+China’s strategic reserves of oil and natural gas have insulated it somewhat, but its manufacturing-based economy is beginning to falter.
 
 
-10. [‘It Wasn’t Real, but It Was Real’](https://www.nytimes.com/2026/04/26/opinion/ice-raids-chicago-constitution.html)
+10. [The U.S. Started the War. The Rest of the World Is Feeling the Effects.](https://www.nytimes.com/2026/04/27/business/economy/iran-war-global-growth.html)
 
-How ICE transformed a Chicago neighborhood.
+In just eight weeks, much of the global economy has been knocked sideways. America has mostly been spared from the tumult.
 
 
