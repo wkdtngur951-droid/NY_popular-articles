@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-04-30 23:59:27)
+## 📰 NYTimes Most Popular (Updated: 2026-05-01 04:11:03)
 
-1. [The Loneliness of Donald Trump](https://www.nytimes.com/2026/04/29/opinion/trump-assassination-attempts-political-violence.html)
+1. [Janet Mills Bows Out of Maine Senate Race as an Insurgent Democrat Rises](https://www.nytimes.com/2026/04/30/us/politics/janet-mills-drops-out-senate-race-platner-schumer.html)
 
-This is a president who rarely travels beyond the confines of the White House compound or Mar-a-Lago.
-
-
-2. [See the Menu for the British Royal State Dinner](https://www.nytimes.com/2026/04/28/us/politics/menu-british-royal-state-dinner.html)
-
-Spring-herbed ravioli and Dover sole meunière are among the dishes at the dinner honoring King Charles III of Britain and Queen Camilla.
+Her withdrawal reflects the energy of the party’s left and voters’ unease with older candidates and paves the way for Graham Platner to challenge Senator Susan Collins in November.
 
 
-3. [House Passes Stalled Homeland Security Funding Bill, Ending Shutdown](https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html)
+2. [The U.S. Military Was Losing Its Edge. After Iran, Everyone Knows It.](https://www.nytimes.com/2026/04/30/opinion/iran-us-military-challenges.html)
 
-Republicans were forced to use a special maneuver to steer around opposition in their own party and speed the measure to the floor, relying on Democratic cooperation to push it through.
+Somehow, the weaker nation is in the stronger negotiating position.
 
 
-4. [Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)
+3. [J. Craig Venter, Scientist Who Decoded the Human Genome, Dies at 79](https://www.nytimes.com/2026/04/30/science/j-craig-venter-dead.html)
+
+A risk-taking outsider, he brought speed, competition and controversy to one of science’s biggest races.
+
+
+4. [Rich People Didn’t Look Like This Before](https://www.nytimes.com/2026/04/30/opinion/plastic-surgery-rich-face.html)
+
+Cosmetic surgery is a sign of making it in the most Kardashian-coded way — get rich, then buy a face.
+
+
+5. [Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)
 
 The people building A.I. fear that we have only a short time before advanced A.I. disrupts the labor force.
 
 
-5. [Stephen Colbert Gets Ready to Hang It Up](https://www.nytimes.com/2026/04/28/business/media/stephen-colbert-late-night-show.html)
+6. [Trump Withdraws Nomination of Casey Means for Surgeon General](https://www.nytimes.com/2026/04/30/us/politics/casey-means-surgeon-general-withdraw.html)
 
-His late-night show ends next month after 11 seasons. He has lots of feelings.
-
-
-6. [Beneath King Charles’s Jokes and Decorum, Some Subtle Rebuttals to Trump](https://www.nytimes.com/2026/04/28/us/politics/king-charles-trump-rebuke.html)
-
-King Charles III gently pushed back against President Trump’s attacks on Britain and NATO, and he spoke of the importance of checks and balances.
+Dr. Means’s nomination had stalled in part over her views on vaccines. The president said he was instead nominating Dr. Nicole B. Saphier, a radiologist at Memorial Sloan Kettering Cancer Center.
 
 
-7. [Takeaways From Hegseth’s Testimony on Iran War and His Tenure](https://www.nytimes.com/2026/04/29/us/politics/hegseth-congress-hearing-takeaways.html)
+7. [House Passes Stalled Homeland Security Funding Bill, Ending Shutdown](https://www.nytimes.com/2026/04/30/us/politics/house-homeland-security-funding-bill.html)
 
-It was Defense Secretary Pete Hegseth’s first public appearance before Congress since Operation Epic Fury began in late February.
-
-
-8. [‘Dances With Wolves’ Actor Is Sentenced to Life in Prison](https://www.nytimes.com/2026/04/28/movies/nathan-chasing-horse-dances-with-wolves-sentenced.html)
-
-Nathan Chasing Horse had been convicted of charges including the sexual assault of women and girls and the possession of child sexual abuse imagery.
+Republicans were forced to use a special maneuver to steer around opposition in their own party and speed the measure to the floor, relying on Democratic cooperation to push it through.
 
 
-9. [Jimmy Kimmel Spills the Tea on Trump’s Royal Meeting](https://www.nytimes.com/2026/04/29/arts/television/jimmy-kimmel-trump-royals.html)
+8. [Venice Biennale Jury Resigns Amid Tension Over Awards Ban](https://www.nytimes.com/2026/04/30/arts/design/israel-artist-venice-biennale.html)
 
-The late night show host called the king of England “one of the very few people who might actually be able to tip things even slightly in a positive direction.”
+The jury of the world’s most important art exhibition had said it wouldn’t consider artists from countries whose leaders are accused of crimes against humanity.
 
 
-10. [Rich People Didn’t Look Like This Before](https://www.nytimes.com/2026/04/30/opinion/plastic-surgery-rich-face.html)
+9. [When a Squatter Moves In, Homeowners Find Little Recourse](https://www.nytimes.com/2026/04/30/realestate/high-end-squatters-rise.html)
 
-Cosmetic surgery is a sign of making it in the most Kardashian-coded way — get rich, then buy a face.
+States are responding to a rise in high-profile squatting cases, in luxury homes and public housing alike.
+
+
+10. [There’s a 900-Year-Old Answer to Our Most Modern Problem](https://www.nytimes.com/2026/04/30/opinion/ai-crimes-law.html)
+
+What should we do when a chatbot behaves like a criminal?
 
 
