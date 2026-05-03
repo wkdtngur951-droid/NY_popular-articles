@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-02 23:53:37)
+## 📰 NYTimes Most Popular (Updated: 2026-05-03 03:54:50)
 
-1. [This Is What’s Behind Trump’s Relentlessness](https://www.nytimes.com/2026/05/01/opinion/donald-trump-animal-spirits.html)
+1. [Silicon Valley Is Bracing for a Permanent Underclass](https://www.nytimes.com/2026/04/30/opinion/ai-labor-work-force-silicon-valley.html)
 
-“Animal spirits” and American presidents.
-
-
-2. [Spirit Airlines Prepares to Shut Down](https://www.nytimes.com/2026/05/01/business/spirit-airlines-shutting-down.html)
-
-The low-fare airline, which has struggled for years, had been trying to secure a $500 million lifeline from the Trump administration.
+The people building A.I. fear that we have only a short time before advanced A.I. disrupts the labor force.
 
 
-3. [Don’t Underestimate the Fury of Democratic Voters](https://www.nytimes.com/2026/04/30/opinion/graham-platner-janet-mills-susan-collins-senate.html)
-
-A Democratic vision of the Tea Party is emerging.
-
-
-4. [Jeffrey Epstein’s Possible Suicide Note Hidden From Public View](https://www.nytimes.com/2026/04/30/us/jeffrey-epstein-suicide-note-sealed.html)
-
-An inmate said he discovered the note after Mr. Epstein was found injured in his jail cell, weeks before his death. It’s now locked in a courthouse.
-
-
-5. [Authorities Release Video of Suspect in Correspondents’ Dinner Attack](https://www.nytimes.com/2026/05/01/us/politics/correspondents-dinner-gunman-attack-video.html)
-
-The F.B.I. and prosecutors shared an annotated video showing the suspect sprinting through a checkpoint and raising a gun. A frame-by-frame analysis suggests that he may have fired.
-
-
-6. [Trump Is the One Without the Cards at the Poker Table](https://www.nytimes.com/2026/05/01/opinion/trump-iran-artificial-intelligence-china.html)
-
-A.I. will drastically increase the power of small states and groups in conflict with the great powers.
-
-
-7. [U.S. to Withdraw 5,000 Troops From Germany, Pentagon Says](https://www.nytimes.com/2026/05/01/us/politics/us-troops-germany.html)
-
-The decision, which drew condemnation from G.O.P. lawmakers, came after President Trump expressed annoyance with the German chancellor’s remarks about the Iran war.
-
-
-8. [Federal Appeals Court Temporarily Halts Abortion Pill Access by Mail](https://www.nytimes.com/2026/05/01/well/abortion-drugs-mail-order.html)
-
-The court order, in a lawsuit by the state of Louisiana, pauses a Food and Drug Administration regulation that greatly expanded access to the abortion pill mifepristone.
-
-
-9. [Slouching Toward Kamala Harris](https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html)
+2. [Slouching Toward Kamala Harris](https://www.nytimes.com/2026/05/02/opinion/kamala-harris-democratic-party.html)
 
 The Democrats’ fundamental condition is a late-Trumpian stasis.
 
 
-10. [Rich People Didn’t Look Like This Before](https://www.nytimes.com/2026/04/30/opinion/plastic-surgery-rich-face.html)
+3. [Hegseth’s and Moulton’s Parallel Lives Collide Over Iran](https://www.nytimes.com/2026/05/02/us/politics/hegseth-moulton-iran-war.html)
 
-Cosmetic surgery is a sign of making it in the most Kardashian-coded way — get rich, then buy a face.
+The defense secretary and Representative Seth Moulton, a Democrat, debated the Iran war through the prism of their shared experiences fighting Iraq.
+
+
+4. [The New York Times News Quiz, May 1, 2026](https://www.nytimes.com/interactive/2026/05/01/briefing/quiz-whcd-comey-king-charles-scotus.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+5. [Trump’s Push for Electoral Retribution Heads to the Ballot Box](https://www.nytimes.com/2026/05/02/us/politics/trump-republican-primaries-candidates.html)
+
+The president’s push to punish political enemies in his own party will play a starring role in a series of Republican primaries this month in which he has backed challengers.
+
+
+6. [Spirit Airlines, a Pioneer of Low-Fare Flights, Shuts Down](https://www.nytimes.com/2026/05/02/business/spirit-airlines-shutdown.html)
+
+Spirit once upended the industry by offering very low fares but was in its second bankruptcy in two years after years of struggle.
+
+
+7. [Rural America Is Getting Blindsided by Something New](https://www.nytimes.com/2026/05/02/opinion/data-centers-detention-rural-america.html)
+
+Namely, immigrant detention centers and data centers.
+
+
+8. [Supreme Court Asked to Restore Access to Abortion Pill by Mail](https://www.nytimes.com/2026/05/02/us/politics/supreme-court-mail-abortion-pill.html)
+
+A federal appeals court temporarily halted a Food and Drug Administration regulation that has greatly expanded access to the abortion pill mifepristone.
+
+
+9. [U.S. Fast-Tracks Arms Deals Valued at $8.6 Billion to Mideast Partners](https://www.nytimes.com/2026/05/02/world/middleeast/us-fast-track-arms-deal-middle-east.html)
+
+The Persian Gulf countries and Israel have faced repeated Iranian attacks during the U.S.-Israeli war with Iran. The State Department move bypassed congressional review.
+
+
+10. [The Last Moments of Flight 2216](https://www.nytimes.com/interactive/2026/05/01/world/asia/jeju-air-flight-2216-crash-south-korea.html)
+
+The crew of a stricken South Korean flight faced a cascade of unforgiving decisions in the last moments. The kind other pilots might look at and ask: What would I have done?
 
 
