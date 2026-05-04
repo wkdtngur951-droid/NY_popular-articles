@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-04 20:21:40)
+## 📰 NYTimes Most Popular (Updated: 2026-05-04 22:08:29)
 
-1. [3 Dead of Suspected Hantavirus Infections on Cruise Ship, W.H.O. Says](https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html)
-
-One case of hantavirus infection has been confirmed in a laboratory, the organization said on Sunday. There are five additional suspected cases.
-
-
-2. [3 Medical Routines That Older People May Not Need](https://www.nytimes.com/2026/05/02/health/older-colonoscopy-screenings-treatments.html)
-
-Some screenings and treatments no longer make sense for patients as they age. Researchers have just added a few more to the list.
-
-
-3. [New Video Analysis Suggests Suspect in Correspondents’ Dinner Attack Fired First](https://www.nytimes.com/2026/05/02/us/politics/white-house-correspondents-dinner-shooting-suspect-video.html)
-
-A Times analysis of footage released by the F.B.I. on Thursday night appears to show the assailant shot at a Secret Service officer, who then returned fire.
-
-
-4. [Operation Epic Fury, Meet Operation Colossal Blunder](https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html)
+1. [Operation Epic Fury, Meet Operation Colossal Blunder](https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html)
 
 With the threat of a future closing of the Strait of Hormuz a drone strike away, the Iranians appear to actually hold the cards.
 
 
-5. [Blue and Tentacled, a Sea Creature Invades California Beaches](https://www.nytimes.com/2026/05/03/us/by-the-wind-sailors-invade-california-beaches.html)
+2. [Supreme Court Temporarily Restores Access to Abortion Pill by Mail](https://www.nytimes.com/2026/05/04/us/politics/supreme-court-abortion-pill.html)
+
+A lower-court ruling had reinstated a Food and Drug Administration requirement that patients visit a health care provider in person to obtain mifepristone.
+
+
+3. [Speak, Yuppie](https://www.nytimes.com/2026/05/04/opinion/yuppies-merit-society-politics-cities.html)
+
+The young urban professionals of the 1980s changed our cities, our politics and our meritocratic work lives.
+
+
+4. [Blue and Tentacled, a Sea Creature Invades California Beaches](https://www.nytimes.com/2026/05/03/us/by-the-wind-sailors-invade-california-beaches.html)
 
 The brightly colored jellylike marine life, called “Velella velella,” show up every few years when strong winds blow in the right direction, scientists said.
 
 
-6. [A California Dream? Some Democrats Fear Harris Picked the Wrong Race.](https://www.nytimes.com/2026/05/03/us/politics/kamala-harris-california-governor-democrats.html)
+5. [3 Dead of Suspected Hantavirus Infections on Cruise Ship, W.H.O. Says](https://www.nytimes.com/2026/05/03/well/cruise-ship-virus-fatal-outbreak.html)
 
-Some wish Kamala Harris had decided to run for governor in California, where Democrats are struggling to break through, rather than weigh another White House run.
+One case of hantavirus infection has been confirmed in a laboratory, the organization said on Sunday. There are five additional suspected cases.
 
 
-7. [‘S.N.L.’ Recruits Aziz Ansari to Play F.B.I. Director Kash Patel](https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html)
+6. [Lauren Sánchez Bezos and the Fashion End Times of ‘The Devil Wears Prada 2’](https://www.nytimes.com/2026/05/03/opinion/devil-wears-prada-lauren-sanchez-bezos-met-gala.html)
+
+The real-life Met Gala vs. the one onscreen.
+
+
+7. [Trump Faces the Complicated Reality of a Costly, Unpopular War in Iran](https://www.nytimes.com/2026/05/03/us/politics/trump-unpopular-war-iran.html)
+
+President Trump’s predictions of a relatively short-term conflict with minimal economic consequences appear to be crumbling.
+
+
+8. [‘S.N.L.’ Recruits Aziz Ansari to Play F.B.I. Director Kash Patel](https://www.nytimes.com/2026/05/03/arts/television/aziz-ansari-kash-patel-snl-olivia-rodrigo.html)
 
 Ansari, the “Parks and Recreation” alum, made his first appearance on “Saturday Night Live” in nearly a decade, portraying Patel in an episode hosted by Olivia Rodrigo.
 
 
-8. [The Last Days of Butter Ridge](https://www.nytimes.com/2026/05/03/us/dairy-farm-butter-ridge-pennsylvania.html)
+9. [Blanche Says Others Who Post ‘86 47’ Message Won’t Be Charged Like Comey](https://www.nytimes.com/2026/05/03/us/politics/blanche-comey-indictment-seashells.html)
 
-The Watsons were dairy farmers for generations, the rhythms of their lives defined by their cows. Until this spring.
-
-
-9. [Why the A.I. Job Apocalypse (Probably) Won’t Happen](https://www.nytimes.com/2026/05/03/opinion/ai-jobs-unemployment-silicon-valley.html)
-
-The feeling of efficiency should be mistrusted.
+The acting attorney general said such messages were “posted constantly” and said the Justice Department had gathered other evidence against the former F.B.I. director, but declined to describe it.
 
 
-10. [My Parents Are in Their Mid-80s. Why Won’t They Plan for the End?](https://www.nytimes.com/2026/05/03/opinion/old-age-planning-parents-family.html)
+10. [America Is Officially an Empire in Decline](https://www.nytimes.com/2026/05/03/opinion/iran-us-empire.html)
 
-A few small changes to their home and habits will make it much more likely that they can age in their own home.
+President Trump has overextended the empire dangerously.
 
 
