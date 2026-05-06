@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-05 23:55:33)
+## 📰 NYTimes Most Popular (Updated: 2026-05-06 03:52:01)
 
-1. [This Trump Proposal Could Result in Millions of Americans Losing Their Retirement Savings](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html)
+1. [F.D.A. Blocked Publication of Research Finding Covid and Shingles Vaccines Were Safe](https://www.nytimes.com/2026/05/05/us/politics/fda-covid-vaccine-studies.html)
 
-A win for private equity. A loss for our retirement assets.
-
-
-2. [See What Met Gala Looks People Voted For](https://www.nytimes.com/interactive/2026/05/04/style/met-gala-best-dressed-vote.html)
-
-You’ve seen the fashion from the Met Gala. Now, the Styles desk wants you to rank your favorites.
+The agency’s scientists and data contractors reviewed millions of patient records for studies that were pulled back before release.
 
 
-3. [‘When You Think of It, We Shouldn’t Even Have an Election’](https://www.nytimes.com/2026/05/05/opinion/trump-midterm-elections-2026.html)
-
-Who will keep the 2026 ballots straight?
-
-
-4. [Operation Epic Fury, Meet Operation Colossal Blunder](https://www.nytimes.com/2026/05/04/opinion/iran-us-israel-war-drones-strait-of-hormuz.html)
-
-With the threat of a future closing of the Strait of Hormuz a drone strike away, the Iranians appear to actually hold the cards.
-
-
-5. [The U.S. Army’s ‘Big Experiment’ in the Arctic Cold](https://www.nytimes.com/2026/05/04/us/politics/us-army-arctic-cold.html)
-
-How would soldiers from places like Florida, Texas and Georgia fight and persevere in temperatures as low as minus 40 degrees?
-
-
-6. [If Democrats Have Appropriate Fear of Trump, They Will Elect Platner](https://www.nytimes.com/2026/05/04/opinion/platner-trump-democrats.html)
-
-Don’t let the Platner be the enemy of the good.
-
-
-7. [Home on the Range No More: Trump Wants Bison Gone](https://www.nytimes.com/2026/05/04/us/politics/trump-buffalos-montana.html)
-
-The Trump administration is evicting bison herds from federal grasslands in Montana, siding with ranchers and Republican leaders over environmentalists and tribal leaders.
-
-
-8. [Our 15 Favorite Looks at the 2026 Met Gala](https://www.nytimes.com/2026/05/04/style/met-gala-2026-red-carpet.html)
-
-Regardless of the theme, these people just looked great.
-
-
-9. [2026 Met Gala: All the Looks From Fashion’s Biggest Night](https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html)
+2. [2026 Met Gala: All the Looks From Fashion’s Biggest Night](https://www.nytimes.com/2026/05/04/style/met-gala-red-carpet-photos.html)
 
 See the arrivals on the cobblestone carpet.
 
 
-10. [Secret Service Shoots and Wounds Armed Man Near Washington Monument](https://www.nytimes.com/2026/05/04/us/politics/washington-monument-shooting-secret-service.html)
+3. [A Democrat Who Makes Me Listen](https://www.nytimes.com/2026/05/05/opinion/jake-auchincloss-democrat-massachusetts.html)
 
-A 15-year-old boy was also hit. The motorcade of Vice President JD Vance had passed through the area shortly before the shooting.
+An interview with Representative Jake Auchincloss, a Democrat from the charismatic center.
+
+
+4. [Trump Tries to Downplay Economic Effects of the Iran War](https://www.nytimes.com/2026/05/04/us/politics/trump-economy-iran-war.html)
+
+At a White House event for Small Business Week, he described the economy as “roaring” and predicted that gas prices would go down soon.
+
+
+5. [What Do We Lose When ‘The Late Show’ Goes Away?](https://www.nytimes.com/2026/05/05/arts/television/stephen-colbert-the-late-show-carson-letterman-leno.html)
+
+Our attachment to an institution may seem counterintuitive, especially with comedy, a rebellious art form. But with Stephen Colbert’s program, there was a lot at stake.
+
+
+6. [Trump’s Influence Faces Test at Midwestern Ballot Boxes](https://www.nytimes.com/2026/05/05/us/indiana-legistature-election-trump.html)
+
+Indiana voters were deciding whether to support Republican state lawmakers who rejected the president’s push to redraw the state’s political map last year. Mr. Trump backed challengers.
+
+
+7. [Kennedy Starts a Push to Help Americans Quit Antidepressants](https://www.nytimes.com/2026/05/04/science/rfk-antidepressants-ssris-hhs-maha.html)
+
+The health secretary has long complained that Americans overuse psychiatric medications. New policies he is introducing aim to change that.
+
+
+8. [What to Know About the Growing Saudi Arabia-U.A.E. Rift](https://www.nytimes.com/2026/05/05/world/middleeast/uae-saudi-arabia-oil-opec-what-to-know.html)
+
+Officials say competition between the countries is healthy. But tensions are mounting over energy quotas, regional conflicts and their different visions for the Middle East.
+
+
+9. [Our 15 Favorite Looks at the 2026 Met Gala](https://www.nytimes.com/2026/05/04/style/met-gala-2026-red-carpet.html)
+
+Regardless of the theme, these people just looked great.
+
+
+10. [See What Met Gala Looks People Voted For](https://www.nytimes.com/interactive/2026/05/04/style/met-gala-best-dressed-vote.html)
+
+You’ve seen the fashion from the Met Gala. Now, the Styles desk wants you to rank your favorites.
 
 
