@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-07 20:19:19)
+## 📰 NYTimes Most Popular (Updated: 2026-05-07 22:07:31)
 
-1. [Should You Worry About Hantavirus?](https://www.nytimes.com/2026/05/06/well/hantavirus-symptoms-strains.html)
+1. [5 Notable Moments From Obama’s Interview With Colbert](https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html)
 
-Here’s what to know about the virus, how it spreads and the risk to the general public.
-
-
-2. [Purported Epstein Suicide Note Is Released](https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html)
-
-A federal judge released the note, which Jeffrey Epstein’s former cellmate said he found in a graphic novel. The New York Times has not authenticated that Mr. Epstein wrote it.
+The former president was critical of President Trump, without ever naming him. Mr. Obama also urged Democrats to be plain-spoken, and talked about aliens.
 
 
-3. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
+2. [Giuliani Seeks to Have Health Care Covered by 9/11 Program](https://www.nytimes.com/2026/05/06/nyregion/rudy-giuliani-health-world-trade-center.html)
+
+The former New York City mayor, who is improving after a serious case of pneumonia, suffers from a respiratory condition linked to his exposure to toxins at ground zero, his spokesman says.
+
+
+3. [The World Is About to Get a Preview of Life in 2035](https://www.nytimes.com/2026/05/06/opinion/el-nino-climate.html)
+
+The El Niño brewing this year might make 2027 the hottest year on record.
+
+
+4. [Most Trump-Backed Challengers Beat Indiana Incumbents Who Bucked Trump](https://www.nytimes.com/2026/05/05/us/trump-candidates-win-indiana-republican-primary.html)
+
+President Trump endorsed primary opponents against seven Republican lawmakers who opposed his redistricting push. At least five of the Trump-backed candidates have won their races.
+
+
+5. [The Kind of Men Who Flummox Trump](https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html)
+
+Our most transactional president is having trouble processing.
+
+
+6. [This Trump Proposal Could Result in Millions of Americans Losing Their Retirement Savings](https://www.nytimes.com/2026/05/05/opinion/trump-retirement-private-equity-401k.html)
+
+A win for private equity. A loss for our retirement assets.
+
+
+7. [Ted Turner, Creator of CNN and the 24-Hour News Cycle, Dies at 87](https://www.nytimes.com/2026/05/06/business/media/ted-turner-dead.html)
+
+As one of the most important figures in media history, he oversaw a vast cable empire of news, sports and entertainment channels.
+
+
+8. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
 
 We can’t be certain — and that’s the point.
 
 
-4. [John Roberts Believes in an America That Doesn’t Exist](https://www.nytimes.com/2026/05/06/opinion/callais-voting-rights-act-discrimination.html)
+9. [John Roberts Believes in an America That Doesn’t Exist](https://www.nytimes.com/2026/05/06/opinion/callais-voting-rights-act-discrimination.html)
 
 Guess who benefits from a “colorblind Constitution.”
 
 
-5. [5 Takeaways From the California Governor Debate](https://www.nytimes.com/2026/05/07/us/politics/california-governors-debate-takeaways.html)
+10. [What Happened When the Pope Had to Call Customer Service](https://www.nytimes.com/2026/05/05/us/pope-leo-xiv-bank-customer-service.html)
 
-Candidates debated housing and insurance policy in the first half, then furiously attacked one another at the end.
-
-
-6. [Late Night Cringes at Trump’s Chatter in Front of Children](https://www.nytimes.com/2026/05/06/arts/television/late-night-trump-war-children.html)
-
-“How are you talking about nuclear war in front of children?” Desi Lydic asked after the president discussed the Iran conflict in a room full of students on Tuesday.
-
-
-7. [White House Insists Iran War Is Over, Even While Missiles Fly](https://www.nytimes.com/2026/05/05/us/politics/trump-iran-war-political-crisis-rhetoric.html)
-
-The White House is turning to rhetorical leaps as President Trump tries to put the biggest political crisis of his presidency behind him.
-
-
-8. [A Democrat Who Makes Me Listen](https://www.nytimes.com/2026/05/05/opinion/jake-auchincloss-democrat-massachusetts.html)
-
-An interview with Representative Jake Auchincloss, a Democrat from the charismatic center.
-
-
-9. [Susan Collins Says She Has Long Had a Benign Tremor](https://www.nytimes.com/2026/05/06/us/politics/susan-collins-tremor-maine-senate-race.html)
-
-The Republican senator from Maine, running for re-election at age 73 in one of this year’s top Senate races, made the disclosure after mounting online scrutiny on the left.
-
-
-10. [The World Is About to Get a Preview of Life in 2035](https://www.nytimes.com/2026/05/06/opinion/el-nino-climate.html)
-
-The El Niño brewing this year might make 2027 the hottest year on record.
+Spoiler alert: There was no miracle.
 
 
