@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-08 18:14:59)
+## 📰 NYTimes Most Popular (Updated: 2026-05-08 20:09:55)
 
-1. [The Kind of Men Who Flummox Trump](https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html)
+1. [Trump Reversed Hormuz Plan After Saudis Denied Airspace Access](https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html)
 
-Our most transactional president is having trouble processing.
-
-
-2. [Should You Worry About Hantavirus?](https://www.nytimes.com/2026/05/06/well/hantavirus-symptoms-strains.html)
-
-Here’s what to know about the virus, how it spreads and the risk to the general public.
+Saudi Arabia’s refusal of support suggests that President Trump’s unpredictable approach to Iran has strained ties with one of his closest allies in the Middle East.
 
 
-3. [Millions for a Paint Job? Trump Wants the Eisenhower Building Painted White.](https://www.nytimes.com/2026/05/07/us/politics/trump-paint-eisenhower-building.html)
+2. [Meta Is Dying. It’s About Time.](https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html)
 
-The project would transform the granite exterior of the historic Eisenhower Executive Office Building, which dates to the 1800s.
-
-
-4. [Global Health Officials Race to Track Hantavirus but Predict ‘Limited’ Outbreak](https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html)
-
-A Dutch flight attendant and French national were among the latest to be tested in connection with a deadly outbreak on a cruise ship. But an analysis in South Africa showed no mutations in viral samples.
+Meta has commenced a long, slow slide into irrelevance.
 
 
-5. [Rubio Meets Pope Amid U.S. Tensions With Vatican](https://www.nytimes.com/2026/05/07/us/politics/rubio-pope-meeting.html)
+3. [Trade Court Rules Trump’s 10% Global Tariff Is Illegal](https://www.nytimes.com/2026/05/07/business/economy/trump-global-tariff-ruled-illegal.html)
 
-The meeting at the Vatican followed President Trump’s condemnation of Pope Leo XIV for opposing the war in Iran.
+A panel of federal judges found that President Trump could not legally impose the tariff on most imports.
 
 
-6. [Canvas Online Learning Platform Shut Down for Hours After Cyberattack](https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html)
+4. [Canvas Online Learning Platform Shut Down for Hours After Cyberattack](https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html)
 
 Most users regained access to the platform hours after a hacking group said it had attacked Canvas’s parent company and breached 275 million people’s data.
 
 
-7. [Susan Collins Says She Has Long Had a Benign Tremor](https://www.nytimes.com/2026/05/06/us/politics/susan-collins-tremor-maine-senate-race.html)
+5. [Global Health Officials Race to Track Hantavirus but Predict ‘Limited’ Outbreak](https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html)
 
-The Republican senator from Maine, running for re-election at age 73 in one of this year’s top Senate races, made the disclosure after mounting online scrutiny on the left.
-
-
-8. [Purported Epstein Suicide Note Is Released](https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html)
-
-A federal judge released the note, which Jeffrey Epstein’s former cellmate said he found in a graphic novel. The New York Times has not authenticated that Mr. Epstein wrote it.
+A Dutch flight attendant and French national were among the latest to be tested in connection with a deadly outbreak on a cruise ship. But an analysis in South Africa showed no mutations in viral samples.
 
 
-9. [5 Takeaways From the California Governor Debate](https://www.nytimes.com/2026/05/07/us/politics/california-governors-debate-takeaways.html)
+6. [Data Suggests Struggle in Cockpit Before Deadly China Eastern Plane Crash](https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html)
 
-Candidates debated housing and insurance policy in the first half, then furiously attacked one another at the end.
+A report by the U.S. National Transportation Safety Board offers new details about the China Eastern Airlines crash in 2022, which killed all 132 people on board.
 
 
-10. [In Huge Blow to Democrats, Virginia Court Strikes Down House Map](https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html)
+7. [Pentagon Releases Files on U.F.O.s](https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html)
 
-The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.
+The initial files are murky images that show what could be anything. The government said more would be released on a rolling basis.
+
+
+8. [A Mistaken Guy: The 20-Year Legacy of a Live TV Blunder](https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html)
+
+Guy Goma thought he was interviewing for an I.T. job when he found himself on air on the BBC. What came next was familiar to anyone who has been unprepared at work.
+
+
+9. [Millions for a Paint Job? Trump Wants the Eisenhower Building Painted White.](https://www.nytimes.com/2026/05/07/us/politics/trump-paint-eisenhower-building.html)
+
+The project would transform the granite exterior of the historic Eisenhower Executive Office Building, which dates to the 1800s.
+
+
+10. [5 Notable Moments From Obama’s Interview With Colbert](https://www.nytimes.com/2026/05/06/us/obama-colbert-interview-trump.html)
+
+The former president was critical of President Trump, without ever naming him. Mr. Obama also urged Democrats to be plain-spoken, and talked about aliens.
 
 
