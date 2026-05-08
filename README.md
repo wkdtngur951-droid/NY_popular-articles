@@ -1,43 +1,43 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-08 16:21:35)
+## 📰 NYTimes Most Popular (Updated: 2026-05-08 18:14:59)
 
 1. [The Kind of Men Who Flummox Trump](https://www.nytimes.com/2026/05/07/opinion/trump-iran-ukraine-true-believers.html)
 
 Our most transactional president is having trouble processing.
 
 
-2. [Susan Collins Says She Has Long Had a Benign Tremor](https://www.nytimes.com/2026/05/06/us/politics/susan-collins-tremor-maine-senate-race.html)
+2. [Should You Worry About Hantavirus?](https://www.nytimes.com/2026/05/06/well/hantavirus-symptoms-strains.html)
 
-The Republican senator from Maine, running for re-election at age 73 in one of this year’s top Senate races, made the disclosure after mounting online scrutiny on the left.
-
-
-3. [Data Suggests Struggle in Cockpit Before Deadly China Eastern Plane Crash](https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html)
-
-A report by the U.S. National Transportation Safety Board offers new details about the China Eastern Airlines crash in 2022, which killed all 132 people on board.
+Here’s what to know about the virus, how it spreads and the risk to the general public.
 
 
-4. [Trump Reversed Hormuz Plan After Saudis Denied Airspace Access](https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html)
+3. [Millions for a Paint Job? Trump Wants the Eisenhower Building Painted White.](https://www.nytimes.com/2026/05/07/us/politics/trump-paint-eisenhower-building.html)
 
-Saudi Arabia’s refusal of support suggests that President Trump’s unpredictable approach to Iran has strained ties with one of his closest allies in the Middle East.
-
-
-5. [Trade Court Rules Trump’s 10% Global Tariff Is Illegal](https://www.nytimes.com/2026/05/07/business/economy/trump-global-tariff-ruled-illegal.html)
-
-A panel of federal judges found that President Trump could not legally impose the tariff on most imports.
+The project would transform the granite exterior of the historic Eisenhower Executive Office Building, which dates to the 1800s.
 
 
-6. [A Mistaken Guy: The 20-Year Legacy of a Live TV Blunder](https://www.nytimes.com/2026/05/06/business/media/bbc-guy-goma-interview.html)
+4. [Global Health Officials Race to Track Hantavirus but Predict ‘Limited’ Outbreak](https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html)
 
-Guy Goma thought he was interviewing for an I.T. job when he found himself on air on the BBC. What came next was familiar to anyone who has been unprepared at work.
+A Dutch flight attendant and French national were among the latest to be tested in connection with a deadly outbreak on a cruise ship. But an analysis in South Africa showed no mutations in viral samples.
 
 
-7. [Rubio Meets Pope Amid U.S. Tensions With Vatican](https://www.nytimes.com/2026/05/07/us/politics/rubio-pope-meeting.html)
+5. [Rubio Meets Pope Amid U.S. Tensions With Vatican](https://www.nytimes.com/2026/05/07/us/politics/rubio-pope-meeting.html)
 
 The meeting at the Vatican followed President Trump’s condemnation of Pope Leo XIV for opposing the war in Iran.
 
 
-8. [A Legendary Investor on How to Prevent America’s Coming ‘Heart Attack’](https://www.nytimes.com/2026/05/07/opinion/american-empire-future-ray-dalio.html)
+6. [Canvas Online Learning Platform Shut Down for Hours After Cyberattack](https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html)
 
-Why Ray Dalio is bearish on the U.S.
+Most users regained access to the platform hours after a hacking group said it had attacked Canvas’s parent company and breached 275 million people’s data.
+
+
+7. [Susan Collins Says She Has Long Had a Benign Tremor](https://www.nytimes.com/2026/05/06/us/politics/susan-collins-tremor-maine-senate-race.html)
+
+The Republican senator from Maine, running for re-election at age 73 in one of this year’s top Senate races, made the disclosure after mounting online scrutiny on the left.
+
+
+8. [Purported Epstein Suicide Note Is Released](https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html)
+
+A federal judge released the note, which Jeffrey Epstein’s former cellmate said he found in a graphic novel. The New York Times has not authenticated that Mr. Epstein wrote it.
 
 
 9. [5 Takeaways From the California Governor Debate](https://www.nytimes.com/2026/05/07/us/politics/california-governors-debate-takeaways.html)
@@ -45,8 +45,8 @@ Why Ray Dalio is bearish on the U.S.
 Candidates debated housing and insurance policy in the first half, then furiously attacked one another at the end.
 
 
-10. [Is Trump About to Invite In the Biggest Predator in the World?](https://www.nytimes.com/2026/05/08/opinion/trump-xi-china-us-automakers.html)
+10. [In Huge Blow to Democrats, Virginia Court Strikes Down House Map](https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html)
 
-Chinese automakers do not belong on American soil.
+The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.
 
 
