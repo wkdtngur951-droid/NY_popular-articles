@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-09 22:54:33)
+## 📰 NYTimes Most Popular (Updated: 2026-05-09 23:55:49)
 
-1. [In Huge Blow to Democrats, Virginia Court Strikes Down House Map](https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html)
+1. [A Second Chance Led Them Back to Each Other](https://www.nytimes.com/2026/05/08/style/negarin-sadr-matt-sornson-canceled-wedding-redemption.html)
 
-The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.
+When Matt Sornson and Negarin Sadr first met, they didn’t quite hit it off. But after reconnecting years later online, they built a strong foundation that would later be tested.
 
 
-2. [Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship](https://www.nytimes.com/2026/05/07/opinion/hantavirus-cruise-ship-virus-outbreak.html)
+2. [The New York Times News Quiz, May 8, 2026](https://www.nytimes.com/interactive/2026/05/08/briefing/news-quiz-trump-iran-hantavirus.html)
 
-An expert weighs in.
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
 3. [My Ted Talk](https://www.nytimes.com/2026/05/09/opinion/ted-turner-death-jane-fonda-cnn.html)
@@ -15,38 +15,38 @@ An expert weighs in.
 Captain Courageous cut a cool swath, in contrast to today’s creepy oligarchs.
 
 
-4. [Is Trump About to Invite In the Biggest Predator in the World?](https://www.nytimes.com/2026/05/08/opinion/trump-xi-china-us-automakers.html)
+4. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
 
-Chinese automakers do not belong on American soil.
-
-
-5. [ABC Accuses Government of Violating First Amendment](https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html)
-
-The network’s argument, made to the F.C.C., is the most aggressive posture taken yet by a television network toward the Trump administration.
+We can’t be certain — and that’s the point.
 
 
-6. [Hegseth Is Sending Us a Warning](https://www.nytimes.com/2026/05/08/opinion/hegseth-kelly-military-free-speech.html)
+5. [Hegseth Is Sending Us a Warning](https://www.nytimes.com/2026/05/08/opinion/hegseth-kelly-military-free-speech.html)
 
 The secretary of defense has argued that military retirees are subject to freedom of speech restrictions. Let that sink in.
 
 
-7. [A Second Chance Led Them Back to Each Other](https://www.nytimes.com/2026/05/08/style/negarin-sadr-matt-sornson-canceled-wedding-redemption.html)
+6. [3 Medical Routines That Older People May Not Need](https://www.nytimes.com/2026/05/02/health/older-colonoscopy-screenings-treatments.html)
 
-When Matt Sornson and Negarin Sadr first met, they didn’t quite hit it off. But after reconnecting years later online, they built a strong foundation that would later be tested.
-
-
-8. [Compare the Purported Epstein Suicide Note to His Writings](https://www.nytimes.com/2026/05/08/nyregion/epstein-suicide-note-phrases.html)
-
-The New York Times has not authenticated the note. But some of its phrases are similar or identical to ones Jeffrey Epstein used in emails and another handwritten letter.
+Some screenings and treatments no longer make sense for patients as they age. Researchers have just added a few more to the list.
 
 
-9. [U.S. Schools Face a Crisis as the Number of Children Drops](https://www.nytimes.com/2026/05/08/upshot/public-schools-enrollment-crisis.html)
+7. [Meta Is Dying. It’s About Time.](https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html)
 
-With fewer students, many public school districts are confronting unfilled classrooms, and hard choices about school closures.
+Meta has commenced a long, slow slide into irrelevance.
 
 
-10. [‘Blue Film’ Review: The Sex Is Expensive. The Talk Is Priceless.](https://www.nytimes.com/2026/05/07/movies/blue-film-review.html)
+8. [Frontier Jet Hits Person on Runway During Takeoff at Denver Airport](https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html)
 
-An older man pays a camboy $50,000 for a night that goes to difficult, existential places in this breakout feature from Elliot Tuttle.
+The plane reported an engine fire and aborted its takeoff. The people on board were safely evacuated.
+
+
+9. [Is Trump About to Invite In the Biggest Predator in the World?](https://www.nytimes.com/2026/05/08/opinion/trump-xi-china-us-automakers.html)
+
+Chinese automakers do not belong on American soil.
+
+
+10. [ABC Accuses Government of Violating First Amendment](https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html)
+
+The network’s argument, made to the F.C.C., is the most aggressive posture taken yet by a television network toward the Trump administration.
 
 
