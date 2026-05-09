@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-09 00:01:02)
+## 📰 NYTimes Most Popular (Updated: 2026-05-09 04:27:20)
 
-1. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
+1. [The Many Love Lives of Ted Turner](https://www.nytimes.com/2026/05/08/style/ted-turner-relationships-wives-jane-fonda.html)
+
+Known as a playboy, the media mogul gave his paramours and three ex-wives plenty of stories to tell. He also managed to stay friendly with many of them.
+
+
+2. [Meta Is Dying. It’s About Time.](https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html)
+
+Meta has commenced a long, slow slide into irrelevance.
+
+
+3. [Is Trump About to Invite In the Biggest Predator in the World?](https://www.nytimes.com/2026/05/08/opinion/trump-xi-china-us-automakers.html)
+
+Chinese automakers do not belong on American soil.
+
+
+4. [Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship](https://www.nytimes.com/2026/05/07/opinion/hantavirus-cruise-ship-virus-outbreak.html)
+
+An expert weighs in.
+
+
+5. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
 
 We can’t be certain — and that’s the point.
 
 
-2. [Purported Epstein Suicide Note Is Released](https://www.nytimes.com/2026/05/06/nyregion/epstein-suicide-note.html)
+6. [Hegseth Says This War Has Cost $25 Billion. I Tallied Up the True Amount.](https://www.nytimes.com/2026/05/08/opinion/hegseth-war-cost.html)
 
-A federal judge released the note, which Jeffrey Epstein’s former cellmate said he found in a graphic novel. The New York Times has not authenticated that Mr. Epstein wrote it.
-
-
-3. [Trump Reversed Hormuz Plan After Saudis Denied Airspace Access](https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html)
-
-Saudi Arabia’s refusal of support suggests that President Trump’s unpredictable approach to Iran has strained ties with one of his closest allies in the Middle East.
-
-
-4. [Trade Court Rules Trump’s 10% Global Tariff Is Illegal](https://www.nytimes.com/2026/05/07/business/economy/trump-global-tariff-ruled-illegal.html)
-
-A panel of federal judges found that President Trump could not legally impose the tariff on most imports.
-
-
-5. [Canvas Online Learning Platform Shut Down for Hours After Cyberattack](https://www.nytimes.com/2026/05/07/education/canvas-hacked-down-data-breach.html)
-
-Most users regained access to the platform hours after a hacking group said it had attacked Canvas’s parent company and breached 275 million people’s data.
-
-
-6. [Global Health Officials Race to Track Hantavirus but Predict ‘Limited’ Outbreak](https://www.nytimes.com/2026/05/07/world/europe/hantavirus-cruise-ship-outbreak.html)
-
-A Dutch flight attendant and French national were among the latest to be tested in connection with a deadly outbreak on a cruise ship. But an analysis in South Africa showed no mutations in viral samples.
+The war in Iran will cost trillions — far more than current estimates.
 
 
 7. [In Huge Blow to Democrats, Virginia Court Strikes Down House Map](https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html)
@@ -35,18 +35,18 @@ A Dutch flight attendant and French national were among the latest to be tested 
 The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.
 
 
-8. [ABC Accuses Government of Violating First Amendment](https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html)
+8. [Millions for a Paint Job? Trump Wants the Eisenhower Building Painted White.](https://www.nytimes.com/2026/05/07/us/politics/trump-paint-eisenhower-building.html)
 
-The network’s argument, made to the F.C.C., is the most aggressive posture taken yet by a television network toward the Trump administration.
-
-
-9. [Pentagon Releases Files on U.F.O.s](https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html)
-
-The initial files are murky images that show what could be anything. The government said more would be released on a rolling basis.
+The project would transform the granite exterior of the historic Eisenhower Executive Office Building, which dates to the 1800s.
 
 
-10. [Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship](https://www.nytimes.com/2026/05/07/opinion/hantavirus-cruise-ship-virus-outbreak.html)
+9. [Data Suggests Struggle in Cockpit Before Deadly China Eastern Plane Crash](https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html)
 
-An expert weighs in.
+A report by the U.S. National Transportation Safety Board offers new details about the China Eastern Airlines crash in 2022, which killed all 132 people on board.
+
+
+10. [When You’re ‘Fired From Retirement’](https://www.nytimes.com/2026/05/08/business/retirees-back-to-work-money.html)
+
+People return to work for many reasons, but the biggest is financial need. As costs remain high, more retirees could be looking to re-enter the job market.
 
 
