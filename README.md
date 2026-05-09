@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-09 20:53:28)
+## 📰 NYTimes Most Popular (Updated: 2026-05-09 21:53:41)
 
-1. [Here’s How Freaked Out You Should Be About the Hantavirus Cruise Ship](https://www.nytimes.com/2026/05/07/opinion/hantavirus-cruise-ship-virus-outbreak.html)
+1. [Meta Is Dying. It’s About Time.](https://www.nytimes.com/2026/05/08/opinion/meta-facebook-zuckerberg.html)
 
-An expert weighs in.
-
-
-2. [In Huge Blow to Democrats, Virginia Court Strikes Down House Map](https://www.nytimes.com/2026/05/08/us/politics/virginia-redistricting-supreme-court.html)
-
-The decision is a major victory for Republicans, wiping away a measure approved by voters to allow Democrats to gain as many as four House seats in the midterms.
+Meta has commenced a long, slow slide into irrelevance.
 
 
-3. [Is Trump About to Invite In the Biggest Predator in the World?](https://www.nytimes.com/2026/05/08/opinion/trump-xi-china-us-automakers.html)
+2. [Frontier Jet Hits Person on Runway During Takeoff at Denver Airport](https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html)
 
-Chinese automakers do not belong on American soil.
+The plane reported an engine fire and aborted its takeoff. The people on board were safely evacuated.
 
 
-4. [Pentagon Releases Files on U.F.O.s](https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html)
+3. [Pentagon Releases Files on U.F.O.s](https://www.nytimes.com/2026/05/08/us/politics/pentagon-ufo-files.html)
 
 The initial files are murky images that show what could be anything. The government said more would be released on a rolling basis.
 
 
-5. [Trump Administration Wants to Strip 12 Immigrants of U.S. Citizenship](https://www.nytimes.com/2026/05/08/us/politics/trump-immigrants-citizenship.html)
+4. [Is Trump About to Invite In the Biggest Predator in the World?](https://www.nytimes.com/2026/05/08/opinion/trump-xi-china-us-automakers.html)
 
-The targeted Americans are accused of misdeeds that can qualify them to lose citizenship, but denaturalization has rarely been invoked in the past.
+Chinese automakers do not belong on American soil.
+
+
+5. [ABC Accuses Government of Violating First Amendment](https://www.nytimes.com/2026/05/08/business/media/abc-fcc-first-amendment-the-view.html)
+
+The network’s argument, made to the F.C.C., is the most aggressive posture taken yet by a television network toward the Trump administration.
 
 
 6. [The No-Bid Contract That Is Turning Washington’s Reflecting Pool Blue](https://www.nytimes.com/2026/05/08/us/politics/reflecting-pool-trump-contract.html)
@@ -30,23 +30,23 @@ The targeted Americans are accused of misdeeds that can qualify them to lose cit
 President Trump handpicked a firm he said had worked on his swimming pool to repair the iconic site near the Lincoln Memorial.
 
 
-7. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
+7. [A Second Chance Led Them Back to Each Other](https://www.nytimes.com/2026/05/08/style/negarin-sadr-matt-sornson-canceled-wedding-redemption.html)
 
-We can’t be certain — and that’s the point.
-
-
-8. [Data Suggests Struggle in Cockpit Before Deadly China Eastern Plane Crash](https://www.nytimes.com/2026/05/07/world/asia/china-eastern-plane-crash-flight-5735-ntsb.html)
-
-A report by the U.S. National Transportation Safety Board offers new details about the China Eastern Airlines crash in 2022, which killed all 132 people on board.
+When Matt Sornson and Negarin Sadr first met, they didn’t quite hit it off. But after reconnecting years later online, they built a strong foundation that would later be tested.
 
 
-9. [Frontier Jet Hits Person on Runway During Takeoff at Denver Airport](https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html)
+8. [Trump Reversed Hormuz Plan After Saudis Denied Airspace Access](https://www.nytimes.com/2026/05/07/us/politics/trump-strait-of-hormuz-saudis.html)
 
-The plane reported an engine fire and aborted its takeoff. The people on board were safely evacuated.
+Saudi Arabia’s refusal of support suggests that President Trump’s unpredictable approach to Iran has strained ties with one of his closest allies in the Middle East.
 
 
-10. [Hegseth Is Sending Us a Warning](https://www.nytimes.com/2026/05/08/opinion/hegseth-kelly-military-free-speech.html)
+9. [The New York Times News Quiz, May 8, 2026](https://www.nytimes.com/interactive/2026/05/08/briefing/news-quiz-trump-iran-hantavirus.html)
 
-The secretary of defense has argued that military retirees are subject to freedom of speech restrictions. Let that sink in.
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+10. [Compare the Purported Epstein Suicide Note to His Writings](https://www.nytimes.com/2026/05/08/nyregion/epstein-suicide-note-phrases.html)
+
+The New York Times has not authenticated the note. But some of its phrases are similar or identical to ones Jeffrey Epstein used in emails and another handwritten letter.
 
 
