@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-11 16:06:39)
+## 📰 NYTimes Most Popular (Updated: 2026-05-11 19:01:36)
 
-1. [Vance or Rubio? Trump Muses on Successor as the ‘Kids’ Fill Bigger Roles.](https://www.nytimes.com/2026/05/10/us/politics/vance-rubio-trump-succession.html)
+1. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
 
-Vice President JD Vance and Secretary of State Marco Rubio are boosting their profiles, generating speculation about who’s lining up for the 2028 presidential nomination.
+We can’t be certain — and that’s the point.
 
 
-2. [Putin’s Forces Are Barely Inching Along on the Battlefield](https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html)
+2. [The Silence That Meets the Rape of Palestinians](https://www.nytimes.com/2026/05/11/opinion/israel-palestinians-sexual-violence.html)
+
+Male and female Palestinians describe brutal sexual abuse at the hands of Israel’s prison guards, soldiers, settlers and interrogators.
+
+
+3. [Putin’s Forces Are Barely Inching Along on the Battlefield](https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html)
 
 The Russian military has yet to solve a fundamental problem: how to make big advances in eastern Ukraine when drones are everywhere.
 
 
-3. [Frontier Jet Hits Person on Runway During Takeoff at Denver Airport](https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html)
+4. [Mass Layoffs in Iran as Businesses Buckle Under Wartime Pressures](https://www.nytimes.com/2026/05/10/world/middleeast/iran-economy-layoffs.html)
 
-The plane reported an engine fire and aborted its takeoff. The people on board were safely evacuated.
-
-
-4. [A Private Call Reveals Democrats’ Desperation Over Tossing of Map](https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html)
-
-A conversation involving House members from Virginia and the top House Democrat reflected the fury and desperation that has gripped the party after Friday’s ruling in the state.
+Iran was already struggling economically before 2026 brought widespread instability. A government-imposed internet shutdown has crippled an entire sector.
 
 
-5. [The Platner Trap](https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html)
+5. [‘Bill Cassidy Sold His Soul to the Devil, and He Didn’t Get Anything for It’](https://www.nytimes.com/2026/05/11/opinion/bill-cassidy-louisiana-republican-primary.html)
+
+A doctor and senator who voted to confirm Robert Kennedy still was snubbed by Trump in the Republican primary in Louisiana.
+
+
+6. [How Israel Turned Eurovision’s Stage Into a Soft Power Tool](https://www.nytimes.com/2026/05/11/world/europe/eurovision-israel-gaza-netanyahu.html)
+
+Israel’s efforts to influence Eurovision’s vote were broader and started years earlier than previously known.
+
+
+7. [The Platner Trap](https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html)
 
 The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.
 
 
-6. [Hiker Killed by Bear in ‘Surprise Encounter’ at Glacier National Park, Officials Say](https://www.nytimes.com/2026/05/09/us/bear-attack-glacier-national-park.html)
+8. [Vance or Rubio? Trump Muses on Successor as the ‘Kids’ Fill Bigger Roles.](https://www.nytimes.com/2026/05/10/us/politics/vance-rubio-trump-succession.html)
 
-The victim was a seasoned outdoorsman who “had no problem being alone in the woods,” his father said. He was found with injuries “consistent with those sustained by a bear encounter,” the National Park Service said.
-
-
-7. [On ‘S.N.L.’, Brett Kavanaugh, Kash Patel and Pete Hegseth Walk Into a Bar](https://www.nytimes.com/2026/05/10/arts/television/on-snl-brett-kavanaugh-kash-patel-and-pete-hegseth-walk-into-a-bar.html)
-
-Matt Damon and Aziz Ansari return to roles they have played on “Saturday Night Live” alongside Colin Jost, in an episode hosted by Damon.
+Vice President JD Vance and Secretary of State Marco Rubio are boosting their profiles, generating speculation about who’s lining up for the 2028 presidential nomination.
 
 
-8. [American Passengers Exposed to Hantavirus Land in U.S.](https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-return-nebraska.html)
+9. [American Passengers Exposed to Hantavirus Begin Quarantine in U.S.](https://www.nytimes.com/2026/05/10/us/americans-hantavirus-ship-quarantine-nebraska.html)
 
-Seventeen Americans from a cruise ship that faced a hantavirus outbreak arrived in Nebraska and will be monitored at a quarantine center. One tested positive for the Andes virus, health officials said.
-
-
-9. [When Your Terminal Cancer Becomes a Chronic Illness](https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html)
-
-For some patients, cancer is becoming like a chronic illness.
+Eighteen people from a cruise ship that faced an outbreak are being monitored at medical facilities in Nebraska and Georgia. One tested positive for the Andes virus, health officials said.
 
 
-10. [The Wisdom of Our Mothers](https://www.nytimes.com/interactive/2026/05/08/well/family/mom-advice-mothers-day.html)
+10. [The 100 Best Restaurants in New York City in 2026](https://www.nytimes.com/interactive/2026/dining/best-nyc-restaurants.html)
 
-Readers share thoughtful, practical and often funny advice from their moms.
+The annual list is back. Our new chief critic ranks her favorite places to dine in all five boroughs.
 
 
