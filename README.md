@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-11 00:00:57)
+## 📰 NYTimes Most Popular (Updated: 2026-05-11 05:01:09)
 
-1. [Why Everyone Was So Mad About the Met Gala](https://www.nytimes.com/2026/05/08/style/why-everyone-was-so-mad-about-the-met-gala.html)
+1. [One Big Headache for Politicians These Days: a Messy Digital Footprint](https://www.nytimes.com/2026/05/10/us/politics/politicians-old-tweets-controversies.html)
 
-Plus, a remembrance of Ted Turner and a tank top quandary.
-
-
-2. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
-
-We can’t be certain — and that’s the point.
+As a new generation of chronically online oversharers runs for office, many find themselves tripped up by past statements. Their response? Delete, distance, disavow.
 
 
-3. [Flashback: Your Weekly History Quiz, May 9, 2026](https://www.nytimes.com/interactive/2026/05/08/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-4. [A Personal Finance Star on What Millennials Need From Their Boomer Parents](https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html)
+2. [A Personal Finance Star on What Millennials Need From Their Boomer Parents](https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html)
 
 Ramit Sethi wants everyone to have a healthier relationship to money, and thinks he knows how to get us there.
 
 
-5. [Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak](https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html)
+3. [A Private Call Reveals Democrats’ Desperation Over Tossing of Map](https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html)
+
+A conversation involving House members from Virginia and the top House Democrat reflected the fury and desperation that has gripped the party after Friday’s ruling in the state.
+
+
+4. [Passengers on Ship Struck by Hantavirus to Disembark on Sunday](https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html)
+
+The cruise ship will arrive on the island of Tenerife, part of the Canary Islands of Spain, officials said. All of the passengers will then be evacuated to their home countries.
+
+
+5. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
+
+We can’t be certain — and that’s the point.
+
+
+6. [Frontier Jet Hits Person on Runway During Takeoff at Denver Airport](https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html)
+
+The plane reported an engine fire and aborted its takeoff. The people on board were safely evacuated.
+
+
+7. [When Your Terminal Cancer Becomes a Chronic Illness](https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html)
+
+For some patients, cancer is becoming like a chronic illness.
+
+
+8. [Putin’s Forces Are Barely Inching Along on the Battlefield](https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html)
+
+The Russian military has yet to solve a fundamental problem: how to make big advances in eastern Ukraine when drones are everywhere.
+
+
+9. [Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak](https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html)
 
 Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said.
 
 
-6. [I Forgave My Mother, but It Was Too Late](https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html)
+10. [On ‘S.N.L.’, Brett Kavanaugh, Kash Patel and Pete Hegseth Walk Into a Bar](https://www.nytimes.com/2026/05/10/arts/television/on-snl-brett-kavanaugh-kash-patel-and-pete-hegseth-walk-into-a-bar.html)
 
-I’m realizing that a sort of gooey sitcom resolution is not in the cards for my mother and me.
-
-
-7. [Hegseth Is Sending Us a Warning](https://www.nytimes.com/2026/05/08/opinion/hegseth-kelly-military-free-speech.html)
-
-The secretary of defense has argued that military retirees are subject to freedom of speech restrictions. Let that sink in.
-
-
-8. [How China’s Leader Lost Faith in His Generals](https://www.nytimes.com/2026/05/09/world/asia/china-military-generals.html)
-
-Xi Jinping spent 13 years building a military to rival that of the United States. But the stronger the Chinese forces grew, the less he trusted the generals he had handpicked to run them.
-
-
-9. [Long Overlooked, Caspian Sea Provides Strategic Trade Route for Iran](https://www.nytimes.com/2026/05/09/world/middleeast/caspian-sea-iran-russia.html)
-
-The landlocked body of water has taken on new significance, with Russia shipping military and commercial goods to bolster Tehran’s ability to withstand the U.S. assault.
-
-
-10. [Retirees Expect Their Home to Be a Financial Safety Net. They Shouldn’t.](https://www.nytimes.com/2026/05/09/business/retirement-home-equity-selling-your-house.html)
-
-Older homeowners often can’t afford to maintain their houses or don’t understand the value in updating them. And that can mean thousands lost when they sell.
+Matt Damon and Aziz Ansari return to roles they have played on “Saturday Night Live” alongside Colin Jost, in an episode hosted by Damon.
 
 
