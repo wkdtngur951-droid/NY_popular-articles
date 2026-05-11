@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-11 05:01:09)
+## 📰 NYTimes Most Popular (Updated: 2026-05-11 09:53:33)
 
-1. [One Big Headache for Politicians These Days: a Messy Digital Footprint](https://www.nytimes.com/2026/05/10/us/politics/politicians-old-tweets-controversies.html)
+1. [The Wisdom of Our Mothers](https://www.nytimes.com/interactive/2026/05/08/well/family/mom-advice-mothers-day.html)
 
-As a new generation of chronically online oversharers runs for office, many find themselves tripped up by past statements. Their response? Delete, distance, disavow.
-
-
-2. [A Personal Finance Star on What Millennials Need From Their Boomer Parents](https://www.nytimes.com/2026/05/09/magazine/ramit-sethi-interview.html)
-
-Ramit Sethi wants everyone to have a healthier relationship to money, and thinks he knows how to get us there.
+Readers share thoughtful, practical and often funny advice from their moms.
 
 
-3. [A Private Call Reveals Democrats’ Desperation Over Tossing of Map](https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html)
+2. [He Thinks Netflix Accused Him of Murder. The Courts Disagree.](https://www.nytimes.com/2026/05/10/magazine/netflix-diving-libel-case-murder-no-limit.html)
 
-A conversation involving House members from Virginia and the top House Democrat reflected the fury and desperation that has gripped the party after Friday’s ruling in the state.
+When the famed freediver Francisco Ferreras filed a libel suit over “No Limit,” his case looked strong. Proving it would require a more honest accounting of his life.
 
 
-4. [Passengers on Ship Struck by Hantavirus to Disembark on Sunday](https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html)
+3. [We’re at the Dawn of the Ozempic Era — and It’s Really Weird](https://www.nytimes.com/2026/05/08/opinion/ezra-klein-podcast-julia-belluz.html)
+
+One in eight American adults is taking GLP-1s. What does that mean for how we relate to our food, bodies and one another?
+
+
+4. [I Forgave My Mother, but It Was Too Late](https://www.nytimes.com/2026/05/10/opinion/erica-jong-mothers-day-dementia.html)
+
+I’m realizing that a sort of gooey sitcom resolution is not in the cards for my mother and me.
+
+
+5. [On ‘S.N.L.’, Brett Kavanaugh, Kash Patel and Pete Hegseth Walk Into a Bar](https://www.nytimes.com/2026/05/10/arts/television/on-snl-brett-kavanaugh-kash-patel-and-pete-hegseth-walk-into-a-bar.html)
+
+Matt Damon and Aziz Ansari return to roles they have played on “Saturday Night Live” alongside Colin Jost, in an episode hosted by Damon.
+
+
+6. [Passengers on Ship Struck by Hantavirus to Disembark on Sunday](https://www.nytimes.com/2026/05/09/world/africa/hantavirus-ship-passengers-evacuate.html)
 
 The cruise ship will arrive on the island of Tenerife, part of the Canary Islands of Spain, officials said. All of the passengers will then be evacuated to their home countries.
 
 
-5. [Why So Few Babies? We Might Have Overlooked the Biggest Reason of All.](https://www.nytimes.com/2026/05/07/opinion/birthrate-kids-parents-demographics-future.html)
+7. [Vance or Rubio? Trump Muses on Successor as the ‘Kids’ Fill Bigger Roles.](https://www.nytimes.com/2026/05/10/us/politics/vance-rubio-trump-succession.html)
 
-We can’t be certain — and that’s the point.
-
-
-6. [Frontier Jet Hits Person on Runway During Takeoff at Denver Airport](https://www.nytimes.com/2026/05/09/us/frontier-airlines-plane-collision-denver.html)
-
-The plane reported an engine fire and aborted its takeoff. The people on board were safely evacuated.
+Vice President JD Vance and Secretary of State Marco Rubio are boosting their profiles, generating speculation about who’s lining up for the 2028 presidential nomination.
 
 
-7. [When Your Terminal Cancer Becomes a Chronic Illness](https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html)
+8. [When Your Terminal Cancer Becomes a Chronic Illness](https://www.nytimes.com/2026/05/10/opinion/terminal-cancer-chronic-illness-health.html)
 
 For some patients, cancer is becoming like a chronic illness.
 
 
-8. [Putin’s Forces Are Barely Inching Along on the Battlefield](https://www.nytimes.com/2026/05/10/world/europe/russia-ukraine-putin-war.html)
+9. [A Private Call Reveals Democrats’ Desperation Over Tossing of Map](https://www.nytimes.com/2026/05/10/us/politics/democrats-virginia-plans-gerrymandering.html)
 
-The Russian military has yet to solve a fundamental problem: how to make big advances in eastern Ukraine when drones are everywhere.
-
-
-9. [Passengers Are Evacuated From Cruise Ship Tied to Hantavirus Outbreak](https://www.nytimes.com/2026/05/10/world/europe/hantavirus-cruise-ship-canary-islands.html)
-
-Small groups of passengers and crew left the ship after it anchored off Spain’s Canary Islands on Sunday. Those aboard were expected to be flown to their home countries, officials said.
+A conversation involving House members from Virginia and the top House Democrat reflected the fury and desperation that has gripped the party after Friday’s ruling in the state.
 
 
-10. [On ‘S.N.L.’, Brett Kavanaugh, Kash Patel and Pete Hegseth Walk Into a Bar](https://www.nytimes.com/2026/05/10/arts/television/on-snl-brett-kavanaugh-kash-patel-and-pete-hegseth-walk-into-a-bar.html)
+10. [The Platner Trap](https://www.nytimes.com/2026/05/10/opinion/graham-platner-democrats-senate-maine.html)
 
-Matt Damon and Aziz Ansari return to roles they have played on “Saturday Night Live” alongside Colin Jost, in an episode hosted by Damon.
+The exact wrong answer to a Republican Party that’s flirting with fascism is a man who chose to put vile Nazi imagery on his own body.
 
 
