@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-14 00:08:37)
+## 📰 NYTimes Most Popular (Updated: 2026-05-14 04:51:24)
 
-1. [U.S. Intelligence Shows Iran Retains Substantial Missile Capabilities](https://www.nytimes.com/2026/05/12/us/politics/iran-missiles-us-intelligence.html)
-
-Secret new assessments say Iran has operational access to 30 of its 33 missile sites along the Strait of Hormuz, suggesting that its military remains far stronger than President Trump has asserted.
-
-
-2. [Why U.S. Test Scores Are in a ‘Generation-Long Decline’](https://www.nytimes.com/2026/05/13/upshot/test-scores-school-districts-us.html)
-
-The drops go beyond the pandemic and cut across income, geographic and racial divides, new data shows.
-
-
-3. [This Is Getting Dangerous](https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html)
-
-The ruling in Louisiana v. Callais might drive America’s politics to an even more precarious place of partisan tension and ideological Balkanization.
-
-
-4. [As Becerra Rises in Polls, He Draws Fire for Trying to Direct Interview](https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html)
-
-“This is not a ‘gotcha’ piece, right?” the leading Democratic candidate for California governor asked a television reporter before an interview.
-
-
-5. [How an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough](https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html)
+1. [How an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough](https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html)
 
 The new strategy also holds promise for lung and colon tumors. Here’s how scientists discovered it.
 
 
-6. [Person Killed on Runway at Denver Airport Is Identified](https://www.nytimes.com/2026/05/12/us/frontier-denver-airport-fatality-identification.html)
+2. [Look Up Your School District’s Test Scores](https://www.nytimes.com/interactive/2026/upshot/look-up-district-test-scores.html)
 
-The individual, a 41-year-old man, made it through several layers of security at the airport on Friday minutes before being struck by a Frontier Airlines jet, officials said.
+See how your district’s scores have changed since 2015, and compare it with other districts in your area.
 
 
-7. [A Shift in Ukraine](https://www.nytimes.com/2026/05/12/world/russia-ukraine-drones-keir-starmer.html)
+3. [Jason Collins, First Active N.B.A. Player to Come Out as Gay, Dies at 47](https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html)
 
-The Russian military’s progress has slowed to a crawl and Vladimir Putin appears to be under increasing pressure.
+His achievements on the court were eclipsed by an essay he wrote in Sports Illustrated in 2013 in which he declared: “I’m a 34-year-old N.B.A. center. I’m Black and I’m gay.”
+
+
+4. [The Lecturer and Philosopher King: Xi Jinping Behind Closed Doors](https://www.nytimes.com/2026/05/13/world/asia/xi-jinping-china-leader-trump-summit.html)
+
+Encounters with other world leaders reveal a side of China’s leader that the public rarely sees, and offer clues to how he will approach President Trump in Beijing.
+
+
+5. [My Son Never Turned 7. Because of Choices in Washington, Others Won’t Either.](https://www.nytimes.com/2026/05/13/opinion/pediatric-cancer-cuts-trump.html)
+
+More children will die because the Trump administration is cutting pediatric cancer research.
+
+
+6. [As Becerra Rises in Polls, He Draws Fire for Trying to Direct Interview](https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html)
+
+“This is not a ‘gotcha’ piece, right?” the leading Democratic candidate for California governor asked a television reporter before an interview.
+
+
+7. [The Nobel-Winning Psychologist Who Believed He Found the Secret to Happiness](https://www.nytimes.com/2026/05/12/opinion/decision-making-herbert-simon.html)
+
+Why searching for the best is the wrong goal.
 
 
 8. [What China’s Choice of Airport Greeter Says About Trump](https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html)
@@ -40,13 +40,13 @@ The Russian military’s progress has slowed to a crawl and Vladimir Putin appea
 Beijing welcomed President Trump with a high-ranking vice president, but the choice of a ceremonial leader suggests China is trading symbolism for substance.
 
 
-9. [4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia](https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html)
+9. [Utah Children’s Book Author Who Poisoned Husband Will Spend Life in Prison](https://www.nytimes.com/2026/05/13/us/kouri-richins-sentencing.html)
 
-Democrats in Nebraska appear headed toward the Senate matchup they want, while their primary for a key House district was too close to call.
+Kouri Richins, 36, who wrote a children’s book about grief after murdering Eric Richins, will serve without the option of parole.
 
 
-10. [Look Up Your School District’s Test Scores](https://www.nytimes.com/interactive/2026/upshot/look-up-district-test-scores.html)
+10. [Where Did All the AK-47s Go?](https://www.nytimes.com/2026/05/13/us/ak-47.html)
 
-See how your district’s scores have changed since 2015, and compare it with other districts in your area.
+A family of guns that was once ubiquitous in the U.S. firearms marketplace has started to vanish for a variety of reasons.
 
 
