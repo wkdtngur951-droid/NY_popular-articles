@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-14 10:26:20)
+## 📰 NYTimes Most Popular (Updated: 2026-05-14 12:56:44)
 
-1. [This Is Getting Dangerous](https://www.nytimes.com/2026/05/13/opinion/callais-voting-rights-roberts-court.html)
+1. [Utah Children’s Book Author Who Poisoned Husband Will Spend Life in Prison](https://www.nytimes.com/2026/05/13/us/kouri-richins-sentencing.html)
 
-The ruling in Louisiana v. Callais might drive America’s politics to an even more precarious place of partisan tension and ideological Balkanization.
+Kouri Richins, 36, who wrote a children’s book about grief after murdering Eric Richins, will serve without the option of parole.
 
 
-2. [Look Up Your School District’s Test Scores](https://www.nytimes.com/interactive/2026/upshot/look-up-district-test-scores.html)
+2. [4 Takeaways From Tuesday’s Primaries in Nebraska and West Virginia](https://www.nytimes.com/2026/05/12/us/politics/nebraska-election-takeaways-dan-osborn-ricketts-senate.html)
+
+Democrats in Nebraska appear headed toward the Senate matchup they want, while their primary for a key House district was too close to call.
+
+
+3. [Look Up Your School District’s Test Scores](https://www.nytimes.com/interactive/2026/upshot/look-up-district-test-scores.html)
 
 See how your district’s scores have changed since 2015, and compare it with other districts in your area.
 
 
-3. [How an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough](https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html)
+4. [Gen. Caine’s Silence on Iran War Leaves Questions About Military Strategy](https://www.nytimes.com/2026/05/13/us/politics/gen-caine-trump-iran-war.html)
+
+The president’s top military adviser is walking a tightrope as he leads the military through a divisive and unpopular war.
+
+
+5. [My Son Never Turned 7. Because of Choices in Washington, Others Won’t Either.](https://www.nytimes.com/2026/05/13/opinion/pediatric-cancer-cuts-trump.html)
+
+More children will die because the Trump administration is cutting pediatric cancer research.
+
+
+6. [How an ‘Impossible’ Idea Led to a Pancreatic Cancer Breakthrough](https://www.nytimes.com/2026/05/12/health/pancreatic-cancer-daraxonrasib-kras.html)
 
 The new strategy also holds promise for lung and colon tumors. Here’s how scientists discovered it.
 
 
-4. [Italian City, Unused to Celebrity Visits, Welcomes Princess of Wales](https://www.nytimes.com/2026/05/13/world/europe/princess-catherine-italy-visit-uk-cancer.html)
-
-Catherine is visiting Reggio Emilia, a city celebrated for its approach to early childhood education, a deep interest of hers. It is her first official visit abroad since her cancer diagnosis.
-
-
-5. [What China’s Choice of Airport Greeter Says About Trump](https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html)
-
-Beijing welcomed President Trump with a high-ranking vice president, but the choice of a ceremonial leader suggests China is trading symbolism for substance.
-
-
-6. [Murdaugh Murder Convictions Overturned by South Carolina’s Top Court](https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html)
-
-The decision, in which judges cited jury interference by a court clerk, upends one of America’s highest-profile homicide cases.
-
-
-7. [Jason Collins, First Active N.B.A. Player to Come Out as Gay, Dies at 47](https://www.nytimes.com/2026/05/12/us/jason-collins-dead.html)
-
-His achievements on the court were eclipsed by an essay he wrote in Sports Illustrated in 2013 in which he declared: “I’m a 34-year-old N.B.A. center. I’m Black and I’m gay.”
-
-
-8. [In Heated Exchanges, Kash Patel Denies Lying and Excessive Drinking](https://www.nytimes.com/2026/05/12/us/politics/kash-patel-hearing-fbi-drinking.html)
-
-The remarks, at a hearing ostensibly about the coming budget for law enforcement agencies, veered from sedate exchanges about operational matters to ugly personal confrontations.
-
-
-9. [Person Killed on Runway at Denver Airport Is Identified](https://www.nytimes.com/2026/05/12/us/frontier-denver-airport-fatality-identification.html)
+7. [Person Killed on Runway at Denver Airport Is Identified](https://www.nytimes.com/2026/05/12/us/frontier-denver-airport-fatality-identification.html)
 
 The individual, a 41-year-old man, made it through several layers of security at the airport on Friday minutes before being struck by a Frontier Airlines jet, officials said.
 
 
-10. [As Becerra Rises in Polls, He Draws Fire for Trying to Direct Interview](https://www.nytimes.com/2026/05/12/us/becerra-viral-tv-interview-california-governor.html)
+8. [NATO, Please Help. Trump Has No Strategy for Iran.](https://www.nytimes.com/2026/05/12/opinion/israel-united-states-iran-hormuz-nato.html)
 
-“This is not a ‘gotcha’ piece, right?” the leading Democratic candidate for California governor asked a television reporter before an interview.
+NATO should overcome its distaste for President Trump and sends its navies to help open up the Strait of Hormuz.
+
+
+9. [What China’s Choice of Airport Greeter Says About Trump](https://www.nytimes.com/2026/05/13/world/asia/trump-china-arrival-airport-presidents.html)
+
+Beijing welcomed President Trump with a high-ranking vice president, but the choice of a ceremonial leader suggests China is trading symbolism for substance.
+
+
+10. [Murdaugh Murder Convictions Overturned by South Carolina’s Top Court](https://www.nytimes.com/2026/05/13/us/murdaugh-murder-conviction-overturned.html)
+
+The decision, in which judges cited jury interference by a court clerk, upends one of America’s highest-profile homicide cases.
 
 
