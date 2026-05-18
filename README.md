@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-17 22:58:43)
+## 📰 NYTimes Most Popular (Updated: 2026-05-18 00:04:34)
 
-1. [Andie MacDowell Found Her Place on Kiawah Island](https://www.nytimes.com/interactive/2026/05/16/realestate/andie-macdowell-home-tour.html)
+1. [How the Jerks I Grew Up With on Long Island Took Over the Country](https://www.nytimes.com/2026/05/16/opinion/long-island-tv-villains-politics.html)
 
-The actress on collecting shells and sterling silver and wearing Hermès scarves to the beach.
-
-
-2. [For Trump, Soaring Prices Test Voters’ Finances and Patience](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
-
-Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring.
+I noticed that a lot of TV villains come from the town I grew up in. I wasn’t surprised.
 
 
-3. [Two Killed as Car Slams Into Crowd on Sidewalk in Manhattan](https://www.nytimes.com/2026/05/15/nyregion/fatal-crash-nyc-upper-west-side.html)
+2. [Trump Administration Pushes Narrative of Christian Founding at Rally](https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html)
 
-The police said a drunken driver in a black Mercedes S.U.V. smashed into two parked cars, crossed a bike lane and crashed into a crowd of people.
-
-
-4. [CBS Cancels Itself, Not Just Colbert](https://www.nytimes.com/2026/05/16/opinion/stephen-colbert-late-show-cbs.html)
-
-In shutting down a 33-year late-night franchise, CBS is assenting to its own diminishment.
+The day-long prayer event featured speakers from President Trump’s cabinet and a program that drew connections between the nation’s founding and Christianity.
 
 
-5. [A Family Secret No More](https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html)
-
-One fateful decision 100 years ago created parallel lives. How does a family broken by the bizarre rules of racism heal itself after three generations apart?
-
-
-6. [Claudine Longet, Entertainer Who Shot Olympian Boyfriend, Dies at 84](https://www.nytimes.com/2026/05/15/us/claudine-longet-dead.html)
-
-A singer and actress, she drew wide attention for the fatal 1976 shooting of Spider Sabich. She was convicted of negligent homicide.
-
-
-7. [Graham Platner Thinks a Political Revolution Is Coming](https://www.nytimes.com/2026/05/16/magazine/graham-platner-interview.html)
-
-The presumptive Democratic Senate nominee from Maine enters the general election fray. 
-
-
-8. [Trump Is Wasting Our Time](https://www.nytimes.com/2026/05/16/opinion/trump-lost-opportunities.html)
-
-We are in a moment when we need to build and think to the future.
-
-
-9. [To Critics, Trump Remarks Reveal a Billionaire Out of Touch](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html)
+3. [To Critics, Trump Remarks Reveal a Billionaire Out of Touch](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html)
 
 The president has never pretended to be an ordinary American, but a recent “truth bomb” has opened him to criticism that he doesn’t grasp the economic strain of his war with Iran.
 
 
-10. [W.H.O. Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
+4. [For Trump, Soaring Prices Test Voters’ Finances and Patience](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
 
-Just a day after the announcement, cases were confirmed in the Democratic Republic of Congo and Uganda. There is no approved vaccine for this species of Ebola.
+Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring.
+
+
+5. [How a Secretive Firm Tried (and Failed) to Fix an Epstein Friend’s Tattered Image](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html)
+
+Terakeet, a reputation management firm, used online tricks to downplay the friendship of the Goldman Sachs general counsel, Kathryn Ruemmler, with the sex offender Jeffrey Epstein. It wasn’t enough.
+
+
+6. [Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet](https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html)
+
+The influential polling analysis site was shut down last year, but an earlier archived version, fivethirtyeight.com, had lived on. Now the site is redirecting users to ABC News.
+
+
+7. [Flashback: Your Weekly History Quiz, May 16, 2026](https://www.nytimes.com/interactive/2026/05/15/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+8. [Lamar Alexander Wants Republicans to Stand Up to Trump](https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html)
+
+In a new memoir, the former senator, governor and cabinet member says President Trump committed an impeachable offense on Jan. 6 and calls on Congress to assert its power.
+
+
+9. [Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe](https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html)
+
+Senator Bill Cassidy, a two-term Republican who voted to convict President Trump in his 2021 impeachment trial,  took a veiled swipe at Mr. Trump, saying power should not focus on “one individual.”
+
+
+10. [The Iran War Is Crippling One of the World’s Wealthiest Nations](https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html)
+
+Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.
 
 
