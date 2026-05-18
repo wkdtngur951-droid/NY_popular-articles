@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-18 10:18:19)
+## 📰 NYTimes Most Popular (Updated: 2026-05-18 14:34:58)
 
-1. [Trump Administration Pushes Narrative of Christian Founding at Rally](https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html)
+1. [A Crack in the Polling Floor Puts Trump in New Territory](https://www.nytimes.com/2026/05/18/upshot/trump-poll-times-siena-analyis.html)
 
-The day-long prayer event featured speakers from President Trump’s cabinet and a program that drew connections between the nation’s founding and Christianity.
+A 37 percent approval rating in a new Times/Siena poll suggests the G.O.P. is facing a big midterm problem despite recent redistricting gains.
 
 
-2. [Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet](https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html)
+2. [Trump’s Approval Sinks Amid Unpopular War, Darkening G.O.P. Prospects](https://www.nytimes.com/2026/05/18/us/politics/poll-trump-republicans-midterms-iran.html)
+
+With the midterms nearing, President Trump’s approval rating has hit a second-term low as voters question his handling of the economy, according to the latest New York Times/Siena poll.
+
+
+3. [Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet](https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html)
 
 The influential polling analysis site was shut down last year, but an earlier archived version, fivethirtyeight.com, had lived on. Now the site is redirecting users to ABC News.
 
 
-3. [U.S. Debt Is Now Bigger Than the Economy. That’s Not the Real Problem.](https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html)
+4. [To Critics, Trump Remarks Reveal a Billionaire Out of Touch](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html)
 
-Washington quickly brushed off a startling milestone in a mounting problem.
-
-
-4. [Andie MacDowell Found Her Place on Kiawah Island](https://www.nytimes.com/interactive/2026/05/16/realestate/andie-macdowell-home-tour.html)
-
-The actress on collecting shells and sterling silver and wearing Hermès scarves to the beach.
+The president has never pretended to be an ordinary American, but a recent “truth bomb” has opened him to criticism that he doesn’t grasp the economic strain of his war with Iran.
 
 
-5. [W.H.O. Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
+5. [France Has a New Picture of the Holocaust](https://www.nytimes.com/2026/05/17/opinion/holocaust-france-photographs-1941.html)
 
-The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola.
+A new collection of propaganda photos shows the first roundup of Jews in Paris, in 1941.
 
 
-6. [Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe](https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html)
+6. [Trump Administration Pushes Narrative of Christian Founding at Rally](https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html)
 
-Senator Bill Cassidy, a two-term Republican who voted to convict President Trump in his 2021 impeachment trial,  took a veiled swipe at Mr. Trump, saying power should not focus on “one individual.”
+The day-long prayer event featured speakers from President Trump’s cabinet and a program that drew connections between the nation’s founding and Christianity.
 
 
 7. [What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)
@@ -35,18 +35,18 @@ Senator Bill Cassidy, a two-term Republican who voted to convict President Trump
 Lessons from the first graduating A.I. class.
 
 
-8. [We Are Sliding Back Into the Middle Ages](https://www.nytimes.com/2026/05/17/opinion/supernatural-religion-reality.html)
+8. [For Trump, Soaring Prices Test Voters’ Finances and Patience](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
 
-One of the oldest and most durable features of human experience is re-emerging.
-
-
-9. [The Iran War Is Crippling One of the World’s Wealthiest Nations](https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html)
-
-Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.
+Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring.
 
 
-10. [France Has a New Picture of the Holocaust](https://www.nytimes.com/2026/05/17/opinion/holocaust-france-photographs-1941.html)
+9. [How the Jerks I Grew Up With on Long Island Took Over the Country](https://www.nytimes.com/2026/05/16/opinion/long-island-tv-villains-politics.html)
 
-A new collection of propaganda photos shows the first roundup of Jews in Paris, in 1941.
+I noticed that a lot of TV villains come from the town I grew up in. I wasn’t surprised.
+
+
+10. [A Family Secret No More](https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html)
+
+One fateful decision 100 years ago created parallel lives. How does a family broken by the bizarre rules of racism heal itself after three generations apart?
 
 
