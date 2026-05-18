@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-18 05:10:55)
+## 📰 NYTimes Most Popular (Updated: 2026-05-18 10:18:19)
 
-1. [The Iran War Is Crippling One of the World’s Wealthiest Nations](https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html)
+1. [Trump Administration Pushes Narrative of Christian Founding at Rally](https://www.nytimes.com/2026/05/17/us/trump-prayer-rally-national-mall.html)
 
-Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.
-
-
-2. [For Trump, Soaring Prices Test Voters’ Finances and Patience](https://www.nytimes.com/2026/05/17/business/for-trump-soaring-prices-test-voters-finances-and-patience.html)
-
-Just months before another election that may hinge on the economy, the war in Iran has sent gas and other goods soaring.
+The day-long prayer event featured speakers from President Trump’s cabinet and a program that drew connections between the nation’s founding and Christianity.
 
 
-3. [How a Secretive Firm Tried (and Failed) to Fix an Epstein Friend’s Tattered Image](https://www.nytimes.com/2026/05/17/us/politics/epstein-reummler-reputation-management.html)
-
-Terakeet, a reputation management firm, used online tricks to downplay the friendship of the Goldman Sachs general counsel, Kathryn Ruemmler, with the sex offender Jeffrey Epstein. It wasn’t enough.
-
-
-4. [We Are Sliding Back Into the Middle Ages](https://www.nytimes.com/2026/05/17/opinion/supernatural-religion-reality.html)
-
-One of the oldest and most durable features of human experience is re-emerging.
-
-
-5. [Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet](https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html)
+2. [Thousands of FiveThirtyEight Articles Seemingly Vanish From the Internet](https://www.nytimes.com/2026/05/16/business/media/fivethirtyeight-abc-removed.html)
 
 The influential polling analysis site was shut down last year, but an earlier archived version, fivethirtyeight.com, had lived on. Now the site is redirecting users to ABC News.
 
 
-6. [4 Drugs That May Increase Your Dementia Risk](https://www.nytimes.com/2026/04/22/well/mind/medications-dementia-risk-increase.html)
+3. [U.S. Debt Is Now Bigger Than the Economy. That’s Not the Real Problem.](https://www.nytimes.com/2026/05/16/business/dealbook/debt-100-percent-gdp.html)
 
-Experts have flagged several over-the-counter and prescription medications.
-
-
-7. [How the Jerks I Grew Up With on Long Island Took Over the Country](https://www.nytimes.com/2026/05/16/opinion/long-island-tv-villains-politics.html)
-
-I noticed that a lot of TV villains come from the town I grew up in. I wasn’t surprised.
+Washington quickly brushed off a startling milestone in a mounting problem.
 
 
-8. [Lamar Alexander Wants Republicans to Stand Up to Trump](https://www.nytimes.com/2026/05/17/us/politics/lamar-alexander-republicans-trump.html)
+4. [Andie MacDowell Found Her Place on Kiawah Island](https://www.nytimes.com/interactive/2026/05/16/realestate/andie-macdowell-home-tour.html)
 
-In a new memoir, the former senator, governor and cabinet member says President Trump committed an impeachable offense on Jan. 6 and calls on Congress to assert its power.
-
-
-9. [A Republican You’ve Never Heard of Points the Way](https://www.nytimes.com/2026/05/17/opinion/shane-massey-south-carolina-clyburn.html)
-
-Defeating a sclerotic rump of a party is no achievement. Instead, one-party rule enables corruption. It fosters stagnation.
+The actress on collecting shells and sterling silver and wearing Hermès scarves to the beach.
 
 
-10. [A Family Secret No More](https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html)
+5. [W.H.O. Declares Ebola Outbreak a Global Health Emergency](https://www.nytimes.com/2026/05/17/world/africa/ebola-congo-uganda-who-public-health-emergency.html)
 
-One fateful decision 100 years ago created parallel lives. How does a family broken by the bizarre rules of racism heal itself after three generations apart?
+The agency made the declaration just a day after Africa’s top public health agency first announced the outbreak. There is no approved vaccine for this species of Ebola.
+
+
+6. [Cassidy Loses His Primary in Louisiana, as Trump Vanquishes Another G.O.P. Foe](https://www.nytimes.com/2026/05/16/us/politics/cassidy-louisiana-race-trump.html)
+
+Senator Bill Cassidy, a two-term Republican who voted to convict President Trump in his 2021 impeachment trial,  took a veiled swipe at Mr. Trump, saying power should not focus on “one individual.”
+
+
+7. [What A.I. Did to My College Class](https://www.nytimes.com/2026/05/17/opinion/chatgpt-ai-college-school-graduation.html)
+
+Lessons from the first graduating A.I. class.
+
+
+8. [We Are Sliding Back Into the Middle Ages](https://www.nytimes.com/2026/05/17/opinion/supernatural-religion-reality.html)
+
+One of the oldest and most durable features of human experience is re-emerging.
+
+
+9. [The Iran War Is Crippling One of the World’s Wealthiest Nations](https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html)
+
+Iranian attacks and the stoppage of seaborne transit have paralyzed Qatar’s vital gas exports, stalling the economic pivots intended to anchor the country’s growth.
+
+
+10. [France Has a New Picture of the Holocaust](https://www.nytimes.com/2026/05/17/opinion/holocaust-france-photographs-1941.html)
+
+A new collection of propaganda photos shows the first roundup of Jews in Paris, in 1941.
 
 
