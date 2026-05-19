@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-19 16:27:05)
+## 📰 NYTimes Most Popular (Updated: 2026-05-19 19:06:42)
 
-1. [A Fearful Phone Call and a Frantic Search Preceded Mosque Shooting](https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html)
+1. [Actually, Democracy Dies in H.R.](https://www.nytimes.com/2026/05/18/world/americas/actually-democracy-dies-in-hr.html)
 
-San Diego police arrived to find three people dead. Nearby, they found two teenagers, the attackers, dead in a car. The violence shattered an idyllic Southern California city.
-
-
-2. [To Critics, Trump Remarks Reveal a Billionaire Out of Touch](https://www.nytimes.com/2026/05/17/us/politics/trump-billionaire-iran-war-cost.html)
-
-The president has never pretended to be an ordinary American, but a recent “truth bomb” has opened him to criticism that he doesn’t grasp the economic strain of his war with Iran.
+New research sheds light on how mediocre employees help would-be authoritarians maintain power.
 
 
-3. [America Needs to Build More Housing](https://www.nytimes.com/interactive/2026/05/18/opinion/affordable-housing-america.html)
+2. [Justices Hint at Strains as Supreme Court Comes Under Scrutiny](https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html)
 
-Basic economic principles point to the solution for the housing affordability crisis.
-
-
-4. [A Family Secret No More](https://www.nytimes.com/2026/05/15/us/degrange-family-history-race.html)
-
-One fateful decision 100 years ago created parallel lives. How does a family broken by the bizarre rules of racism heal itself after three generations apart?
+Traveling across the country, justices defend the role of the court even as strained relations among its members emerge in writing and remarks.
 
 
-5. [Trump and His Advisers Clearly Haven’t Actually Read Thucydides](https://www.nytimes.com/2026/05/18/opinion/trump-xi-iran-war.html)
+3. [A Crack in the Polling Floor Puts Trump in New Territory](https://www.nytimes.com/2026/05/18/upshot/trump-poll-times-siena-analyis.html)
 
-The war has revealed the true puniness of Trump’s power
-
-
-6. [Mark Fuhrman, Flawed Witness in O.J. Simpson Trial, Dies at 74](https://www.nytimes.com/2026/05/18/us/mark-fuhrman-dead.html)
-
-A Los Angeles police detective, he was discredited during Mr. Simpson’s 1995 murder trial by defense lawyers who pointed to his past use of racist language.
+A 37 percent approval rating in a new Times/Siena poll suggests the G.O.P. is facing a big midterm problem despite recent redistricting gains.
 
 
-7. [Trump Threatens Iran and Then Pulls Back, All in the Same Day](https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html)
+4. [In Closed-Door Talks, U.S. Demands a Major Role in Greenland](https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html)
+
+Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.
+
+
+5. [The Vanity and Inanity of Trump’s White House](https://www.nytimes.com/2026/05/18/opinion/trump-image-administration.html)
+
+If you’re not strutting, you’re not selling
+
+
+6. [The Secret Elite One Freshman Discovered at Stanford](https://www.nytimes.com/2026/05/18/books/review/theo-baker-how-to-rule-the-world.html)
+
+In his first book, Theo Baker chronicles an outrageously eventful year navigating an enigmatic center of power.
+
+
+7. [Why College Grads Are Booing Their Commencement Speakers](https://www.nytimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html)
+
+The generation that grew up with A.I. hates it.
+
+
+8. [Top Treasury Lawyer Resigns After Creation of ‘Anti-Weaponization’ Fund](https://www.nytimes.com/2026/05/18/business/anti-weaponization-fund-brian-morrissey-treasury.html)
+
+Brian Morrissey, the department’s general counsel, stepped down hours after the Trump administration announced the $1.8 billion fund.
+
+
+9. [Trump Threatens Iran and Then Pulls Back, All in the Same Day](https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html)
 
 President Trump has repeatedly said he’ll restart military action against Iran, only to stop short of plunging the United States directly back into an unpopular war.
 
 
-8. [ICE Agent Charged in Shooting of a Venezuelan Immigrant in Minnesota](https://www.nytimes.com/2026/05/18/us/ice-agent-charges-venezuelan-immigrant.html)
+10. [N.Y.C. Hotel Housekeepers Will Earn Over $100,000 Under New Contract](https://www.nytimes.com/2026/05/18/nyregion/nyc-hotel-housekeepers-pay.html)
 
-The agent is the second federal officer to face felony charges in Minnesota stemming from Operation Metro Surge, the Trump administration’s immigration crackdown.
-
-
-9. [Abortion Pill Lawsuit Leaves Trump Silent, and in a Political Bind](https://www.nytimes.com/2026/05/18/us/politics/abortion-pill-trump-politics.html)
-
-Louisiana wants the Food and Drug Administration to curtail access to the medication. Doing so could cost Republicans at the polls.
-
-
-10. [In Closed-Door Talks, U.S. Demands a Major Role in Greenland](https://www.nytimes.com/2026/05/18/world/europe/us-greenland-talks-trump.html)
-
-Greenlandic officials worry about the direction of the negotiations aimed at defusing President Trump’s threats to seize their island. But they have little leverage.
+A deal between a powerful union and an industry group substantially boosts annual pay for workers coping with New York City’s high cost of living.
 
 
