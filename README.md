@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-21 08:37:58)
+## 📰 NYTimes Most Popular (Updated: 2026-05-21 12:20:44)
 
-1. [I’m the Foreign Minister of Sweden. Don’t Overestimate Russia.](https://www.nytimes.com/2026/05/20/opinion/sweden-intelligence-russia-economy.html)
+1. [Early War Goal Was to Install Hard-Line Former President as Iran’s Leader](https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html)
 
-We can’t afford to underestimate Russia’s strength and its ability to harm Ukraine and NATO allies, but we must not overestimate it either.
+An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.
 
 
 2. [The Truth About E. Jean Carroll](https://www.nytimes.com/2026/05/20/opinion/e-jean-carroll-documentary-trump.html)
@@ -10,43 +10,43 @@ We can’t afford to underestimate Russia’s strength and its ability to harm U
 It’s not easy to make an anti-Trump documentary right now.
 
 
-3. [Jan. 6 Police Officers Sue to Block Trump’s Payout Fund](https://www.nytimes.com/2026/05/20/us/politics/jan-6-officers-lawsuit-trump-fund.html)
+3. [There Has Never Been an Example of Presidential Corruption Like This](https://www.nytimes.com/2026/05/20/opinion/trump-doj-slush-fund-criminals-corruption.html)
 
-The two officers accused the administration of creating a “slush fund” to reward rioters and groups that committed violence on behalf of President Trump.
-
-
-4. [Prison to Pardons to Payouts: Jan. 6 Rioters Are Elated at Trump’s $1.8 Billion Fund](https://www.nytimes.com/2026/05/20/us/politics/jan-6-rioters-trump-fund-payouts.html)
-
-The possibility that people who ransacked the Capitol could get money from the government they attacked is the latest head-spinning twist in President Trump’s effort to rewrite the history of Jan. 6.
+The president’s corruption and subversion of democratic tradition risk becoming the norm.
 
 
-5. [‘That Awful Thing That Happened’ Is Now a Stunning Memoir](https://www.nytimes.com/2026/05/20/books/review/dog-days-emily-labarge.html)
+4. [How the $1.8 Billion Trump Fund May Violate Past Practice and Policy](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html)
 
-In her ingenious “Dog Days,” Emily LaBarge writes about a terrifying event without resorting to “the trauma plot.”
-
-
-6. [Woman Dies After Falling Into Open Manhole in Manhattan](https://www.nytimes.com/2026/05/19/nyregion/woman-dies-manhole-manhattan.html)
-
-The woman plunged 10 feet, and a passer-by heard her screams. Con Edison said video footage suggested the manhole cover had been dislodged by a truck 12 minutes earlier.
+The fund that could offer payouts to Trump allies who accuse the government of mistreatment is not only highly unusual but also appears to violate the administration’s own policies.
 
 
-7. [Hatred of Israel and the Degradation of the West](https://www.nytimes.com/2026/05/20/opinion/israel-netanyahu-criticism-power.html)
+5. [Hatred of Israel and the Degradation of the West](https://www.nytimes.com/2026/05/20/opinion/israel-netanyahu-criticism-power.html)
 
 Feeding narratives to the credulous isn’t speaking truth to power.
 
 
-8. [James Murdoch, Intent on ‘Thoughtful Journalism,’ Buys Half of Vox Media](https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html)
+6. [Trump Just Pardoned Himself and His Family Forever](https://www.nytimes.com/2026/05/20/opinion/trump-doj-pardon.html)
 
-The media scion is buying Vox Media’s podcast network, New York magazine and Vox.com for more than $300 million.
-
-
-9. [He Was Jailed Over a Charlie Kirk Post. The Sheriff Now Owes Him $835,000.](https://www.nytimes.com/2026/05/20/us/larry-bushart-charlie-kirk-facebook-settlement.html)
-
-Larry Bushart sued a Tennessee sheriff who claimed he wanted to incite hysteria with a post after Mr. Kirk’s killing and jailed him for 37 days.
+By issuing a prohibition on federal investigations that might threaten Trump’s finances, the Justice Department has placed the president and his family in a new category.
 
 
-10. [Early War Goal Was to Install Hard-Line Former President as Iran’s Leader](https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html)
+7. [I.R.S. to Drop Audits of Trump and Family](https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html)
 
-An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.
+As part of the Justice Department’s deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.
+
+
+8. [Trump Crushes Republican Dissent: 8 Takeaways From Tuesday’s Primaries](https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html)
+
+President Trump unseated Representative Thomas Massie, a top Republican critic in Congress, and also got his way in other primary contests.
+
+
+9. [Barney Frank, Gay Pioneer and Liberal Stalwart in Congress, Dies at 86](https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html)
+
+Often voted the “brainiest,” “funniest” and “most eloquent” member of the House, he was also the first to come out voluntarily and helped normalize being openly gay in public office.
+
+
+10. [Trump’s $1.8 Billion Fund Tests Constitutional Limits](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html)
+
+The deal the president reached with his own subordinates relies on a mechanism created by Congress that legal experts had warned was subject to manipulation.
 
 
