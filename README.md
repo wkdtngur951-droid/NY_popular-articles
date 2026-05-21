@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-21 21:41:33)
+## 📰 NYTimes Most Popular (Updated: 2026-05-21 23:08:59)
 
-1. [Early War Goal Was to Install Hard-Line Former President as Iran’s Leader](https://www.nytimes.com/2026/05/19/us/politics/iran-israel-us-leader-ahmadinejad.html)
+1. [How the $1.8 Billion Trump Fund May Violate Past Practice and Policy](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html)
 
-An Israeli strike designed to free Mahmoud Ahmadinejad from house arrest in Tehran, U.S. officials said, was part of an effort to bring about regime change and put him in power.
-
-
-2. [I.R.S. to Drop Audits of Trump and Family](https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html)
-
-As part of the Justice Department’s deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.
+The fund that could offer payouts to Trump allies who accuse the government of mistreatment is not only highly unusual but also appears to violate the administration’s own policies.
 
 
-3. [A Powerful El Niño Is Forming. If History Is a Guide, It Could Hit Hard.](https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html)
+2. [Musk’s SpaceX Reveals Its Finances for the First Time](https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html)
 
-The biggest episodes of the past have altered the course of human events, according to researchers. An emerging one is drawing historic comparisons.
-
-
-4. [Woman Dies After Falling Into Open Manhole in Manhattan](https://www.nytimes.com/2026/05/19/nyregion/woman-dies-manhole-manhattan.html)
-
-The woman plunged 10 feet, and a passer-by heard her screams. Con Edison said video footage suggested the manhole cover had been dislodged by a truck 12 minutes earlier.
+Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.
 
 
-5. [Hatred of Israel and the Degradation of the West](https://www.nytimes.com/2026/05/20/opinion/israel-netanyahu-criticism-power.html)
+3. [Trump’s $1.8 Billion Fund Tests Constitutional Limits](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html)
+
+The deal the president reached with his own subordinates relies on a mechanism created by Congress that legal experts had warned was subject to manipulation.
+
+
+4. [Hatred of Israel and the Degradation of the West](https://www.nytimes.com/2026/05/20/opinion/israel-netanyahu-criticism-power.html)
 
 Feeding narratives to the credulous isn’t speaking truth to power.
 
 
-6. [Trump Just Pardoned Himself and His Family Forever](https://www.nytimes.com/2026/05/20/opinion/trump-doj-pardon.html)
+5. [Experimental Drug Yields Dramatic Weight Loss](https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html)
 
-By issuing a prohibition on federal investigations that might threaten Trump’s finances, the Justice Department has placed the president and his family in a new category.
-
-
-7. [This Is How a Party Ends Up Looking Like a Clown Car](https://www.nytimes.com/2026/05/21/opinion/speeches-democrats-politics.html)
-
-We need leaders who tell us hard truths while insisting that the present state of our politics is not permanent.
+People who got the injection, retatrutide, lost 28 percent of their body weight on average after 80 weeks, Eli Lilly said.
 
 
-8. [The Truth About E. Jean Carroll](https://www.nytimes.com/2026/05/20/opinion/e-jean-carroll-documentary-trump.html)
+6. [I.R.S. to Drop Audits of Trump and Family](https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html)
 
-It’s not easy to make an anti-Trump documentary right now.
+As part of the Justice Department’s deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.
 
 
-9. [Trump Crushes Republican Dissent: 8 Takeaways From Tuesday’s Primaries](https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html)
+7. [Trump Crushes Republican Dissent: 8 Takeaways From Tuesday’s Primaries](https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html)
 
 President Trump unseated Representative Thomas Massie, a top Republican critic in Congress, and also got his way in other primary contests.
 
 
-10. [Republican Senators Are Livid at Trump’s Endorsement of Paxton](https://www.nytimes.com/2026/05/19/us/politics/republican-senators-trump-paxton.html)
+8. [Trump Just Pardoned Himself and His Family Forever](https://www.nytimes.com/2026/05/20/opinion/trump-doj-pardon.html)
 
-News that President Trump had snubbed Senator John Cornyn of Texas, the four-term incumbent, was met with shock, anger and fear that the G.O.P. could lose his seat.
+By issuing a prohibition on federal investigations that might threaten Trump’s finances, the Justice Department has placed the president and his family in a new category.
+
+
+9. [Barney Frank, Gay Pioneer and Liberal Stalwart in Congress, Dies at 86](https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html)
+
+Often voted the “brainiest,” “funniest” and “most eloquent” member of the House, he was also the first to come out voluntarily and helped normalize being openly gay in public office.
+
+
+10. [Trump Just Took Us Somewhere the Country Has Never Been Before](https://www.nytimes.com/2026/05/21/opinion/corruption-trump-slush-fund.html)
+
+There’s no telling where this leads.
 
 
