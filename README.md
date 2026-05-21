@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-20 23:18:40)
+## 📰 NYTimes Most Popular (Updated: 2026-05-21 04:20:40)
 
-1. [Ebola Outbreak in Central Africa Could Last Months, W.H.O. Says](https://www.nytimes.com/2026/05/19/world/africa/ebola-outbreak-deaths-congo-who.html)
+1. [Trump Crushes Republican Dissent: 8 Takeaways From Tuesday’s Primaries](https://www.nytimes.com/2026/05/19/us/politics/trump-massie-primary-takeaways.html)
 
-Health officials reported more than 130 suspected deaths and 540 cases in the Democratic Republic of Congo and Uganda, but experts say the figures could be much higher.
-
-
-2. [Book on Truth in the Age of A.I. Contains Quotes Made Up by A.I.](https://www.nytimes.com/2026/05/19/business/media/future-of-truth-ai-quotes.html)
-
-Steven Rosenbaum, author of “The Future of Truth,” said he had started his own investigation after The New York Times asked about the fake quotes.
+President Trump unseated Representative Thomas Massie, a top Republican critic in Congress, and also got his way in other primary contests.
 
 
-3. [I.R.S. to Drop Audits of Trump and Family](https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html)
+2. [Musk’s SpaceX Reveals Its Finances for the First Time](https://www.nytimes.com/2026/05/20/technology/elon-musk-spacex-ipo.html)
 
-As part of the Justice Department’s deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.
-
-
-4. [Justices Hint at Strains as Supreme Court Comes Under Scrutiny](https://www.nytimes.com/2026/05/18/us/politics/supreme-court-political-tensions.html)
-
-Traveling across the country, justices defend the role of the court even as strained relations among its members emerge in writing and remarks.
+Mr. Musk’s rocket and satellite maker disclosed its financial performance as it prepares to go public in what is set to be one of the largest offerings to date.
 
 
-5. [Why College Grads Are Booing Their Commencement Speakers](https://www.nytimes.com/2026/05/18/opinion/ai-boo-commencement-speeches.html)
+3. [James Murdoch, Intent on ‘Thoughtful Journalism,’ Buys Half of Vox Media](https://www.nytimes.com/2026/05/20/business/media/vox-media-james-murdoch-sale.html)
 
-The generation that grew up with A.I. hates it.
-
-
-6. [Who Should Be the Next Governor of California?](https://www.nytimes.com/interactive/2026/05/19/opinion/california-governor-primary-election.html)
-
-Times Opinion convened a panel of state experts to weigh in on the primary.
+The media scion is buying Vox Media’s podcast network, New York magazine and Vox.com for more than $300 million.
 
 
-7. [Senate Votes to Take Up Measure to Force Trump to End Iran War](https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html)
+4. [Senate Votes to Take Up Measure to Force Trump to End Iran War](https://www.nytimes.com/2026/05/19/us/politics/senate-iran-war-authorization.html)
 
 With four Republican backers, Democrats won a vote to advance a resolution that would force the president to end hostilities or win authorization from Congress.
 
 
-8. [A Fearful Phone Call and a Frantic Search Preceded Mosque Shooting](https://www.nytimes.com/2026/05/18/us/san-diego-mosque-shooting-search.html)
+5. [‘That Awful Thing That Happened’ Is Now a Stunning Memoir](https://www.nytimes.com/2026/05/20/books/review/dog-days-emily-labarge.html)
 
-San Diego police arrived to find three people dead. Nearby, they found two teenagers, the attackers, dead in a car. The violence shattered an idyllic Southern California city.
+In her ingenious “Dog Days,” Emily LaBarge writes about a terrifying event without resorting to “the trauma plot.”
 
 
-9. [The Truth About E. Jean Carroll](https://www.nytimes.com/2026/05/20/opinion/e-jean-carroll-documentary-trump.html)
+6. [The Truth About E. Jean Carroll](https://www.nytimes.com/2026/05/20/opinion/e-jean-carroll-documentary-trump.html)
 
 It’s not easy to make an anti-Trump documentary right now.
 
 
-10. [There Has Never Been an Example of Presidential Corruption Like This](https://www.nytimes.com/2026/05/20/opinion/trump-doj-slush-fund-criminals-corruption.html)
+7. [I.R.S. to Drop Audits of Trump and Family](https://www.nytimes.com/2026/05/19/us/politics/trump-irs-doj-lawsuit-audit.html)
 
-The president’s corruption and subversion of democratic tradition risk becoming the norm.
+As part of the Justice Department’s deal, officials vowed not to pursue any matters, including those involving President Trump’s tax returns, that are pending.
+
+
+8. [Barney Frank, Gay Pioneer and Liberal Stalwart in Congress, Dies at 86](https://www.nytimes.com/2026/05/20/us/politics/barney-frank-dead.html)
+
+Often voted the “brainiest,” “funniest” and “most eloquent” member of the House, he was also the first to come out voluntarily and helped normalize being openly gay in public office.
+
+
+9. [Trump’s $1.8 Billion Fund Tests Constitutional Limits](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-legal-questions.html)
+
+The deal the president reached with his own subordinates relies on a mechanism created by Congress that legal experts had warned was subject to manipulation.
+
+
+10. [Woman Dies After Falling Into Open Manhole in Manhattan](https://www.nytimes.com/2026/05/19/nyregion/woman-dies-manhole-manhattan.html)
+
+The woman plunged 10 feet, and a passer-by heard her screams. Con Edison said video footage suggested the manhole cover had been dislodged by a truck 12 minutes earlier.
 
 
