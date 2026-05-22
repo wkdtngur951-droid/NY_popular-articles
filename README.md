@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-22 21:19:00)
+## 📰 NYTimes Most Popular (Updated: 2026-05-22 23:09:30)
 
-1. [This Is How a Party Ends Up Looking Like a Clown Car](https://www.nytimes.com/2026/05/21/opinion/speeches-democrats-politics.html)
+1. [Experimental Drug Yields Dramatic Weight Loss](https://www.nytimes.com/2026/05/21/science/retatrutide-weight-loss-drug.html)
 
-We need leaders who tell us hard truths while insisting that the present state of our politics is not permanent.
+People who got the injection, retatrutide, lost 28 percent of their body weight on average after 80 weeks, Eli Lilly said.
 
 
-2. [Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon](https://www.nytimes.com/2026/05/21/us/politics/trump-troops-poland.html)
+2. [Stephen Colbert’s Last Show: Laughing Well Is the Best Revenge](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html)
 
-Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.
+The “Late Show” cancellation was a disappointment. But a surreally lovely final episode turned it into a cancellebration.
 
 
 3. [End of a Colbert-a](https://www.nytimes.com/2026/05/21/arts/television/stephen-colbert-late-show-ending-cbs.html)
@@ -15,38 +15,38 @@ Defense Department officials had abruptly canceled the deployments of thousands 
 Stephen Colbert’s “Colbert Report” satirized politics. Then his “Late Show” confronted a moment when politics became self-satirizing.
 
 
-4. [A Powerful El Niño Is Forming. If History Is a Guide, It Could Hit Hard.](https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html)
+4. [Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon](https://www.nytimes.com/2026/05/21/us/politics/trump-troops-poland.html)
 
-The biggest episodes of the past have altered the course of human events, according to researchers. An emerging one is drawing historic comparisons.
-
-
-5. [Trump Says He Will ‘Try and Make’ Son’s Wedding, but Timing ‘Not Good’](https://www.nytimes.com/2026/05/21/us/politics/trump-son-wedding-don-jr.html)
-
-President Trump said the war with Iran and “other things” would make it difficult for him to make the wedding this weekend.
+Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.
 
 
-6. [Trump Just Took Us Somewhere the Country Had Never Been Before](https://www.nytimes.com/2026/05/21/opinion/corruption-trump-slush-fund.html)
+5. [5 Takeaways From the Democrats’ Autopsy of Kamala Harris’s 2024 Loss](https://www.nytimes.com/2026/05/21/us/politics/dnc-election-autopsy-report-takeaways.html)
 
-There’s no telling where this leads.
-
-
-7. [There Are Scandals. There Is the Law. And Then There’s This.](https://www.nytimes.com/2026/05/21/opinion/trump-anti-weaponization-fund.html)
-
-Trump is giving “the fix was in” new meaning.
+A draft report released by the Democratic National Committee argued that Ms. Harris did not sufficiently separate herself from President Joseph R. Biden Jr.
 
 
-8. [Inside the Senate G.O.P. Meltdown Over Trump’s Fund](https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html)
+6. [How the $1.8 Billion Trump Fund May Violate Past Practice and Policy](https://www.nytimes.com/2026/05/20/us/politics/trump-fund-explainer.html)
 
-Todd Blanche, the acting attorney general, went to Capitol Hill to allay Republicans’ concerns over a fund to pay people who claim government mistreatment. It did not go well.
-
-
-9. [Audit Immunity for Trump Family Puts I.R.S. in a Bind](https://www.nytimes.com/2026/05/21/business/trump-irs-audit-immunity.html)
-
-Federal law prohibits the Internal Revenue Service from halting an audit at the direction of the president or his aides.
+The fund that could offer payouts to Trump allies who accuse the government of mistreatment is not only highly unusual but also appears to violate the administration’s own policies.
 
 
-10. [Stephen Colbert’s Last Show: Laughing Well Is the Best Revenge](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html)
+7. [San Diego Shooter So Alarmed Police in 2025, They Seized Father’s Guns](https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooter-guns.html)
 
-The “Late Show” cancellation was a disappointment. But a surreally lovely final episode turned it into a cancellebration.
+In 2025, Caleb Vazquez’s obsession with mass shooters and Nazism prompted reports to the authorities. The F.B.I. was also alerted to concerns about one of the teens.
+
+
+8. [Iran and Oman in Talks Over Strait of Hormuz Ship Payment System](https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html)
+
+The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.
+
+
+9. [Stephen Colbert’s Finale Didn’t Mean What It Seemed To](https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html)
+
+You’re going to miss corporate media.
+
+
+10. [‘Blue Film’ Review: The Sex Is Expensive. The Talk Is Priceless.](https://www.nytimes.com/2026/05/07/movies/blue-film-review.html)
+
+An older man pays a camboy $50,000 for a night that goes to difficult, existential places in this breakout feature from Elliot Tuttle.
 
 
