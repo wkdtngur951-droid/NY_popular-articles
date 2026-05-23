@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-23 03:54:17)
+## 📰 NYTimes Most Popular (Updated: 2026-05-23 06:39:03)
 
 1. [She Was Covering President Biden. He Was Protecting Him. Love Took Flight.](https://www.nytimes.com/2026/05/22/style/mariam-khan-phillip-mccoy-wedding.html)
 
 Mariam Khan, a producer for ABC News, was in St. Croix covering the former president’s vacation when Phillip McCoy, a fighter pilot, spotted her on the beach.
 
 
-2. [Stephen Colbert Went Out His Way: Through a Wormhole](https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html)
+2. [Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon](https://www.nytimes.com/2026/05/21/us/politics/trump-troops-poland.html)
 
-Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of “The Late Show.”
-
-
-3. [Donald Trump Jr. and Bettina Anderson Are Married](https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html)
-
-President Trump’s eldest son was married in Palm Beach, Fla. The president described celebrations this weekend as a “small, little private affair.”
+Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.
 
 
-4. [Pope Leo Chooses Social Justice Over Pelvic Theology](https://www.nytimes.com/2026/05/22/opinion/pope-leo-encyclical-ai-social-doctrine.html)
-
-The document will address A.I. and its impact on humanity. He’s also staying the course on Catholic social teaching.
-
-
-5. [Trump Says He Will ‘Try and Make’ Son’s Wedding, but Timing ‘Not Good’](https://www.nytimes.com/2026/05/21/us/politics/trump-son-wedding-don-jr.html)
-
-President Trump said the war with Iran and “other things” would make it difficult for him to make the wedding this weekend.
-
-
-6. [Iran and Oman in Talks Over Strait of Hormuz Ship Payment System](https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html)
+3. [Iran and Oman in Talks Over Strait of Hormuz Ship Payment System](https://www.nytimes.com/2026/05/21/world/middleeast/iran-strait-of-hormuz-tolls.html)
 
 The discussions suggest that the United States and the Iranian government may not be close to reaching a deal to end a war that has badly damaged the global economy.
 
 
-7. [Stephen Colbert’s Last Show: Laughing Well Is the Best Revenge](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html)
-
-The “Late Show” cancellation was a disappointment. But a surreally lovely final episode turned it into a cancellebration.
-
-
-8. [Inside the Senate G.O.P. Meltdown Over Trump’s Fund](https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html)
-
-Todd Blanche, the acting attorney general, went to Capitol Hill to allay Republicans’ concerns over a fund to pay people who claim government mistreatment. It did not go well.
-
-
-9. [Stephen Colbert’s Finale Didn’t Mean What It Seemed To](https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html)
+4. [Stephen Colbert’s Finale Didn’t Mean What It Seemed To](https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html)
 
 You’re going to miss corporate media.
 
 
-10. [The Simple Answer to Taxing the Rich Is the Best Answer](https://www.nytimes.com/2026/05/22/opinion/wealth-tax-millionaires-policy.html)
+5. [A Powerful El Niño Is Forming. If History Is a Guide, It Could Hit Hard.](https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html)
 
-Forget complex schemes. There is an easier way to get revenue from the wealthy.
+The biggest episodes of the past have altered the course of human events, according to researchers. An emerging one is drawing historic comparisons.
+
+
+6. [San Diego Shooter So Alarmed Police in 2025, They Seized Father’s Guns](https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooter-guns.html)
+
+In 2025, Caleb Vazquez’s obsession with mass shooters and Nazism prompted reports to the authorities. The F.B.I. was also alerted to concerns about one of the teens.
+
+
+7. [Dan Pfeiffer Thinks Two Democrats Could Upend American Politics](https://www.nytimes.com/2026/05/22/opinion/ossoff-platner-senate-midterms.html)
+
+Why 2026 might tell us a lot about 2028.
+
+
+8. [1 Person Killed and Dozens of Firefighters Injured in Staten Island Blasts](https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html)
+
+Two explosions rocked a barge on the North Shore of Staten Island, injuring 34 people. The resulting fire was under control, but was still burning.
+
+
+9. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+
+The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
+
+
+10. [Stephen Colbert’s Last Show: Laughing Well Is the Best Revenge](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html)
+
+The “Late Show” cancellation was a disappointment. But a surreally lovely final episode turned it into a cancellebration.
 
 
