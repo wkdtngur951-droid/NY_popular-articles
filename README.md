@@ -1,43 +1,43 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-23 15:07:26)
+## 📰 NYTimes Most Popular (Updated: 2026-05-23 17:10:45)
 
-1. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+1. [Stephen Colbert’s Finale Didn’t Mean What It Seemed To](https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html)
 
-The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
-
-
-2. [Stephen Colbert Went Out His Way: Through a Wormhole](https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html)
-
-Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of “The Late Show.”
+You’re going to miss corporate media.
 
 
-3. [1 Person Killed and Dozens of Firefighters Injured in Staten Island Blasts](https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html)
+2. [1 Person Killed and Dozens of Firefighters Injured in Staten Island Blasts](https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html)
 
 Two explosions rocked a barge on the North Shore of Staten Island, injuring 34 people. The resulting fire was under control, but was still burning.
 
 
-4. [San Diego Shooter So Alarmed Police in 2025, They Seized Father’s Guns](https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooter-guns.html)
+3. [In a Rarity, Republicans Stand Up to Trump](https://www.nytimes.com/2026/05/21/us/politics/senate-republicans-trump.html)
 
-In 2025, Caleb Vazquez’s obsession with mass shooters and Nazism prompted reports to the authorities. The F.B.I. was also alerted to concerns about one of the teens.
-
-
-5. [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/defiant-after-bad-week-trump-pushes-ahead-on-politically-unpopular-ideas.html)
-
-President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
+President Trump faced a wall of opposition from Senate G.O.P. lawmakers, in part over his plan to create a $1.8 billion fund to reward his allies.
 
 
-6. [Trump Says He Will ‘Try and Make’ Son’s Wedding, but Timing ‘Not Good’](https://www.nytimes.com/2026/05/21/us/politics/trump-son-wedding-don-jr.html)
+4. [Donald Trump Jr. and Bettina Anderson Are Married](https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html)
 
-President Trump said the war with Iran and “other things” would make it difficult for him to make the wedding this weekend.
-
-
-7. [Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon](https://www.nytimes.com/2026/05/21/us/politics/trump-troops-poland.html)
-
-Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.
+President Trump’s eldest son was married in Palm Beach, Fla. The president described celebrations this weekend as a “small, little private affair.”
 
 
-8. [Stephen Colbert’s Last Show: Laughing Well Is the Best Revenge](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html)
+5. [How a Chemical Tank in Southern California Came to the Brink of Disaster](https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html)
 
-The “Late Show” cancellation was a disappointment. But a surreally lovely final episode turned it into a cancellebration.
+Firefighters are left without any options to prevent the tank, filled with a toxic chemical, from collapsing or exploding. The authorities have urged thousands of people to evacuate their homes.
+
+
+6. [G.O.P. Pulls Measure to End Iran War, Lacking Votes to Defeat It](https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html)
+
+House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.
+
+
+7. [Judge Dismisses Criminal Case Against Abrego Garcia](https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html)
+
+The move deals an embarrassing blow to the Trump administration, which made the Maryland man, Kilmar Armando Abrego Garcia, the face of its deportation campaign.
+
+
+8. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+
+The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
 
 
 9. [Dan Pfeiffer Thinks Two Democrats Could Upend American Politics](https://www.nytimes.com/2026/05/22/opinion/ossoff-platner-senate-midterms.html)
@@ -45,8 +45,8 @@ The “Late Show” cancellation was a disappointment. But a surreally lovely fi
 Why 2026 might tell us a lot about 2028.
 
 
-10. [Donald Trump Jr. and Bettina Anderson Are Married](https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html)
+10. [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
 
-President Trump’s eldest son was married in Palm Beach, Fla. The president described celebrations this weekend as a “small, little private affair.”
+President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
 
 
