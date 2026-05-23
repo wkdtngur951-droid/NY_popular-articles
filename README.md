@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-23 13:51:26)
+## 📰 NYTimes Most Popular (Updated: 2026-05-23 15:07:26)
 
 1. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
 
 The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
 
 
-2. [G.O.P. Pulls Measure to End Iran War, Lacking Votes to Defeat It](https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html)
+2. [Stephen Colbert Went Out His Way: Through a Wormhole](https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html)
 
-House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.
+Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of “The Late Show.”
 
 
 3. [1 Person Killed and Dozens of Firefighters Injured in Staten Island Blasts](https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html)
@@ -15,38 +15,38 @@ House Republican leaders abruptly scrapped a planned vote on a measure to direct
 Two explosions rocked a barge on the North Shore of Staten Island, injuring 34 people. The resulting fire was under control, but was still burning.
 
 
-4. [Stephen Colbert Went Out His Way: Through a Wormhole](https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html)
+4. [San Diego Shooter So Alarmed Police in 2025, They Seized Father’s Guns](https://www.nytimes.com/2026/05/21/us/san-diego-mosque-shooter-guns.html)
 
-Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of “The Late Show.”
-
-
-5. [Judge Dismisses Criminal Case Against Abrego Garcia](https://www.nytimes.com/2026/05/22/us/politics/abrego-garcia-case-dismissed-trump-administration.html)
-
-The move deals an embarrassing blow to the Trump administration, which made the Maryland man, Kilmar Armando Abrego Garcia, the face of its deportation campaign.
+In 2025, Caleb Vazquez’s obsession with mass shooters and Nazism prompted reports to the authorities. The F.B.I. was also alerted to concerns about one of the teens.
 
 
-6. [A Powerful El Niño Is Forming. If History Is a Guide, It Could Hit Hard.](https://www.nytimes.com/2026/05/21/climate/el-nino-history-famine.html)
+5. [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/defiant-after-bad-week-trump-pushes-ahead-on-politically-unpopular-ideas.html)
 
-The biggest episodes of the past have altered the course of human events, according to researchers. An emerging one is drawing historic comparisons.
-
-
-7. [Pope Leo Chooses Social Justice Over Pelvic Theology](https://www.nytimes.com/2026/05/22/opinion/pope-leo-encyclical-ai-social-doctrine.html)
-
-The document will address A.I. and its impact on humanity. He’s also staying the course on Catholic social teaching.
+President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
 
 
-8. [Trump Says He Will ‘Try and Make’ Son’s Wedding, but Timing ‘Not Good’](https://www.nytimes.com/2026/05/21/us/politics/trump-son-wedding-don-jr.html)
+6. [Trump Says He Will ‘Try and Make’ Son’s Wedding, but Timing ‘Not Good’](https://www.nytimes.com/2026/05/21/us/politics/trump-son-wedding-don-jr.html)
 
 President Trump said the war with Iran and “other things” would make it difficult for him to make the wedding this weekend.
 
 
-9. [Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon](https://www.nytimes.com/2026/05/21/us/politics/trump-troops-poland.html)
+7. [Trump to Deploy 5,000 Troops to Poland, Surprising the Pentagon](https://www.nytimes.com/2026/05/21/us/politics/trump-troops-poland.html)
 
 Defense Department officials had abruptly canceled the deployments of thousands of troops there just last week.
 
 
-10. [Health Experts ‘Stunned’ by Trump Officials’ Strict Quarantine Measures](https://www.nytimes.com/2026/05/21/us/hantavirus-ebola-quarantine-trump.html)
+8. [Stephen Colbert’s Last Show: Laughing Well Is the Best Revenge](https://www.nytimes.com/2026/05/22/arts/television/colbert-last-late-show.html)
 
-Public health experts say the administration’s quarantine orders go beyond what is needed to prevent the U.S. spread of Ebola and hantavirus.
+The “Late Show” cancellation was a disappointment. But a surreally lovely final episode turned it into a cancellebration.
+
+
+9. [Dan Pfeiffer Thinks Two Democrats Could Upend American Politics](https://www.nytimes.com/2026/05/22/opinion/ossoff-platner-senate-midterms.html)
+
+Why 2026 might tell us a lot about 2028.
+
+
+10. [Donald Trump Jr. and Bettina Anderson Are Married](https://www.nytimes.com/2026/05/22/style/donald-trump-jr-bettina-anderson-wedding-bahamas-florida.html)
+
+President Trump’s eldest son was married in Palm Beach, Fla. The president described celebrations this weekend as a “small, little private affair.”
 
 
