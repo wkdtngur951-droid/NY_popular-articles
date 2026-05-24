@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-23 22:57:42)
+## 📰 NYTimes Most Popular (Updated: 2026-05-24 00:04:58)
 
-1. [Stephen Colbert’s Finale Didn’t Mean What It Seemed To](https://www.nytimes.com/2026/05/22/opinion/stephen-colbert-youtube-corporate-media.html)
+1. [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
 
-You’re going to miss corporate media.
-
-
-2. [G.O.P. Pulls Measure to End Iran War, Lacking Votes to Defeat It](https://www.nytimes.com/2026/05/21/us/iran-war-powers-trump-measure.html)
-
-House Republican leaders abruptly scrapped a planned vote on a measure to direct President Trump to end the conflict or win authorization for it, amid party defections and absences.
+President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
 
 
-3. [The New York Times News Quiz, May 22, 2026](https://www.nytimes.com/interactive/2026/05/22/briefing/quiz-ebola-trump-fund-massie-colbert.html)
+2. [What to Know About the Crisis at the California Chemical Plant](https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-plant-leak-evacuations.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-4. [Audit Immunity for Trump Family Puts I.R.S. in a Bind](https://www.nytimes.com/2026/05/21/business/trump-irs-audit-immunity.html)
-
-Federal law prohibits the Internal Revenue Service from halting an audit at the direction of the president or his aides.
+Firefighters continue to cool a chemical storage tank with water to prevent it from breaching or exploding. Some 40,000 residents near the Orange County plant have been evacuated to shelters.
 
 
-5. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
+3. [Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China](https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html)
 
-The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
-
-
-6. [Stephen Colbert Went Out His Way: Through a Wormhole](https://www.nytimes.com/2026/05/22/arts/television/stephen-colbert-series-finale.html)
-
-Colbert was joined by famous friends, fellow hosts and special guests like Paul McCartney for the finale of “The Late Show.”
+The Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”
 
 
-7. [1 Person Killed and Dozens of Firefighters Injured in Staten Island Blasts](https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html)
+4. [Tulsi Gabbard Resigns as Director of National Intelligence](https://www.nytimes.com/2026/05/22/us/politics/tulsi-gabbard-resigns.html)
+
+Ms. Gabbard had a difficult tenure in the Trump administration and was seldom seen in the room when the president made important national-security moves.
+
+
+5. [How a Throwaway Line Turned Writers Against a Cheerleader for Children’s Books](https://www.nytimes.com/2026/05/22/books/review/mac-barnett-make-believe-young-peoples-literature.html)
+
+Mac Barnett, the national ambassador for young people’s literature, published a manifesto aimed at adults. Then came the blowback.
+
+
+6. [How a Chemical Tank in Southern California Came to the Brink of Disaster](https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html)
+
+Firefighters are left without any options to prevent the tank, filled with a toxic chemical, from collapsing or exploding. The authorities have urged thousands of people to evacuate their homes.
+
+
+7. [Dan Pfeiffer Thinks Two Democrats Could Upend American Politics](https://www.nytimes.com/2026/05/22/opinion/ossoff-platner-senate-midterms.html)
+
+Why 2026 might tell us a lot about 2028.
+
+
+8. [Their Phones Were Stolen in London. Then the Threats Started.](https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html)
+
+Tens of thousands of smartphones were reported stolen in the British capital in recent years. For some victims, losing their phone was only the beginning.
+
+
+9. [1 Person Killed and Dozens of Firefighters Injured in Staten Island Blasts](https://www.nytimes.com/2026/05/22/nyregion/staten-island-explosion.html)
 
 Two explosions rocked a barge on the North Shore of Staten Island, injuring 34 firefighters and emergency medical workers.
 
 
-8. [Inside the Senate G.O.P. Meltdown Over Trump’s Fund](https://www.nytimes.com/2026/05/21/us/politics/trump-fund-congress-limits.html)
+10. [Now Is Not the Time to Play Political Make-Believe](https://www.nytimes.com/2026/05/23/opinion/politics-michelle-obama-president.html)
 
-Todd Blanche, the acting attorney general, went to Capitol Hill to allay Republicans’ concerns over a fund to pay people who claim government mistreatment. It did not go well.
-
-
-9. [She Was Covering President Biden. He Was Protecting Him. Love Took Flight.](https://www.nytimes.com/2026/05/22/style/mariam-khan-phillip-mccoy-wedding.html)
-
-Mariam Khan, a producer for ABC News, was in St. Croix covering the former president’s vacation when Phillip McCoy, a fighter pilot, spotted her on the beach.
-
-
-10. [How a Chemical Tank in Southern California Came to the Brink of Disaster](https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html)
-
-Firefighters are left without any options to prevent the tank, filled with a toxic chemical, from collapsing or exploding. The authorities have urged thousands of people to evacuate their homes.
+Voters want to dictate which offices their preferred politicians hold, what positions they take, and even where and how they live. It is fantasy football: political edition.
 
 
