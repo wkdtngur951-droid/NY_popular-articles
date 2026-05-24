@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-24 14:39:48)
+## 📰 NYTimes Most Popular (Updated: 2026-05-24 16:06:17)
 
-1. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
-
-The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
-
-
-2. [Their Phones Were Stolen in London. Then the Threats Started.](https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html)
-
-Tens of thousands of smartphones were reported stolen in the British capital in recent years. For some victims, losing their phone was only the beginning.
-
-
-3. [Flashback: Your Weekly History Quiz, May 23, 2026](https://www.nytimes.com/interactive/2026/05/22/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-4. [The New York Times News Quiz, May 22, 2026](https://www.nytimes.com/interactive/2026/05/22/briefing/quiz-ebola-trump-fund-massie-colbert.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-5. [One Killed in Exchange of Gunfire With Secret Service Near White House](https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html)
+1. [One Killed in Exchange of Gunfire With Secret Service Near White House](https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html)
 
 A gunman known to the U.S. Secret Service opened fire near the White House and was shot and killed by federal officers. President Trump was in the White House at the time.
 
 
-6. [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
+2. [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
 
 President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
 
 
-7. [What to Know About the Crisis at the California Chemical Plant](https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-plant-leak-evacuations.html)
+3. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
 
-Firefighters continue to cool a chemical storage tank with water to prevent it from breaching or exploding. Some 40,000 residents near the Orange County plant have been evacuated to shelters.
+The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
 
 
-8. [How a Chemical Tank in Southern California Came to the Brink of Disaster](https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html)
+4. [Donald Trump Jr. and Bettina Anderson Were Married in the Bahamas](https://www.nytimes.com/2026/05/23/style/donald-trump-jr-bettina-anderson-wedding.html)
+
+After getting legally married in Palm Beach, the couple exchanged vows in the Caribbean this weekend, according to a spokesman.
+
+
+5. [Chemical Tank in Orange County Continues to Overheat, Authorities Say](https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-tank-orange-county.html)
+
+Firefighters still have few options to prevent a tank of toxic chemicals in Garden Grove, Calif., from leaking or exploding.
+
+
+6. [The Moms Delivered for Trump. Now He’s Scamming Them.](https://www.nytimes.com/2026/05/23/opinion/maha-moms-fertility-underbabied.html)
+
+The moms are not happy.
+
+
+7. [15 Unforgettable Looks at the Cannes Film Festival](https://www.nytimes.com/2026/05/22/style/cannes-red-carpet-best-dressed.html)
+
+From John Travolta’s beret to Barbara Palvin’s elegant pregnancy style, the red carpets from the festival in France had many memorable moments.
+
+
+8. [How a Throwaway Line Turned Writers Against a Cheerleader for Children’s Books](https://www.nytimes.com/2026/05/22/books/review/mac-barnett-make-believe-young-peoples-literature.html)
+
+Mac Barnett, the national ambassador for young people’s literature, published a manifesto aimed at adults. Then came the blowback.
+
+
+9. [How a Chemical Tank in Southern California Came to the Brink of Disaster](https://www.nytimes.com/2026/05/22/us/southern-california-chemical-tank-emergency.html)
 
 Firefighters are left without any options to prevent the tank, filled with a toxic chemical, from collapsing or exploding. The authorities have urged thousands of people to evacuate their homes.
 
 
-9. [Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China](https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html)
+10. [Their Phones Were Stolen in London. Then the Threats Started.](https://www.nytimes.com/2026/05/23/world/europe/phone-theft-threats-london.html)
 
-The Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”
-
-
-10. [Has Trump Gone Full ‘Mob Boss’?](https://www.nytimes.com/2026/05/23/opinion/trump-slush-fund-republicans.html)
-
-The president’s $1.8 billion slush fund is causing further cracks in the Republican Party.
+Tens of thousands of smartphones were reported stolen in the British capital in recent years. For some victims, losing their phone was only the beginning.
 
 
