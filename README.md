@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-24 22:01:02)
+## 📰 NYTimes Most Popular (Updated: 2026-05-25 00:06:17)
 
-1. [Defiant After Bad Week, Trump Pushes Ahead on Politically Unpopular Ideas](https://www.nytimes.com/2026/05/23/us/politics/trump-republicans-fund-ballroom-iran.html)
+1. [I Would Settle for Travel That’s a Little Less Horrible](https://www.nytimes.com/2026/05/24/opinion/summer-travel-delays-flights.html)
 
-President Trump continues to act like he’s politically all-powerful, even in the face of indications that he is not.
-
-
-2. [Green Card Seekers Must Leave U.S. to Apply, Trump Administration Says](https://www.nytimes.com/2026/05/22/us/politics/green-card-changes-trump.html)
-
-The change is likely to affect hundreds of thousands of people. It could also lead to more family separations as spouses or relatives wait for application decisions, immigration lawyers said.
+If I cannot get an upgrade — and I cannot, as I have no status, in any aspect of my life — I would like us to suffer more equally when we travel.
 
 
-3. [Dan Pfeiffer Thinks Two Democrats Could Upend American Politics](https://www.nytimes.com/2026/05/22/opinion/ossoff-platner-senate-midterms.html)
+2. [They Started I.V.F., Then Split. Now Who Gets Custody of the Embryos?](https://www.nytimes.com/2026/05/24/us/ivf-embryos-custody.html)
 
-Why 2026 might tell us a lot about 2028.
-
-
-4. [Xi Calls for All-Out Rescue After Coal Mine Explosion Kills at Least 82 in China](https://www.nytimes.com/2026/05/23/world/asia/xi-coal-mine-explosion-rescue.html)
-
-The Chinese leader, Xi Jinping, called for an investigation and emphasized the need to “hold those responsible to account.”
+For 47-year-old Erin Millender, this will likely be her last chance to become a mother. Her husband no longer wants to have a child with her.
 
 
-5. [What to Know About the Crisis at the California Chemical Plant](https://www.nytimes.com/2026/05/23/us/garden-grove-chemical-plant-leak-evacuations.html)
+3. [Iran Projects Victory in Potential Deal With Washington](https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html)
 
-Firefighters continue to cool a chemical storage tank with water to prevent it from breaching or exploding. Some 40,000 residents near the Orange County plant have been evacuated to shelters.
+Iran’s leaders argue that the possible preliminary agreement has not extracted any major concessions.
 
 
-6. [Iran Agreed to Give Up Enriched Uranium in Deal Announced by Trump, U.S. Officials Say](https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html)
+4. [Iranian Officials Say Proposed Peace Deal Would End Fighting and Open Strait](https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html)
+
+Iran has not formally responded to President Trump’s announcement that a peace deal was close. But officials suggested the oil choke point in the Strait of Hormuz could reopen.
+
+
+5. [What to Know About the Potential U.S.-Iran Peace Deal](https://www.nytimes.com/2026/05/24/world/middleeast/us-iran-peace-deal-proposal.html)
+
+President Trump said on Saturday that an agreement to end the war was “largely negotiated,” but neither the United States nor Iran released many details of the proposal.
+
+
+6. [Kennedy’s Push to Curb Antidepressants Has Shaken Psychiatry](https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html)
+
+An annual psychiatric meeting was abuzz over Robert F. Kennedy Jr.’s call to rein in the use of depression medications. Some fear it will drive patients away from care.
+
+
+7. [Colbert’s Sudden Return to Late Night? It Happened on Public Access.](https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html)
+
+A day after the comedian hosted the final episode of “The Late Show With Stephen Colbert” on CBS, he hosted “Only in Monroe,” a community-access program in Monroe, Mich.
+
+
+8. [Doctors, This Is Why Our Patients Are Using ChatGPT](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html)
+
+Even doctors can learn something from A.I.
+
+
+9. [Grizz Chapman, Actor on ‘30 Rock,’ Dies at 52](https://www.nytimes.com/2026/05/23/arts/television/grizz-chapman-dead.html)
+
+Mr. Chapman, who played a member of Tracy Morgan’s entourage on the show, died on Friday, according to his cousin.
+
+
+10. [Iran Agreed to Give Up Enriched Uranium in Deal Announced by Trump, U.S. Officials Say](https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html)
 
 Precise details were unclear but the officials said the U.S. demanded a commitment from Iran on uranium as part of any initial agreement.
-
-
-7. [How a Throwaway Line Turned Writers Against a Cheerleader for Children’s Books](https://www.nytimes.com/2026/05/22/books/review/mac-barnett-make-believe-young-peoples-literature.html)
-
-Mac Barnett, the national ambassador for young people’s literature, published a manifesto aimed at adults. Then came the blowback.
-
-
-8. [15 Unforgettable Looks at the Cannes Film Festival](https://www.nytimes.com/2026/05/22/style/cannes-red-carpet-best-dressed.html)
-
-From John Travolta’s beret to Barbara Palvin’s elegant pregnancy style, the red carpets from the festival in France had many memorable moments.
-
-
-9. [Has Trump Gone Full ‘Mob Boss’?](https://www.nytimes.com/2026/05/23/opinion/trump-slush-fund-republicans.html)
-
-The president’s $1.8 billion slush fund is causing further cracks in the Republican Party.
-
-
-10. [Donald Trump Jr. and Bettina Anderson Were Married in the Bahamas](https://www.nytimes.com/2026/05/23/style/donald-trump-jr-bettina-anderson-wedding.html)
-
-After getting legally married in Palm Beach, the couple exchanged vows in the Caribbean this weekend, according to a spokesman.
 
 
