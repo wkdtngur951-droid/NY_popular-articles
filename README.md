@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-25 05:24:29)
+## 📰 NYTimes Most Popular (Updated: 2026-05-25 10:22:14)
 
-1. [Iranian Officials Say Proposed Peace Deal Would End Fighting and Open Strait](https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html)
+1. [Colbert’s Sudden Return to Late Night? It Happened on Public Access.](https://www.nytimes.com/2026/05/23/arts/television/stephen-colbert-michigan-public-access.html)
+
+A day after the comedian hosted the final episode of “The Late Show With Stephen Colbert” on CBS, he hosted “Only in Monroe,” a community-access program in Monroe, Mich.
+
+
+2. [Iranian Officials Say Proposed Peace Deal Would End Fighting and Open Strait](https://www.nytimes.com/2026/05/24/world/middleeast/trump-iran-peace-deal-strait-hormuz.html)
 
 Iran has not formally responded to President Trump’s announcement that a peace deal was close. But officials suggested the oil choke point in the Strait of Hormuz could reopen.
 
 
-2. [Flashback: Your Weekly History Quiz, May 23, 2026](https://www.nytimes.com/interactive/2026/05/22/upshot/flashback.html)
+3. [Doctors, This Is Why Our Patients Are Using ChatGPT](https://www.nytimes.com/2026/05/24/opinion/doctor-ai-chatgpt.html)
 
-Can you sort 8 historical events?
-
-
-3. [Senate Republicans Cast Doubt on a Potential Peace Deal With Iran](https://www.nytimes.com/2026/05/24/world/middleeast/senate-republicans-iran-deal-trump.html)
-
-Lawmakers, including some of President Trump’s closest allies, slammed the emerging agreement as effectively undermining the president’s own war goals.
+Even doctors can learn something from A.I.
 
 
-4. [How a Throwaway Line Turned Writers Against a Cheerleader for Children’s Books](https://www.nytimes.com/2026/05/22/books/review/mac-barnett-make-believe-young-peoples-literature.html)
+4. [Trump Is Setting His Sights on Restricting Legal Immigration](https://www.nytimes.com/2026/05/23/us/politics/trump-legal-immigration.html)
 
-Mac Barnett, the national ambassador for young people’s literature, published a manifesto aimed at adults. Then came the blowback.
+After a year focused on immigrants here illegally, the Trump administration is now making it harder for legal migrants to stay in the country. It is a risky pivot.
 
 
 5. [One Killed in Exchange of Gunfire With Secret Service Near White House](https://www.nytimes.com/2026/05/23/us/politics/white-house-shooting.html)
@@ -25,28 +25,28 @@ Mac Barnett, the national ambassador for young people’s literature, published 
 A gunman known to the U.S. Secret Service opened fire near the White House and was shot and killed by federal officers. President Trump was in the White House at the time.
 
 
-6. [Iran Agreed to Give Up Enriched Uranium in Deal Announced by Trump, U.S. Officials Say](https://www.nytimes.com/2026/05/23/world/middleeast/iran-deal-uranium-nuclear.html)
+6. [Donald Trump Jr. and Bettina Anderson Were Married in the Bahamas](https://www.nytimes.com/2026/05/23/style/donald-trump-jr-bettina-anderson-wedding.html)
 
-Precise details were unclear but the officials said the U.S. demanded a commitment from Iran on uranium as part of any initial agreement.
-
-
-7. [There Has Never Been an Example of Presidential Corruption Like This](https://www.nytimes.com/2026/05/20/opinion/trump-doj-slush-fund-criminals-corruption.html)
-
-The president’s corruption and subversion of democratic tradition risk becoming the norm.
+After getting legally married in Palm Beach, the couple exchanged vows in the Caribbean this weekend, according to a spokesman.
 
 
-8. [Trump Is Setting His Sights on Restricting Legal Immigration](https://www.nytimes.com/2026/05/23/us/politics/trump-legal-immigration.html)
+7. [I Would Settle for Travel That’s a Little Less Horrible](https://www.nytimes.com/2026/05/24/opinion/summer-travel-delays-flights.html)
 
-After a year focused on immigrants here illegally, the Trump administration is now making it harder for legal migrants to stay in the country. It is a risky pivot.
+If I cannot get an upgrade — and I cannot, as I have no status, in any aspect of my life — I would like us to suffer more equally when we travel.
 
 
-9. [Kennedy’s Push to Curb Antidepressants Has Shaken Psychiatry](https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html)
+8. [Kennedy’s Push to Curb Antidepressants Has Shaken Psychiatry](https://www.nytimes.com/2026/05/24/science/rfk-jr-antidepressants-ssri-psychiatry.html)
 
 An annual psychiatric meeting was abuzz over Robert F. Kennedy Jr.’s call to rein in the use of depression medications. Some fear it will drive patients away from care.
 
 
-10. [They Started I.V.F., Then Split. Now Who Gets Custody of the Embryos?](https://www.nytimes.com/2026/05/24/us/ivf-embryos-custody.html)
+9. [Iran Projects Victory in Potential Deal With Washington](https://www.nytimes.com/2026/05/24/world/europe/iran-war-leaders-peace-deal.html)
 
-For 47-year-old Erin Millender, this will likely be her last chance to become a mother. Her husband no longer wants to have a child with her.
+Iran’s leaders argue that the possible preliminary agreement has not extracted any major concessions.
+
+
+10. [How Democrats Can Win, According to This Nobel Economist](https://www.nytimes.com/2026/05/24/opinion/democrats-2028-election-expert.html)
+
+An expert in human behavior explains how Democrats can change their primary process to improve their chances in 2028.
 
 
