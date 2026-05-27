@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-27 08:41:41)
+## 📰 NYTimes Most Popular (Updated: 2026-05-27 12:25:48)
 
-1. [Yuval Noah Harari on Donald Trump’s Core Delusion](https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html)
+1. [Trump Declares Himself in Good Health After Physical Exam at Walter Reed](https://www.nytimes.com/2026/05/26/us/politics/trump-physical-walter-reed.html)
 
-The best-selling author of “Sapiens” and “Nexus” discusses the core delusions deranging our politics.
-
-
-2. [Texas Primary Runoff Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-texas-primary-runoff.html)
-
-Get live results and maps from the 2026 Texas elections.
+President Trump, who will turn 80 next month, did not give details on the exam.
 
 
-3. [Celebrity Assistants Exist to Indulge Their Bosses, but When Does Duty Cross a Line?](https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html)
-
-Matthew Perry’s assistant injected the ketamine that killed his employer. His sentencing has some in the demanding profession considering the power dynamics involved.
-
-
-4. [He Name-Drops Ocasio-Cortez in His Bid for Congress. She Doesn’t Talk About Him at All.](https://www.nytimes.com/2026/05/25/us/politics/saikat-chakrabarti-aoc-sf-pelosi-seat.html)
-
-Saikat Chakrabarti, Alexandria Ocasio-Cortez’s former chief of staff, is running in San Francisco to succeed Representative Nancy Pelosi, whom Mr. Chakrabarti irked with an incendiary tweet seven years ago.
-
-
-5. [How to Be Old](https://www.nytimes.com/2026/05/25/opinion/aging-advice.html)
-
-My advice for how to keep living.
-
-
-6. [It’s Crow, Mr. Trump, Not Lobster](https://www.nytimes.com/2026/05/26/opinion/iran-deal-trump-us.html)
+2. [It’s Crow, Mr. Trump, Not Lobster](https://www.nytimes.com/2026/05/26/opinion/iran-deal-trump-us.html)
 
 Whatever deal is reached between the United States and Iran, Trump will have to make a big concession: A murderous regime remains intact.
 
 
-7. [Word of the Day: inchoate](https://www.nytimes.com/2026/05/26/learning/word-of-the-day-inchoate.html)
+3. [Trump’s Self-Indulgence Deepens G.O.P. Fears in Midterms](https://www.nytimes.com/2026/05/25/us/politics/trump-gop-fears-midterms.html)
 
-This word has appeared in 31 articles on NYTimes.com in the past year. Can you use it in a sentence?
-
-
-8. [The Case for California’s Billionaire Wealth Tax](https://www.nytimes.com/interactive/2026/05/26/opinion/wealth-tax-california-billionaire.html)
-
-Silicon Valley’s growth over recent decades has made California rich — and one of the most unequal places in America.
+“The stupid stuff is killing our chances,” said a retiring Republican senator.
 
 
-9. [Court Rejects Alabama House Map, Calling It Unfair to Black Voters](https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html)
+4. [Yuval Noah Harari on Donald Trump’s Core Delusion](https://www.nytimes.com/2026/05/26/opinion/ezra-klein-podcast-yuval-noah-harari.html)
+
+The best-selling author of “Sapiens” and “Nexus” discusses the core delusions deranging our politics.
+
+
+5. [Celebrity Assistants Exist to Indulge Their Bosses, but When Does Duty Cross a Line?](https://www.nytimes.com/2026/05/26/arts/matthew-perry-personal-assistant-ketamine.html)
+
+Matthew Perry’s assistant injected the ketamine that killed his employer. His sentencing has some in the demanding profession considering the power dynamics involved.
+
+
+6. [Trump Administration to Send Americans Exposed to Ebola to Kenya](https://www.nytimes.com/2026/05/26/us/politics/trump-ebola-kenya.html)
+
+In past outbreaks, Americans exposed to the virus were sent home to be treated in state-of-the-art facilities. The Trump administration has already flown some U.S. citizens to Europe for treatment.
+
+
+7. [Court Rejects Alabama House Map, Calling It Unfair to Black Voters](https://www.nytimes.com/2026/05/26/us/politics/alabama-congress-map-redistricting.html)
 
 Alabama is likely to appeal the ruling, which stops an effort to use a new congressional map that would likely cost Democrats a majority-Black district.
 
 
-10. [Supreme Court Reverses Ruling in Immigration Judges’ Free Speech Lawsuit](https://www.nytimes.com/2026/05/26/us/politics/supreme-court-immigration-judges.html)
+8. [U.F.C. Fight Venue Takes Shape on the White House Lawn](https://www.nytimes.com/2026/05/26/us/politics/ufc-fight-trump-white-house.html)
 
-A group of immigration judges in 2020 challenged work-related restrictions on their public speaking engagements, saying they violated their free speech rights.
+The Ultimate Fighting Championship bout is scheduled for June 14, President Trump’s 80th birthday.
+
+
+9. [It’s Becoming Impossible to Know How Your Kid Is Doing in School](https://www.nytimes.com/2026/05/26/opinion/grades-school-test-scores.html)
+
+Grades are going up and test scores are going down.
+
+
+10. [How to Be Old](https://www.nytimes.com/2026/05/25/opinion/aging-advice.html)
+
+My advice for how to keep living.
 
 
