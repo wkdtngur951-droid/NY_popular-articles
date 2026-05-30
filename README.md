@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-30 12:06:51)
+## 📰 NYTimes Most Popular (Updated: 2026-05-30 14:42:57)
 
-1. [Scooter Rider and Cyclist Are Killed in Head-On Crash on N.Y.C. Bridge](https://www.nytimes.com/2026/05/28/nyregion/queensboro-bridge-nyc-bike-scooter-crash-deaths.html)
+1. [The 50 Best Restaurants in North America Are Announced](https://www.nytimes.com/2026/05/29/dining/worlds-50-best-restaurants-north-america-winners-list.html)
 
-The collision on the Queensboro Bridge involved an e-scooter that is not legally allowed to be used on the streets of New York.
-
-
-2. [Multiple Artists Drop Out of Freedom 250 Concerts Hours After Announcement](https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html)
-
-Young MC, Martina McBride and Morris Day were among those who said they would not perform at the series on the National Mall.
+At a ceremony in New Orleans on Thursday, a Midwestern fine-dining standout took the top spot.
 
 
-3. [Russian Drone Hits Romanian Apartment Building, Officials Say](https://www.nytimes.com/2026/05/29/world/europe/romania-drone-russia-ukraine.html)
+2. [Actually, Most Immigrants Won’t Need to Leave U.S. to Get Green Cards, D.H.S. Says](https://www.nytimes.com/2026/05/29/us/politics/green-cards-dhs.html)
 
-Romania is a NATO country, and the security alliance condemned “Russia’s recklessness” for an episode that sharply escalated tensions with Moscow.
+But details remained scant after officials said last week that, with “extraordinary” exceptions, people seeking permanent residency must first leave the country.
 
 
-4. [Bondi, Pressed Over Epstein Files, Places Responsibility on Blanche and Patel](https://www.nytimes.com/2026/05/29/us/politics/pam-bondi-epstein-files-testimony.html)
+3. [In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump](https://www.nytimes.com/2026/05/28/us/politics/justice-department-carroll-hoffman-lawsuit-trump.html)
 
-Her remarks, delivered during a closed-door interview before the House Oversight Committee, were a candid admission of her own powerlessness.
+The Justice Department is said to be examining the funding of lawsuits brought by E. Jean Carroll, an author who has never sought a public role, political power or governmental authority.
+
+
+4. [America Has a Masculinity Crisis](https://www.nytimes.com/2026/05/29/opinion/young-men-masculinity-crisis.html)
+
+A much-needed, nuanced conversation about masculinity and feminism today.
 
 
 5. [He’s Entitled and Nepotistic. This Is Not What Democrats Need.](https://www.nytimes.com/2026/05/28/opinion/kennedy-jack-schlossberg-political-dynasty.html)
@@ -25,28 +25,28 @@ Her remarks, delivered during a closed-door interview before the House Oversight
 Members of the country’s grandest political dynasty are not inherently qualified to hold office.
 
 
-6. [F.B.I. Arrests C.I.A. Official With $40 Million in Gold Bars in His Home](https://www.nytimes.com/2026/05/27/us/politics/fbi-arrest-cia-official-gold-bars.html)
+6. [Does Trump Want to Lose the Midterms?](https://www.nytimes.com/2026/05/29/opinion/ezra-klein-podcast-liam-donovan.html)
 
-The only charge lodged against David Rush is that he inflated his academic credentials and obtained military leave pay worth tens of thousands of dollars.
+The president doesn’t seem that concerned that his party could lose control of Congress. Ezra Klein and the Republican strategist Liam Donovan discuss Trump’s midterm strategy and Democratic paths to victory.
 
 
-7. [Why Peter Thiel Is Decamping to the End of the World](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
+7. [Judge Reopens Trump’s I.R.S. Suit and Questions His ‘Weaponization’ Fund](https://www.nytimes.com/2026/05/29/us/politics/trump-irs-lawsuit-ruling.html)
+
+The ruling was a blow to both President Trump, who had voluntarily dismissed the suit last week, and to the Justice Department, which used the suit to establish a fund likely intended for Trump allies.
+
+
+8. [Multiple Artists Drop Out of Freedom 250 Concerts Hours After Announcement](https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html)
+
+Young MC, Martina McBride and Morris Day were among those who said they would not perform at the series on the National Mall.
+
+
+9. [How Japan Lost 3 Million People in Five Years](https://www.nytimes.com/interactive/2026/05/29/world/asia/japan-census-population-decline.html)
+
+Japan’s population fell by more than 3 million over the past five years, a record drop that underscores the depths of the country’s accelerating demographic crisis.
+
+
+10. [Why Peter Thiel Is Decamping to the End of the World](https://www.nytimes.com/2026/05/28/world/americas/peter-thiel-argentina.html)
 
 The billionaire’s new roots in Argentina are said to be partly motivated by concerns about the future of the United States and shared beliefs with Argentina’s right-wing leader.
-
-
-8. [This Is Why Your Groceries Are So Expensive](https://www.nytimes.com/2026/05/29/opinion/business-economics/groceries-expensive-price-fixing-consolidation.html)
-
-We need to confront America’s highly concentrated food sector, one that has feasted on oligopolistic behavior for more than a century.
-
-
-9. [In Carroll Lawsuits Inquiry, Scrutiny Turns Toward Private Citizens Who Antagonized Trump](https://www.nytimes.com/2026/05/28/us/politics/justice-department-carroll-hoffman-lawsuit-trump.html)
-
-The Justice Department is said to be examining the funding of lawsuits brought by E. Jean Carroll, an author who has never sought a public role, political power or governmental authority.
-
-
-10. [Woman With No Right Hand Is Pulled Over for Using Phone in Her Right Hand](https://www.nytimes.com/2026/05/28/us/florida-deputy-tickets-woman-missing-hand.html)
-
-Her case was, of course, dismissed.
 
 
