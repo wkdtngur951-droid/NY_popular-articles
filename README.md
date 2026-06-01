@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-05-31 22:04:49)
+## 📰 NYTimes Most Popular (Updated: 2026-06-01 00:10:50)
 
-1. [Trump Administration Sees Striking Exodus of Legal Talent](https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html)
+1. [He Was Satirized on British TV. Now He’s Trump’s Pick to Lead California.](https://www.nytimes.com/2026/05/31/us/steve-hilton-california-governor.html)
 
-The departure of more than 10,000 federal lawyers has left some agencies without sufficient staff and has boosted the ranks of state attorneys general offices and advocacy groups.
-
-
-2. [Multiple Artists Drop Out of Freedom 250 Concerts Hours After Announcement](https://www.nytimes.com/2026/05/28/arts/music/freedom-concerts-young-mc-milli-vanilli.html)
-
-Young MC, Martina McBride and Morris Day were among those who said they would not perform at the series on the National Mall.
+Steve Hilton grabbed headlines when he worked in conservative politics in Britain. His American political renaissance in the California governor’s race has bemused former British colleagues and rivals.
 
 
-3. [David Sedaris Has Two Apartments for His Two Picassos](https://www.nytimes.com/interactive/2026/05/30/realestate/david-sedaris-home-tour-new-york.html)
+2. [Trump Hits the Stalemate Phase of His International Interventions, and It Stings](https://www.nytimes.com/2026/05/31/us/politics/trump-iran-stalemate-ukraine-gaza.html)
 
-The humorist on art collecting, interacting with fans and a surprising upside of the Upper East Side.
-
-
-4. [Inside the Ebola Epicenter, the Virus Rages With Little to Stop It](https://www.nytimes.com/2026/05/30/world/africa/ebola-epicenter-congo.html)
-
-A remote gold mining town is under siege, as medical workers struggle to beat back a surge of deaths and infections.
+In Ukraine, Gaza and now Iran, President Trump’s early declarations of easy wins have given way to harsh reality.
 
 
-5. [Kennedy Center Must Remove Trump’s Name From Building, Judge Orders](https://www.nytimes.com/2026/05/29/arts/kennedy-center-trump-name-remove.html)
+3. [What’s Actually Wrong With The Reflecting Pool](https://www.nytimes.com/interactive/2026/05/31/us/trump-reflecting-pool-problems.html)
 
-In an incensed social media post, President Trump suggested that the ruling might prompt him to cast the center aside after more than a year at its helm.
+See the problems that have plagued the Lincoln Memorial pool for decades and why President Trump’s repairs might not fix them.
 
 
-6. [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
+4. [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
 
 “Heteropessimism” is all the rage — but really, there’s never been a better time to be looking for love. Go on, be a hetero-optimist.
 
 
-7. [What the Meat Industry Doesn’t Want You to Know](https://www.nytimes.com/2026/05/30/opinion/pigs-farm-bill-meat-industry.html)
+5. [5 Takeaways From a Kennedy Center Ruling That Angered Trump](https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html)
 
-I once raised pigs. And factory farms raise them today in conditions that are as unconscionable as they are invisible.
-
-
-8. [He’s Entitled and Nepotistic. This Is Not What Democrats Need.](https://www.nytimes.com/2026/05/28/opinion/kennedy-jack-schlossberg-political-dynasty.html)
-
-Members of the country’s grandest political dynasty are not inherently qualified to hold office.
+A federal judge ordered the Kennedy Center to take President Trump’s name off the building. What happens next?
 
 
-9. [Inside the Deal to Drop Trump’s $10 Billion Suit Against the I.R.S.](https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html)
+6. [Pulling Customs From ‘Sanctuary’ City Airports Would Cause Chaos, Business Groups Say](https://www.nytimes.com/2026/05/31/us/customs-airports-markwayne-mullin.html)
 
-Discussions among a group of lawyers with allegiance to the president were closely held. Some senior White House officials were said to have felt blindsided as the agreement took shape.
+Homeland Security Secretary Markwayne Mullin’s proposal could block hubs like Boston, New York and Los Angeles from accepting international flights.
 
 
-10. [Platner’s Texts With Women Concerned Campaign as Senate Race Took Off](https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html)
+7. [Flashback: Your Weekly History Quiz, May 30, 2026](https://www.nytimes.com/interactive/2026/05/29/upshot/flashback.html)
 
-The wife of Graham Platner, the Democratic candidate in Maine, told the campaign he had sent sexual messages to other women.
+Can you sort 8 historical events?
+
+
+8. [Trump Urges Canceling Freedom 250 Concerts After Artists Drop Out](https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html)
+
+The president had earlier said on social media that he should take the place of “these highly paid, Third Rate ‘Artists,’” saying he gets “larger audiences than Elvis.”
+
+
+9. [I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)
+
+The A.I. actress on her craft, the future of film and how she definitely does not intend to murder us.
+
+
+10. [In U.F.O. Files, Some Christians See Vexing Questions — and Demons](https://www.nytimes.com/2026/05/31/us/ufo-files-pentagon.html)
+
+The prospect of intelligent life elsewhere in the universe raises unsettling theological implications.
 
 
