@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-01 06:08:53)
+## 📰 NYTimes Most Popular (Updated: 2026-06-01 12:42:18)
 
-1. [There’s Something Else We Should Be Worrying About](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)
-
-We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?
-
-
-2. [Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say](https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html)
-
-His changes to the proposed deal were potentially designed to speed up the process by putting pressure on Iran to accept the current framework, one official said.
-
-
-3. [As Democrats Worry About Senate Race, Platner Attacks Reports About Sexual Messages](https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html)
-
-Graham Platner, whose contest in Maine is a key to Democrats’ hopes of winning the Senate, sought to discredit reports that he had exchanged sexual messages with women outside his marriage.
-
-
-4. [Trump Urges Canceling Freedom 250 Concerts After Artists Drop Out](https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html)
+1. [Trump Urges Canceling Freedom 250 Concerts After Artists Drop Out](https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html)
 
 The president had earlier said on social media that he should take the place of “these highly paid, Third Rate ‘Artists,’” saying he gets “larger audiences than Elvis.”
 
 
-5. [Trump Administration Sees Striking Exodus of Legal Talent](https://www.nytimes.com/2026/05/31/us/politics/trump-administration-exodus-of-lawyers.html)
+2. [As Democrats Worry About Senate Race, Platner Attacks Reports About Sexual Messages](https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html)
 
-The departure of more than 10,000 federal lawyers has left some agencies without sufficient staff and has boosted the ranks of state attorneys general offices and advocacy groups.
-
-
-6. [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
-
-“Heteropessimism” is all the rage — but really, there’s never been a better time to be looking for love. Go on, be a hetero-optimist.
+Graham Platner, whose contest in Maine is a key to Democrats’ hopes of winning the Senate, sought to discredit reports that he had exchanged sexual messages with women outside his marriage.
 
 
-7. [I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)
+3. [In U.F.O. Files, Some Christians See Vexing Questions — and Demons](https://www.nytimes.com/2026/05/31/us/ufo-files-pentagon.html)
 
-The A.I. actress on her craft, the future of film and how she definitely does not intend to murder us.
-
-
-8. [Platner’s Texts With Women Concerned Campaign as Senate Race Took Off](https://www.nytimes.com/2026/05/30/us/politics/graham-platner-maine-senate-texts.html)
-
-The wife of Graham Platner, the Democratic candidate in Maine, told the campaign he had sent sexual messages to other women.
+The prospect of intelligent life elsewhere in the universe raises unsettling theological implications.
 
 
-9. [Pulling Customs From ‘Sanctuary’ City Airports Would Cause Chaos, Business Groups Say](https://www.nytimes.com/2026/05/31/us/customs-airports-markwayne-mullin.html)
+4. [Is JD Vance the 2028 Front Runner? Trump Has Questions.](https://www.nytimes.com/2026/05/30/us/politics/is-jd-vance-the-2028-front-runner-trump-has-questions.html)
 
-Homeland Security Secretary Markwayne Mullin’s proposal could block hubs like Boston, New York and Los Angeles from accepting international flights.
+President Trump appears to see the matter of his heir as unsettled, adding a layer of tension to his relationship with Vice President JD Vance.
 
 
-10. [Flashback: Your Weekly History Quiz, May 30, 2026](https://www.nytimes.com/interactive/2026/05/29/upshot/flashback.html)
+5. [He’s Entitled and Nepotistic. This Is Not What Democrats Need.](https://www.nytimes.com/2026/05/28/opinion/kennedy-jack-schlossberg-political-dynasty.html)
+
+Members of the country’s grandest political dynasty are not inherently qualified to hold office.
+
+
+6. [Flashback: Your Weekly History Quiz, May 30, 2026](https://www.nytimes.com/interactive/2026/05/29/upshot/flashback.html)
 
 Can you sort 8 historical events?
+
+
+7. [The Fire of Stupidity Cannot Be Contained](https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html)
+
+We seem to have forgotten more or less everything.
+
+
+8. [Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say](https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html)
+
+His changes to the proposed deal were potentially designed to speed up the process by putting pressure on Iran to accept the current framework, one official said.
+
+
+9. [5 Takeaways From a Kennedy Center Ruling That Angered Trump](https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html)
+
+A federal judge ordered the Kennedy Center to take President Trump’s name off the building. What happens next?
+
+
+10. [U.S. Military Is Quietly Guiding Ships Through the Strait of Hormuz](https://www.nytimes.com/2026/05/31/business/us-military-guides-strait-of-hormuz.html)
+
+U.S. Central Command has helped around 70 commercial ships pass through the strait in the last three weeks, an official said.
 
 
