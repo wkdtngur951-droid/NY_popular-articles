@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-01 18:42:11)
+## 📰 NYTimes Most Popular (Updated: 2026-06-01 22:12:29)
 
-1. [Trump Urges Canceling Freedom 250 Concerts After Artists Drop Out](https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html)
+1. [What’s Actually Wrong With The Reflecting Pool](https://www.nytimes.com/interactive/2026/05/31/us/trump-reflecting-pool-problems.html)
 
-The president had earlier said on social media that he should take the place of “these highly paid, Third Rate ‘Artists,’” saying he gets “larger audiences than Elvis.”
-
-
-2. [I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)
-
-The A.I. actress on her craft, the future of film and how she definitely does not intend to murder us.
+See the problems that have plagued the Lincoln Memorial pool for decades and why President Trump’s repairs might not fix them.
 
 
-3. [In U.F.O. Files, Some Christians See Vexing Questions — and Demons](https://www.nytimes.com/2026/05/31/us/ufo-files-pentagon.html)
+2. [Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’](https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html)
 
-The prospect of intelligent life elsewhere in the universe raises unsettling theological implications.
+In an explosive staff meeting, Mr. Pelley, a correspondent for the long-running Sunday news show, blasted Bari Weiss, the CBS editor in chief, and Nick Bilton, the show’s new executive producer.
 
 
-4. [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
+3. [How Long Can Marco Rubio Keep This Up?](https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html)
+
+The secret to the secretary of state’s success.
+
+
+4. [There’s Something Else We Should Be Worrying About](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)
+
+We’ve heard a lot about what A.I. can do for businesses, and for individuals, but what about society?
+
+
+5. [Beneath All That Bluster, Trump Is Sweating](https://www.nytimes.com/2026/06/01/opinion/trump-midterms.html)
+
+The president’s nonchalance is just a show.
+
+
+6. [Hegseth Strikes Female and Black Navy Officers From Promotion List](https://www.nytimes.com/2026/06/01/us/politics/hegseth-navy-promotion-list.html)
+
+The defense secretary’s decision to block the officers’ promotions appears driven by his anti-diversity stance rather than based on merit.
+
+
+7. [The Fire of Stupidity Cannot Be Contained](https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html)
+
+We seem to have forgotten more or less everything.
+
+
+8. [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
 
 “Heteropessimism” is all the rage — but really, there’s never been a better time to be looking for love. Go on, be a hetero-optimist.
 
 
-5. [They Voted for Trump. Here’s How They Feel About High Gas Prices.](https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html)
+9. [Inside the Deal to Drop Trump’s $10 Billion Suit Against the I.R.S.](https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html)
 
-With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran.
-
-
-6. [There’s Something Else We Should Be Worrying About](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)
-
-We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?
+Discussions among a group of lawyers with allegiance to the president were closely held. Some senior White House officials were said to have felt blindsided as the agreement took shape.
 
 
-7. [How Long Can Marco Rubio Keep This Up?](https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html)
+10. [5 Takeaways From a Kennedy Center Ruling That Angered Trump](https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html)
 
-The secret to the Secretary of State’s success.
-
-
-8. [Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say](https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html)
-
-His changes to the proposed deal were potentially designed to speed up the process by putting pressure on Iran to accept the current framework, one official said.
-
-
-9. [Is JD Vance the 2028 Front Runner? Trump Has Questions.](https://www.nytimes.com/2026/05/30/us/politics/is-jd-vance-the-2028-front-runner-trump-has-questions.html)
-
-President Trump appears to see the matter of his heir as unsettled, adding a layer of tension to his relationship with Vice President JD Vance.
-
-
-10. [He Was Satirized on British TV. Now He’s Trump’s Pick to Lead California.](https://www.nytimes.com/2026/05/31/us/steve-hilton-california-governor.html)
-
-Steve Hilton grabbed headlines when he worked in conservative politics in Britain. His American political renaissance in the California governor’s race has bemused former British colleagues and rivals.
+A federal judge ordered the Kennedy Center to take President Trump’s name off the building. What happens next?
 
 
