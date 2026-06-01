@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-01 12:42:18)
+## 📰 NYTimes Most Popular (Updated: 2026-06-01 18:42:11)
 
 1. [Trump Urges Canceling Freedom 250 Concerts After Artists Drop Out](https://www.nytimes.com/2026/05/30/arts/music/trump-freedom-250-concert-cancellations.html)
 
 The president had earlier said on social media that he should take the place of “these highly paid, Third Rate ‘Artists,’” saying he gets “larger audiences than Elvis.”
 
 
-2. [As Democrats Worry About Senate Race, Platner Attacks Reports About Sexual Messages](https://www.nytimes.com/2026/05/31/us/politics/booker-platner-democrats-senate-midterms.html)
+2. [I Profile Celebrities for a Living. Nothing Prepared Me for Tilly Norwood.](https://www.nytimes.com/2026/05/31/magazine/ai-actress-tilly-norwood.html)
 
-Graham Platner, whose contest in Maine is a key to Democrats’ hopes of winning the Senate, sought to discredit reports that he had exchanged sexual messages with women outside his marriage.
+The A.I. actress on her craft, the future of film and how she definitely does not intend to murder us.
 
 
 3. [In U.F.O. Files, Some Christians See Vexing Questions — and Demons](https://www.nytimes.com/2026/05/31/us/ufo-files-pentagon.html)
@@ -15,24 +15,24 @@ Graham Platner, whose contest in Maine is a key to Democrats’ hopes of winning
 The prospect of intelligent life elsewhere in the universe raises unsettling theological implications.
 
 
-4. [Is JD Vance the 2028 Front Runner? Trump Has Questions.](https://www.nytimes.com/2026/05/30/us/politics/is-jd-vance-the-2028-front-runner-trump-has-questions.html)
+4. [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
 
-President Trump appears to see the matter of his heir as unsettled, adding a layer of tension to his relationship with Vice President JD Vance.
-
-
-5. [He’s Entitled and Nepotistic. This Is Not What Democrats Need.](https://www.nytimes.com/2026/05/28/opinion/kennedy-jack-schlossberg-political-dynasty.html)
-
-Members of the country’s grandest political dynasty are not inherently qualified to hold office.
+“Heteropessimism” is all the rage — but really, there’s never been a better time to be looking for love. Go on, be a hetero-optimist.
 
 
-6. [Flashback: Your Weekly History Quiz, May 30, 2026](https://www.nytimes.com/interactive/2026/05/29/upshot/flashback.html)
+5. [They Voted for Trump. Here’s How They Feel About High Gas Prices.](https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html)
 
-Can you sort 8 historical events?
+With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran.
 
 
-7. [The Fire of Stupidity Cannot Be Contained](https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html)
+6. [There’s Something Else We Should Be Worrying About](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)
 
-We seem to have forgotten more or less everything.
+We’ve heard a lot about what it can do for businesses, and for individuals, but what about society?
+
+
+7. [How Long Can Marco Rubio Keep This Up?](https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html)
+
+The secret to the Secretary of State’s success.
 
 
 8. [Trump Sends Tougher Terms to Iran for Peace Framework, Officials Say](https://www.nytimes.com/2026/05/30/us/politics/trump-iran-peace-framework.html)
@@ -40,13 +40,13 @@ We seem to have forgotten more or less everything.
 His changes to the proposed deal were potentially designed to speed up the process by putting pressure on Iran to accept the current framework, one official said.
 
 
-9. [5 Takeaways From a Kennedy Center Ruling That Angered Trump](https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html)
+9. [Is JD Vance the 2028 Front Runner? Trump Has Questions.](https://www.nytimes.com/2026/05/30/us/politics/is-jd-vance-the-2028-front-runner-trump-has-questions.html)
 
-A federal judge ordered the Kennedy Center to take President Trump’s name off the building. What happens next?
+President Trump appears to see the matter of his heir as unsettled, adding a layer of tension to his relationship with Vice President JD Vance.
 
 
-10. [U.S. Military Is Quietly Guiding Ships Through the Strait of Hormuz](https://www.nytimes.com/2026/05/31/business/us-military-guides-strait-of-hormuz.html)
+10. [He Was Satirized on British TV. Now He’s Trump’s Pick to Lead California.](https://www.nytimes.com/2026/05/31/us/steve-hilton-california-governor.html)
 
-U.S. Central Command has helped around 70 commercial ships pass through the strait in the last three weeks, an official said.
+Steve Hilton grabbed headlines when he worked in conservative politics in Britain. His American political renaissance in the California governor’s race has bemused former British colleagues and rivals.
 
 
