@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-01 22:12:29)
+## 📰 NYTimes Most Popular (Updated: 2026-06-02 00:18:32)
 
-1. [What’s Actually Wrong With The Reflecting Pool](https://www.nytimes.com/interactive/2026/05/31/us/trump-reflecting-pool-problems.html)
+1. [Notre Dame Students Abused by Priest in ‘Weighing Scheme,’ Report Finds](https://www.nytimes.com/2026/05/31/us/notre-dame-students-abused-by-priest-in-weighing-scheme-report-finds.html)
 
-See the problems that have plagued the Lincoln Memorial pool for decades and why President Trump’s repairs might not fix them.
+An investigation commissioned by Notre Dame found that the Catholic university could have done more to respond to allegations of sexual misconduct.
 
 
 2. [Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’](https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html)
@@ -15,38 +15,38 @@ In an explosive staff meeting, Mr. Pelley, a correspondent for the long-running 
 The secret to the secretary of state’s success.
 
 
-4. [There’s Something Else We Should Be Worrying About](https://www.nytimes.com/2026/05/31/opinion/artificial-intelligence-public-good.html)
+4. [A University System Went All In on A.I. Now It’s Tearing Itself Apart.](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)
 
-We’ve heard a lot about what A.I. can do for businesses, and for individuals, but what about society?
+California’s public universities spent $16.9 million on A.I. during a financial crisis, and the result has been chaos.
 
 
-5. [Beneath All That Bluster, Trump Is Sweating](https://www.nytimes.com/2026/06/01/opinion/trump-midterms.html)
+5. [Trump Hits the Stalemate Phase of His International Interventions, and It Stings](https://www.nytimes.com/2026/05/31/us/politics/trump-iran-stalemate-ukraine-gaza.html)
+
+In Ukraine, Gaza and now Iran, President Trump’s early declarations of easy wins have given way to harsh reality.
+
+
+6. [Kathie Lee Gifford Lists Connecticut Estate for $100 Million](https://www.nytimes.com/2026/06/01/realestate/kathie-lee-ken-griffey-celebrity-home-sales.html)
+
+The former TV host bids farewell to Greenwich. Ken Griffey Jr. put his Florida home on the market, while Lindsey Vonn lowers the asking price on her house in Beverly Hills, Calif.
+
+
+7. [U.S. Military Is Quietly Guiding Ships Through the Strait of Hormuz](https://www.nytimes.com/2026/05/31/business/us-military-guides-strait-of-hormuz.html)
+
+U.S. Central Command has helped around 70 commercial ships pass through the strait in the last three weeks, an official said.
+
+
+8. [Beneath All That Bluster, Trump Is Sweating](https://www.nytimes.com/2026/06/01/opinion/trump-midterms.html)
 
 The president’s nonchalance is just a show.
 
 
-6. [Hegseth Strikes Female and Black Navy Officers From Promotion List](https://www.nytimes.com/2026/06/01/us/politics/hegseth-navy-promotion-list.html)
+9. [The Return of Blaming and Shaming in Public Health](https://www.nytimes.com/2026/06/01/well/public-health-stigma-shame-rfk-jr.html)
 
-The defense secretary’s decision to block the officers’ promotions appears driven by his anti-diversity stance rather than based on merit.
-
-
-7. [The Fire of Stupidity Cannot Be Contained](https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html)
-
-We seem to have forgotten more or less everything.
+For years, medicine has tried to eliminate stigma. Now, Robert F. Kennedy Jr. is bringing back the language of personal responsibility.
 
 
-8. [There’s Nothing Wrong With Wanting Men](https://www.nytimes.com/2026/05/31/opinion/heteropessimism-straight-dating-love.html)
+10. [Germany Has Lost What It Did Best](https://www.nytimes.com/2026/06/01/opinion/germany-economy-merz-trump.html)
 
-“Heteropessimism” is all the rage — but really, there’s never been a better time to be looking for love. Go on, be a hetero-optimist.
-
-
-9. [Inside the Deal to Drop Trump’s $10 Billion Suit Against the I.R.S.](https://www.nytimes.com/2026/05/30/us/politics/trump-irs-lawsuit-deal.html)
-
-Discussions among a group of lawyers with allegiance to the president were closely held. Some senior White House officials were said to have felt blindsided as the agreement took shape.
-
-
-10. [5 Takeaways From a Kennedy Center Ruling That Angered Trump](https://www.nytimes.com/2026/05/30/arts/kennedy-center-trump-name-takeaways.html)
-
-A federal judge ordered the Kennedy Center to take President Trump’s name off the building. What happens next?
+The economy is in a terrible mess.
 
 
