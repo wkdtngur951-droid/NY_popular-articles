@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-02 18:48:39)
+## 📰 NYTimes Most Popular (Updated: 2026-06-02 21:53:31)
 
-1. [High-Wire Negotiations With Iran? Trump Finds It ‘Very Boring.’](https://www.nytimes.com/2026/06/01/us/politics/trump-iran-negotiations-boring.html)
-
-President Trump told CNBC that he “couldn’t care less” if the negotiations with Iran break down.
-
-
-2. [Trump Administration to Dismantle Ocean Monitoring System](https://www.nytimes.com/2026/06/01/climate/ocean-observatories-initiative.html)
-
-The $368 million network of instruments collecting data in both the Atlantic and Pacific has been critical to climate and ocean research.
-
-
-3. [They Voted for Trump. Here’s How They Feel About High Gas Prices.](https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html)
-
-With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran.
-
-
-4. [Are Texans Ready for Talarico’s Kind of Christianity?](https://www.nytimes.com/2026/06/01/us/politics/james-talarico-christian.html)
-
-Jim Rigby, a pastor who rarely uses the word “God,” is a key to understanding the Senate candidate trying to pull off something unusual in Texas.
-
-
-5. [Demonstrators Cannot Be Forced to Take Down ‘86-47’ Flag, Judge Rules](https://www.nytimes.com/2026/06/01/us/politics/demonstrators-8647-trump-judge.html)
-
-A federal judge wrote that the phrase, which also led to charges against the former F.B.I. director, James Comey, did not appear to constitute a true threat.
-
-
-6. [Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’](https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html)
-
-In an explosive staff meeting, Mr. Pelley, a correspondent for the long-running Sunday news show, blasted Bari Weiss, the CBS editor in chief, and Nick Bilton, the show’s new executive producer.
-
-
-7. [Going to Europe This Summer? Good Luck.](https://www.nytimes.com/2026/06/01/opinion/summer-travel-planes.html)
+1. [Going to Europe This Summer? Good Luck.](https://www.nytimes.com/2026/06/01/opinion/summer-travel-planes.html)
 
 Air travel could be disrupted into next year because of high jet fuel prices.
 
 
-8. [A Congressman Was Suddenly Absent. So We Looked. And Looked.](https://www.nytimes.com/2026/06/02/nyregion/tom-kean-jr-new-jersey-absence.html)
+2. [How Long Can Marco Rubio Keep This Up?](https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html)
 
-Will the mystery of Tom Kean Jr., a New Jersey representative, finally be solved on Tuesday? The reporters covering the story will have questions.
-
-
-9. [Anthropic Files to Go Public, Setting Stage for Huge I.P.O.](https://www.nytimes.com/2026/06/01/technology/anthropic-ipo.html)
-
-The artificial intelligence company, which is racing OpenAI to the stock market, has seen explosive growth over the last year thanks largely to technology that can automatically write computer code.
+The secret to the secretary of state’s success.
 
 
-10. [The Fire of Stupidity Cannot Be Contained](https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html)
+3. [A University System Went All In on A.I. Now It’s Tearing Itself Apart.](https://www.nytimes.com/2026/06/01/magazine/ai-university-college-california.html)
 
-We seem to have forgotten more or less everything.
+California’s public universities spent $16.9 million on A.I. during a financial crisis, and the result has been chaos.
+
+
+4. [No Wonder Everyone’s Rallying Around This Terrible Idea](https://www.nytimes.com/2026/06/02/opinion/anti-tax-break-code-oprah.html)
+
+Here’s how to make taxes work.
+
+
+5. [Trump Claims a Missing N.J. Congressman Has Been ‘Working Tirelessly’](https://www.nytimes.com/2026/06/02/nyregion/thomas-kean-new-jersey-house-election.html)
+
+The message from President Trump about Representative Thomas Kean Jr. comes as voters head to the polls on Tuesday. Mr. Kean’s name is on the ballot, but he hasn’t been seen for months.
+
+
+6. [Hegseth Strikes Female and Black Navy Officers From Promotion List](https://www.nytimes.com/2026/06/01/us/politics/hegseth-navy-promotion-list.html)
+
+The defense secretary’s decision to block the officers’ promotions appears driven by his anti-diversity stance rather than based on merit.
+
+
+7. [Losing Trust in Justice Dept., Judges Call Out Its Lawyers’ Behavior](https://www.nytimes.com/2026/06/01/us/justice-department-lawyers-judges-trump.html)
+
+The federal courts have long assumed that the government’s lawyers are trustworthy. Now judges across the country are criticizing their lack of candor.
+
+
+8. [Kathie Lee Gifford Lists Connecticut Estate for $100 Million](https://www.nytimes.com/2026/06/01/realestate/kathie-lee-ken-griffey-celebrity-home-sales.html)
+
+The former TV host bids farewell to Greenwich. Ken Griffey Jr. put his Florida home on the market, while Lindsey Vonn lowers the asking price on her house in Beverly Hills, Calif.
+
+
+9. [‘You’ve Got to Move With the Times’: 14 Baby Boomers on Their Generation and America Today](https://www.nytimes.com/interactive/2026/06/02/opinion/focus-group-baby-boomer-voters.html)
+
+The group discusses their generation, the world today and the problems younger generations face.
+
+
+10. [Beneath All That Bluster, Trump Is Sweating](https://www.nytimes.com/2026/06/01/opinion/trump-midterms.html)
+
+The president’s nonchalance is just a show.
 
 
