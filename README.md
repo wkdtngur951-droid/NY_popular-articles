@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-02 23:53:00)
+## 📰 NYTimes Most Popular (Updated: 2026-06-03 04:55:14)
 
-1. [Are Texans Ready for Talarico’s Kind of Christianity?](https://www.nytimes.com/2026/06/01/us/politics/james-talarico-christian.html)
+1. [Dear President Ozymandias](https://www.nytimes.com/2026/06/02/opinion/trump-kennedy-center-arch-reflecting-pool.html)
 
-Jim Rigby, a pastor who rarely uses the word “God,” is a key to understanding the Senate candidate trying to pull off something unusual in Texas.
-
-
-2. [Demonstrators Cannot Be Forced to Take Down ‘86-47’ Flag, Judge Rules](https://www.nytimes.com/2026/06/01/us/politics/demonstrators-8647-trump-judge.html)
-
-A federal judge wrote that the phrase, which also led to charges against the former F.B.I. director, James Comey, did not appear to constitute a true threat.
+Look on his works and despair.
 
 
-3. [The Fire of Stupidity Cannot Be Contained](https://www.nytimes.com/2026/05/31/opinion/communism-fascism-authoritarianism-democracy.html)
-
-We seem to have forgotten more or less everything.
-
-
-4. [What Ireland and Germany Can Teach Us About Birthright Citizenship](https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html)
+2. [What Ireland and Germany Can Teach Us About Birthright Citizenship](https://www.nytimes.com/2026/06/02/business/economy/birthright-citizenship-ireland-germany-trump.html)
 
 President Trump has argued that the United States is “stupid” for granting citizenship at birth. Most countries don’t do so, but that can create problems.
 
 
-5. [Going to Europe This Summer? Good Luck.](https://www.nytimes.com/2026/06/01/opinion/summer-travel-planes.html)
+3. [A Congressman Was Suddenly Absent. So We Looked. And Looked.](https://www.nytimes.com/2026/06/02/nyregion/tom-kean-jr-new-jersey-absence.html)
 
-Air travel could be disrupted into next year because of high jet fuel prices.
-
-
-6. [Scott Pelley Accuses CBS News Boss of ‘Murdering’ ‘60 Minutes’](https://www.nytimes.com/2026/06/01/business/media/cbs-60-minutes-scott-pelley-nick-bilton.html)
-
-In an explosive staff meeting, Mr. Pelley, a correspondent for the long-running Sunday news show, blasted Bari Weiss, the CBS editor in chief, and Nick Bilton, the show’s new executive producer.
+Will the mystery of Tom Kean Jr., a New Jersey representative, finally be solved on Tuesday? The reporters covering the story will have questions.
 
 
-7. [How Long Can Marco Rubio Keep This Up?](https://www.nytimes.com/2026/06/01/opinion/marco-rubio-florida.html)
-
-The secret to the secretary of state’s success.
-
-
-8. [Losing Trust in Justice Dept., Judges Call Out Its Lawyers’ Behavior](https://www.nytimes.com/2026/06/01/us/justice-department-lawyers-judges-trump.html)
-
-The federal courts have long assumed that the government’s lawyers are trustworthy. Now judges across the country are criticizing their lack of candor.
-
-
-9. [Obama Center’s Two Sides: A Lovely Park and a Forbidding Tower](https://www.nytimes.com/2026/06/02/arts/design/obama-presidential-center-library-chicago.html)
+4. [Obama Center’s Two Sides: A Lovely Park and a Forbidding Tower](https://www.nytimes.com/2026/06/02/arts/design/obama-presidential-center-library-chicago.html)
 
 In Chicago, the $850 million Obama Presidential Center aims to remake a neighborhood with a 19.3-acre community hub and a brooding 225-foot museum.
 
 
-10. [No Wonder Everyone’s Rallying Around This Terrible Idea](https://www.nytimes.com/2026/06/02/opinion/anti-tax-break-code-oprah.html)
+5. [White House Seeks to Impose Political Test on Billions in Federal Grants](https://www.nytimes.com/2026/06/02/us/politics/trump-budget-grants-omb-vought.html)
 
-Here’s how to make taxes work.
+A new proposal would allow the administration to block grants if they do not satisfy President Trump’s agenda or support what it calls “anti-American” values.
+
+
+6. [They Voted for Trump. Here’s How They Feel About High Gas Prices.](https://www.nytimes.com/2026/06/01/us/politics/trump-gas-prices-iran-war.html)
+
+With the midterm elections five months away, many Americans who backed President Trump are wrestling with pain at the pump and the war in Iran.
+
+
+7. [Hospitals See Diseases Resurge as Vaccinations Decline](https://www.nytimes.com/2026/06/02/well/children-vaccines-illnesses.html)
+
+Doctors nationwide are encountering more children with whooping cough, bacterial infections and other serious illnesses, as well as more adults refusing tetanus shots.
+
+
+8. [Trump Signs Executive Order Seeking Oversight of A.I. Models](https://www.nytimes.com/2026/06/02/technology/trump-executive-order-ai.html)
+
+The order, which signaled a shift from the hands-off approach the White House had previously taken toward A.I., followed debates over how to gain control of A.I. models without disrupting innovation.
+
+
+9. [Demonstrators Cannot Be Forced to Take Down ‘86-47’ Flag, Judge Rules](https://www.nytimes.com/2026/06/01/us/politics/demonstrators-8647-trump-judge.html)
+
+A federal judge wrote that the phrase, which also led to charges against the former F.B.I. director, James Comey, did not appear to constitute a true threat.
+
+
+10. [Trump Administration to Dismantle Ocean Monitoring System](https://www.nytimes.com/2026/06/01/climate/ocean-observatories-initiative.html)
+
+The $368 million network of instruments collecting data in both the Atlantic and Pacific has been critical to climate and ocean research.
 
 
