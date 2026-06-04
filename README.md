@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-04 16:24:09)
+## 📰 NYTimes Most Popular (Updated: 2026-06-04 19:26:37)
 
-1. [California Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-primary.html)
-
-Get live results and maps from the 2026 California primary elections.
-
-
-2. [Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56](https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html)
-
-Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.
-
-
-3. [Melinda French Gates: Women, We Deserve Better Than This](https://www.nytimes.com/2026/06/04/opinion/menopause-women-health-care.html)
-
-Too many women walk out of their doctors’ office with no diagnosis, no treatment and no plan.
-
-
-4. [CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html)
+1. [CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html)
 
 Mr. Pelley, a former “CBS Evening News” anchor, was ousted after months of tensions between staff and Bari Weiss, the network’s editor in chief.
 
 
-5. [Los Angeles Mayor Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-mayor-los-angeles.html)
+2. [Los Angeles Mayor Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-mayor-los-angeles.html)
 
 Get live results and maps from the 2026 California election.
 
 
-6. [America Broke Something When It Gave Trump a Second Chance](https://www.nytimes.com/2026/06/03/opinion/project-2025-2029-democrats.html)
+3. [California Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-primary.html)
 
-Lincoln would know how to deal with these Republicans.
+Get live results and maps from the 2026 California primary elections.
 
 
-7. [Democratic Voters Acted Strategically in a Turbulent California Election](https://www.nytimes.com/2026/06/02/us/politics/california-primary-elections-early-takeaways.html)
+4. [F.B.I. Kills Suspect Who Held 10 Hostages Overnight in California](https://www.nytimes.com/2026/06/03/us/bakersfield-chase-bank-bomb-hostage-situation.html)
+
+The authorities had been negotiating with a man inside a school district office in a building in Bakersfield, Calif., that also houses a Chase Bank branch.
+
+
+5. [Democratic Voters Acted Strategically in a Turbulent California Election](https://www.nytimes.com/2026/06/02/us/politics/california-primary-elections-early-takeaways.html)
 
 Without a dominant candidate in the governor’s race, Democratic voters ultimately wanted to ensure that their party wasn’t shut out of the general election.
 
 
-8. [Park Service Awards No-Bid Contract to Cover Bridge Statues in Gold](https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html)
+6. [A Trump Endorsement Falls Flat: 4 Election Takeaways From Iowa and Beyond](https://www.nytimes.com/2026/06/03/us/politics/iowa-new-jersey-primary-takeaways.html)
 
-Originally estimated to cost $2.4 million, the government will now spend $5 million to restore the bronzes in time for Independence Day.
-
-
-9. [California Governor Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-governor-primary.html)
-
-Get live results and maps from the 2026 California primary election.
+The president’s pick for governor of Iowa lost his primary, while Democrats in the state chose their nominee in what they hope will be a competitive Senate race.
 
 
-10. [House Votes to Rein In Trump on Iran War, in a Bipartisan Rebuke](https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html)
+7. [Bari Weiss Speaks on Scott Pelley’s Firing: ‘That’s the Path That He Chose’](https://www.nytimes.com/2026/06/03/business/media/bari-weiss-scott-pelley-cbs.html)
 
-A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.
+In her first public comments on the firing, Ms. Weiss, the CBS News editor in chief, said that the longtime correspondent had “broken” the trust in the newsroom.
+
+
+8. [We Made a List of the 30 Greatest Songwriters. Now, Readers Have Their Say.](https://www.nytimes.com/interactive/2026/magazine/best-living-american-songwiters-reader-picks.html)
+
+25,000 people responded to our poll. Here are their top picks.
+
+
+9. [America Broke Something When It Gave Trump a Second Chance](https://www.nytimes.com/2026/06/03/opinion/project-2025-2029-democrats.html)
+
+Lincoln would know how to deal with these Republicans.
+
+
+10. [Melinda French Gates: Women, We Deserve Better Than This](https://www.nytimes.com/2026/06/04/opinion/menopause-women-health-care.html)
+
+Too many women walk out of their doctors’ office with no diagnosis, no treatment and no plan.
 
 
