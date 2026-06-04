@@ -1,4 +1,4 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-04 04:48:33)
+## 📰 NYTimes Most Popular (Updated: 2026-06-04 08:54:39)
 
 1. [F.B.I. Kills Suspect Who Held 10 Hostages Overnight in California](https://www.nytimes.com/2026/06/03/us/bakersfield-chase-bank-bomb-hostage-situation.html)
 
