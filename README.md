@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-04 12:07:16)
+## 📰 NYTimes Most Popular (Updated: 2026-06-04 16:24:09)
 
-1. [F.B.I. Kills Suspect Who Held 10 Hostages Overnight in California](https://www.nytimes.com/2026/06/03/us/bakersfield-chase-bank-bomb-hostage-situation.html)
+1. [California Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-primary.html)
 
-The authorities had been negotiating with a man inside a school district office in a building in Bakersfield, Calif., that also houses a Chase Bank branch.
-
-
-2. [‘Infuriated’ Former Judges Take on Trump](https://www.nytimes.com/2026/06/03/us/politics/the-docket-former-judges-filings.html)
-
-Critics say it is unseemly for retired judges to trade on the prestige of their former positions.
+Get live results and maps from the 2026 California primary elections.
 
 
-3. [Why No Kings Isn’t Working](https://www.nytimes.com/2026/06/03/opinion/american-dream-politics-negativity.html)
+2. [Marjane Satrapi, the Author of ‘Persepolis,’ Dies at 56](https://www.nytimes.com/2026/06/04/world/middleeast/marjane-satrapi-dead.html)
 
-A case for mourning the American dream.
-
-
-4. [Want Courtside Seats for the Knicks? Be Rich, Famous and a Die-Hard Fan.](https://www.nytimes.com/2026/06/03/nyregion/knicks-courtside-madison-square-garden.html)
-
-Prime tickets on the floor for the N.B.A. Finals are coveted and very hard to get. The No. 1 requirement: You must love the Knicks.
+Her popular graphic novel series, published in the early 2000s, followed an Iranian girl through the Islamic Revolution and the Iran-Iraq War.
 
 
-5. [Shop Owner Who Killed 14-Year-Old He Wrongly Accused of Theft Is Found Not Guilty](https://www.nytimes.com/2026/06/02/us/rick-chow-not-guilty-murder-south-carolina.html)
+3. [Melinda French Gates: Women, We Deserve Better Than This](https://www.nytimes.com/2026/06/04/opinion/menopause-women-health-care.html)
 
-The shooting drew national attention and roiled the community in South Carolina.
+Too many women walk out of their doctors’ office with no diagnosis, no treatment and no plan.
 
 
-6. [Democratic Voters Acted Strategically in a Turbulent California Election](https://www.nytimes.com/2026/06/02/us/politics/california-primary-elections-early-takeaways.html)
+4. [CBS News Fires Scott Pelley of ‘60 Minutes’](https://www.nytimes.com/2026/06/02/business/media/scott-pelley-cbs-bari-weiss.html)
+
+Mr. Pelley, a former “CBS Evening News” anchor, was ousted after months of tensions between staff and Bari Weiss, the network’s editor in chief.
+
+
+5. [Los Angeles Mayor Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-mayor-los-angeles.html)
+
+Get live results and maps from the 2026 California election.
+
+
+6. [America Broke Something When It Gave Trump a Second Chance](https://www.nytimes.com/2026/06/03/opinion/project-2025-2029-democrats.html)
+
+Lincoln would know how to deal with these Republicans.
+
+
+7. [Democratic Voters Acted Strategically in a Turbulent California Election](https://www.nytimes.com/2026/06/02/us/politics/california-primary-elections-early-takeaways.html)
 
 Without a dominant candidate in the governor’s race, Democratic voters ultimately wanted to ensure that their party wasn’t shut out of the general election.
 
 
-7. [George Conway Won Fame as a Never-Trumper. Will New York Voters Buy It?](https://www.nytimes.com/2026/06/03/nyregion/george-conway-trump-congress.html)
+8. [Park Service Awards No-Bid Contract to Cover Bridge Statues in Gold](https://www.nytimes.com/2026/06/03/us/politics/park-service-bridge-statues-gold.html)
 
-Mr. Conway has centered his House campaign on his well-publicized fight against President Trump, arguing that no issue is more important to the nation.
-
-
-8. [Read Nick Bilton’s Letter to Scott Pelley](https://www.nytimes.com/interactive/2026/06/02/business/media/02biz-bilton-letter-doc.html)
-
-“Your antipathy to the future of the show has come through loud and clear,” Mr. Bilton said to the longtime CBS correspondent.
+Originally estimated to cost $2.4 million, the government will now spend $5 million to restore the bronzes in time for Independence Day.
 
 
-9. [War Games and Warnings on Strait of Hormuz Went Unheeded by Trump](https://www.nytimes.com/2026/06/02/us/politics/trump-iran-strait-of-hormuz.html)
+9. [California Governor Primary Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-governor-primary.html)
 
-Over the past two decades, Iran repeatedly threatened to close down the waterway. President Trump underestimated Iran’s ability to do so.
+Get live results and maps from the 2026 California primary election.
 
 
-10. [Los Angeles Mayor Election Results](https://www.nytimes.com/interactive/2026/us/elections/results-california-mayor-los-angeles.html)
+10. [House Votes to Rein In Trump on Iran War, in a Bipartisan Rebuke](https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html)
 
-Get live results and maps from the 2026 California election.
+A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.
 
 
