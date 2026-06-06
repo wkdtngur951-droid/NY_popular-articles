@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-05 22:20:06)
+## 📰 NYTimes Most Popular (Updated: 2026-06-06 00:14:37)
 
-1. [Several Women Who Dated Graham Platner Recall ‘Unsettling’ Behavior](https://www.nytimes.com/2026/06/04/us/politics/platner-maine-senate-girlfriends-relationships.html)
+1. [It’s No Wonder Grads Are Booing Their Commencement Speakers](https://www.nytimes.com/2026/06/05/opinion/graduation-speakers-ai-college-commencement.html)
 
-The Democratic candidate for Senate in Maine could be charming, women said in interviews, but some found his actions intimidating and disturbing.
-
-
-2. [James Handy, a Veteran Character Actor, Stabbed to Death in Front Yard](https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html)
-
-The 81-year-old had parts in films including “Top Gun: Maverick” and “Arachnophobia.” The son of his girlfriend was arrested and charged with murder.
+Companies are trying to automate graduates’ futures away. No wonder they’re furious.
 
 
-3. [House Votes to Rein In Trump on Iran War, in a Bipartisan Rebuke](https://www.nytimes.com/2026/06/03/us/politics/house-vote-trump-iran-war-powers.html)
+2. [Trump Keeps Immunity from I.R.S., a Victory in a Long-Running Feud](https://www.nytimes.com/2026/06/05/us/politics/trump-immunity-tax-audit.html)
 
-A measure to direct an end to U.S. engagement in Iran was adopted with a handful of Republicans in support, sending a signal of opposition to the president’s handling of the war.
+Even as they rebelled against a $1.8 billion fund for President Trump’s allies, Republicans looked the other way as his administration granted him potentially lucrative tax protections.
 
 
-4. [Vanilla Ice Is In, Bret Michaels Is Out: Trump’s Battle for Celebrity Validation](https://www.nytimes.com/2026/06/04/us/trump-celebrities-vanilla-ice-freedom-250.html)
+3. [Word of the Day: pulchritude](https://www.nytimes.com/2026/06/05/learning/word-of-the-day-pulchritude.html)
+
+This word has appeared in three articles on NYTimes.com in the past year. Can you use it in a sentence?
+
+
+4. [They Shut the Golden Gate Bridge for 4 Hours. Now They Face Up to 15 Years in Prison.](https://www.nytimes.com/2026/06/05/us/gaza-protesters-golden-gate-bridge.html)
+
+Activists blocked the iconic span to protest the spending of American tax dollars on Israeli military efforts in Gaza. San Francisco’s prosecutor is now seeking a strict punishment.
+
+
+5. [Vanilla Ice Is In, Bret Michaels Is Out: Trump’s Battle for Celebrity Validation](https://www.nytimes.com/2026/06/04/us/trump-celebrities-vanilla-ice-freedom-250.html)
 
 President Trump has pursued fame his entire adult life. Now in his second term in the White House, he is finding how little power he has to force cultural figures to fall in line.
 
 
-5. [I Just Realized Why I Liked ‘Hacks’ So Much](https://www.nytimes.com/2026/06/04/opinion/hacks-friendship-comedians-relationships.html)
+6. [James Handy, a Veteran Character Actor, Stabbed to Death in Front Yard](https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html)
 
-Two comedians walk into a … friendship.
-
-
-6. [Republicans Begin to Test the Limits of Trump’s Power by Flexing Their Own](https://www.nytimes.com/2026/06/03/us/politics/republicans-trump-fund-iran-war-elections.html)
-
-The president’s unilateral and retributive style of governing is starting to hit a wall in both chambers of Congress.
+The 81-year-old had parts in films including “Top Gun: Maverick” and “Arachnophobia.” The son of his girlfriend was arrested and charged with murder.
 
 
-7. [The Strait of Hormuz Is Getting Less Dire by the Day](https://www.nytimes.com/2026/06/04/opinion/strait-of-hormuz-oil-iran-war-energy.html)
+7. [The White House’s Latest Provocation Is ‘Grotesque and Terrifying and Juvenile’](https://www.nytimes.com/2026/06/05/opinion/aliens-ice-immigration-white-house.html)
 
-The longer we go without oil from the Persian Gulf, the less we’ll need it.
-
-
-8. [Drivers Are Found Liable for $176 Million in Crash That Killed 2 Boys](https://www.nytimes.com/2026/06/04/us/rebecca-grossman-scott-erickson-trial-damages.html)
-
-The jury ruled against Rebecca Grossman, a philanthropist, and Scott Erickson, a former M.L.B. pitcher. Ms. Grossman was earlier convicted of murder in the case.
+What’s the matter, can’t you take a joke?
 
 
-9. [When Jeffrey Epstein Needed Favors, This Restaurant Mogul Was There](https://www.nytimes.com/2026/06/05/dining/jeffrey-epstein-stephen-hanson.html)
+8. [Senate Passes $70 Billion G.O.P. Immigration Bill](https://www.nytimes.com/2026/06/04/us/politics/trump-fund-immigration-bill-republicans-vote.html)
 
-Stephen Hanson, whose empire included Blue Water Grill and Ruby Foo’s, was a devoted friend and wingman who helped manage and entertain the women in Epstein’s orbit.
+It was a victory for President Trump and his party, though the debate exposed fissures between Republican senators and Mr. Trump on a variety of issues.
 
 
-10. [Man Who Schemed With Au Pair to Kill His Wife Is Sentenced to Life](https://www.nytimes.com/2026/06/05/us/brendan-banfield-sentence.html)
+9. [Stocks Slide as Investors See Rates Rising After Strong Jobs Data](https://www.nytimes.com/2026/06/05/business/stock-market-jobs-report.html)
 
-Brendan Banfield was found guilty of murdering his wife and another man, who was lured in through a fetish website. The plan involved his lover, who is now serving 10 years in prison.
+The S&P 500 fell more than 2.6 percent on Friday, its worst one-day drop of the year and ending nine weeks of gains.
+
+
+10. [Anna Paulina Luna Wants Everything Disclosed](https://www.nytimes.com/2026/06/05/opinion/anna-paulina-luna-epstein-jfk-ufo-conspiracy.html)
+
+The MAGA Representative on Epstein, J.F.K. and U.F.O.s.
 
 
