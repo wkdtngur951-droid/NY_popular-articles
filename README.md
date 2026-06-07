@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-07 05:43:32)
+## 📰 NYTimes Most Popular (Updated: 2026-06-07 09:26:14)
 
-1. [Trump Pardons Former Congressman Convicted of Insider Trading](https://www.nytimes.com/2026/06/06/us/politics/trump-pardon-stephen-buyer-insider-trading.html)
+1. [James Handy, a Veteran Character Actor, Stabbed to Death in Front Yard](https://www.nytimes.com/2026/06/05/us/james-handy-stabbed-dead-la-top-gun-jumanji.html)
 
-Stephen Buyer, a former Republican representative from Indiana, was convicted of trading stock related to two deals before they were made public.
+The 81-year-old had parts in films including “Top Gun: Maverick” and “Arachnophobia.” The son of his girlfriend was arrested and charged with murder.
 
 
-2. [Flashback: Your Weekly History Quiz, June 6, 2026](https://www.nytimes.com/interactive/2026/06/05/upshot/flashback.html)
+2. [The New York Times News Quiz, June 5, 2026](https://www.nytimes.com/interactive/2026/06/05/briefing/quiz-elections-war-powers-kuwait-spacex.html)
 
-Can you sort 8 historical events?
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
 3. [Trump Has Become What He Feared](https://www.nytimes.com/2026/06/05/opinion/trump-republicans-congress.html)
@@ -15,34 +15,34 @@ Can you sort 8 historical events?
 “Trump loses more often, on more things, than most.”
 
 
-4. [Kennedy Center Loses Case Against Musician Who Canceled After Trump Renaming](https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html)
+4. [Paxton’s Senate Bid Raises the Stakes in His War on Latino Voting Groups](https://www.nytimes.com/2026/06/06/us/politics/ken-paxton-latino-voting.html)
 
-A judge sided with jazz performer Chuck Redd, who canceled a 2025 holiday concert after President Trump’s name was added to the building.
-
-
-5. [Pentagon Cuts 180 Religious Identities From Military Personnel Records](https://www.nytimes.com/2026/06/05/us/pentagon-religions-faith-military.html)
-
-The new policy, which the Pentagon framed as a largely administrative action, leaves just 31 religious categories to choose from, 22 of which are Christian.
+The Texas attorney general has mounted an all-out effort to prove Democratic Hispanic groups have been corrupting elections. Now he could be the beneficiary of his own attacks.
 
 
-6. [Trump Greets Farmers in Wisconsin, but Says He Could Be Home Watching TV](https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html)
+5. [Trump Greets Farmers in Wisconsin, but Says He Could Be Home Watching TV](https://www.nytimes.com/2026/06/05/us/politics/trump-wisconsin-farmers-midterms.html)
 
 President Trump was in Wisconsin to reassure farmers who have been stung by his tariff policies and rising fuel prices from the war in Iran.
 
 
-7. [The New York Times News Quiz, June 5, 2026](https://www.nytimes.com/interactive/2026/06/05/briefing/quiz-elections-war-powers-kuwait-spacex.html)
+6. [What Visual Evidence Tells Us About Israel’s Use of White Phosphorus in Lebanon](https://www.nytimes.com/2026/06/06/world/middleeast/white-phosphorous-israel-lebanon.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-8. [Can I Trust the ‘Zestimate’ for My Home on Zillow?](https://www.nytimes.com/2026/06/06/realestate/zillow-zestimate-accuracy.html)
-
-According to a real estate attorney, the estimate “is only as good as the data that is fed into the system.”
+Videos collected by The Times shows how the Israeli military has deployed a munition that can be extremely harmful over populated areas in Lebanon.
 
 
-9. [Pentagon Sees Growing Espionage Threat From Israel](https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html)
+7. [The White House’s Latest Provocation Is ‘Grotesque and Terrifying and Juvenile’](https://www.nytimes.com/2026/06/05/opinion/aliens-ice-immigration-white-house.html)
 
-The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.
+What’s the matter, can’t you take a joke?
+
+
+8. [Pentagon Cuts 180 Religious Identities From Military Personnel Records](https://www.nytimes.com/2026/06/05/us/pentagon-religions-faith-military.html)
+
+The new policy, which the Pentagon framed as a largely administrative action, leaves just 31 religious categories to choose from, 22 of which are Christian.
+
+
+9. [Graham Platner and the Rise of the ‘Dirtbag’ Democrat](https://www.nytimes.com/2026/06/06/opinion/graham-platner-democrats-politics.html)
+
+And what the Maine candidate reveals about politics today.
 
 
 10. [The States Where Life Is Better](https://www.nytimes.com/2026/06/06/opinion/happiness-trust-americans-states.html)
