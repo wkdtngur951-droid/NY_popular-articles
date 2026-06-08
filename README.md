@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-08 16:07:32)
+## 📰 NYTimes Most Popular (Updated: 2026-06-08 19:25:45)
 
-1. [Kennedy Center Loses Case Against Musician Who Canceled After Trump Renaming](https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html)
+1. [Tony Award Winners 2026: See the Full List](https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html)
 
-A judge sided with jazz performer Chuck Redd, who canceled a 2025 holiday concert after President Trump’s name was added to the building.
-
-
-2. [Progressive Challenger Overtakes Spencer Pratt in Race for L.A. Mayor](https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html)
-
-Nithya Raman pulled into second place in the race to see who will face Mayor Karen Bass in November. There are more votes to be counted.
+The Tony Awards were held at Radio City Music Hall in New York City.
 
 
-3. [5 Takeaways From Scott Pelley’s Interview With The New York Times](https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html)
+2. [How the Drive to Find a Conspiracy Against Trump Rocked the Justice Dept.](https://www.nytimes.com/2026/06/08/us/politics/justice-department-trump-patel-conspiracy.html)
 
-Mr. Pelley, who was at CBS News for 37 years, including as a White House correspondent and a “60 Minutes” correspondent, spoke in his first extended interview since he was fired.
-
-
-4. [Pentagon Sees Growing Espionage Threat From Israel](https://www.nytimes.com/2026/06/06/us/politics/pentagon-sees-growing-espionage-threat-from-israel.html)
-
-The Defense Department has increased the counterintelligence threat assessment to its highest level, and Israel is believed to have eavesdropped on American negotiations with Iran.
+The push to investigate what the president’s allies saw as a “deep state” cabal intent on taking him down set off cascading crises, ended careers and undercut the department’s credibility with judges.
 
 
-5. [The States Where Life Is Better](https://www.nytimes.com/2026/06/06/opinion/happiness-trust-americans-states.html)
-
-Trust, well-being and mental health are all down in America. But some states are better to live in than others, according to a new study.
-
-
-6. [She Confessed to Fraud. Her Board Let Her Stay in Charge.](https://www.nytimes.com/2026/06/07/business/caastle-fraud-christine-hunsicker.html)
-
-The final months of the fashion tech start-up CaaStle included fake audits, stock buybacks and a damage control strategy led by the chief executive who defrauded it.
-
-
-7. [Scott Pelley on the Bari Weiss Era and His Last Days at ‘60 Minutes’](https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html)
+3. [Scott Pelley on the Bari Weiss Era and His Last Days at ‘60 Minutes’](https://www.nytimes.com/2026/06/07/magazine/scott-pelley-interview.html)
 
 Lulu Garcia-Navarro sits down for an exclusive interview with the now-former CBS News correspondent.
 
 
-8. [Kennedy Shows Minimal Engagement With Vast Health Portfolio](https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html)
+4. [Kennedy Center Loses Case Against Musician Who Canceled After Trump Renaming](https://www.nytimes.com/2026/06/06/us/politics/kennedy-center-lawsuit-tossed-trump-chuck-redd.html)
+
+A judge sided with jazz performer Chuck Redd, who canceled a 2025 holiday concert after President Trump’s name was added to the building.
+
+
+5. [Kennedy Shows Minimal Engagement With Vast Health Portfolio](https://www.nytimes.com/2026/06/07/us/politics/ebola-vaccines-kennedy-health-department.html)
 
 Health Secretary Robert F. Kennedy Jr. has demonstrated little interest in managing his sprawling department as he focuses on food and vaccine policies, according to colleagues.
 
 
-9. [Why Everyone Wants Jon Ossoff to Run for President](https://www.nytimes.com/2026/06/08/opinion/jon-ossoff-president.html)
+6. [Progressive Challenger Overtakes Spencer Pratt in Race for L.A. Mayor](https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html)
 
-The Georgia senator is excoriating Trump and his systemic corruption in a way that transcends the Democratic Party’s progressive-moderate divide.
+Nithya Raman pulled into second place in the race to see who will face Mayor Karen Bass in November. There are more votes to be counted.
+
+
+7. [5 Takeaways From Scott Pelley’s Interview With The New York Times](https://www.nytimes.com/2026/06/07/arts/television/scott-pelley-60-minutes-interview-takeaways.html)
+
+Mr. Pelley, who was at CBS News for 37 years, including as a White House correspondent and a “60 Minutes” correspondent, spoke in his first extended interview since he was fired.
+
+
+8. [In Russia, Rage Is Boiling Over](https://www.nytimes.com/2026/06/08/opinion/putin-internet-russia-shutdown.html)
+
+In destroying what remained of a relatively free internet, Vladimir Putin has broken a longstanding social contract.
+
+
+9. [After Months of War, Iranians Sink Into Disillusionment and Despair](https://www.nytimes.com/2026/06/07/world/middleeast/iranians-despair-war-economy-inflation.html)
+
+An imploding economy is causing hopelessness among both pro- and anti-government Iranians. And for those who wished for regime change, the letdown is palpable.
 
 
 10. [6 Wounded in Stabbing at Penn Station in Manhattan](https://www.nytimes.com/2026/06/07/nyregion/penn-station-stabbing.html)
