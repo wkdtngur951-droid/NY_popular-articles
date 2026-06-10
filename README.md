@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-10 12:29:17)
+## 📰 NYTimes Most Popular (Updated: 2026-06-10 16:39:18)
 
-1. [Trump Previews Fall Strategy With Baseless Claims of California Vote Fraud](https://www.nytimes.com/2026/06/08/us/politics/trump-election-fraud-strategy-california.html)
+1. [Night With the Knicks: Rancor, Jubilation and an Unusual Loss](https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html)
 
-The president is using the slow count of mail ballots in California to renew his effort to cast doubt on election outcomes he doesn’t like, despite a lack of evidence of any widespread fraud.
-
-
-2. [Democrat Secures Second L.A. Mayor Spot and Ends Spencer Pratt’s Run](https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html)
-
-Nithya Raman, a progressive Democrat who entered the mayoral race at the last minute, secured the second spot to face Mayor Karen Bass in November. Her comeback sets up an intraparty battle.
+The night began with frustration and boos, and not because of the Knicks. But by the end of Game 3 of the N.B.A. finals, the team had slightly deflated some spirits, too.
 
 
-3. [Netanyahu’s Bow to Trump’s Iran Pressure Spurs New Criticism](https://www.nytimes.com/2026/06/09/world/middleeast/netanyahus-trump-pressure-over-iran.html)
+2. [Meet Europe’s New Machiavelli](https://www.nytimes.com/2026/06/09/opinion/europe-defense-van-middelaar.html)
 
-Opponents attacked Prime Minister Benjamin Netanyahu for halting strikes against Iran after a call with President Trump, saying that he was letting the United States make Israel’s decisions.
-
-
-4. [Late Night Roasts Trump for Walking Out on ‘Meet the Press’](https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html)
-
-Jon Stewart called the president’s interview his “worst nightmare: a woman who won’t stop asking pertinent questions.”
+Luuk van Middelaar, a Dutch scholar, is emerging as the continent’s master strategist.
 
 
-5. [Tradwife Influencer Opens Store in Small Town. Tourists Abound.](https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html)
+3. [Inside the White House Freakout Over the Epstein Files](https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html)
 
-Tourists are flocking to Midway, Utah. The Ballerina Farm Store, from the influencer whose brand revolves around motherhood and farm life, is a reason.
+The president’s top advisers gathered in a series of Situation Room meetings as they struggled to contain a scandal engulfing Donald Trump himself.
 
 
-6. [Hilton Beats Steyer to Win Second Spot in California Governor Race](https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html)
+4. [See the Famous Faces at the Knicks Game at Madison Square Garden](https://www.nytimes.com/interactive/2026/06/08/nyregion/nba-finals-knicks-celebrities-attendees.html)
+
+Here’s a look at some of the most prominent figures that attended Game 3 of the N.B.A. finals at Madison Square Garden.
+
+
+5. [Hilton Beats Steyer to Win Second Spot in California Governor Race](https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html)
 
 Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra, a Democrat, in the general election. Tom Steyer, another Democrat, will not advance.
+
+
+6. [Who Will Actually Thrive in the Hybrid A.I.-Human Work Force](https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html)
+
+A panel of experts explains how job seekers should prepare for the future of work.
 
 
 7. [This Could Be the Worst Ebola Outbreak in History](https://www.nytimes.com/interactive/2026/06/09/opinion/ebola-outbreak-africa-usaid.html)
@@ -35,18 +35,18 @@ Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra
 The situation in eastern Congo and Uganda combines some of the most dangerous aspects of the 2014 and 2018 Ebola outbreaks.
 
 
-8. [Night With the Knicks: Rancor, Jubilation and an Unusual Loss](https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html)
+8. [Fired Navy Admiral Advances to Democratic Runoff in South Carolina House Race](https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html)
 
-The night began with frustration and boos, and not because of the Knicks. But by the end of Game 3 of the N.B.A. finals, the team had slightly deflated some spirits, too.
-
-
-9. [Word of the Day: abnegate](https://www.nytimes.com/2026/06/09/learning/word-of-the-day-abnegate.html)
-
-This word has appeared in three articles on NYTimes.com in the past year. Can you use it in a sentence?
+Nancy Lacore would face a tough fall election in a district drawn in 2021 to be more Republican. She is seeking to replace Representative Nancy Mace, who ran unsuccessfully for governor instead of running for re-election.
 
 
-10. [Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz](https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html)
+9. [Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz](https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html)
 
 It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.
+
+
+10. [Health Risks of Alcohol Accelerate After One Drink a Day, Study Finds](https://www.nytimes.com/2026/06/09/well/alcohol-health-risks-study.html)
+
+The alcohol industry has criticized the research, which found that even light drinking increases the risk of premature death.
 
 
