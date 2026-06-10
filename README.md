@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-09 21:52:28)
+## 📰 NYTimes Most Popular (Updated: 2026-06-10 04:20:43)
 
-1. [How the Drive to Find a Conspiracy Against Trump Rocked the Justice Dept.](https://www.nytimes.com/2026/06/08/us/politics/justice-department-trump-patel-conspiracy.html)
+1. [This Could Be the Worst Ebola Outbreak in History](https://www.nytimes.com/interactive/2026/06/09/opinion/ebola-outbreak-africa-usaid.html)
 
-The push to investigate what the president’s allies saw as a “deep state” cabal intent on taking him down set off cascading crises, ended careers and undercut the department’s credibility with judges.
+The situation in eastern Congo and Uganda combines some of the most dangerous aspects of the 2014 and 2018 Ebola outbreaks.
 
 
-2. [Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz](https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html)
+2. [Night With the Knicks: Rancor, Jubilation and an Unusual Loss](https://www.nytimes.com/2026/06/09/nyregion/knicks-spurs-game-3-trump.html)
+
+The night began with frustration and boos, and not because of the Knicks. But by the end of Game 3 of the N.B.A. finals, the team had slightly deflated some spirits, too.
+
+
+3. [House Passes G.O.P.’s $70 Billion Immigration Bill](https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html)
+
+The vote gave final passage to Republicans’ megabill to fund immigration enforcement through the remainder of President Trump’s term, clearing it for his signature.
+
+
+4. [Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz](https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html)
 
 It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.
 
 
-3. [Progressive Challenger Overtakes Spencer Pratt in Race for L.A. Mayor](https://www.nytimes.com/2026/06/07/us/nithya-raman-spencer-pratt-los-angeles-mayor-race.html)
+5. [Hilton Beats Steyer to Win Second Spot in California Governor Race](https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html)
 
-Nithya Raman pulled into second place in the race to see who will face Mayor Karen Bass in November. There are more votes to be counted.
-
-
-4. [Late Night Roasts Trump for Walking Out on ‘Meet the Press’](https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html)
-
-Jon Stewart called the president’s interview his “worst nightmare: a woman who won’t stop asking pertinent questions.”
+Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra, a Democrat, in the general election. Tom Steyer, another Democrat, will not advance.
 
 
-5. [Ken Paxton’s Former Lawyer Endorses His Democratic Opponent](https://www.nytimes.com/2026/06/08/us/paxton-lawyer-endorse-talarico.html)
+6. [Democrat Secures Second L.A. Mayor Spot and Ends Spencer Pratt’s Run](https://www.nytimes.com/2026/06/08/us/elections/nithya-raman-la-mayor-karen-bass.html)
 
-The lawyer, Dan Cogdell, helped save Mr. Paxton from criminal charges and an impeachment, but now he says the Texas attorney general has “lost sight of his mission.”
-
-
-6. [Tony Award Winners 2026: See the Full List](https://www.nytimes.com/2026/06/07/theater/tony-award-winners-2026-the-updating-list.html)
-
-The Tony Awards were held at Radio City Music Hall in New York City.
+Nithya Raman, a progressive Democrat who entered the mayoral race at the last minute, secured the second spot to face Mayor Karen Bass in November. Her comeback sets up an intraparty battle.
 
 
 7. [See the Famous Faces at the Knicks Game at Madison Square Garden](https://www.nytimes.com/interactive/2026/06/08/nyregion/nba-finals-knicks-celebrities-attendees.html)
@@ -35,18 +35,18 @@ The Tony Awards were held at Radio City Music Hall in New York City.
 Here’s a look at some of the most prominent figures that attended Game 3 of the N.B.A. finals at Madison Square Garden.
 
 
-8. [This Restaurant Stopped Charging for Food. And Profits Are Up.](https://www.nytimes.com/2026/06/08/dining/post-modern-times-minneapolis-free-food.html)
+8. [What We Know About Weight-Loss Drugs Is Rapidly Changing](https://www.nytimes.com/2026/06/08/well/glp1-drugs-weight-loss.html)
 
-At Post Modern Times cafe in Minneapolis, a tax protest has turned into a social experiment and a critique of the hospitality industry.
-
-
-9. [The 15-Hour Fight With Iran Showed the Bind Israel Is In](https://www.nytimes.com/2026/06/08/world/middleeast/israel-netanyahu-iran-trump-lebanon.html)
-
-As it braces for a possible U.S.-Iranian peace deal, Israel now knows that if it responds forcefully to attacks by Hezbollah, Iran may strike Israel with missiles.
+The widespread use of drugs like Ozempic is giving scientists a clearer picture than ever of their effects.
 
 
-10. [Health Risks of Alcohol Accelerate After One Drink a Day, Study Finds](https://www.nytimes.com/2026/06/09/well/alcohol-health-risks-study.html)
+9. [Tradwife Influencer Opens Store in Small Town. Tourists Abound.](https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html)
 
-The alcohol industry has criticized the research, which found that even light drinking increases the risk of premature death.
+Tourists are flocking to Midway, Utah. The Ballerina Farm Store, from the influencer whose brand revolves around motherhood and farm life, is a reason.
+
+
+10. [Why Everyone Wants Jon Ossoff to Run for President](https://www.nytimes.com/2026/06/08/opinion/jon-ossoff-president.html)
+
+The Georgia senator is excoriating Trump and his systemic corruption in a way that transcends the Democratic Party’s progressive-moderate divide.
 
 
