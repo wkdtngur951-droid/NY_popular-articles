@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-10 22:09:57)
+## 📰 NYTimes Most Popular (Updated: 2026-06-11 00:21:56)
 
-1. [House Passes G.O.P.’s $70 Billion Immigration Bill](https://www.nytimes.com/2026/06/09/us/politics/house-immigration-bill.html)
+1. [Inside the White House Freakout Over the Epstein Files](https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html)
 
-The vote gave final passage to Republicans’ megabill to fund immigration enforcement through the remainder of President Trump’s term, clearing it for his signature.
-
-
-2. [What We Know About Weight-Loss Drugs Is Rapidly Changing](https://www.nytimes.com/2026/06/08/well/glp1-drugs-weight-loss.html)
-
-The widespread use of drugs like Ozempic is giving scientists a clearer picture than ever of their effects.
+The president’s top advisers gathered in a series of Situation Room meetings as they struggled to contain a scandal engulfing Donald Trump himself.
 
 
-3. [Health Risks of Alcohol Accelerate After One Drink a Day, Study Finds](https://www.nytimes.com/2026/06/09/well/alcohol-health-risks-study.html)
+2. [6 Takeaways From the Story of How the Epstein Files Paralyzed the White House](https://www.nytimes.com/2026/06/10/magazine/epstein-files-trump-white-house-takeaways.html)
 
-The alcohol industry has criticized the research, which found that even light drinking increases the risk of premature death.
-
-
-4. [3 Takeaways From Tuesday’s Primary Election Results](https://www.nytimes.com/2026/06/10/us/politics/maine-platner-primary-senate-election-results.html)
-
-Graham Platner won the Democratic primary for Senate in Maine and quickly turned his populist message against Susan Collins, the Republican incumbent.
+Senior officials clashed in a series of meetings as they struggled to manage a crisis over the president’s refusal to release the documents.
 
 
-5. [Late Night Roasts Trump for Walking Out on ‘Meet the Press’](https://www.nytimes.com/2026/06/09/arts/television/late-night-jon-stewart-trump-meet-the-press.html)
+3. [Hilton Beats Steyer to Win Second Spot in California Governor Race](https://www.nytimes.com/2026/06/09/us/steve-hilton-california-governor-xavier-becerra.html)
 
-Jon Stewart called the president’s interview his “worst nightmare: a woman who won’t stop asking pertinent questions.”
-
-
-6. [Crew Is Rescued After U.S. Helicopter Goes Down Near Strait of Hormuz](https://www.nytimes.com/2026/06/08/us/politics/us-helicopter-strait-of-hormuz.html)
-
-It was not immediately clear what led to the incident, which came at a time when the cease-fire in the war has grown tenuous.
+Steve Hilton, a Republican endorsed by President Trump, will face Xavier Becerra, a Democrat, in the general election. Tom Steyer, another Democrat, will not advance.
 
 
-7. [See the Famous Faces at the Knicks Game at Madison Square Garden](https://www.nytimes.com/interactive/2026/06/08/nyregion/nba-finals-knicks-celebrities-attendees.html)
+4. [Police Step Up Security in Northern Ireland After Night of Violence](https://www.nytimes.com/2026/06/10/world/europe/belfast-attack-riots-northern-ireland.html)
 
-Here’s a look at some of the most prominent figures that attended Game 3 of the N.B.A. finals at Madison Square Garden.
-
-
-8. [Who Will Actually Thrive in the Hybrid A.I.-Human Work Force](https://www.nytimes.com/2026/06/09/magazine/ai-jobs-workforce-labor.html)
-
-A panel of experts explains how job seekers should prepare for the future of work.
+Cars and a bus were set on fire and families were driven from their homes after a stabbing in Belfast caused tensions to spill onto the streets.
 
 
-9. [Tradwife Influencer Opens Store in Small Town. Tourists Abound.](https://www.nytimes.com/2026/06/09/us/tradwife-ballerina-farm-utah.html)
+5. [Teen Who Killed Competitor at Texas Track Meet Sentenced to 35 Years](https://www.nytimes.com/2026/06/09/us/karmelo-anthony-murder-verdict-guilty.html)
 
-Tourists are flocking to Midway, Utah. The Ballerina Farm Store, from the influencer whose brand revolves around motherhood and farm life, is a reason.
+Karmelo Anthony, 19, was convicted of murder for the killing of Austin Metcalf, another student, at a high school sporting event last year in a case that drew national attention.
 
 
-10. [Why Everyone Wants Jon Ossoff to Run for President](https://www.nytimes.com/2026/06/08/opinion/jon-ossoff-president.html)
+6. [Fired Navy Admiral Advances to Democratic Runoff in South Carolina House Race](https://www.nytimes.com/2026/06/09/us/politics/nancy-lacore-mace-south-carolina.html)
 
-The Georgia senator is excoriating Trump and his systemic corruption in a way that transcends the Democratic Party’s progressive-moderate divide.
+Nancy Lacore would face a tough fall election in a district drawn in 2021 to be more Republican. She is seeking to replace Representative Nancy Mace, who ran unsuccessfully for governor instead of running for re-election.
+
+
+7. [California’s Excuses Are Damaging Faith in Government](https://www.nytimes.com/2026/06/10/opinion/california-slow-vote-primary.html)
+
+Taking a week to count votes is doing it wrong.
+
+
+8. [A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’](https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html)
+
+Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.
+
+
+9. [SpaceX’s I.P.O. Could Turn 4,400 Employees Into Millionaires](https://www.nytimes.com/2026/06/10/technology/spacex-ipo-employee-millionaires.html)
+
+While Elon Musk may soon become a trillionaire, his rocket company’s market debut is set to the change the lives of its current and former employees, too.
+
+
+10. [Drink Like a Founder: 7 Bars That Are as Old as America](https://www.nytimes.com/2026/06/10/travel/american-revolution-bars-places-to-drink.html)
+
+Taverns were important incubators of revolutionary fervor where patriots gathered to plot and gossip. Here are a few where you can still taste the spirit of 1776.
 
 
