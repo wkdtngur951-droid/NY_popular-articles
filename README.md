@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-12 23:24:20)
+## 📰 NYTimes Most Popular (Updated: 2026-06-13 04:24:20)
 
-1. [Inside the White House Freakout Over the Epstein Files](https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html)
-
-The president’s top advisers gathered in a series of Situation Room meetings as they struggled to contain a scandal engulfing Donald Trump himself.
-
-
-2. [I Worked in the White House. We Never Imagined This Problem Would Get This Bad.](https://www.nytimes.com/2026/06/12/opinion/social-security-benefits-budget.html)
+1. [I Worked in the White House. We Never Imagined This Problem Would Get This Bad.](https://www.nytimes.com/2026/06/12/opinion/social-security-benefits-budget.html)
 
 We’ve been here before, but never so close.
 
 
-3. [Trump and Hegseth Broadcast U.S. Military Strikes Before They Happen](https://www.nytimes.com/2026/06/11/us/politics/trump-hegseth-military-operations.html)
-
-Commanders do not usually speak publicly about future operations to avoid jeopardizing the mission’s success.
-
-
-4. [Sex, Lies and Secrets: A Federal Judge’s Trysts Go Public](https://www.nytimes.com/2026/06/11/us/eleanor-ross-judge-sex-misconduct.html)
-
-Now, Judge Eleanor Ross’s career and caseload are under scrutiny. And her punishment, a private reprimand, has sparked backlash.
-
-
-5. [Some Leftists Are Boycotting This Film. Everyone Should Watch It.](https://www.nytimes.com/2026/06/12/opinion/yes-israel-film-boycott.html)
-
-The inanity of the leftists who’d censor such a film shouldn’t distract us from the right-wing nightmare it reveals.
-
-
-6. [He Spent $558 Million. What a Waste.](https://www.nytimes.com/2026/06/11/opinion/tom-steyer-california-governor.html)
-
-Imagine what Tom Steyer could have done with all the money he wasted on another campaign.
-
-
-7. [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
+2. [David Hockney, Who Restored the Human Form to Art, Dies at 88](https://www.nytimes.com/2026/06/12/arts/design/david-hockney-dead.html)
 
 His colorful figurative paintings were both conservative and iconoclastic, defying the dominant abstract schools of the mid-20th century.
 
 
-8. [Kennedy Center Appeals Order to Remove Trump’s Name](https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html)
+3. [After Senate Loss, Cornyn Predicts ‘Miserable’ Final Two Years for Trump](https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html)
+
+In his first extensive interview since his defeat by a Trump-backed challenger, the Texas Republican said the Senate was in for a “bumpy ride” as he and others flex new political freedom.
+
+
+4. [This Could Be the Winning Issue for Democrats](https://www.nytimes.com/2026/06/12/opinion/data-center-ai-democrats.html)
+
+A.I. is not inevitable.
+
+
+5. [Kennedy Center Appeals Order to Remove Trump’s Name](https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html)
 
 One day before a deadline to take the president’s name off its facade, the arts institution appealed a federal judge’s ruling that also temporarily blocked it from closing.
 
 
-9. [30 Shows to Watch This Summer](https://www.nytimes.com/2026/06/11/arts/television/summer-tv-shows.html)
+6. [Some States Opt Out of Trump’s ‘Great American State Fair’](https://www.nytimes.com/2026/06/11/us/politics/great-american-state-fair.html)
 
-“The Bear” serves its last course, “Ted Lasso” gets back on the pitch, and Larry David makes a TV show with the Obamas.
+At least seven have declined to participate, the latest sign that the national 250th birthday celebration has become a fragmented and partisan affair as the president seeks his imprint.
 
 
-10. [My Sister-in-Law Made an Indecent Suggestion After a Night of Drinking. Help!](https://www.nytimes.com/2026/06/10/style/indiscreet-comments-drunkenness-affairs.html)
+7. [Opera Company Sues to Collect $17 Million From the Kennedy Center](https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-washington-national-opera-lawsuit-endowment.html)
 
-A reader is unsure whether to tell his wife about her sister’s drunken musings, including an imagined scenario in which they might rekindle their long-ago love affair.
+The Washington National Opera, which left the center amid the Trump administration’s takeover, says its efforts to retrieve its endowment and other assets have been blocked.
+
+
+8. [Inside the White House Freakout Over the Epstein Files](https://www.nytimes.com/2026/06/10/magazine/trump-epstein-files-white-house-vance-doj.html)
+
+The president’s top advisers gathered in a series of Situation Room meetings as they struggled to contain a scandal engulfing Donald Trump himself.
+
+
+9. [Try This Trick for Better Sleep](https://www.nytimes.com/interactive/2026/06/11/well/summer-challenge-phone-digital-detox-sleep.html)
+
+It only takes a few minutes.
+
+
+10. [Elon Musk Is Colonizing Earth](https://www.nytimes.com/2026/06/12/opinion/elon-musk-spacex-starbase-texas.html)
+
+The SpaceX I.P.O. will enable its founder to build — and scale — his peculiar vision of society.
 
 
