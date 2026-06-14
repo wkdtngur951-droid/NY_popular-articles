@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-13 22:11:30)
+## 📰 NYTimes Most Popular (Updated: 2026-06-14 00:15:05)
 
-1. [Kennedy Center Removes Trump’s Name From Facade](https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html)
+1. [How Sergio Gor Is Transforming the Role of U.S. Ambassador in the Trump Era](https://www.nytimes.com/2026/06/13/us/politics/sergio-gor-ambassador-transformation-trump-era.html)
 
-The arts institution followed a judge’s order to take President Trump’s name off its facade. It had been granted a 12-hour extension to complete the work.
+From his post in New Delhi, Mr. Gor has become a force in U.S. foreign policy, chasing business deals and stunning diplomats by reversing a long-planned embassy building project.
 
 
-2. [The New York Times News Quiz, June 12, 2026](https://www.nytimes.com/interactive/2026/06/12/briefing/quiz-world-cup-iran-elections.html)
+2. [With a Deal Seemingly Close, the U.S. Faces an Iran More Willing to Withstand Pressure](https://www.nytimes.com/2026/06/13/world/middleeast/iran-united-states-israel-lebanon.html)
+
+Iran’s new, more militaristic leaders have already survived the worst that America and Israel can deliver, and seem readier to take risks.
+
+
+3. [Judge Blocks National Parks From Removing ‘Negative’ Signs](https://www.nytimes.com/2026/06/12/us/politics/judge-national-parks-trump.html)
+
+The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country.
+
+
+4. [The New York Times News Quiz, June 12, 2026](https://www.nytimes.com/interactive/2026/06/12/briefing/quiz-world-cup-iran-elections.html)
 
 Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
-3. [This Could Be the Winning Issue for Democrats](https://www.nytimes.com/2026/06/12/opinion/data-center-ai-democrats.html)
+5. [How to Kick SpaceX Out of Your 401(k)](https://www.nytimes.com/2026/06/13/opinion/spacex-stock-ipo-ai.html)
 
-A.I. is not inevitable.
-
-
-4. [Princess Bha, Seen by Some as Heir to Thai Throne, Dies at 47](https://www.nytimes.com/2026/06/11/world/asia/thai-princess-bajrakitiyabha-bha-dead-coma.html)
-
-Ever since she collapsed in a park three and a half years ago, speculation has swirled in Thailand about who could become the next monarch.
+It is impossible to beat the stock market. But if you want to divest your retirement of Elon Musk-related companies, here is the best way to do so.
 
 
-5. [Suspect in Fatal Shooting Is Dead After a Standoff in Texas, Officials Say](https://www.nytimes.com/2026/06/12/us/midland-texas-shooting-active-shooter.html)
+6. [Mega I.P.O. Frenzy Could Be a Harbinger of a Stock Bubble](https://www.nytimes.com/2026/06/13/business/spacex-ipo-musk-stock-bubble.html)
 
-The man was confirmed to be dead after he had barricaded himself in a building in Midland, following an earlier shooting on Friday that killed one person and injured 10 others.
-
-
-6. [Wages Are Falling. Wealth Is Surging. No Wonder Americans Are Unhappy.](https://www.nytimes.com/2026/06/13/business/economy-trillionaire-wealth-wages.html)
-
-As Elon Musk became the world’s first trillionaire, workers are facing higher prices and fears of A.I.-driven job losses.
+Rampant enthusiasm is buoying tech shares to levels that defy gravity. Invest with caution, our columnist says.
 
 
-7. [After Senate Loss, Cornyn Predicts ‘Miserable’ Final Two Years for Trump](https://www.nytimes.com/2026/06/11/us/john-cornyn-interview-trump.html)
+7. [Seth Rogen Knows the Secret to Marriage — and Being Rich in Hollywood](https://www.nytimes.com/2026/06/13/magazine/seth-rogen-interview.html)
 
-In his first extensive interview since his defeat by a Trump-backed challenger, the Texas Republican said the Senate was in for a “bumpy ride” as he and others flex new political freedom.
-
-
-8. [Try This Trick for Better Sleep](https://www.nytimes.com/interactive/2026/06/11/well/summer-challenge-phone-digital-detox-sleep.html)
-
-It only takes a few minutes.
+After three decades in the industry, the actor-writer-director-producer has figured a lot out. 
 
 
-9. [Trump’s Big New Vulnerability in 2026: Blue-Collar White Voters](https://www.nytimes.com/2026/06/13/us/politics/trump-white-working-class-voters-economy.html)
+8. [$1 Trillion and Counting: See How Your Net Worth Compares With Elon Musk's](https://www.nytimes.com/interactive/2026/06/12/business/elon-musk-trillionaire.html)
 
-A review of polling data shows an extraordinary swing among white working-class voters on the president’s handling of the economy.
+We used physical dollar bills to see just how far $1 trillion could go.
 
 
-10. [Kennedy Center Appeals Order to Remove Trump’s Name](https://www.nytimes.com/2026/06/11/arts/music/kennedy-center-appeal-trump-name.html)
+9. [I’m a 53-Year-Old Woman. Stop Telling Me I’m Invisible.](https://www.nytimes.com/2026/06/13/opinion/middle-age-women-invisible.html)
 
-One day before a deadline to take the president’s name off its facade, the arts institution appealed a federal judge’s ruling that also temporarily blocked it from closing.
+There’s never been a better time to be a middle-aged woman.
+
+
+10. [30 Shows to Watch This Summer](https://www.nytimes.com/2026/06/11/arts/television/summer-tv-shows.html)
+
+“The Bear” serves its last course, “Ted Lasso” gets back on the pitch, and Larry David makes a TV show with the Obamas.
 
 
