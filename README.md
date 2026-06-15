@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-14 23:16:02)
+## 📰 NYTimes Most Popular (Updated: 2026-06-15 05:08:11)
 
-1. [Kennedy Center Removes Trump’s Name From Facade](https://www.nytimes.com/2026/06/12/arts/music/kennedy-center-trump-name.html)
+1. [Knicks Give Their City Something New: Impossible Joy](https://www.nytimes.com/2026/06/14/nyregion/knicks-new-york-city-nba-championship-win.html)
 
-The arts institution followed a judge’s order to take President Trump’s name off its facade. It had been granted a 12-hour extension to complete the work.
+At long last, the team that New York City cares about the most has loved it back.
 
 
-2. [Trump at 80: A President ‘Really Uncomfortable’ With Aging](https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html)
+2. [The World’s Leading Deepfake Expert No Longer Trusts His Own Eyes](https://www.nytimes.com/2026/06/14/us/ai-deepfake-hany-farid.html)
+
+In the age of A.I., Hany Farid is struggling to prove what’s real before the internet decides for itself.
+
+
+3. [What the Cult of Efficiency Costs Us](https://www.nytimes.com/2026/06/14/opinion/chris-murphy-save-bacon-pigs.html)
+
+The Save Our Bacon Act is bad for pigs and bad for us.
+
+
+4. [New Yorkers Waited 53 Years for This. Time to Celebrate.](https://www.nytimes.com/2026/06/14/nyregion/knicks-championship-photos.html)
+
+With a championship run for the ages, the Knicks awakened joy in a city desperate for a winner.
+
+
+5. [Why Everyone Wants Jon Ossoff to Run for President](https://www.nytimes.com/2026/06/08/opinion/jon-ossoff-president.html)
+
+The Georgia senator is excoriating Trump and his systemic corruption in a way that transcends the Democratic Party’s progressive-moderate divide.
+
+
+6. [Trump at 80: A President ‘Really Uncomfortable’ With Aging](https://www.nytimes.com/2026/06/14/us/politics/trump-age-birthday-80.html)
 
 Even for a president known for imposing his own reality on every situation, Mr. Trump has not outrun scrutiny over his age.
 
 
-3. [Judge Blocks National Parks From Removing ‘Negative’ Signs](https://www.nytimes.com/2026/06/12/us/politics/judge-national-parks-trump.html)
+7. [Mystery Potato Hovering Over Colorado Is Reported in Latest U.F.O. Files](https://www.nytimes.com/2026/06/13/us/pentagon-ufo-files-potato.html)
 
-The ruling accused the Trump administration of engaging in censorship by taking down materials at parks across the country.
-
-
-4. [Jeffrey Epstein Haunts the White House](https://www.nytimes.com/2026/06/13/opinion/epstein-trump-white-house.html)
-
-A sleazy situation that Trump can’t wish away.
+Potatoes have featured in sightings before, and in real and fictional space travel.
 
 
-5. [I’m a 53-Year-Old Woman. Stop Telling Me I’m Invisible.](https://www.nytimes.com/2026/06/13/opinion/middle-age-women-invisible.html)
+8. [How Trump Transformed the White House Lawn Into a Fighting Arena](https://www.nytimes.com/interactive/2026/06/14/us/politics/trump-white-house-claw-ufc-fight.html)
 
-There’s never been a better time to be a middle-aged woman.
-
-
-6. [$1 Trillion and Counting: See How Your Net Worth Compares With Elon Musk's](https://www.nytimes.com/interactive/2026/06/12/business/elon-musk-trillionaire.html)
-
-We used physical dollar bills to see just how far $1 trillion could go.
+See the towering, 600-ton claw-like superstructure and venue for the U.F.C. fight.
 
 
-7. [At the Kennedy Center, a Name Change Shrouded in Uncertainty](https://www.nytimes.com/2026/06/13/us/politics/trump-kennedy-center-name.html)
-
-President Trump’s name was removed from the arts institution’s facade overnight on Saturday. Many questions remain, including whether or not it stays off.
-
-
-8. [Deadlocked Wars: How Major Powers Misread the Regions They Attacked](https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html)
+9. [Deadlocked Wars: How Major Powers Misread the Regions They Attacked](https://www.nytimes.com/2026/06/14/world/europe/us-iran-russia-ukraine.html)
 
 Russia and the United States projected their own centralized views onto Ukraine and Iran, analysts said. As a result, the smaller countries trapped larger ones in a costly confrontation.
 
 
-9. [Bob Dylan and Liza Minnelli Already Turned 80. They Have Thoughts for Trump.](https://www.nytimes.com/2026/06/14/opinion/trump-turns-80.html)
+10. [In Israel, Broad Discontent Even Before Deal’s Details Are Known](https://www.nytimes.com/2026/06/14/world/middleeast/israel-us-iran-deal.html)
 
-“I feel the same as I did 50 years ago,” President Trump said. “It’s crazy.”
-
-
-10. [Flashback: Your Weekly History Quiz, June 13, 2026](https://www.nytimes.com/interactive/2026/06/12/upshot/flashback.html)
-
-Can you sort 8 historical events?
+Israelis across the political spectrum have said the agreement appears to leave fundamental security threats posed by Iran unaddressed.
 
 
