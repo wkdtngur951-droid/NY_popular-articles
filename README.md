@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-17 09:55:24)
+## 📰 NYTimes Most Popular (Updated: 2026-06-17 13:47:53)
 
-1. [The Untold Story of Jeffrey Epstein’s Death](https://www.nytimes.com/interactive/2026/06/16/magazine/jeffrey-epstein-death-final-days.html)
+1. [The Biden Verdict Is In. It Isn’t Pretty.](https://www.nytimes.com/2026/06/16/opinion/joe-jill-biden-east-wing.html)
 
-New evidence, new interviews and the fullest investigation yet into the question of whether he killed himself.
-
-
-2. [The Iran War Permanently Altered the Global Economy](https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html)
-
-The global order has been altered, and economies are unlikely to simply pick up where they left off before the U.S. and Israel began bombing Iran.
+Preliminary judgments on Joe Biden’s one-term presidency, including Jill Biden’s, are all the rage.
 
 
-3. [Here Are the 2026 James Beard Restaurant Award Winners](https://www.nytimes.com/2026/06/15/dining/2026-james-beard-restaurant-award-winners.html)
+2. [A Garish Spectacle of American Decline](https://www.nytimes.com/2026/06/15/opinion/ufc-freedom-250-fight.html)
 
-Kalaya took the outstanding restaurant award and Michael Tusk took home the outstanding chef honor during an evening when immigration and resistance emerged as themes.
+Only the hackiest screenwriter imaginable would script America’s debasement this way.
 
 
-4. [Trump Ordered ‘American Flag Blue’ for the Reflecting Pool. It’s Green Again.](https://www.nytimes.com/2026/06/15/climate/reflecting-pool-algae-green.html)
+3. [Trump Ordered ‘American Flag Blue’ for the Reflecting Pool. It’s Green Again.](https://www.nytimes.com/2026/06/15/climate/reflecting-pool-algae-green.html)
 
 Algal blooms have hit the site, between the Lincoln Memorial and the Washington Monument, after a $14.2 million repair project.
 
 
-5. [Six Takeaways From the Times Investigation Into Epstein’s Death](https://www.nytimes.com/2026/06/16/magazine/jeffrey-epstein-death-mental-health.html)
+4. [Six Takeaways From the Times Investigation Into Epstein’s Death](https://www.nytimes.com/2026/06/16/magazine/jeffrey-epstein-death-mental-health.html)
 
 We considered every plausible theory of his death, both official and otherwise, seeking out the most persuasive arguments and evidence for each.
 
 
-6. [Just How Much Are E.V. Drivers Saving With Gas Prices Still High?](https://www.nytimes.com/2026/06/16/upshot/electric-cars-gas-costs.html)
+5. [Just How Much Are E.V. Drivers Saving With Gas Prices Still High?](https://www.nytimes.com/2026/06/16/upshot/electric-cars-gas-costs.html)
 
 Over a long period, gas prices tend to be more volatile than electricity rates.
 
 
-7. [Rope Jumper Falls to Her Death After Operators Fail to Secure Harness](https://www.nytimes.com/2026/06/16/travel/brazil-rope-jumping-fall.html)
+6. [The Untold Story of Jeffrey Epstein’s Death](https://www.nytimes.com/interactive/2026/06/16/magazine/jeffrey-epstein-death-final-days.html)
 
-Harrowing videos of the incident in Brazil showed the woman lifted over the heads of two instructors, her arms spread like wings, as they threw her off a bridge.
-
-
-8. [Attempted BASE Jump in Utah Kills 2, Including Acclaimed Extreme Athlete](https://www.nytimes.com/2026/06/15/us/base-jumping-deaths-andy-lewis.html)
-
-Andrew Lewis, 39, best known for performing in the halftime show of a Super Bowl, was killed in the accident.
+New evidence, new interviews and the fullest investigation yet into the question of whether he killed himself.
 
 
-9. [What’s Your Sleep Type?](https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html)
+7. [The Iran War Permanently Altered the Global Economy](https://www.nytimes.com/2026/06/16/business/economy/iran-war-oil-trade.html)
+
+The global order has been altered, and economies are unlikely to simply pick up where they left off before the U.S. and Israel began bombing Iran.
+
+
+8. [What’s Your Sleep Type?](https://www.nytimes.com/2026/06/15/well/chronotype-quiz.html)
 
 Think you’re a morning person, a night owl or something in between? Take our “chronotype” quiz to find out.
 
 
-10. [Iran Found Trump’s Bone Spur](https://www.nytimes.com/2026/06/16/opinion/iran-us-war-trump-cease-fire.html)
+9. [After a Bitter Split, European Leaders Play Nice With Trump](https://www.nytimes.com/2026/06/16/world/europe/trump-g7-leaders-europe.html)
 
-In a contest of wills, the hard men of Tehran prevailed over the vain man of Washington.
+A peace framework with Iran, and hope for cooperation with Ukraine, softened the tone on Tuesday at a Group of 7 gathering in France.
+
+
+10. [Hillary Clinton Says Biden’s Re-election Bid Was a ‘Terrible Mistake’](https://www.nytimes.com/2026/06/16/us/politics/clinton-biden-reelection-terrible-mistake.html)
+
+If the former president had “passed the torch” and allowed a competitive Democratic primary in 2024, she said in a new interview, the winner “would have beaten Donald Trump.”
 
 
