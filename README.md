@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-18 21:24:11)
+## 📰 NYTimes Most Popular (Updated: 2026-06-18 23:50:32)
 
-1. [18-Year-Old Dies in Fall From Horse Carriage in Central Park](https://www.nytimes.com/2026/06/17/nyregion/horse-carriage-central-park-injury.html)
+1. [My Teenage Sons Love U.F.C. Here’s What We Saw at the White House Cage Match.](https://www.nytimes.com/2026/06/17/opinion/ufc-trump-fight-white-house-birthday.html)
 
-After the driver stepped out to take a photo of the passengers, the horse bolted, and a tourist from India fell from the driverless carriage. “We were yelling, ‘Help me, help me!’” said his father.
-
-
-2. [The Real Reason Trump Never Stops Talking About Voter Fraud](https://www.nytimes.com/2026/06/17/opinion/trump-pratt-voter-fraud-republicans.html)
-
-“Voter fraud” is not about fraud. It is about who votes and how.
+In my darker moments, I worry I’ve failed them.
 
 
-3. [The Biden Verdict Is In. It Isn’t Pretty.](https://www.nytimes.com/2026/06/16/opinion/joe-jill-biden-east-wing.html)
+2. [Presidents Line Up for Obama’s Long-Awaited Center in Chicago](https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html)
 
-Preliminary judgments on Joe Biden’s one-term presidency, including Jill Biden’s, are all the rage.
+Thursday’s opening drew four former presidents, as well as Bruce Springsteen, Bono and Jennifer Hudson. Chicago has seen years of planning and legal fights.
 
 
-4. [Israel, Stunned by Trump’s Iran Deal, Sees It as a ‘Catastrophic Capitulation’](https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html)
+3. [Daveigh Chase, ‘Lilo & Stitch’ Voice Actor and ‘The Ring’ Villain, Dies at 35](https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html)
 
-The agreement accomplishes none of Israel’s stated war aims and arguably leaves the country in worse shape on each of them.
+She brought the plucky Lilo to life in the popular animated film series, and unnerved viewers as the child villain Samara in the horror film “The Ring.”
+
+
+4. [A Big Moment for American Catholics Is Coming](https://www.nytimes.com/2026/06/17/opinion/pope-leo-cabrini-american-saint.html)
+
+When Pope Leo visits Mother Cabrini’s birthplace, the message will not be their shared American nationality but a rebuke of American exceptionalism.
 
 
 5. [Gilgo Beach Serial Killer Receives Life Sentence After Guilty Plea](https://www.nytimes.com/2026/06/17/nyregion/gilgo-beach-killer-life-sentence.html)
@@ -25,28 +25,28 @@ The agreement accomplishes none of Israel’s stated war aims and arguably leave
 The decision on Wednesday brought an end an infamous case that took investigators more than a decade to solve.
 
 
-6. [Trump Angrily Defends Iran Deal and Reveals, Again, His Obsession With Obama](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-peace-deal-obama.html)
+6. [The Real Reason Trump Never Stops Talking About Voter Fraud](https://www.nytimes.com/2026/06/17/opinion/trump-pratt-voter-fraud-republicans.html)
 
-President Trump denied that the United States would be part of a $300 billion rebuilding fund for Iran and argued that his agreement was better than the one Barack Obama struck in 2015.
-
-
-7. [We Liked Remote Work. Then We Looked at the Data.](https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html)
-
-Despite its advantages, work-from-home arrangements have significantly deepened Americans’ isolation and distress.
+“Voter fraud” is not about fraud. It is about who votes and how.
 
 
-8. [After a Day of Harmony, a Mercurial Trump Upends Leaders’ Summit](https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html)
+7. [JD Vance on the Morality of the Trump Administration](https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html)
 
-At the Group of 7 gathering in France, President Trump’s oscillations on his Iran deal and Ukraine left European leaders racing to catch up.
-
-
-9. [Presidents Line Up for Obama’s Long-Awaited Center in Chicago](https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html)
-
-Thursday’s opening drew four former presidents, as well as Bruce Springsteen, Bono and Jennifer Hudson. Chicago has seen years of planning and legal fights.
+I asked the vice president what is Christian about this White House.
 
 
-10. [Trump Demanded Iran’s ‘Unconditional Surrender.’ He Got a Surprise Instead.](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html)
+8. [The Biden Verdict Is in. It Isn’t Pretty.](https://www.nytimes.com/2026/06/16/opinion/joe-jill-biden-east-wing.html)
+
+Preliminary judgments on Joe Biden’s one-term presidency, including Jill Biden’s, are all the rage.
+
+
+9. [Trump Demanded Iran’s ‘Unconditional Surrender.’ He Got a Surprise Instead.](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html)
 
 While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.
+
+
+10. [A Look at the Text of the Agreement Between the United States and Iran](https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html)
+
+New York Times reporters annotated the agreement, which a senior official disclosed on Wednesday.
 
 
