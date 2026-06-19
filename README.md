@@ -1,43 +1,43 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-18 23:50:32)
+## 📰 NYTimes Most Popular (Updated: 2026-06-19 05:04:45)
 
-1. [My Teenage Sons Love U.F.C. Here’s What We Saw at the White House Cage Match.](https://www.nytimes.com/2026/06/17/opinion/ufc-trump-fight-white-house-birthday.html)
+1. [Supreme Court Narrows Law Banning Drug Users From Owning Guns](https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html)
 
-In my darker moments, I worry I’ve failed them.
-
-
-2. [Presidents Line Up for Obama’s Long-Awaited Center in Chicago](https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html)
-
-Thursday’s opening drew four former presidents, as well as Bruce Springsteen, Bono and Jennifer Hudson. Chicago has seen years of planning and legal fights.
+The justices sided with a Texas gun owner who faced criminal charges after admitting to marijuana use argued that a federal gun law violated the Second Amendment.
 
 
-3. [Daveigh Chase, ‘Lilo & Stitch’ Voice Actor and ‘The Ring’ Villain, Dies at 35](https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html)
+2. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
 
-She brought the plucky Lilo to life in the popular animated film series, and unnerved viewers as the child villain Samara in the horror film “The Ring.”
-
-
-4. [A Big Moment for American Catholics Is Coming](https://www.nytimes.com/2026/06/17/opinion/pope-leo-cabrini-american-saint.html)
-
-When Pope Leo visits Mother Cabrini’s birthplace, the message will not be their shared American nationality but a rebuke of American exceptionalism.
+The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.
 
 
-5. [Gilgo Beach Serial Killer Receives Life Sentence After Guilty Plea](https://www.nytimes.com/2026/06/17/nyregion/gilgo-beach-killer-life-sentence.html)
+3. [Ukraine Bombards Moscow With One of the Biggest Drone Attacks of the War](https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html)
 
-The decision on Wednesday brought an end an infamous case that took investigators more than a decade to solve.
-
-
-6. [The Real Reason Trump Never Stops Talking About Voter Fraud](https://www.nytimes.com/2026/06/17/opinion/trump-pratt-voter-fraud-republicans.html)
-
-“Voter fraud” is not about fraud. It is about who votes and how.
+The attack, which shut down the capital’s airports for several hours, was part of an escalating campaign to bring the conflict home to Russians.
 
 
-7. [JD Vance on the Morality of the Trump Administration](https://www.nytimes.com/2026/06/18/opinion/jd-vance-iran-trump-communion.html)
+4. [A President Using Super Glue and Irked About Epstein: Takeaways From a New Trump Book](https://www.nytimes.com/2026/06/18/us/politics/trump-regime-change-book-haberman-swan.html)
 
-I asked the vice president what is Christian about this White House.
+The book by Maggie Haberman and Jonathan Swan of The New York Times, “Regime Change,” reveals a host of details and surprising exchanges as President Trump pushed to drastically expand his power.
 
 
-8. [The Biden Verdict Is in. It Isn’t Pretty.](https://www.nytimes.com/2026/06/16/opinion/joe-jill-biden-east-wing.html)
+5. [18-Year-Old Dies in Fall From Horse Carriage in Central Park](https://www.nytimes.com/2026/06/17/nyregion/horse-carriage-central-park-injury.html)
 
-Preliminary judgments on Joe Biden’s one-term presidency, including Jill Biden’s, are all the rage.
+After the driver stepped out to take a photo of the passengers, the horse bolted, and a tourist from India fell from the driverless carriage. “We were yelling, ‘Help me, help me!’” said his father.
+
+
+6. [A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’](https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html)
+
+Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.
+
+
+7. [See the Knicks Championship Parade Unfold](https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html)
+
+Fans gathered in Manhattan on Thursday to cheer on the N.B.A. champions at a parade that has been 53 years in the making.
+
+
+8. [ICE Spent $700 Million on 7 Warehouses. Now It Wants to Get Rid of Them.](https://www.nytimes.com/2026/06/18/us/politics/ice-warehouses-immigration.html)
+
+Immigration and Customs Enforcement plans to sell or give away most of the 11 warehouses it bought to detain migrants, reversing course on a signature initiative.
 
 
 9. [Trump Demanded Iran’s ‘Unconditional Surrender.’ He Got a Surprise Instead.](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html)
@@ -45,8 +45,8 @@ Preliminary judgments on Joe Biden’s one-term presidency, including Jill Biden
 While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.
 
 
-10. [A Look at the Text of the Agreement Between the United States and Iran](https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html)
+10. [Israel, Stunned by Trump’s Iran Deal, Sees It as a ‘Catastrophic Capitulation’](https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html)
 
-New York Times reporters annotated the agreement, which a senior official disclosed on Wednesday.
+The agreement accomplishes none of Israel’s stated war aims and arguably leaves the country in worse shape on each of them.
 
 
