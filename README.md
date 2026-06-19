@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-19 05:04:45)
+## 📰 NYTimes Most Popular (Updated: 2026-06-19 10:48:51)
 
 1. [Supreme Court Narrows Law Banning Drug Users From Owning Guns](https://www.nytimes.com/2026/06/18/us/politics/supreme-court-drugs-guns.html)
 
 The justices sided with a Texas gun owner who faced criminal charges after admitting to marijuana use argued that a federal gun law violated the Second Amendment.
 
 
-2. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
-
-The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.
-
-
-3. [Ukraine Bombards Moscow With One of the Biggest Drone Attacks of the War](https://www.nytimes.com/2026/06/18/world/europe/moscow-ukraine-drone-attack-fire.html)
-
-The attack, which shut down the capital’s airports for several hours, was part of an escalating campaign to bring the conflict home to Russians.
-
-
-4. [A President Using Super Glue and Irked About Epstein: Takeaways From a New Trump Book](https://www.nytimes.com/2026/06/18/us/politics/trump-regime-change-book-haberman-swan.html)
-
-The book by Maggie Haberman and Jonathan Swan of The New York Times, “Regime Change,” reveals a host of details and surprising exchanges as President Trump pushed to drastically expand his power.
-
-
-5. [18-Year-Old Dies in Fall From Horse Carriage in Central Park](https://www.nytimes.com/2026/06/17/nyregion/horse-carriage-central-park-injury.html)
-
-After the driver stepped out to take a photo of the passengers, the horse bolted, and a tourist from India fell from the driverless carriage. “We were yelling, ‘Help me, help me!’” said his father.
-
-
-6. [A Twist in Ukraine’s Drone Campaign Is ‘Really Hurting the Russians’](https://www.nytimes.com/2026/06/10/world/europe/ukraine-midrange-logistics-strikes.html)
-
-Midrange attacks, using upgraded drones that Ukraine produces in huge numbers, are causing fuel shortages and complicating troop rotations.
-
-
-7. [See the Knicks Championship Parade Unfold](https://www.nytimes.com/2026/06/18/nyregion/18met-knicks-parade-photos.html)
-
-Fans gathered in Manhattan on Thursday to cheer on the N.B.A. champions at a parade that has been 53 years in the making.
-
-
-8. [ICE Spent $700 Million on 7 Warehouses. Now It Wants to Get Rid of Them.](https://www.nytimes.com/2026/06/18/us/politics/ice-warehouses-immigration.html)
+2. [ICE Spent $700 Million on 7 Warehouses. Now It Wants to Get Rid of Them.](https://www.nytimes.com/2026/06/18/us/politics/ice-warehouses-immigration.html)
 
 Immigration and Customs Enforcement plans to sell or give away most of the 11 warehouses it bought to detain migrants, reversing course on a signature initiative.
 
 
-9. [Trump Demanded Iran’s ‘Unconditional Surrender.’ He Got a Surprise Instead.](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-nuclear-program-strait.html)
+3. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
 
-While the Iranians suffered substantial losses in the war, they emerged from a confrontation with the world’s most powerful military having proved they can use economic chaos as a weapon.
+The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.
 
 
-10. [Israel, Stunned by Trump’s Iran Deal, Sees It as a ‘Catastrophic Capitulation’](https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html)
+4. [After a Day of Harmony, a Mercurial Trump Upends Leaders’ Summit](https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html)
 
-The agreement accomplishes none of Israel’s stated war aims and arguably leaves the country in worse shape on each of them.
+At the Group of 7 gathering in France, President Trump’s oscillations on his Iran deal and Ukraine left European leaders racing to catch up.
+
+
+5. [We Liked Remote Work. Then We Looked at the Data.](https://www.nytimes.com/2026/06/17/opinion/remote-work-depression.html)
+
+Despite its advantages, work-from-home arrangements have significantly deepened Americans’ isolation and distress.
+
+
+6. [A Look at the Text of the Agreement Between the United States and Iran](https://www.nytimes.com/2026/06/17/us/politics/us-iran-agreement-deal-text.html)
+
+New York Times reporters annotated the agreement, which a senior official disclosed on Wednesday.
+
+
+7. [A President Using Super Glue and Irked About Epstein: Takeaways From a New Trump Book](https://www.nytimes.com/2026/06/18/us/politics/trump-regime-change-book-haberman-swan.html)
+
+The book by Maggie Haberman and Jonathan Swan of The New York Times, “Regime Change,” reveals a host of details and surprising exchanges as President Trump pushed to drastically expand his power.
+
+
+8. [Daveigh Chase, ‘Lilo & Stitch’ Voice Actor and ‘The Ring’ Villain, Dies at 35](https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html)
+
+She brought the plucky Lilo to life in the popular animated film series, and unnerved viewers as the child villain Samara in the horror film “The Ring.”
+
+
+9. [Trump Has Found a New Way to Fail Us](https://www.nytimes.com/2026/06/18/opinion/trump-vance-iran.html)
+
+The president’s titanic insecurities are sinking us.
+
+
+10. [Trump’s Deal With Iran Opens New Rifts in G.O.P.](https://www.nytimes.com/2026/06/17/us/politics/trump-iran-deal-republicans-criticism.html)
+
+Some in the president’s party were skeptical about whether the agreement he reached included adequate concessions from Iranian officials.
 
 
