@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-19 23:04:45)
+## 📰 NYTimes Most Popular (Updated: 2026-06-20 04:17:25)
 
-1. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
-
-The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.
-
-
-2. [Israel, Stunned by Trump’s Iran Deal, Sees It as a ‘Catastrophic Capitulation’](https://www.nytimes.com/2026/06/18/world/middleeast/israel-iran-deal-reaction-netanyahu.html)
-
-The agreement accomplishes none of Israel’s stated war aims and arguably leaves the country in worse shape on each of them.
-
-
-3. [Scores Fall Ill at Air Force Base After Hegseth Makes Flu Vaccine Optional](https://www.nytimes.com/2026/06/18/us/flu-outbreak-air-force-base.html)
-
-The defense secretary described the vaccine requirement, which he lifted in April, as an “absurd, overreaching” mandate.
-
-
-4. [After a Day of Harmony, a Mercurial Trump Upends Leaders’ Summit](https://www.nytimes.com/2026/06/17/world/europe/trump-g7-europe.html)
-
-At the Group of 7 gathering in France, President Trump’s oscillations on his Iran deal and Ukraine left European leaders racing to catch up.
-
-
-5. [With a Wink, Obama’s Tan Suit Is Back](https://www.nytimes.com/2026/06/18/style/obama-tan-suit-stephen-colbert.html)
-
-Celebrity guests paid cheeky homage to President Obama’s notorious tan suit.
-
-
-6. [San Francisco Film Patrons Are Found Dead on Side of Highway](https://www.nytimes.com/2026/06/18/us/san-francisco-couple-dead-judith-wylie-sheldon.html)
+1. [San Francisco Film Patrons Are Found Dead on Side of Highway](https://www.nytimes.com/2026/06/18/us/san-francisco-couple-dead-judith-wylie-sheldon.html)
 
 Judith Sheldon, 84, daughter of an Oscar-winning director, and her husband, Wylie, 86, were traveling to Oregon on a hot day. Their deaths are under investigation.
 
 
-7. [A President Using Super Glue and Irked About Epstein: Takeaways From a New Trump Book](https://www.nytimes.com/2026/06/18/us/politics/trump-regime-change-book-haberman-swan.html)
+2. [Boycott Trump’s Ridiculous July 4 Party](https://www.nytimes.com/2026/06/19/opinion/trump-freedom-250-america-ufc-birthday.html)
 
-The book by Maggie Haberman and Jonathan Swan of The New York Times, “Regime Change,” reveals a host of details and surprising exchanges as President Trump pushed to drastically expand his power.
-
-
-8. [Presidents Line Up for Obama’s Long-Awaited Center in Chicago](https://www.nytimes.com/2026/06/18/us/obama-presidential-center-chicago.html)
-
-Thursday’s opening drew four former presidents, as well as Bruce Springsteen, Bono and Jennifer Hudson. Chicago has seen years of planning and legal fights.
+The president is planning another self-aggrandizing spectacle.
 
 
-9. [Daveigh Chase, ‘Lilo & Stitch’ Voice Actor and ‘The Ring’ Villain, Dies at 35](https://www.nytimes.com/2026/06/17/arts/daveigh-chase-dead.html)
+3. [Vance’s Defense of Iran Deal Rests on Vague and Misleading Claims](https://www.nytimes.com/2026/06/18/us/politics/vances-iran-deal-misleading-claims.html)
 
-She brought the plucky Lilo to life in the popular animated film series, and unnerved viewers as the child villain Samara in the horror film “The Ring.”
+The vice president said the United States had leverage to dictate the outcome of the next round of negotiations. But he claimed incorrectly that Iran got no new benefit from the lifting of oil sanctions.
 
 
-10. [Trump Has Found a New Way to Fail Us](https://www.nytimes.com/2026/06/18/opinion/trump-vance-iran.html)
+4. [The Knicks Have the Rings, but Rama Duwaji Won the Parade](https://www.nytimes.com/2026/06/18/style/rama-duwaji-knicks-parade-mamdani.html)
 
-The president’s titanic insecurities are sinking us.
+The first lady and the mayor showed up for the celebration in style.
+
+
+5. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
+
+The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.
+
+
+6. [Secret Vetting and Blocked Promotions: Inside Hegseth’s War on Diversity](https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html)
+
+A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his promotion anyway.
+
+
+7. [Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump](https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html)
+
+President Trump said the Italian leader had “begged” him to take a photo together at the Group of 7 summit in France. The remarks come as their once-friendly relationship has frayed.
+
+
+8. [With a Wink, Obama’s Tan Suit Is Back](https://www.nytimes.com/2026/06/18/style/obama-tan-suit-stephen-colbert.html)
+
+Celebrity guests paid cheeky homage to President Obama’s notorious tan suit.
+
+
+9. [I Keep Telling People We’re Living in This Dystopian Novel](https://www.nytimes.com/2026/06/19/opinion/ezra-klein-podcast-gary-shteyngart.html)
+
+The 2010 novel “Super Sad True Love Story” foreshadowed our current world. So I asked its author, Gary Shteyngart, how he sees the world today and how we might find pleasure in it.
+
+
+10. [James Burrows, Master of the TV Sitcom, Dies at 85](https://www.nytimes.com/2026/06/19/arts/television/james-burrows-dead.html)
+
+Beloved by actors, he helped create “Cheers” and directed more than 1,000 episodes of hit shows like “Taxi,” “Friends” and “The Big Bang Theory.”
 
 
