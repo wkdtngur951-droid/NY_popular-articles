@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-21 06:08:56)
+## 📰 NYTimes Most Popular (Updated: 2026-06-21 10:35:21)
 
-1. [‘A Literal Coverup’: What Is the Kennedy Center Hiding Behind Those Tarps?](https://www.nytimes.com/2026/06/19/us/politics/kennedy-center-trump.html)
+1. [San Francisco Film Patrons Are Found Dead on Side of Highway](https://www.nytimes.com/2026/06/18/us/san-francisco-couple-dead-judith-wylie-sheldon.html)
 
-The arts center says it pulled President Trump’s name from the building front. But the result remains hidden by tarps, prompting questions and speculation.
-
-
-2. [Creature From the Green Lagoon](https://www.nytimes.com/2026/06/20/opinion/trump-reflecting-pool-algae-green-dc.html)
-
-Trump’s slimy, stinky swamp within the swamp.
+Judith Sheldon, 84, daughter of an Oscar-winning director, and her husband, Wylie, 86, were traveling to Oregon on a hot day. Their deaths are under investigation.
 
 
-3. [The Unquiet American: Charles Kushner Brings Trump Diplomacy to France](https://www.nytimes.com/2026/06/20/world/europe/charles-kushner-france-us-ambasador-trump.html)
+2. [Flashback: Your Weekly History Quiz, June 20, 2026](https://www.nytimes.com/interactive/2026/06/19/upshot/flashback.html)
 
-The U.S. envoy to Paris has emerged as the embodiment of combative diplomacy in the age of President Trump, riling the French establishment notably with his accusations of antisemitism.
-
-
-4. [Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump](https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html)
-
-President Trump said the Italian leader had “begged” him to take a photo together at the Group of 7 summit in France. The remarks come as their once-friendly relationship has frayed.
+Can you sort 8 historical events?
 
 
-5. [A New Air Force One, via Qatar, Nears Its First Presidential Flight](https://www.nytimes.com/2026/06/19/us/politics/new-air-force-one-trump.html)
+3. [For Sale: A 7-Story Basket](https://www.nytimes.com/2026/06/18/realestate/ohio-basket-building-for-sale.html)
 
-President Trump showed off the new red, white and blue Boeing 747, a gift from Qatar that prompted a storm of criticism from lawmakers, before a flyover on July 4.
-
-
-6. [The Reflecting Pool Appears to Be Rejecting Its Makeover](https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html)
-
-As National Park Service crews try to clean the algae that turned the water bright green, another problem has developed: The “American flag blue” coating is coming off.
+The kitschy building, designed as the Longaberger basket company’s headquarters, has been a roadside attraction in Ohio for almost 30 years.
 
 
-7. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
+4. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
 
 The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.
 
 
-8. [See the U.S. Goal That Was Allowed to Stand After Video Review](https://www.nytimes.com/interactive/2026/06/20/sports/soccer/usa-australia-world-cup-goal.html)
+5. [Creature From the Green Lagoon](https://www.nytimes.com/2026/06/20/opinion/trump-reflecting-pool-algae-green-dc.html)
 
-View in 3-D how the U.S. men’s soccer team scored on a set piece against Australia in a 2-0 win.
-
-
-9. [Disability Groups Fear RFK Jr.’s New Special Education Role](https://www.nytimes.com/2026/06/20/us/politics/special-education-rfk.html)
-
-Alienated by Secretary Robert F. Kennedy Jr.’s claims about autism, advocates for disabled students are sounding the alarm about the Trump administration's shifting special education programs to his department.
+Trump’s slimy, stinky swamp within the swamp.
 
 
-10. [‘A Deeply Anxious Personality’: 3 Opinion Writers on JD Vance’s New Book](https://www.nytimes.com/2026/06/20/opinion/jd-vance-communion-trump.html)
+6. [Italy Doesn’t ‘Beg,’ Giorgia Meloni Tells Trump](https://www.nytimes.com/2026/06/19/world/europe/meloni-trump-italy.html)
 
-Three Opinion writers share their views on “Communion,” the vice president’s new book.
+President Trump said the Italian leader had “begged” him to take a photo together at the Group of 7 summit in France. The remarks come as their once-friendly relationship has frayed.
+
+
+7. [The Science That Turned Lizard Venom Into GLP-1s Is Under Attack](https://www.nytimes.com/2026/06/20/opinion/glp1-research-science-funding.html)
+
+Science turned a serendipitous finding about lizard venom into one of the most important drugs of the century, but that type of research is getting harder to do.
+
+
+8. [My Father’s Death Was the Start of My Life](https://www.nytimes.com/2026/06/20/opinion/fathers-day-family-death.html)
+
+It was the worst thing that ever happened to me. It also taught me everything I needed to live.
+
+
+9. [The Reflecting Pool Appears to Be Rejecting Its Makeover](https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html)
+
+As National Park Service crews try to clean the algae that turned the water bright green, another problem has developed: The “American flag blue” coating is coming off.
+
+
+10. [Trump, Claiming Vandalism, Says Reflecting Pool Will Likely Need to Be Drained](https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html)
+
+The pool has taken on clouds of algae after a hasty renovation. A three-time Olympian was charged with destroying government property after he says he touched one of the strands of blue paint peeling off the pool’s bottom.
 
 
