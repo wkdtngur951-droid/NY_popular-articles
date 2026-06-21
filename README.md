@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-21 13:11:26)
+## 📰 NYTimes Most Popular (Updated: 2026-06-21 15:59:03)
 
-1. [The Remains of 3 People Are Found in Foreclosed House After Its Sale](https://www.nytimes.com/2026/06/20/nyregion/connecticut-home-skeletal-remains.html)
+1. [See the U.S. Goal That Was Allowed to Stand After Video Review](https://www.nytimes.com/interactive/2026/06/20/sports/soccer/usa-australia-world-cup-goal.html)
 
-The house in Connecticut had not been inspected before a winning bid was made at an auction, according to court records. The buyer discovered the bodies after entering the premises.
+View in 3-D how the U.S. men’s soccer team scored on a set piece against Australia in a 2-0 win.
 
 
-2. [Secret Vetting and Blocked Promotions: Inside Hegseth’s War on Diversity](https://www.nytimes.com/2026/06/19/us/politics/hegseth-navy-blocked-promotions-diversity.html)
+2. [San Francisco Film Patrons Are Found Dead on Side of Highway](https://www.nytimes.com/2026/06/18/us/san-francisco-couple-dead-judith-wylie-sheldon.html)
 
-A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his promotion anyway.
+Judith Sheldon, 84, daughter of an Oscar-winning director, and her husband, Wylie, 86, were traveling to Oregon on a hot day. Their deaths are under investigation.
 
 
 3. [The Science That Turned Lizard Venom Into GLP-1s Is Under Attack](https://www.nytimes.com/2026/06/20/opinion/glp1-research-science-funding.html)
@@ -15,38 +15,38 @@ A Black admiral fixed one of the Navy’s worst messes. Mr. Hegseth blocked his 
 Science turned a serendipitous finding about lizard venom into one of the most important drugs of the century, but that type of research is getting harder to do.
 
 
-4. [‘A Literal Coverup’: What Is the Kennedy Center Hiding Behind Those Tarps?](https://www.nytimes.com/2026/06/19/us/politics/kennedy-center-trump.html)
+4. [My Father’s Death Was the Start of My Life](https://www.nytimes.com/2026/06/20/opinion/fathers-day-family-death.html)
+
+It was the worst thing that ever happened to me. It also taught me everything I needed to live.
+
+
+5. [How Y’all, Youse and You Guys Talk](https://www.nytimes.com/interactive/2014/upshot/dialect-quiz-map.html)
+
+What does the way you speak say about where you’re from? Answer all the questions below to see your personal dialect map.
+
+
+6. [‘A Literal Coverup’: What Is the Kennedy Center Hiding Behind Those Tarps?](https://www.nytimes.com/2026/06/19/us/politics/kennedy-center-trump.html)
 
 The arts center says it pulled President Trump’s name from the building front. But the result remains hidden by tarps, prompting questions and speculation.
 
 
-5. [Trump, Claiming Vandalism, Says Reflecting Pool Will Likely Need to Be Drained](https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html)
+7. [Iran Gets Major Economic Lifeline for Minimal Concessions in Initial Deal](https://www.nytimes.com/2026/06/18/world/middleeast/iran-deal-oil-strait-of-hormuz-nuclear.html)
 
-The pool has taken on clouds of algae after a hasty renovation. A three-time Olympian was charged with destroying government property after he says he touched one of the strands of blue paint peeling off the pool’s bottom.
+The agreement delays the most difficult steps for Iran for later talks, while granting it crucial benefits.
 
 
-6. [Creature From the Green Lagoon](https://www.nytimes.com/2026/06/20/opinion/trump-reflecting-pool-algae-green-dc.html)
+8. [The Reflecting Pool Appears to Be Rejecting Its Makeover](https://www.nytimes.com/2026/06/19/us/politics/reflecting-pool-paint-algae.html)
+
+As National Park Service crews try to clean the algae that turned the water bright green, another problem has developed: The “American flag blue” coating is coming off.
+
+
+9. [Creature From the Green Lagoon](https://www.nytimes.com/2026/06/20/opinion/trump-reflecting-pool-algae-green-dc.html)
 
 Trump’s slimy, stinky swamp within the swamp.
 
 
-7. [San Francisco Film Patrons Are Found Dead on Side of Highway](https://www.nytimes.com/2026/06/18/us/san-francisco-couple-dead-judith-wylie-sheldon.html)
+10. [Flashback: Your Weekly History Quiz, June 20, 2026](https://www.nytimes.com/interactive/2026/06/19/upshot/flashback.html)
 
-Judith Sheldon, 84, daughter of an Oscar-winning director, and her husband, Wylie, 86, were traveling to Oregon on a hot day. Their deaths are under investigation.
-
-
-8. [These 8 Americans Shaped History. We Just Don’t Agree on How.](https://www.nytimes.com/interactive/2026/06/20/us/america-250-historical-figures.html)
-
-As America celebrates its 250th anniversary, The Times consulted scholars across the country to identify historical figures who influenced the United States — and whose legacies remain debated.
-
-
-9. [One City Might Have Just Cracked the Housing Crisis](https://www.nytimes.com/2026/06/15/opinion/vancouver-housing-crisis-development.html)
-
-A large real estate development in the middle of Vancouver, British Columbia, shows how cities can build more housing.
-
-
-10. [For Sale: A 7-Story Basket](https://www.nytimes.com/2026/06/18/realestate/ohio-basket-building-for-sale.html)
-
-The kitschy building, designed as the Longaberger basket company’s headquarters, has been a roadside attraction in Ohio for almost 30 years.
+Can you sort 8 historical events?
 
 
