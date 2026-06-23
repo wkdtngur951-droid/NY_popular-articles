@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-22 22:51:23)
+## 📰 NYTimes Most Popular (Updated: 2026-06-23 00:14:58)
 
-1. [Supreme Court Restores Conviction in 1979 Murder of Etan Patz](https://www.nytimes.com/2026/06/22/us/politics/etan-patz-pedro-hernandez.html)
+1. [Clive Davis, Hitmaking Titan of the Music Industry, Dies at 94](https://www.nytimes.com/2026/06/22/arts/music/clive-davis-dead.html)
 
-Pedro Hernandez was convicted in 2017 of kidnapping and murdering the 6-year-old boy, but an appeals court in July had said Mr. Hernandez was entitled to a new trial.
-
-
-2. [Want to Know Your Dad Better? Ask Him These 25 Questions.](https://www.nytimes.com/interactive/2026/06/18/well/family/fathers-day-questions.html)
-
-This Father’s Day, open up a new channel of communication.
+He rose from a midlevel position at Columbia Records to become one of music’s most powerful executives, shepherding stars like Barry Manilow and Whitney Houston.
 
 
-3. [Trump Administration Shuttered a Criminal Probe Into Fraudster’s Clemency](https://www.nytimes.com/2026/06/21/us/politics/trump-fraudster-priest-investigation-brooklyn.html)
-
-Federal prosecutors had been examining the circumstances behind the commutation of David Gentile’s sentence. He was aided by a Catholic priest friendly with the president.
-
-
-4. [To My Daughter, My Gender Was Never Complicated](https://www.nytimes.com/2026/06/21/opinion/trans-dad-parenting-fathers-day.html)
-
-Becoming a father taught Zach Ellams how to overcome shame.
-
-
-5. [5 Foods That Contain Both Protein and Fiber](https://www.nytimes.com/2026/06/22/well/eat/fiber-protein-foods.html)
-
-It’s challenging to find the two nutrients in a single food, experts say. These categories offer a nice mix.
-
-
-6. [Trump Says Reflecting Pool Will Likely Need to Be Drained](https://www.nytimes.com/2026/06/20/us/politics/trump-reflecting-pool-drained.html)
-
-The pool has taken on clouds of algae after a hasty renovation. A three-time Olympian was charged with destroying government property after he says he touched one of the strands of blue paint peeling off the pool’s bottom.
-
-
-7. [Where Billionaires Summer, a Gardener Died in the Snow](https://www.nytimes.com/2026/06/21/realestate/where-billionaires-summer-a-gardener-died-in-the-snow.html)
+2. [Where Billionaires Summer, a Gardener Died in the Snow](https://www.nytimes.com/2026/06/21/realestate/where-billionaires-summer-a-gardener-died-in-the-snow.html)
 
 A landscaper’s difficult life and lonely death reveal the human cost behind the Hamptons’ manicured landscape.
 
 
-8. [10 Years After Brexit, the Dismal Verdict Is In](https://www.nytimes.com/2026/06/22/opinion/brexit-britain-europe-power.html)
+3. [Judge Finds Justice Dept. Overreach in Subpoenas to Minnesota Officials](https://www.nytimes.com/2026/06/22/us/minnesota-democrats-judge-ruling.html)
+
+The judge quashed the subpoenas, writing that they were designed to “harass and retaliate against” Democratic officials who bucked the Trump administration on immigration enforcement.
+
+
+4. [Word of the Day: equipoise](https://www.nytimes.com/2026/06/22/learning/word-of-the-day-equipoise.html)
+
+This word has appeared in seven articles on NYTimes.com in the past year. Can you use it in a sentence?
+
+
+5. [10 Years After Brexit, the Dismal Verdict Is In](https://www.nytimes.com/2026/06/22/opinion/brexit-britain-europe-power.html)
 
 Brexit was supposed to let Britain return to a time when it still counted as a global power. A decade later, the costs are blindingly apparent.
 
 
-9. [Who Is Andy Burnham, the Man Who Could Be Britain’s Next Prime Minister?](https://www.nytimes.com/2026/06/18/world/europe/who-is-andy-burnham-britain-next-possible-prime-minister.html)
+6. [5 Foods That Contain Both Protein and Fiber](https://www.nytimes.com/2026/06/22/well/eat/fiber-protein-foods.html)
 
-Charismatic, northern and exuding a relaxed optimism, Mr. Burnham is a contrast to Keir Starmer. His allies hope he could mend Labour’s relationship with voters.
+It’s challenging to find the two nutrients in a single food, experts say. These categories offer a nice mix.
 
 
-10. [The Secret Reason Bosses Want Everyone Back in the Office, Every Day of the Week](https://www.nytimes.com/2026/06/22/opinion/office-work-wfh-bosses.html)
+7. [He Provided Security to 3 Governors. Then He Snapped.](https://www.nytimes.com/2026/06/22/nyregion/new-jersey-state-trooper-murder-couple.html)
 
-It’s all about them. 
+Lt. Ricardo Santos of the New Jersey State Police had faced questions about his judgment and conduct before he became the primary suspect in a double murder-suicide.
+
+
+8. [‘A Literal Coverup’: What Is the Kennedy Center Hiding Behind Those Tarps?](https://www.nytimes.com/2026/06/19/us/politics/kennedy-center-trump.html)
+
+The arts center says it pulled President Trump’s name from the building front. But the result remains hidden by tarps, prompting questions and speculation.
+
+
+9. [I Thought ‘No Child Left Behind’ Would Fix Public Schools. I Was Wrong.](https://www.nytimes.com/2026/06/22/opinion/schools-testing-accountability.html)
+
+Test scores are poor measures of an education.
+
+
+10. [Tesla Driver Using Autopilot Crashes Into Home, Killing a Woman, Officials Say](https://www.nytimes.com/2026/06/21/us/tesla-autopilot-crash-texas.html)
+
+The driver told investigators he was using the vehicle’s automated-driver system when the vehicle left the roadway and crashed into a house in Harris County, Texas.
 
 
