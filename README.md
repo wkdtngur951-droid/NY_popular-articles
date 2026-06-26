@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-25 22:24:57)
+## 📰 NYTimes Most Popular (Updated: 2026-06-26 00:15:55)
 
-1. [Thomas L. Friedman on the Clash at the Core of the Iran Deal](https://www.nytimes.com/2026/06/24/opinion/thomas-friedman-iran-deal.html)
+1. [Supreme Court Rejects Lawsuit Alleging Roundup Weedkiller Caused Cancer](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html)
 
-How the world views of Jared Kushner and the founder of the Islamic Republic of Iran can help explain the issue at the heart of the negotiations.
-
-
-2. [Representative Tom Kean, Missing for Months, Is Back Home in New Jersey](https://www.nytimes.com/2026/06/24/nyregion/tom-kean-missing-found.html)
-
-The congressman, who has been absent from Washington since March, answered the door of his home on Wednesday evening. He was wearing a suit and tie.
+The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims.
 
 
-3. [Schlossberg’s Defeat Dampens Dream of a Renewed Camelot](https://www.nytimes.com/2026/06/23/nyregion/schlossberg-loses-camelot.html)
+2. [Supreme Court Overturns Hawaii Gun Law](https://www.nytimes.com/2026/06/25/us/supreme-court-hawaii-gun-law.html)
 
-Jack Schlossberg fell well short of his bid to win a highly contested Democratic primary in Manhattan, his campaign hurt by staff defections and missed meetings.
-
-
-4. [Trump Blames Vandals for Reflecting Pool Problems. Internal Records Tell Another Story.](https://www.nytimes.com/2026/06/23/us/trump-reflecting-pool-green-peeling.html)
-
-The documents do not indicate that the peeling blue coating and algae blooms were caused intentionally.
+The case involved a Second Amendment challenge to a Hawaii law that barred carrying concealed weapons without permission onto private property open to the public.
 
 
-5. [Trump Stokes Chaos in Congress as He Huddles With the G.O.P.](https://www.nytimes.com/2026/06/24/us/politics/trump-senate-republicans-meeting.html)
-
-Hours before visiting the Capitol, the president scrapped plans to sign a major housing bill, condemning “bad Republicans” for resisting his demands to ram through new voting restrictions.
-
-
-6. [Visitors Look at the Reflecting Pool and Disagree on What They See](https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html)
+3. [Visitors Look at the Reflecting Pool and Disagree on What They See](https://www.nytimes.com/2026/06/24/us/reflecting-pool-visitors.html)
 
 People have long gathered in solidarity by the Reflecting Pool, but amid the turmoil of President Trump’s attempted repairs there is little unity to be found.
 
 
-7. [After Trump’s Outburst, Senate G.O.P. Reverses Course on Iran](https://www.nytimes.com/2026/06/24/us/politics/trump-senate-iran.html)
+4. [New York Prepares for an Event at M.S.G. Clues Point to You Know Who.](https://www.nytimes.com/2026/06/24/nyregion/taylor-swift-wedding-madison-square-garden.html)
 
-In a late-night vote aimed at mollifying the president, Senate Republicans rejected a resolution directing him to end the war against Iran, a day after a bipartisan rebuke.
-
-
-8. [Supreme Court Expands Trump’s Power Over Immigration](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html)
-
-The court handed President Trump victories in his push to rescind deportation protections for hundreds of thousands of people and turn away migrants at the southern border.
+The New York Times has confirmed that Taylor Swift has rented the sports arena for the July 4 weekend, suggesting plans for a days-long celebration.
 
 
-9. [Dianna Russini Was an N.F.L. ‘Insider.’ Was She Also Out of Bounds?](https://www.nytimes.com/2026/06/24/nyregion/dianna-russini-mike-vrabel-athletic-new-york-times.html)
+5. [The Major Supreme Court Decisions in 2026](https://www.nytimes.com/interactive/2026/02/20/us/supreme-court-major-cases-2026.html)
 
-Ms. Russini’s closeness to a coach, Mike Vrabel of the New England Patriots, led to her breakup with The Athletic and its parent, The New York Times Company.
+The Supreme Court is deciding a series of cases central to President Trump’s second-term agenda.
 
 
-10. [Barack Obama Has Strong Opinions About Cheeseburgers](https://www.nytimes.com/2026/06/23/dining/barack-obama-center-restaurants-food-chicago.html)
+6. [To Escape Record Heat, the French Are Taking to Water. Both Have Been Deadly.](https://www.nytimes.com/2026/06/25/world/europe/paris-canal-swimming-heatwave-france.html)
 
-At the new presidential center and museum in Chicago, the restaurants reflect the former first family’s longstanding interest in food and food policy.
+Crowds are filling the Canal Saint-Martin in Paris, as temperatures soar above 100 degrees Fahrenheit. Forty people drowned while swimming in other waterways.
+
+
+7. [Triumph of the Tasteless](https://www.nytimes.com/2026/06/25/opinion/musk-trump-spacex-ipo.html)
+
+This is an era of illusion, and Musk and Trump are the self-adoring, self-promoting emblems and emperors of it.
+
+
+8. [Supreme Court Allows Trump to Block Asylum Seekers at Border](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-asylum-border.html)
+
+A policy of turning back asylum seekers at the border was rescinded in 2021, but the Trump administration wants the flexibility to reinstate it as a tool for border control.
+
+
+9. [It’s America’s Birthday. What Are We Celebrating?](https://www.nytimes.com/interactive/2026/06/25/opinion/america-250-birthday.html)
+
+Two hundred and fifty years in, Opinion writers offer 16 reasons the national experiment endures.
+
+
+10. [Iran Strikes Ship in Strait of Hormuz, Undermining Efforts to Restore Traffic](https://www.nytimes.com/2026/06/25/world/middleeast/iran-strait-of-hormuz-threat-rubio-bahrain.html)
+
+The attack, confirmed by U.S. and Iranian officials, came after Tehran threatened to disrupt shipping in the waterway and as Washington sought regional support for its peace agreement.
 
 
