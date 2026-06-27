@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-26 22:18:50)
+## 📰 NYTimes Most Popular (Updated: 2026-06-27 00:14:48)
 
-1. [Representative Tom Kean, Missing for Months, Is Back Home in New Jersey](https://www.nytimes.com/2026/06/24/nyregion/tom-kean-missing-found.html)
+1. [5 Foods That Contain Both Protein and Fiber](https://www.nytimes.com/2026/06/22/well/eat/fiber-protein-foods.html)
 
-The congressman, who has been absent from Washington since March, answered the door of his home on Wednesday evening. He was wearing a suit and tie.
-
-
-2. [Supreme Court Expands Trump’s Power Over Immigration](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-temporary-protected-status.html)
-
-The court handed President Trump victories in his push to rescind deportation protections for hundreds of thousands of people and turn away migrants at the southern border.
+It’s challenging to find the two nutrients in a single food, experts say. These categories offer a nice mix.
 
 
-3. [Supreme Court Overturns Hawaii Gun Law](https://www.nytimes.com/2026/06/25/us/supreme-court-hawaii-gun-law.html)
+2. [Justices Clash on Whether Race Played a Role in Trump’s Bid to Deport Haitians](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-trump-haiti-race.html)
 
-The case involved a Second Amendment challenge to a Hawaii law that barred carrying concealed weapons without permission onto private property open to the public.
-
-
-4. [It’s Time to Put This Catholic Teaching to Rest](https://www.nytimes.com/2026/06/26/opinion/pope-leo-just-war-theory-encyclical-ai-iran.html)
-
-Pope Leo’s first encyclical takes on a major flaw of Catholic just war theory: its use as a fig leaf for attacking an enemy.
+The split mirrored one that has long divided Americans: how seriously to take the president’s loose, provocative and sometimes ugly remarks.
 
 
-5. [Triumph of the Tasteless](https://www.nytimes.com/2026/06/25/opinion/musk-trump-spacex-ipo.html)
+3. [Immigration Hard-Liners Repeatedly Lost in Court Before Justices Ruled in Their Favor](https://www.nytimes.com/2026/06/26/us/politics/supreme-court-trump-tps.html)
 
-This is an era of illusion, and Musk and Trump are the self-adoring, self-promoting emblems and emperors of it.
-
-
-6. [Three Women Wanted to Start a Family in the Bay Area. Could They Find a House to Do It In?](https://www.nytimes.com/interactive/2026/06/25/realestate/bay-area-oakland-berkeley-real-estate-homes-prices.html)
-
-An engaged couple and their companion searched Oakland and Berkeley for a forever home, with room for one more.
+“This is a victory 10 years in the making,” a White House official said after the Supreme Court ruled that the Trump administration could end deportation protections for some migrants.
 
 
-7. [After Trump’s Outburst, Senate G.O.P. Reverses Course on Iran](https://www.nytimes.com/2026/06/24/us/politics/trump-senate-iran.html)
+4. [On an Island So Many Have Left, They Have Stayed](https://www.nytimes.com/2026/06/26/opinion/cuba-migration-havana-artists.html)
 
-In a late-night vote aimed at mollifying the president, Senate Republicans rejected a resolution directing him to end the war against Iran, a day after a bipartisan rebuke.
-
-
-8. [Supreme Court Rejects Lawsuit Alleging Roundup Weedkiller Caused Cancer](https://www.nytimes.com/2026/06/25/us/politics/supreme-court-weedkiller-roundup-bayer.html)
-
-The court’s decision is likely to determine the future of thousands of lawsuits against Bayer, which manufactures the weedkiller, over similar claims.
+Four young Cubans grapple with what it means to stay on an island facing unprecedented migration.
 
 
-9. [John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case](https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html)
+5. [Don’t Send Checks Through the Mail. Just Don’t.](https://www.nytimes.com/2026/06/26/your-money/paper-checks-mail-fraud.html)
+
+If you must, keep an eye on your account statements, experts say. Thieves steal checks from mailboxes, then alter the checks with fraudulent names.
+
+
+6. [A $2.5 Billion Whodunit: The Hack That Dented the U.K. Economy](https://www.nytimes.com/2026/06/26/world/europe/jaguar-russia-hack.html)
+
+A loose collective of cybercriminals initially took credit for crippling Jaguar Land Rover last year. Investigators now see Russian hands behind the ransomware attack.
+
+
+7. [John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case](https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html)
 
 Mr. Bolton admitted to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations.
+
+
+8. [Trump Issues Order to Reduce Pesticides in Food as Kennedy Allies Fume](https://www.nytimes.com/2026/06/25/us/politics/trump-order-pesticides-rfk.html)
+
+The order, which calls for studying the health risks of pesticides in the food supply, does not involve new federal funding, and does not call for regulations or legislation.
+
+
+9. [It’s Time to Put This Catholic Teaching to Rest](https://www.nytimes.com/2026/06/26/opinion/pope-leo-just-war-theory-encyclical-ai-iran.html)
+
+Pope Leo’s first encyclical takes on a major flaw of Catholic just war theory: its use as a fig leaf for attacking an enemy.
 
 
 10. [Is It Time for a New Sexual Revolution?](https://www.nytimes.com/2026/06/25/opinion/gender-sexual-revolution-men-women.html)
