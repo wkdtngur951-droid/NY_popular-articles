@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-27 22:08:29)
+## 📰 NYTimes Most Popular (Updated: 2026-06-28 00:08:19)
 
-1. [How Phones Alerted Millions Before Quakes Shook Venezuela](https://www.nytimes.com/interactive/2026/06/27/world/americas/venezuela-earthquakes-android-alerts.html)
+1. [Pete Buttigieg Says He Was Separated From His Children After ‘Swatting’ Tip](https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html)
 
-Millions of people in Venezuela and surrounding countries received early warning alerts to their phones up to two minutes before back-to-back earthquakes on Wednesday.
-
-
-2. [John Bolton, Former Trump Adviser, Pleads Guilty in Classified Information Case](https://www.nytimes.com/2026/06/26/us/politics/john-bolton-trump-classified-guilty-plea.html)
-
-Mr. Bolton admitted to mishandling classified information and could face time in prison, in an inquiry that spanned the Trump and Biden administrations.
+The former transportation secretary recounted being kept away from his 4-year-old twins overnight after an anonymous report accused him of posing a threat to them. The police said the report was false.
 
 
-3. [Don’t Send Checks Through the Mail. Just Don’t.](https://www.nytimes.com/2026/06/26/your-money/paper-checks-mail-fraud.html)
+2. [Three Opinion Writers on Trump’s Latest Face-Plant](https://www.nytimes.com/2026/06/27/opinion/america-250-trump-division.html)
 
-If you must, keep an eye on your account statements, experts say. Thieves steal checks from mailboxes, then alter the checks with fraudulent names.
-
-
-4. [Why Is the Supreme Court Unshackling the Presidency?](https://www.nytimes.com/2026/06/26/opinion/supreme-court-ruling-tps-immigration-trump.html)
-
-Where is Chief Justice John Roberts? And why isn’t he putting limits on this administration?
+Trump planned a big party for America. It’s not going well.
 
 
-5. [Representative Tom Kean, Missing for Months, Is Back Home in New Jersey](https://www.nytimes.com/2026/06/24/nyregion/tom-kean-missing-found.html)
+3. [What to Know About Trump’s Claims of Vandalism at the Reflecting Pool](https://www.nytimes.com/2026/06/26/us/politics/trump-vandalism-claims-reflecting-pool.html)
 
-The congressman, who has been absent from Washington since March, answered the door of his home on Wednesday evening. He was wearing a suit and tie.
+The administration has provided little evidence to back up some of his assertions about the Lincoln Memorial pool. Experts say other factors could have caused the major problems that have plagued it.
 
 
-6. [It’s Ugly. It Costs $640,000. Everyone Is Mad About It but Me.](https://www.nytimes.com/2026/06/27/opinion/ferrari-electric-vehicle.html)
+4. [Convicted Rapist Who Fled to Scotland and Faked His Own Death Dies in Utah](https://www.nytimes.com/2026/06/26/us/nicholas-rossi-fugitive-rape-death.html)
+
+Nicholas Rossi, 38, raped two girlfriends in 2008 and later fled to Scotland, prosecutors said. An attentive nurse treating him for Covid in 2021 identified him.
+
+
+5. [Robby Hoffman Will Always Feel Poor, No Matter How Rich She Gets](https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html)
+
+The comedian and actor says class and the way she grew up inform everything about the way she lives now. 
+
+
+6. [Mexican Officials Have Become Informants for the Trump Administration](https://www.nytimes.com/2026/06/27/world/americas/mexican-officials-us-informants.html)
+
+President Claudia Sheinbaum of Mexico has pushed back against U.S. investigations into Mexican politicians. Now some politicians want to cooperate.
+
+
+7. [It’s Ugly. It Costs $640,000. Everyone Is Mad About It but Me.](https://www.nytimes.com/2026/06/27/opinion/ferrari-electric-vehicle.html)
 
 Ferrari’s new E.V. is being panned by critics, but it ought to be celebrated.
 
 
-7. [On an Island So Many Have Left, They Have Stayed](https://www.nytimes.com/2026/06/26/opinion/cuba-migration-havana-artists.html)
+8. [Flashback: Your Weekly History Quiz, June 27, 2026](https://www.nytimes.com/interactive/2026/06/26/upshot/flashback.html)
 
-Four young Cubans grapple with what it means to stay on an island facing unprecedented migration.
-
-
-8. [Vance Downplays Watergate and Compares Himself to Nixon](https://www.nytimes.com/2026/06/26/us/politics/vance-nixon-watergate-deep-state.html)
-
-The vice president said that the scandal that ended Richard Nixon’s presidency would be “like a 12-hour news story” if it happened today and that the “deep state” had taken down Nixon.
+Can you sort 8 historical events?
 
 
-9. [How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job](https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html)
+9. [Trump-Backed Tribute to States on the Mall Features Extra Tinges of Red](https://www.nytimes.com/2026/06/27/us/great-american-fair-mall.html)
 
-Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.
+At the kickoff to the Great American State Fair, exhibits celebrating the nation were on display. So were conservative themes.
 
 
-10. [Ukrainian Attacks Spur State of Emergency Declaration in Crimea](https://www.nytimes.com/2026/06/26/world/europe/crimea-ukraine-state-emergency.html)
+10. [We Crunched the Data: There’s a Grocery Price Emergency in America](https://www.nytimes.com/2026/06/27/opinion/grocery-prices-inflation.html)
 
-Weeks of intense strikes by Ukraine have rattled everyday life in Crimea to an extent unseen since Russia illegally annexed the peninsula in 2014.
+We dug into the data, toured the country and ran surveys to find the biggest financial pressures people feel.
 
 
