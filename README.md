@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-06-28 14:03:23)
+## 📰 NYTimes Most Popular (Updated: 2026-06-28 16:17:52)
 
-1. [Why Old People Cry](https://www.nytimes.com/2026/06/27/opinion/culture/crying-old-people.html)
+1. [Three Opinion Writers on Trump’s Latest Face-Plant](https://www.nytimes.com/2026/06/27/opinion/america-250-trump-division.html)
 
-These days, I have so much past behind and within me, it’s as if it bubbles over.
-
-
-2. [The New York Times News Quiz, June 26, 2026](https://www.nytimes.com/interactive/2026/06/26/briefing/quiz-earthquake-heat-starmer-trump.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+Trump planned a big party for America. It’s not going well.
 
 
-3. [U.S. Officials Said to Be Frustrated With Machado’s Call for Help](https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html)
+2. [White House Releases Images of the Trump ‘Patriot Passport’](https://www.nytimes.com/2026/06/27/us/politics/trump-passport-design-america-250.html)
 
-María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.
-
-
-4. [Gracie the Giraffe Is Found ‘Fat and Happy’ 2 Weeks After Escaping Ranch](https://www.nytimes.com/2026/06/26/us/giraffe-found-texas.html)
-
-Gracie caused a stir after she slipped away into the Texas Hill Country, but was spotted during a helicopter search on Friday. Now it’s time to bring her home.
+The State Department said it planned to release 40,000 U.S. passports featuring an image of the president to commemorate the United States’ 250th anniversary.
 
 
-5. [How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job](https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html)
+3. [Trump Cut a Billion-Dollar Mining Deal. His Sons Stand to Profit.](https://www.nytimes.com/2026/06/28/world/europe/trump-lutnick-sons-kazakhstan.html)
 
-Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.
-
-
-6. [It’s Ugly. It Costs $640,000. Everyone Is Mad About It but Me.](https://www.nytimes.com/2026/06/27/opinion/ferrari-electric-vehicle.html)
-
-Ferrari’s new E.V. is being panned by critics, but it ought to be celebrated.
+An agreement between the U.S. and Kazakhstan has given a group of American investors with ties to the president and the commerce secretary access to one of the world’s largest untapped reserves of tungsten.
 
 
-7. [Don’t Send Checks Through the Mail. Just Don’t.](https://www.nytimes.com/2026/06/26/your-money/paper-checks-mail-fraud.html)
-
-If you must, keep an eye on your account statements, experts say. Thieves steal checks from mailboxes, then alter the checks with fraudulent names.
-
-
-8. [We Crunched the Data: There’s a Grocery Price Emergency in America](https://www.nytimes.com/2026/06/27/opinion/grocery-prices-inflation.html)
-
-We dug into the data, toured the country and ran surveys to find the biggest financial pressures people feel.
-
-
-9. [Trump-Backed Tribute to States on the Mall Features Extra Tinges of Red](https://www.nytimes.com/2026/06/27/us/great-american-fair-mall.html)
+4. [Trump-Backed Tribute to States on the Mall Features Extra Tinges of Red](https://www.nytimes.com/2026/06/27/us/great-american-fair-mall.html)
 
 At the kickoff to the Great American State Fair, exhibits celebrating the nation were on display. So were conservative themes.
 
 
-10. [Robby Hoffman Will Always Feel Poor, No Matter How Rich She Gets](https://www.nytimes.com/2026/06/27/magazine/robby-hoffman-interview.html)
+5. [Gracie the Giraffe Is Found ‘Fat and Happy’ 2 Weeks After Escaping Ranch](https://www.nytimes.com/2026/06/26/us/giraffe-found-texas.html)
 
-The comedian and actor says class and the way she grew up inform everything about the way she lives now. 
+Gracie caused a stir after she slipped away into the Texas Hill Country, but was spotted during a helicopter search on Friday. Now it’s time to bring her home.
+
+
+6. [How the Reflecting Pool Turned Green: Missing ‘Bubblers’ and a Rush Job](https://www.nytimes.com/2026/06/26/us/politics/reflecting-pool-trump-algae.html)
+
+Bulky “nanobubbler” machines were carted off ahead of a promotional event for President Trump’s Ultimate Fighting Championship birthday party.
+
+
+7. [Israelis See Their Friendship With the U.S. Slipping Away](https://www.nytimes.com/2026/06/27/world/middleeast/israel-new-york-iran-war-mamdani.html)
+
+Criticism of Israel’s war in Gaza, anger over the Iran war and election results in New York all suggest Israel’s solid support from Washington may be on borrowed time.
+
+
+8. [Older Adults Turn to ‘Golden Girls’ Housing](https://www.nytimes.com/2026/06/27/well/older-adults-home-sharing.html)
+
+A growing network of home-sharing programs is helping people find compatible housemates.
+
+
+9. [Pete Buttigieg Says He Was Separated From His Children After ‘Swatting’ Tip](https://www.nytimes.com/2026/06/26/us/politics/buttigieg-swatting-false-report-children.html)
+
+The former transportation secretary recounted being kept away from his 4-year-old twins overnight after an anonymous report accused him of posing a threat to them. The police said the report was false.
+
+
+10. [U.S. Officials Said to Be Frustrated With Machado’s Call for Help](https://www.nytimes.com/2026/06/27/world/americas/us-officials-frustrated-with-exiled-venezuelan-leaders-call-for-help.html)
+
+María Corina Machado, the exiled leader of the Venezuelan opposition, hopes to go home. U.S. officials say her wishes to do so come at an inopportune time.
 
 
