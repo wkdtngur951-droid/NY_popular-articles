@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-03 14:23:24)
+## 📰 NYTimes Most Popular (Updated: 2026-07-03 16:40:00)
 
-1. [The Many Ways Trump Is Trying to Tip the Scales for the Midterms](https://www.nytimes.com/interactive/2026/07/02/us/politics/trump-midterm-election-strategies.html)
+1. [JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025](https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html)
 
-Here’s how President Trump is using the powers of his office to try to reshape the rules governing the midterms and future elections.
-
-
-2. [Olympian Is Indicted After Arrest at Washington’s Reflecting Pool](https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html)
-
-David Hearn, a former canoeist, is accused of vandalizing the algae-challenged pool, which President Trump has said he would repair and beautify with fresh sealant. But the algae returned and the paint peeled.
+But the revenue brought in by the vice president and the first lady paled in comparison to that of President Trump.
 
 
-3. [Taylor Swift, What Are You Doing?](https://www.nytimes.com/2026/07/02/opinion/taylor-swift-wedding-msg.html)
+2. [Trump’s Huge Windfall Has Few Known Global Precedents](https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html)
 
-Why am I dreading the Swift-Kelce wedding?
+President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.
+
+
+3. [Vatican Excommunicates Breakaway Group, in Biggest Schism in 156 Years](https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html)
+
+The move against the Society of St. Pius X followed its defiance of Pope Leo XIV by consecrating new bishops against his wishes.
 
 
 4. [Madonna Has Become an Avatar for Our Fear of Aging](https://www.nytimes.com/2026/07/02/opinion/madonna-confessions-ii-aging-old.html)
@@ -20,33 +20,33 @@ Why am I dreading the Swift-Kelce wedding?
 The Material Girl used to mean everything to me.
 
 
-5. [An American Mosaic](https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html)
+5. [Amy Coney Barrett Is the Lightning Rod](https://www.nytimes.com/2026/07/02/opinion/barrett-roverts-gorsuch-supreme-court-term.html)
 
-This map shows how people in the United States identify their ancestry or family origin. Explore the many ways we describe our heritage and ourselves.
-
-
-6. [She Labeled a Swim Party ‘Muslims Only.’ The Response Ravaged Her Life.](https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html)
-
-A Muslim mother’s plan for an Eid swim party near Dallas drew backlash, then threats that upended her quiet life.
+The Supreme Court seesaw is swinging hard.
 
 
-7. [MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains](https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html)
+6. [MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains](https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html)
 
 A new mandatory disclosure revealed that the president has earned $2.2 billion during the first year back in the White House.
 
 
-8. [The Best Movies of 2026, So Far](https://www.nytimes.com/2026/06/29/movies/best-movies-2026.html)
+7. [Immigrant Arrests Surge to 10,000 in 5 Days as ICE Clamps Down](https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html)
 
-Now is a good time to catch up on films you may have missed. Our critics have thoughts.
+The agency has doubled its daily arrest numbers without the fanfare of last year’s large urban operations, sowing fear in immigrant communities.
 
 
-9. [Tucker Carlson, Who Broke With Trump, Plans to ‘Help Build a Third Party’](https://www.nytimes.com/2026/07/02/us/politics/tucker-carlson-third-party.html)
+8. [Tucker Carlson, Who Broke With Trump, Plans to ‘Help Build a Third Party’](https://www.nytimes.com/2026/07/02/us/politics/tucker-carlson-third-party.html)
 
 The influential conservative commentator’s relationship with the president and the G.O.P. fractured over the war with Iran. Now, he says he is charting a new course.
 
 
-10. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
+9. [New York’s Heat Wave Is Brutal. In This Neighborhood, It’s Even Worse.](https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html)
 
-Any Israeli attempt to kill Abbas Araghchi, the foreign minister, or Mohammad Ghalibaf, the Parliament speaker, would have derailed peace talks, American officials feared.
+“Heat-vulnerable” parts of the city have few trees, little shade and limited access to air-conditioning. And the risk of death is also higher.
+
+
+10. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
+
+Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
 
 
