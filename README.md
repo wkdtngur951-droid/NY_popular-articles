@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-04 00:11:13)
+## 📰 NYTimes Most Popular (Updated: 2026-07-04 04:39:56)
 
-1. [Has the MAHA Movement Given Up?](https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html)
+1. [Will Swift and Kelce Match the Grandest Weddings of Them All?](https://www.nytimes.com/2026/07/03/style/lavish-celebrity-weddings-taylor-swift-travis-kelce.html)
 
-Robert F. Kennedy Jr. and his allies promised public-health libertarianism. The idea couldn’t survive once they took power.
-
-
-2. [He Wrote Hollywood Love Stories. It Took 12 Years to Finish His Own.](https://www.nytimes.com/2026/07/03/style/adia-may-michael-elliot-wedding.html)
-
-Michael Elliot, a screenwriter whose rom-com hits include “Brown Sugar” and “Just Wright,” married Adia May, a lawyer, more than a decade after they first met at a Los Angeles airport.
+We hear the couple has plans this weekend in New York City, as they look for their ever after.
 
 
-3. [Taylor Swift, What Are You Doing?](https://www.nytimes.com/2026/07/02/opinion/taylor-swift-wedding-msg.html)
+2. [MAGA Base Stays Quiet After Trump Reports Billions in Personal Gains](https://www.nytimes.com/2026/07/02/us/politics/trump-earnings-maga-reaction.html)
 
-Why am I dreading the Swift-Kelce wedding?
-
-
-4. [JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025](https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html)
-
-But the revenue brought in by the vice president and the first lady paled in comparison to that of President Trump.
+A new mandatory disclosure revealed that the president has earned $2.2 billion during the first year back in the White House.
 
 
-5. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
+3. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
 
-Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
-
-
-6. [Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia](https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html)
-
-“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps.
+Any Israeli attempt to kill Abbas Araghchi, the foreign minister, or Mohammad Ghalibaf, the Parliament speaker, would have derailed peace talks, American officials feared.
 
 
-7. [Vatican Excommunicates Breakaway Group, in Biggest Schism in 156 Years](https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html)
+4. [Vatican Excommunicates Breakaway Group, in Biggest Schism in 156 Years](https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html)
 
 The move against the Society of St. Pius X followed its defiance of Pope Leo XIV by consecrating new bishops against his wishes.
 
 
-8. [What Does It Cost to Take Over Madison Square Garden?](https://www.nytimes.com/2026/07/03/style/swift-wedding-msg-cost.html)
+5. [I Left My Girlfriend for Someone Else. What if I Made a Mistake?](https://www.nytimes.com/2026/07/02/well/mind/ask-therapist-breakup-avoidant.html)
 
-It’s not just rent. There’s security, insurance, permits and other costs, not to mention extra police presence.
-
-
-9. [This Pathetic Groveling Is No Way to Rebuild a Party](https://www.nytimes.com/2026/07/03/opinion/democrats-fund-raising-politics-republicans.html)
-
-The Democrats’ constant solicitations for cash do not make their supporters feel like they are on a winning team.
+Our Ask the Therapist columnist, Lori Gottlieb, advises a reader whose avoidant communication style is making a breakup more complicated.
 
 
-10. [Trump’s Huge Windfall Has Few Known Global Precedents](https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html)
+6. [Madonna Has Become an Avatar for Our Fear of Aging](https://www.nytimes.com/2026/07/02/opinion/madonna-confessions-ii-aging-old.html)
 
-President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.
+The Material Girl used to mean everything to me.
+
+
+7. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
+
+Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
+
+
+8. [Dior Wins the Taylor Swift Wedding Dress Sweepstakes](https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html)
+
+The pop star said “I do” to a gown designed by Jonathan Anderson, the French house’s creative director.
+
+
+9. [Has the MAHA Movement Given Up?](https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html)
+
+Robert F. Kennedy Jr. and his allies promised public-health libertarianism. The idea couldn’t survive once they took power.
+
+
+10. [Olympian Is Indicted After Arrest at Washington’s Reflecting Pool](https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html)
+
+David Hearn, a former canoeist, is accused of vandalizing the algae-challenged pool, which President Trump has said he would repair and beautify with fresh sealant. But the algae returned and the paint peeled.
 
 
