@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-04 16:08:50)
+## 📰 NYTimes Most Popular (Updated: 2026-07-04 18:06:47)
 
-1. [Dior Wins the Taylor Swift Wedding Dress Sweepstakes](https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html)
+1. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
 
-The pop star said “I do” to a gown designed by Jonathan Anderson, the French house’s creative director.
-
-
-2. [This Pathetic Groveling Is No Way to Rebuild a Party](https://www.nytimes.com/2026/07/03/opinion/democrats-fund-raising-politics-republicans.html)
-
-The Democrats’ constant solicitations for cash do not make their supporters feel like they are on a winning team.
+Any Israeli attempt to kill Abbas Araghchi, the foreign minister, or Mohammad Ghalibaf, the Parliament speaker, would have derailed peace talks, American officials feared.
 
 
-3. [What to Know About Taylor Swift and Travis Kelce’s Wedding Festivities](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html)
-
-Yes, they got married. Yes, they held a huge event inside Madison Square Garden. No, the guests did not post much about it. (At least they haven’t yet.)
-
-
-4. [In a Star-Filled Night, Adam Sandler Pops Up as the Wedding Officiant](https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html)
-
-The actor played a special — and surprising to some — role in the Swift-Kelce nuptials.
-
-
-5. [The New York Times News Quiz, July 3, 2026](https://www.nytimes.com/interactive/2026/07/03/briefing/america-250-supreme-court-tom-kean-jr-news-quiz.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-6. [Vatican Excommunicates Breakaway Group, in Biggest Schism in 156 Years](https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html)
-
-The move against the Society of St. Pius X followed its defiance of Pope Leo XIV by consecrating new bishops against his wishes.
-
-
-7. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
-
-Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
-
-
-8. [JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025](https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html)
+2. [JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025](https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html)
 
 But the revenue brought in by the vice president and the first lady paled in comparison to that of President Trump.
 
 
-9. [Trump’s Huge Windfall Has Few Known Global Precedents](https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html)
+3. [Who Attended Taylor Swift’s Wedding? What We Know So Far.](https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-guest-list.html)
+
+The list includes Reese Witherspoon, the Haim sisters, and Karlie Kloss and Joshua Kushner, among many other celebrities, athletes and musicians.
+
+
+4. [I Left My Girlfriend for Someone Else. What if I Made a Mistake?](https://www.nytimes.com/2026/07/02/well/mind/ask-therapist-breakup-avoidant.html)
+
+Our Ask the Therapist columnist, Lori Gottlieb, advises a reader whose avoidant communication style is making a breakup more complicated.
+
+
+5. [Pilot Was Bitten by Bat After Swarm Invaded Hotel Room, Lawsuit Says](https://www.nytimes.com/2026/07/03/us/bats-rabies-marriott-lawsuit.html)
+
+A pilot, who was treated for possible rabies exposure, sued Marriott International, claiming his Denver hotel failed to offer him a new room after he woke up to a swarm of bats last year.
+
+
+6. [Taylor Swift, What Are You Doing?](https://www.nytimes.com/2026/07/02/opinion/taylor-swift-wedding-msg.html)
+
+Why am I dreading the Swift-Kelce wedding?
+
+
+7. [Trump’s Huge Windfall Has Few Known Global Precedents](https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html)
 
 President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.
 
 
-10. [Trump Ruined the Fourth of July for Me](https://www.nytimes.com/2026/07/03/opinion/fourth-of-july-trump-washington-dc.html)
+8. [In a Star-Filled Night, Adam Sandler Pops Up as the Wedding Officiant](https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html)
 
-Washington feels as if it is under occupation.
+The actor played a special — and surprising to some — role in the Swift-Kelce nuptials.
+
+
+9. [What Does It Cost to Take Over Madison Square Garden?](https://www.nytimes.com/2026/07/03/style/swift-wedding-msg-cost.html)
+
+It’s not just rent. There’s security, insurance, permits and other costs, not to mention extra police presence.
+
+
+10. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
+
+Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
 
 
