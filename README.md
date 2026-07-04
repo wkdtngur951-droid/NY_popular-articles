@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-03 22:10:07)
+## 📰 NYTimes Most Popular (Updated: 2026-07-04 00:11:13)
 
-1. [Vatican Excommunicates Breakaway Group, in Biggest Schism in 156 Years](https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html)
+1. [Has the MAHA Movement Given Up?](https://www.nytimes.com/2026/07/03/magazine/maha-movement-survival-rfk.html)
+
+Robert F. Kennedy Jr. and his allies promised public-health libertarianism. The idea couldn’t survive once they took power.
+
+
+2. [He Wrote Hollywood Love Stories. It Took 12 Years to Finish His Own.](https://www.nytimes.com/2026/07/03/style/adia-may-michael-elliot-wedding.html)
+
+Michael Elliot, a screenwriter whose rom-com hits include “Brown Sugar” and “Just Wright,” married Adia May, a lawyer, more than a decade after they first met at a Los Angeles airport.
+
+
+3. [Taylor Swift, What Are You Doing?](https://www.nytimes.com/2026/07/02/opinion/taylor-swift-wedding-msg.html)
+
+Why am I dreading the Swift-Kelce wedding?
+
+
+4. [JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025](https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html)
+
+But the revenue brought in by the vice president and the first lady paled in comparison to that of President Trump.
+
+
+5. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
+
+Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
+
+
+6. [Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia](https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html)
+
+“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps.
+
+
+7. [Vatican Excommunicates Breakaway Group, in Biggest Schism in 156 Years](https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html)
 
 The move against the Society of St. Pius X followed its defiance of Pope Leo XIV by consecrating new bishops against his wishes.
 
 
-2. [Olympian Is Indicted After Arrest at Washington’s Reflecting Pool](https://www.nytimes.com/2026/07/02/us/reflecting-pool-indictment-david-hearn.html)
+8. [What Does It Cost to Take Over Madison Square Garden?](https://www.nytimes.com/2026/07/03/style/swift-wedding-msg-cost.html)
 
-David Hearn, a former canoeist, is accused of vandalizing the algae-challenged pool, which President Trump has said he would repair and beautify with fresh sealant. But the algae returned and the paint peeled.
-
-
-3. [The Best Movies of 2026, So Far](https://www.nytimes.com/2026/06/29/movies/best-movies-2026.html)
-
-Now is a good time to catch up on films you may have missed. Our critics have thoughts.
+It’s not just rent. There’s security, insurance, permits and other costs, not to mention extra police presence.
 
 
-4. [It’s Inevitable — You’re Going to Get Hacked. But Here’s One Solution.](https://www.nytimes.com/2026/07/02/opinion/hacking-ai-leaks-shame.html)
+9. [This Pathetic Groveling Is No Way to Rebuild a Party](https://www.nytimes.com/2026/07/03/opinion/democrats-fund-raising-politics-republicans.html)
 
-“So what?” needs to be our response to the salacious, titillating and terrifying hacks that could come our way.
-
-
-5. [The Many Ways Trump Is Trying to Tip the Scales for the Midterms](https://www.nytimes.com/interactive/2026/07/02/us/politics/trump-midterm-election-strategies.html)
-
-Here’s how President Trump is using the powers of his office to try to reshape the rules governing the midterms and future elections.
+The Democrats’ constant solicitations for cash do not make their supporters feel like they are on a winning team.
 
 
-6. [Amy Coney Barrett Is the Lightning Rod](https://www.nytimes.com/2026/07/02/opinion/barrett-roverts-gorsuch-supreme-court-term.html)
+10. [Trump’s Huge Windfall Has Few Known Global Precedents](https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html)
 
-The Supreme Court seesaw is swinging hard.
-
-
-7. [N.Y.P.D. Memo Outlines Taylor Swift Wedding Events at the Garden](https://www.nytimes.com/2026/07/01/nyregion/taylor-swift-wedding-police-roads.html)
-
-Law enforcement officials in the city are preparing to monitor the pop star’s two-day event at Madison Square Garden, and several streets in the area will be closed.
-
-
-8. [New York’s Heat Wave Is Brutal. In This Neighborhood, It’s Even Worse.](https://www.nytimes.com/2026/07/02/nyregion/heat-wave-nyc-jamaica-queens.html)
-
-“Heat-vulnerable” parts of the city have few trees, little shade and limited access to air-conditioning. And the risk of death is also higher.
-
-
-9. [Immigrant Arrests Surge to 10,000 in 5 Days as ICE Clamps Down](https://www.nytimes.com/2026/07/01/us/politics/ice-immigrant-arrests-surge.html)
-
-The agency has doubled its daily arrest numbers without the fanfare of last year’s large urban operations, sowing fear in immigrant communities.
-
-
-10. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
-
-Any Israeli attempt to kill Abbas Araghchi, the foreign minister, or Mohammad Ghalibaf, the Parliament speaker, would have derailed peace talks, American officials feared.
+President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.
 
 
