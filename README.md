@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-04 12:10:07)
+## 📰 NYTimes Most Popular (Updated: 2026-07-04 14:41:20)
 
-1. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
-
-Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
-
-
-2. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
+1. [U.S. Officials Believed Israel Was Plotting to Kill Iranian Negotiators](https://www.nytimes.com/2026/07/02/us/politics/israel-iran-negotiators-plot.html)
 
 Any Israeli attempt to kill Abbas Araghchi, the foreign minister, or Mohammad Ghalibaf, the Parliament speaker, would have derailed peace talks, American officials feared.
 
 
-3. [Trump Ruined the Fourth of July for Me](https://www.nytimes.com/2026/07/03/opinion/fourth-of-july-trump-washington-dc.html)
+2. [At Mount Rushmore, Trump Veers From Patriotism to ‘Communism’](https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html)
+
+On the eve of July 4, President Trump extolled the nation’s founders while branding his opponents as “communists” in what seemed to be a warm-up for November.
+
+
+3. [In a Star-Filled Night, Adam Sandler Pops Up as the Wedding Officiant](https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html)
+
+The actor played a special — and surprising to some — role in the Swift-Kelce nuptials.
+
+
+4. [The New York Times News Quiz, July 3, 2026](https://www.nytimes.com/interactive/2026/07/03/briefing/america-250-supreme-court-tom-kean-jr-news-quiz.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+5. [JD Vance and Melania Trump Also Had Sharp Earnings Increases in 2025](https://www.nytimes.com/2026/07/02/us/politics/vance-melania-trump-financial-disclosures.html)
+
+But the revenue brought in by the vice president and the first lady paled in comparison to that of President Trump.
+
+
+6. [Trump’s Huge Windfall Has Few Known Global Precedents](https://www.nytimes.com/2026/07/02/world/europe/trump-world-leaders-corruption-wealth.html)
+
+President Trump’s earnings in office are at a level once unimaginable for any leader of a liberal democracy, particularly a sitting American president.
+
+
+7. [Trump Ruined the Fourth of July for Me](https://www.nytimes.com/2026/07/03/opinion/fourth-of-july-trump-washington-dc.html)
 
 Washington feels as if it is under occupation.
 
 
-4. [It’s Day 1 of the Supreme Leader’s Funeral, and Allies Gather in Iran](https://www.nytimes.com/2026/07/03/world/middleeast/iran-funeral-supreme-leader.html)
+8. [Will Swift and Kelce Match the Grandest Weddings of Them All?](https://www.nytimes.com/2026/07/03/style/lavish-celebrity-weddings-taylor-swift-travis-kelce.html)
 
-Foreign dignitaries paid their respects to Ayatollah Ali Khamenei on Friday as days of ceremonies got underway.
+We hear the couple has plans this weekend in New York City, as they look for their ever after.
 
 
-5. [I Left My Girlfriend for Someone Else. What if I Made a Mistake?](https://www.nytimes.com/2026/07/02/well/mind/ask-therapist-breakup-avoidant.html)
+9. [I Left My Girlfriend for Someone Else. What if I Made a Mistake?](https://www.nytimes.com/2026/07/02/well/mind/ask-therapist-breakup-avoidant.html)
 
 Our Ask the Therapist columnist, Lori Gottlieb, advises a reader whose avoidant communication style is making a breakup more complicated.
 
 
-6. [Madonna Has Become an Avatar for Our Fear of Aging](https://www.nytimes.com/2026/07/02/opinion/madonna-confessions-ii-aging-old.html)
-
-The Material Girl used to mean everything to me.
-
-
-7. [What Does It Cost to Take Over Madison Square Garden?](https://www.nytimes.com/2026/07/03/style/swift-wedding-msg-cost.html)
-
-It’s not just rent. There’s security, insurance, permits and other costs, not to mention extra police presence.
-
-
-8. [Vatican Excommunicates Breakaway Group, in Biggest Schism in 156 Years](https://www.nytimes.com/2026/07/02/world/europe/vatican-society-st-pius-excommunication.html)
-
-The move against the Society of St. Pius X followed its defiance of Pope Leo XIV by consecrating new bishops against his wishes.
-
-
-9. [Mary Beard Looks at Trump and Can’t Not Think of Ancient Rome](https://www.nytimes.com/2026/07/03/opinion/mary-beard-trump-ancient-rome.html)
+10. [Mary Beard Looks at Trump and Can’t Not Think of Ancient Rome](https://www.nytimes.com/2026/07/03/opinion/mary-beard-trump-ancient-rome.html)
 
 Arches, gladiatorial fights, portraits on money, flattery. What century is this?
-
-
-10. [Long Lines for Gas Shatter the Illusion of Normalcy in Wartime Russia](https://www.nytimes.com/2026/07/03/world/europe/russia-gas-shortages.html)
-
-“Are we in the Soviet Union now?” asked one Russian, stunned and frustrated by the waits at the pumps.
 
 
