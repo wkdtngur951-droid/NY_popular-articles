@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-05 17:18:40)
+## 📰 NYTimes Most Popular (Updated: 2026-07-05 19:33:48)
 
-1. [Taylor Swift and Travis Kelce’s American Royal Wedding](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-american-royal-wedding.html)
+1. [The Most Iconic American Artwork Is the Hardest to See](https://www.nytimes.com/interactive/2026/07/02/arts/design/statue-of-liberty-history-france-us.html)
 
-A mega-famous popstar and a Super Bowl champion celebrated their love in Midtown Manhattan, announcing both their union and their cultural domination.
+The Statue of Liberty is caught between the sublime and the souvenir, our critic Jason Farago explains. Look again: She’s much stranger than you think.
 
 
-2. [For America’s 250th, Trump Hosts a Celebration and Derides His Foes](https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html)
+2. [Dior Wins the Taylor Swift Wedding Dress Sweepstakes](https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html)
+
+The pop star said “I do” to a gown designed by Jonathan Anderson, the French house’s creative director.
+
+
+3. [In a Star-Filled Night, Adam Sandler Pops Up as the Wedding Officiant](https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html)
+
+The actor played a special — and surprising to some — role in the Swift-Kelce nuptials.
+
+
+4. [Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin](https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html)
+
+A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money while sophisticated traders did better.
+
+
+5. [For America’s 250th, Trump Hosts a Celebration and Derides His Foes](https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html)
 
 A centerpiece address for the nation’s 250th anniversary celebration devoted time to American history, but had all the hallmarks of a Trump rally.
 
 
-3. [What Is the Definitive Movie About America?](https://www.nytimes.com/2026/07/01/movies/what-is-the-definitive-movie-about-america.html)
+6. [The Brooklyn Bridge Briefly Catches Fire During a Fireworks Display](https://www.nytimes.com/2026/07/04/nyregion/fire-brooklyn-bridge-fireworks.html)
 
-Ten writers on the films that get at the hopes, dreams, heartbreak and hilarity of the U.S.A. as it turns 250.
-
-
-4. [What We Should Learn From Nordic Happiness](https://www.nytimes.com/2026/07/04/opinion/norway-nordic-social-democracy.html)
-
-Scandinavia is the land of five-week vacations, virtually free university, one-year parental leaves, easy child care — and very happy citizens.
+The fire, ignited by Fourth of July fireworks, was extinguished by shortly after 10 p.m., the police said. No injuries were reported.
 
 
-5. [What to Know About Taylor Swift and Travis Kelce’s Wedding Festivities](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html)
+7. [Taylor Swift and Travis Kelce’s American Royal Wedding](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-american-royal-wedding.html)
 
-Yes, they got married. Yes, they held a huge event inside Madison Square Garden. No, the guests did not post much about it. (At least they haven’t yet.)
-
-
-6. [Founding Father vs. Foundering Toddler](https://www.nytimes.com/2026/07/04/opinion/founding-father-vs-foundering-toddler.html)
-
-No. 1 puts No. 45/47 to shame.
+A mega-famous popstar and a Super Bowl champion celebrated their love in Midtown Manhattan, announcing both their union and their cultural domination.
 
 
-7. [Flashback: Your Weekly History Quiz, July 4, 2026](https://www.nytimes.com/interactive/2026/07/03/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-8. [What Does It Cost to Take Over Madison Square Garden?](https://www.nytimes.com/2026/07/03/style/swift-wedding-msg-cost.html)
-
-It’s not just rent. There’s security, insurance, permits and other costs, not to mention extra police presence.
-
-
-9. [At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases](https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html)
-
-President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.
-
-
-10. [White Nationalists March in Washington Amid 250th Anniversary Celebrations](https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html)
+8. [White Nationalists March in Washington Amid 250th Anniversary Celebrations](https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html)
 
 The group, wearing clothing associated with the organization Patriot Front, assembled near Capitol Hill before leaving the district.
+
+
+9. [Who Attended Taylor Swift’s Wedding? What We Know So Far.](https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-guest-list.html)
+
+The list includes Reese Witherspoon, the Haim sisters, and Karlie Kloss and Joshua Kushner, among many other celebrities, athletes and musicians.
+
+
+10. [What to Know About Taylor Swift and Travis Kelce’s Wedding Festivities](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html)
+
+Yes, they got married. Yes, they held a huge event inside Madison Square Garden. No, the guests did not post much about it. (At least they haven’t yet.)
 
 
