@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-05 15:18:02)
+## 📰 NYTimes Most Popular (Updated: 2026-07-05 17:18:40)
 
-1. [Crowds Evacuated as Storms Menace Washington Ahead of Trump Speech](https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html)
+1. [Taylor Swift and Travis Kelce’s American Royal Wedding](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-american-royal-wedding.html)
 
-Thousands of people stood in security lines for hours in severe heat to reach the National Mall, only to be ordered to leave as events were set to start. Some refused.
-
-
-2. [Flashback: Your Weekly History Quiz, July 4, 2026](https://www.nytimes.com/interactive/2026/07/03/upshot/flashback.html)
-
-Can you sort 8 historical events?
+A mega-famous popstar and a Super Bowl champion celebrated their love in Midtown Manhattan, announcing both their union and their cultural domination.
 
 
-3. [In a Star-Filled Night, Adam Sandler Pops Up as the Wedding Officiant](https://www.nytimes.com/2026/07/03/style/adam-sandler-officiant-swift-kelce-wedding.html)
+2. [For America’s 250th, Trump Hosts a Celebration and Derides His Foes](https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html)
 
-The actor played a special — and surprising to some — role in the Swift-Kelce nuptials.
+A centerpiece address for the nation’s 250th anniversary celebration devoted time to American history, but had all the hallmarks of a Trump rally.
 
 
-4. [White Nationalists March in Washington Amid 250th Anniversary Celebrations](https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html)
+3. [What Is the Definitive Movie About America?](https://www.nytimes.com/2026/07/01/movies/what-is-the-definitive-movie-about-america.html)
 
-The group, wearing clothing associated with the organization Patriot Front, assembled near Capitol Hill before leaving the district.
+Ten writers on the films that get at the hopes, dreams, heartbreak and hilarity of the U.S.A. as it turns 250.
+
+
+4. [What We Should Learn From Nordic Happiness](https://www.nytimes.com/2026/07/04/opinion/norway-nordic-social-democracy.html)
+
+Scandinavia is the land of five-week vacations, virtually free university, one-year parental leaves, easy child care — and very happy citizens.
 
 
 5. [What to Know About Taylor Swift and Travis Kelce’s Wedding Festivities](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-recap.html)
@@ -25,28 +25,28 @@ The group, wearing clothing associated with the organization Patriot Front, asse
 Yes, they got married. Yes, they held a huge event inside Madison Square Garden. No, the guests did not post much about it. (At least they haven’t yet.)
 
 
-6. [Dior Wins the Taylor Swift Wedding Dress Sweepstakes](https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html)
+6. [Founding Father vs. Foundering Toddler](https://www.nytimes.com/2026/07/04/opinion/founding-father-vs-foundering-toddler.html)
 
-The pop star said “I do” to a gown designed by Jonathan Anderson, the French house’s creative director.
-
-
-7. [What Is the Definitive Movie About America?](https://www.nytimes.com/2026/07/01/movies/what-is-the-definitive-movie-about-america.html)
-
-Ten writers on the films that get at the hopes, dreams, heartbreak and hilarity of the U.S.A. as it turns 250.
+No. 1 puts No. 45/47 to shame.
 
 
-8. [In Strike After Strike, Ukraine Is Bringing the War to Crimea](https://www.nytimes.com/interactive/2026/07/04/world/europe/ukraine-russia-crimea-war-strikes.html)
+7. [Flashback: Your Weekly History Quiz, July 4, 2026](https://www.nytimes.com/interactive/2026/07/03/upshot/flashback.html)
 
-Ukraine is engaged in a campaign in Crimea to take out Russian air defenses, sever vital supply lines, and cripple the peninsula's energy grid and fuel reserves.
-
-
-9. [At Mount Rushmore, Trump Veers From Patriotism to ‘Communism’](https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html)
-
-On the eve of July 4, President Trump extolled the nation’s founders while branding his opponents as “communists” in what seemed to be a warm-up for November.
+Can you sort 8 historical events?
 
 
-10. [The Most Iconic American Artwork Is the Hardest to See](https://www.nytimes.com/interactive/2026/07/02/arts/design/statue-of-liberty-history-france-us.html)
+8. [What Does It Cost to Take Over Madison Square Garden?](https://www.nytimes.com/2026/07/03/style/swift-wedding-msg-cost.html)
 
-The Statue of Liberty is caught between the sublime and the souvenir, our critic Jason Farago explains. Look again: She’s much stranger than you think.
+It’s not just rent. There’s security, insurance, permits and other costs, not to mention extra police presence.
+
+
+9. [At Trump’s Direction, Federal Agencies Are Abandoning Discrimination Cases](https://www.nytimes.com/2026/07/05/us/politics/trump-dei-order-eeoc-discrimination.html)
+
+President Trump has tried to scale back anti-discrimination regulations that date back decades. Federal agencies have heeded his call.
+
+
+10. [White Nationalists March in Washington Amid 250th Anniversary Celebrations](https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html)
+
+The group, wearing clothing associated with the organization Patriot Front, assembled near Capitol Hill before leaving the district.
 
 
