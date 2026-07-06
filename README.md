@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-05 23:07:22)
+## 📰 NYTimes Most Popular (Updated: 2026-07-06 04:11:34)
 
-1. [Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.](https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html)
+1. [Nancy Pelosi’s Husband Could Face Charge Over Napa County Car Crash](https://www.nytimes.com/2026/07/04/us/paul-pelosi-hit-run-napa.html)
+
+The police said Paul Pelosi was the driver of a convertible that struck a parked car on Friday. The district attorney will decide whether Mr. Pelosi will be charged.
+
+
+2. [White Nationalists March in Washington Amid 250th Anniversary Celebrations](https://www.nytimes.com/2026/07/04/us/white-nationalists-march-in-washington-amid-250th-anniversary-celebrations.html)
+
+The group, wearing clothing associated with the organization Patriot Front, assembled near Capitol Hill before leaving the district.
+
+
+3. [Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.](https://www.nytimes.com/2026/07/05/us/trump-fifa-balogun-world-cup.html)
 
 The reversal of Folarin Balogun’s World Cup suspension is highly unusual. It was the first time since 1962 that FIFA has nullified a suspension for a red card received during the World Cup.
 
 
-2. [Crowds Evacuated as Storms Menace Washington Ahead of Trump Speech](https://www.nytimes.com/2026/07/04/us/politics/national-mall-evacuated-storms.html)
+4. [It Failed in France. It Would Be a Disaster in California.](https://www.nytimes.com/2026/07/05/opinion/billionaire-wealth-tax-california.html)
 
-Thousands of people stood in security lines for hours in severe heat to reach the National Mall, only to be ordered to leave as events were set to start. Some refused.
-
-
-3. [Flashback: Your Weekly History Quiz, July 4, 2026](https://www.nytimes.com/interactive/2026/07/03/upshot/flashback.html)
-
-Can you sort 8 historical events?
+California might bet its future on the notion that billionaires won’t leave. But they are already fleeing the state.
 
 
-4. [What We Should Learn From Nordic Happiness](https://www.nytimes.com/2026/07/04/opinion/norway-nordic-social-democracy.html)
+5. [The Presidential Election We Needed the Most Is the One We Never Got](https://www.nytimes.com/2026/07/05/opinion/obama-trump-presidency-election.html)
+
+The proxy battles we got instead have not settled questions we have to settle.
+
+
+6. [Taylor Swift and Travis Kelce Unite in Marriage](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-wedding-announcement.html)
+
+This traditional wedding announcement marks the union of the pop star and football player, who exchanged vows on Friday at Madison Square Garden.
+
+
+7. [What Is the Definitive Movie About America?](https://www.nytimes.com/2026/07/01/movies/what-is-the-definitive-movie-about-america.html)
+
+Ten writers on the films that get at the hopes, dreams, heartbreak and hilarity of the U.S.A. as it turns 250.
+
+
+8. [What We Should Learn From Nordic Happiness](https://www.nytimes.com/2026/07/04/opinion/norway-nordic-social-democracy.html)
 
 Scandinavia is the land of five-week vacations, virtually free university, one-year parental leaves, easy child care — and very happy citizens.
 
 
-5. [Dior Wins the Taylor Swift Wedding Dress Sweepstakes](https://www.nytimes.com/2026/07/03/style/taylor-swift-wedding-dress-dior.html)
+9. [For America’s 250th, Trump Hosts a Celebration and Derides His Foes](https://www.nytimes.com/2026/07/05/us/politics/trump-speech-fourth-july.html)
 
-The pop star said “I do” to a gown designed by Jonathan Anderson, the French house’s creative director.
-
-
-6. [At Mount Rushmore, Trump Veers From Patriotism to ‘Communism’](https://www.nytimes.com/2026/07/03/us/politics/trump-mount-rushmore-america-250.html)
-
-On the eve of July 4, President Trump extolled the nation’s founders while branding his opponents as “communists” in what seemed to be a warm-up for November.
+A centerpiece address for the nation’s 250th anniversary celebration devoted time to American history, but had all the hallmarks of a Trump rally.
 
 
-7. [The Brooklyn Bridge Briefly Catches Fire During a Fireworks Display](https://www.nytimes.com/2026/07/04/nyregion/fire-brooklyn-bridge-fireworks.html)
+10. [Nearly a Million Investors Lost a Total of $3.8 Billion on Trump Crypto Coin](https://www.nytimes.com/2026/07/04/us/politics/trump-coin-crypto-investors-loss.html)
 
-The fire, ignited by Fourth of July fireworks, was extinguished by shortly after 10 p.m., the police said. No injuries were reported.
-
-
-8. [Taylor Swift and Travis Kelce’s American Royal Wedding](https://www.nytimes.com/2026/07/04/style/taylor-swift-travis-kelce-american-royal-wedding.html)
-
-A mega-famous popstar and a Super Bowl champion celebrated their love in Midtown Manhattan, announcing both their union and their cultural domination.
-
-
-9. [The Most Iconic American Artwork Is the Hardest to See](https://www.nytimes.com/interactive/2026/07/02/arts/design/statue-of-liberty-history-france-us.html)
-
-The Statue of Liberty is caught between the sublime and the souvenir, our critic Jason Farago explains. Look again: She’s much stranger than you think.
-
-
-10. [What Is the Definitive Movie About America?](https://www.nytimes.com/2026/07/01/movies/what-is-the-definitive-movie-about-america.html)
-
-Ten writers on the films that get at the hopes, dreams, heartbreak and hilarity of the U.S.A. as it turns 250.
+A report from a cryptocurrency analytics firm details how those who bought the Trump memecoin have fared, with most retail investors having lost money while sophisticated traders did better.
 
 
