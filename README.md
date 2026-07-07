@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-07 08:27:31)
+## 📰 NYTimes Most Popular (Updated: 2026-07-07 11:58:31)
 
-1. [Bertrand Grébaut, Influential French Chef, Is Dead at 44](https://www.nytimes.com/2026/07/05/dining/bertrand-grebaut-dead.html)
-
-He ventured to the Right Bank to create Septime, a restaurant focused on vegetable-oriented cuisine “that changed the trajectory of French cooking.”
-
-
-2. [‘Excited but Shocked’: U.S. Soccer Fans Struggle With Trump’s FIFA Call](https://www.nytimes.com/2026/07/06/us/politics/trump-folarin-balogun-fans-reaction.html)
-
-Americans wrestled with definitions of fairness, after the president intervened in the World Cup to reinstate a star player.
-
-
-3. [What Does Dressing Up Mean Today?](https://www.nytimes.com/2026/07/06/fashion/dressing-up-casual-clothing.html)
-
-A reader wonders if the rising casualness of the world is a good or a bad thing.
-
-
-4. [McConnell Has Been Hospitalized for 3 Weeks, and Aides Won’t Say Why](https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html)
+1. [McConnell Has Been Hospitalized for 3 Weeks, and Aides Won’t Say Why](https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html)
 
 Senator Mitch McConnell was admitted to the hospital on June 14, and his office has provided few updates about his condition. Here’s what we know.
 
 
-5. [She Labeled a Swim Party ‘Muslims Only.’ The Response Ravaged Her Life.](https://www.nytimes.com/2026/07/02/us/muslim-swim-party-texas.html)
+2. [Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.](https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html)
 
-A Muslim mother’s plan for an Eid swim party near Dallas drew backlash, then threats that upended her quiet life.
-
-
-6. [China Tests Long-Range Ballistic Missile in the Pacific, Angering Neighbors](https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html)
-
-China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test.
+The reversal of Folarin Balogun’s World Cup suspension is highly unusual. It was the first time since 1962 that FIFA has nullified a suspension for a red card received during the World Cup.
 
 
-7. [You May Not Need Eight Hours of Sleep](https://www.nytimes.com/2026/07/05/opinion/sleep-health-8-hours.html)
+3. [‘Excited but Shocked’: U.S. Soccer Fans Struggle With Trump’s FIFA Call](https://www.nytimes.com/2026/07/06/us/politics/trump-folarin-balogun-fans-reaction.html)
 
-The evidence for needing eight hours of sleep a night is shakier than we might assume.
+Americans wrestled with definitions of fairness, after the president intervened in the World Cup to reinstate a star player.
 
 
-8. [George E. Johnson, Who Built a Black Hair-Care Empire, Dies at 99](https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html)
+4. [Platner’s Democratic Support Evaporates After Sexual Assault Allegation](https://www.nytimes.com/2026/07/06/us/politics/graham-platner-maine-assault.html)
+
+Graham Platner, the Democratic Senate candidate in Maine, called the allegation false but said he would “reflect” on his political path forward, as many allies rescinded their endorsements.
+
+
+5. [Who Might Replace Platner if He Drops Out? Here’s What Could Happen.](https://www.nytimes.com/2026/07/06/us/politics/who-would-replace-graham-platner-maine.html)
+
+Graham Platner can be replaced on the ballot if he withdraws in the next week. If he does, Maine Democrats would face an uncertain two-week race to choose a replacement.
+
+
+6. [McMorrow Suspends Senate Bid in Democrats’ Heated Michigan Primary](https://www.nytimes.com/2026/07/05/us/politics/mcmorrow-senate-suspend-campaign-democrats-michigan.html)
+
+The state senator sought to carve a middle path between a left-wing candidate and one backed by the party establishment, but she gained little traction.
+
+
+7. [George E. Johnson, Who Built a Black Hair-Care Empire, Dies at 99](https://www.nytimes.com/2026/07/06/business/george-e-johnson-dead.html)
 
 Mr. Johnson’s hair product company, a longtime sponsor of “Soul Train,” was the first Black-owned company listed on a major American stock exchange.
 
 
-9. [White House Criticizes Smithsonian Museum for ‘Extreme Political Activism’](https://www.nytimes.com/2026/07/05/arts/design/white-house-smithsonian-american-history-museum.html)
+8. [A Great University Undermines Its Mission](https://www.nytimes.com/2026/07/06/opinion/university-california-sat-testing-admissions.html)
 
-A scathing report released on the Fourth of July says the National Museum of American History downplays the role of the founders while emphasizing social justice.
+Under the test-blind policy, more students are thrown into classes for which they are unprepared.
 
 
-10. [Deadly Russian Strikes Hit Kyiv on Eve of NATO Summit](https://www.nytimes.com/2026/07/05/world/europe/kyiv-ukraine-russia-attack-nato.html)
+9. [A Profound Question Haunting Jews Today](https://www.nytimes.com/2026/07/06/opinion/jewish-america-identity.html)
 
-Ballistic missiles were fired into the capital of Ukraine as Russia launched its second major attack in less than a week. At least 16 people were killed, officials said.
+Over the years, I have moved toward the way of being Jewish that my father rejected.
+
+
+10. [What It Was Like Inside Taylor Swift and Travis Kelce’s Wedding](https://www.nytimes.com/article/taylor-swift-travis-kelce-msg-wedding-details.html)
+
+From garden themes to meatballs on the (rehearsal dinner) menu, carefully planned details are emerging from the top-secret event.
 
 
