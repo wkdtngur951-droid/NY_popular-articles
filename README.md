@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-07 18:05:40)
+## 📰 NYTimes Most Popular (Updated: 2026-07-07 20:51:49)
 
-1. [What It Was Like Inside Taylor Swift and Travis Kelce’s Wedding](https://www.nytimes.com/article/taylor-swift-travis-kelce-msg-wedding-details.html)
+1. [A Great University Undermines Its Mission](https://www.nytimes.com/2026/07/06/opinion/university-california-sat-testing-admissions.html)
 
-From garden themes to meatballs on the (rehearsal dinner) menu, carefully planned details are emerging from the top-secret event.
+Under the test-blind policy, more students are thrown into classes for which they are unprepared.
 
 
 2. [A Profound Question Haunting Jews Today](https://www.nytimes.com/2026/07/06/opinion/jewish-america-identity.html)
@@ -10,43 +10,43 @@ From garden themes to meatballs on the (rehearsal dinner) menu, carefully planne
 Over the years, I have moved toward the way of being Jewish that my father rejected.
 
 
-3. [Lessons From the Graham Platner Disaster](https://www.nytimes.com/2026/07/06/opinion/graham-platner-rape-accusation.html)
+3. [Who Might Replace Platner if He Drops Out? Here’s What Could Happen.](https://www.nytimes.com/2026/07/06/us/politics/who-would-replace-graham-platner-maine.html)
 
-Many Democrats want representatives as furious as they are. That makes it easier for unfit candidates to escape proper vetting.
-
-
-4. [Trump Is Fleecing Us](https://www.nytimes.com/2026/07/07/opinion/trump-250th-july-4th.html)
-
-On a day celebrating harmony, Trump sang a tune of “This land belongs to me and mine.”
+Graham Platner can be replaced on the ballot if he withdraws in the next week. If he does, Maine Democrats would face an uncertain two-week race to choose a replacement.
 
 
-5. [A Great University Undermines Its Mission](https://www.nytimes.com/2026/07/06/opinion/university-california-sat-testing-admissions.html)
-
-Under the test-blind policy, more students are thrown into classes for which they are unprepared.
-
-
-6. [JD Vance Is Worried](https://www.nytimes.com/2026/07/07/opinion/jd-vance-communion-clash-civilizations.html)
-
-The vice president’s theology comes in book form.
-
-
-7. [Here’s the latest.](https://www.nytimes.com/live/2026/07/07/nyregion/pfizer-building-midtown-collapse/pfizer-building-midtown-collapse)
-
-The complex, which once housed offices for the pharmaceutical company Pfizer, is being converted to residences. Officials inspecting it found support columns were buckling, and upper floors were sagging.
-
-
-8. [In CNN Interview, Woman Details Alleged Sexual Assault by Platner](https://www.nytimes.com/2026/07/06/us/politics/jenny-racicot-cnn-interview-graham-platner.html)
+4. [In CNN Interview, Woman Details Alleged Sexual Assault by Platner](https://www.nytimes.com/2026/07/06/us/politics/jenny-racicot-cnn-interview-graham-platner.html)
 
 “This is something that I tried for many years to forget,” the woman, Jenny Racicot, said on CNN.
 
 
-9. [McConnell Has Been Hospitalized for 3 Weeks, and Aides Won’t Say Why](https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html)
+5. [China Tests Long-Range Ballistic Missile in the Pacific, Angering Neighbors](https://www.nytimes.com/2026/07/06/world/asia/china-pacific-nuclear-missile-launch.html)
+
+China’s firing of a submarine-launched missile came as Australia secured more defense deals with Pacific Island nations. Countries expressed concern about the test.
+
+
+6. [McConnell Has Been Hospitalized for 3 Weeks, and Aides Won’t Say Why](https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html)
 
 Senator Mitch McConnell was admitted to the hospital on June 14, and his office has provided few updates about his condition. Here’s what we know.
 
 
-10. [Who Might Replace Platner if He Drops Out? Here’s What Could Happen.](https://www.nytimes.com/2026/07/06/us/politics/who-would-replace-graham-platner-maine.html)
+7. [Trump Asked FIFA to Review U.S. Player’s Suspension. Now He’s Eligible to Play.](https://www.nytimes.com/2026/07/05/us/politics/trump-fifa-balogun-world-cup.html)
 
-Graham Platner can be replaced on the ballot if he withdraws in the next week. If he does, Maine Democrats would face an uncertain two-week race to choose a replacement.
+The reversal of Folarin Balogun’s World Cup suspension is highly unusual. It was the first time since 1962 that FIFA has nullified a suspension for a red card received during the World Cup.
+
+
+8. [Trump Is Fleecing Us](https://www.nytimes.com/2026/07/07/opinion/trump-250th-july-4th.html)
+
+On a day celebrating harmony, the president sang a tune of “This land belongs to me and mine.”
+
+
+9. [Abandoned by Allies, Platner Faces Pressure to End Senate Campaign](https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html)
+
+After Graham Platner, the Democratic nominee in Maine, was accused of rape, much of the party and several key supporters turned against him.
+
+
+10. [It Failed in France. It Would Be a Disaster in California.](https://www.nytimes.com/2026/07/05/opinion/billionaire-wealth-tax-california.html)
+
+California might bet its future on the notion that billionaires won’t leave, but they are already fleeing the state.
 
 
