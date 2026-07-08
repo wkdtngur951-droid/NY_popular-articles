@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-08 17:44:27)
+## 📰 NYTimes Most Popular (Updated: 2026-07-08 19:43:36)
 
-1. [JD Vance Is Worried](https://www.nytimes.com/2026/07/07/opinion/jd-vance-communion-clash-civilizations.html)
+1. [McConnell Has Been Hospitalized for 3 Weeks, and Aides Won’t Say Why](https://www.nytimes.com/2026/07/06/us/politics/mitch-mcconell-health-hospitalization.html)
 
-The vice president’s theology comes in book form.
-
-
-2. [Here’s the latest.](https://www.nytimes.com/live/2026/07/07/nyregion/pfizer-building-midtown-collapse/pfizer-building-midtown-collapse)
-
-The complex, which once housed offices for the pharmaceutical company Pfizer, is being converted to residences. Officials inspecting it found support columns were buckling, and upper floors were sagging.
+Senator Mitch McConnell was admitted to the hospital on June 14, and his office has provided few updates about his condition. Here’s what we know.
 
 
-3. [Trump Is Fleecing Us](https://www.nytimes.com/2026/07/07/opinion/trump-250th-july-4th.html)
+2. [Lessons From the Graham Platner Disaster](https://www.nytimes.com/2026/07/06/opinion/graham-platner-rape-accusation.html)
 
-On a day celebrating harmony, the president sang a tune of “This land belongs to me and mine.”
+Many Democrats want representatives as furious as they are. That makes it easier for unfit candidates to escape proper vetting.
+
+
+3. [What It Was Like Inside Taylor Swift and Travis Kelce’s Wedding](https://www.nytimes.com/article/taylor-swift-travis-kelce-msg-wedding-details.html)
+
+From garden themes to meatballs on the (rehearsal dinner) menu, carefully planned details are emerging from the top-secret event.
 
 
 4. [Who Might Replace Platner if He Drops Out? Here’s What Could Happen.](https://www.nytimes.com/2026/07/06/us/politics/who-would-replace-graham-platner-maine.html)
@@ -20,33 +20,33 @@ On a day celebrating harmony, the president sang a tune of “This land belongs 
 Graham Platner can be replaced on the ballot if he withdraws in the next week. If he does, Maine Democrats would face an uncertain two-week race to choose a replacement.
 
 
-5. [America Was Being Played. The Bessent Doctrine Says Those Days Are Over.](https://www.nytimes.com/2026/07/07/opinion/scott-bessent-trade-economy.html)
+5. [Drama and Spectacle as Trump Makes His NATO Entrance](https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html)
 
-The United States is changing the rules of trade in its favor.
-
-
-6. [This Is One of the Hardest Jobs in America. Millions Are Doing It Alone.](https://www.nytimes.com/2026/07/08/opinion/family-caregiver-aging-parents.html)
-
-Behind closed doors, millions of Americans are stepping into one of the hardest roles they’ll ever take on: caring for their aging parents.
+The second President Trump landed in Turkey, the center of gravity shifted right to where he likes it best: himself.
 
 
-7. [See How a Series of U.S. Mistakes Led to Belgium’s Third Goal](https://www.nytimes.com/interactive/2026/07/07/sports/soccer/usa-belgium-world-cup-goal.html)
+6. [Estonia Won the War on Fentanyl. What Came Next Was Even Worse.](https://www.nytimes.com/2026/07/07/world/europe/estonia-fentanyl-new-drugs.html)
 
-View in 3-D how the U.S. men’s soccer team failed to stop Belgium from scoring a crucial goal in a match that ultimately knocked the United States out of the World Cup.
-
-
-8. [Lessons From the Graham Platner Disaster](https://www.nytimes.com/2026/07/06/opinion/graham-platner-rape-accusation.html)
-
-Many Democrats want representatives as furious as they are. That makes it easier for unfit candidates to escape proper vetting.
+By 2018, fentanyl overdoses in Estonia had plummeted. But powerful new drugs are appearing fast, with the authorities racing to respond.
 
 
-9. [What It Was Like Inside Taylor Swift and Travis Kelce’s Wedding](https://www.nytimes.com/article/taylor-swift-travis-kelce-msg-wedding-details.html)
+7. [Why Are Berries Everywhere, in Every Season? Driscoll’s.](https://www.nytimes.com/2026/07/07/dining/driscolls-berries.html)
 
-From garden themes to meatballs on the (rehearsal dinner) menu, carefully planned details are emerging from the top-secret event.
+The California giant has helped turn a local, seasonal treat into a worldwide refrigerator staple and marketing juggernaut.
 
 
-10. [Plaintiff for Anti-Vaccine Group’s Suit Is Charged With Murder of Her Twins](https://www.nytimes.com/2026/07/07/us/idaho-twins-death-shaw-vaccines-murder.html)
+8. [Abandoned by Allies, Platner Faces Pressure to End Senate Campaign](https://www.nytimes.com/2026/07/07/us/politics/graham-platner-maine-senate.html)
 
-A lawsuit filed by Children’s Health Defense, an organization founded by Robert F. Kennedy Jr., claims that vaccines caused the twins’ deaths. But a grand jury in Idaho has indicted her on charges of suffocating them.
+After Graham Platner, the Democratic nominee in Maine, was accused of rape, much of the party and several key supporters turned against him.
+
+
+9. [JD Vance Is Worried](https://www.nytimes.com/2026/07/07/opinion/jd-vance-communion-clash-civilizations.html)
+
+The vice president’s theology comes in book form.
+
+
+10. [Manhattan Building’s Columns Buckled Beneath New Addition, Images Show](https://www.nytimes.com/interactive/2026/07/07/us/midtown-structural.html)
+
+Images and videos of the Manhattan building analyzed by The Times show that the structural columns buckled directly beneath where the recent addition was built.
 
 
