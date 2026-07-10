@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-09 22:36:05)
+## 📰 NYTimes Most Popular (Updated: 2026-07-10 00:11:35)
 
-1. [Drama and Spectacle as Trump Makes His NATO Entrance](https://www.nytimes.com/2026/07/08/world/europe/trump-nato-summit.html)
-
-The second President Trump landed in Turkey, the center of gravity shifted right to where he likes it best: himself.
-
-
-2. [Clusters of Severe Stomach Illness Reported Across the U.S.](https://www.nytimes.com/2026/07/02/well/cyclospora-infection-united-states.html)
-
-Public health experts said there were more cases than usual of the disease caused by cyclospora, which is spread through contaminated food and drink.
-
-
-3. [How GLP-1s Feed Our Sick Culture](https://www.nytimes.com/2026/07/08/opinion/glp1-ozempic-caroline-calloway.html)
-
-For women, they’re a depressingly rational choice.
-
-
-4. [In Israel, Rahm Emanuel Calls for End of Unconditional U.S. Support](https://www.nytimes.com/2026/07/07/us/politics/rahm-emanuel-speech-israel.html)
-
-The former Chicago mayor, a Democrat exploring a 2028 presidential run, delivered a speech in Tel Aviv that was sharply critical of Benjamin Netanyahu.
-
-
-5. [‘Trump’s Intervention Had an Impact’: 3 Writers on America’s Heartbreaking World Cup Exit](https://www.nytimes.com/2026/07/08/opinion/world-cup-trump-us.html)
-
-The world’s most global game produces some of its strongest feelings of national belonging.
-
-
-6. [Charges Against Man Who Drove Family Off Cliff Are Dropped After Treatment](https://www.nytimes.com/2026/07/07/us/california-devils-slide-dad-charges.html)
-
-Three counts of attempted murder against Dharmesh A. Patel were dismissed after he completed a court-ordered mental health program, prosecutors said.
-
-
-7. [Emmy Nominees 2026: The Complete List](https://www.nytimes.com/2026/07/08/arts/television/emmy-nominees-list-2026.html)
-
-The 78th Emmy Awards ceremony is planned for Sept. 14. See all the nominees below.
-
-
-8. [Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey](https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html)
+1. [Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey](https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html)
 
 The Secret Service is said to have asked that the president not use the Qatari-donated jet when he left Ankara. The swap deepens questions about the retrofitting of the new plane.
 
 
-9. [Manhattan Building’s Columns Buckled Beneath New Addition, Images Show](https://www.nytimes.com/interactive/2026/07/07/us/midtown-structural.html)
+2. [‘A Slow-Rolling Disaster’: Inside the Implosion of the Platner Campaign](https://www.nytimes.com/2026/07/08/us/politics/graham-platner-campaign-implosion-maine.html)
 
-Images and videos of the Manhattan building analyzed by The Times show that the structural columns buckled directly beneath where the recent addition was built.
+Graham Platner’s bid for the Senate inspired progressive Democrats. But the campaign, which he suspended Wednesday, was messy, disorganized and ultimately doomed by a steady drip of scandal.
 
 
-10. [Plaintiff for Anti-Vaccine Group’s Suit Is Charged With Murder of Her Twins](https://www.nytimes.com/2026/07/07/us/idaho-twins-death-shaw-vaccines-murder.html)
+3. [Tanker Attacks Risk Overplaying Iran’s Hand and Reigniting a War](https://www.nytimes.com/2026/07/09/world/middleeast/iran-us-war-strait-of-hormuz.html)
 
-A lawsuit filed by Children’s Health Defense, an organization founded by Robert F. Kennedy Jr., claims that vaccines caused the twins’ deaths. But a grand jury in Idaho has indicted her on charges of suffocating them.
+Iran’s history shows it is willing to dig in, even when it may suffer big losses.
+
+
+4. [‘ I’m Worried About Weimar America’](https://www.nytimes.com/2026/07/09/opinion/america-politics-weimar-rod-dreher.html)
+
+“It may not be Hitler 2.0. It may not be Stalin 2.0. It might be something all American, but it’s not going to be what we’re used to,” the author Rod Dreher argues.
+
+
+5. [After Tragedy Struck, He Found His Way to an Unexpected Epilogue in Virginia](https://www.nytimes.com/interactive/2026/07/09/realestate/virginia-washington-dc-arlington-home-sales-prices.html)
+
+Don Schroeder never thought he’d be looking for a condo for just himself. But life doesn’t always follow the path you’ve trodden.
+
+
+6. [MAGA’s Birthright Meltdown Is in Full Effect](https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html)
+
+Is the right giving up on America?
+
+
+7. [Graham Platner Is Not the Only One Who Deserves Comeuppance](https://www.nytimes.com/2026/07/09/opinion/graham-platner-maine-democrats-israel.html)
+
+The questions his political demise raises go far beyond Maine.
+
+
+8. [Too Many Books?](https://www.nytimes.com/2026/07/09/style/too-many-books-new-york-city-apartment-scholar-landlord.html)
+
+Mendel Uminer faced a crisis when his landlord objected to the 10,000 volumes in his New York studio apartment.
+
+
+9. [A Conservative Role Model for Ending the Fertility Crisis](https://www.nytimes.com/2026/07/08/us/politics/emma-waters-restorative-reproduction.html)
+
+Emma Waters, pregnant with her third child, is crafting policy to encourage early parenthood. Some think she is pushing an ideology that does not meet reality.
+
+
+10. [Late Night Joins the Hunt for Mitch McConnell](https://www.nytimes.com/2026/07/09/arts/television/late-night-mitch-mcconnell.html)
+
+“Apparently, people don’t like a majority senator disappearing with no explanation for three weeks,” Ronny Chieng said on Wednesday’s “Daily Show.”
 
 
