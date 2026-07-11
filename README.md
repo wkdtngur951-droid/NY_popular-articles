@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-10 23:03:31)
+## 📰 NYTimes Most Popular (Updated: 2026-07-11 03:22:38)
 
-1. [The Democrats Can’t Go On Like This](https://www.nytimes.com/2026/07/08/opinion/graham-platner-suspends-campaign-democrats-lessons.html)
-
-The trouble in Maine goes beyond a single candidate.
-
-
-2. [Man Killed by Federal Agent in Houston Was Not the Target of ICE Search](https://www.nytimes.com/2026/07/09/us/witnesses-houston-ice-shooting.html)
-
-Officials say agents believed a passenger resembled one suspect, but the encounter quickly escalated into a fatal shooting.
-
-
-3. [The Zombification of America](https://www.nytimes.com/2026/07/09/opinion/america-world-us-isolation.html)
-
-Much of the world feared abandonment by the United States. It’s actually a new beginning.
-
-
-4. [Houston to Investigate How ICE Agent Came to Kill a Mexican Immigrant](https://www.nytimes.com/2026/07/10/us/houston-ice-shooting-witnesses.html)
-
-The agency said Lorenzo Salgado Araujo tried to ram agents with a van before one shot him dead. A lawyer for his passengers said that was untrue.
-
-
-5. [After Tragedy Struck, He Found His Way to an Unexpected Epilogue in Virginia](https://www.nytimes.com/interactive/2026/07/09/realestate/virginia-washington-dc-arlington-home-sales-prices.html)
-
-Don Schroeder never thought he’d be looking for a condo for just himself. But life doesn’t always follow the path you’ve trodden.
-
-
-6. [New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say](https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html)
-
-Experts said the lack of such capabilities poses a potential risk when the president travels overseas. The White House defended the aircraft’s safety.
-
-
-7. [Does Matt Damon Look Greek? No. So Stop Complaining About Lupita Nyong’o.](https://www.nytimes.com/2026/07/10/opinion/odyssey-movie-lupita-nyongo-nolan.html)
-
-Helen of Troy was a legendary beauty, but also so much more.
-
-
-8. [When Even the Owners Call it ‘Disaster Mansion’](https://www.nytimes.com/2026/07/10/realestate/disaster-mansion-renovation-kingston-ny.html)
+1. [When Even the Owners Call it ‘Disaster Mansion’](https://www.nytimes.com/2026/07/10/realestate/disaster-mansion-renovation-kingston-ny.html)
 
 First-time buyers from the Bay Area won an abandoned house at a Kingston, N.Y., tax auction. Eight years later, they’re still restoring it.
 
 
-9. [It’s a World-Class Investment. It’s a Junk Investment. What Is Going On With SpaceX?](https://www.nytimes.com/2026/07/09/opinion/spacex-ipo-investment-smart-dumb-money.html)
+2. [This Is a Lot More Worrying Than the Supreme Court’s Ruling on Executive Power](https://www.nytimes.com/2026/07/10/opinion/executive-power-supreme-court-trump.html)
 
-Must what goes up also come down?
+The White House is sidestepping Congress to make huge decisions for even the most important private industries.
 
 
-10. [Security Precaution Led Trump to Use Old Air Force One in Leaving Turkey](https://www.nytimes.com/2026/07/08/us/politics/trump-air-force-one-security.html)
+3. [MAGA’s Birthright Meltdown Is in Full Effect](https://www.nytimes.com/2026/07/09/opinion/birthright-maga-musk-thiel.html)
 
-The Secret Service is said to have asked that the president not use the Qatari-donated jet when he left Ankara. The swap deepens questions about the retrofitting of the new plane.
+Is the right giving up on America?
+
+
+4. [The World’s Superpowers Are Scrambling for an Edge. It Makes All of Us Less Safe.](https://www.nytimes.com/2026/07/10/opinion/trade-war-economy-globalization.html)
+
+There’s a way for nations to avoid endless trade wars.
+
+
+5. [How to Stay Safe From the Severe Stomach Bug That’s Going Around](https://www.nytimes.com/2026/07/08/well/eat/cyclospora-stomach-bug-prevention.html)
+
+Cyclospora, a parasite that causes intestinal illness, is sickening many people across the United States. Health experts have tips for avoiding infection.
+
+
+6. [Barcelona’s New Message: ‘Not One Tourist More’](https://www.nytimes.com/2026/07/10/travel/barcelona-overtourism-jose-antonio-donaire.html)
+
+As the commissioner for sustainable tourism, José Antonio Donaire’s job is to diminish the impact of the nearly 16 million annual visitors to the Catalan capital. Here’s what he’s planning.
+
+
+7. [Two Days of U.S. Strikes in Iran Signal a Sharp Escalation](https://www.nytimes.com/2026/07/10/us/politics/iran-war-escalation.html)
+
+U.S. forces hit more than 170 targets, including air defense systems, drone and missile storage sites, and military speedboats.
+
+
+8. [Man Killed by Federal Agent in Houston Was Not the Target of ICE Search](https://www.nytimes.com/2026/07/09/us/witnesses-houston-ice-shooting.html)
+
+Officials say agents believed a passenger resembled one suspect, but the encounter quickly escalated into a fatal shooting.
+
+
+9. [A Decorated Historian’s Research Comes Under Fire](https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html)
+
+Kerri K. Greenidge appeared to lose her professorship at Tufts University after scholars began scrutinizing her 2022 book, “The Grimkes,” which is no longer listed on its publisher’s website.
+
+
+10. [New Air Force One Lacks Defensive Countermeasures of Previous Model, Officials Say](https://www.nytimes.com/2026/07/09/us/politics/new-air-force-one-defensive-countermeasures.html)
+
+Experts said the lack of such capabilities poses a potential risk when the president travels overseas. The White House defended the aircraft’s safety.
 
 
