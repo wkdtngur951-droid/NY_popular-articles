@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-12 06:39:56)
+## 📰 NYTimes Most Popular (Updated: 2026-07-12 09:07:17)
 
 1. [How Marco Rubio Is Running Venezuela From Afar](https://www.nytimes.com/2026/07/11/us/politics/how-marco-rubio-runs-venezuela.html)
 
 The secretary of state effectively controls Venezuela’s finances, the distribution of its natural resources and its government. His grip on the country is a vivid manifestation of American power in the Trump era.
 
 
-2. [Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota](https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html)
+2. [White House Directed Patel to Oversee Investigation Involving Times Reporting](https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html)
+
+The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.
+
+
+3. [Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota](https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html)
 
 The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.
 
 
-3. [U.S. Employers Told to Dismiss Thousands of Immigrant Workers](https://www.nytimes.com/2026/07/10/us/politics/tps-workers-dismissals.html)
+4. [Jayson Conner, 48, and Jeffrey Newman, 58, Die; Gave Thousands of Backpacks to Those in Need](https://www.nytimes.com/2026/07/11/nyregion/jeffrey-newman-jayson-connor-dead.html)
 
-Shifting deadlines are confusing businesses as the end of Temporary Protected Status for Haitians and others looms, making them ineligible to live and work in the United States.
-
-
-4. [Mick Jagger Knows He May Have Played His Last Rolling Stones Show](https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html)
-
-The legendary rock star, now 82, on how fame, touring and aging have changed him.
+The couple, who died within a few days of each other, provided needed supplies, like socks and wet wipes, to people living on New York City’s streets.
 
 
-5. [The Population Bust Is Coming Sooner Than Anyone Is Prepared For](https://www.nytimes.com/2026/07/11/opinion/population-forecast-birth-rate.html)
-
-America is not prepared for population decline.
-
-
-6. [Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It](https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html)
+5. [Bipartisan Housing Bill Becomes Law Even Though Trump Refuses to Sign It](https://www.nytimes.com/2026/07/10/us/politics/trump-housing-bill.html)
 
 After a 10-day clock, the housing bill turned into law at midnight without the president’s signature. But his decision not to sign reflects a growing rift between him and Senate Republicans.
 
 
-7. [An American Politician Is Blocked by Israeli Settlers in the West Bank](https://www.nytimes.com/2026/07/11/us/politics/ro-khanna-west-bank.html)
+6. [Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen](https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html)
 
-Representative Ro Khanna was barred from leaving for 90 minutes. Where past U.S. leaders toured the region to show support for Israel, today’s Democratic presidential aspirants are going to bolster their credentials as critics.
-
-
-8. [Platner’s Rise and Fall Revives Old Questions About ‘Bernie Bros’ and Women](https://www.nytimes.com/2026/07/11/us/politics/bernie-sanders-graham-platner-maine.html)
-
-The collapse of Graham Platner’s Senate bid in Maine after a rape allegation renewed attention to a movement built by Senator Bernie Sanders that some say is too forgiving of male misconduct.
+Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020.
 
 
-9. [Whistle-Blowers Accuse Kennedy Center of Contracting Flaws Under Trump](https://www.nytimes.com/2026/07/11/arts/design/kennedy-center-trump-renovations.html)
+7. [Times Journalists Subpoenaed as Trump Escalates Pressure on Media](https://www.nytimes.com/2026/07/11/business/media/new-york-times-trump-subpoenas.html)
 
-Documents submitted to Congress detailed concerns about competitive bidding processes and a White House order to tear up new bathroom tile because of its color.
+The Justice Department is seeking to compel testimony from reporters who wrote about the new Air Force One. The Times called the move a “brazen act.”
 
 
-10. [Jayson Conner, 48, and Jeffrey Newman, 58, Die; Gave Thousands of Backpacks to Those in Need](https://www.nytimes.com/2026/07/11/nyregion/jeffrey-newman-jayson-connor-dead.html)
+8. [Trump Justifies Money Made as President With Inaccurate Claims](https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html)
 
-The couple, who died within a few days of each other, provided needed supplies, like socks and wet wipes, to people living on New York City’s streets.
+President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary.
+
+
+9. [A Decorated Historian’s Research Comes Under Fire](https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html)
+
+Kerri K. Greenidge appeared to lose her professorship at Tufts University after scholars began scrutinizing her 2022 book, “The Grimkes,” which is no longer listed on its publisher’s website.
+
+
+10. [Flashback: Your Weekly History Quiz, July 11, 2026](https://www.nytimes.com/interactive/2026/07/10/upshot/flashback.html)
+
+Can you sort 8 historical events?
 
 
