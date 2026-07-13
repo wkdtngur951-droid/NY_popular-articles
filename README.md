@@ -1,43 +1,43 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-13 00:00:23)
+## 📰 NYTimes Most Popular (Updated: 2026-07-13 04:34:05)
 
-1. [U.S. Employers Told to Dismiss Thousands of Immigrant Workers](https://www.nytimes.com/2026/07/10/us/politics/tps-workers-dismissals.html)
+1. [What Is an Aortic Dissection?](https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html)
 
-Shifting deadlines are confusing businesses as the end of Temporary Protected Status for Haitians and others looms, making them ineligible to live and work in the United States.
-
-
-2. [How Putin Turned Japan Into a Den of Spies](https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html)
-
-Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
+The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the back,” one expert said.
 
 
-3. [White House Directed Patel to Oversee Investigation Involving Times Reporting](https://www.nytimes.com/2026/07/11/us/politics/white-house-patel-investigation-times.html)
+2. [How Trump Failed to Secure the Strait of Hormuz in His Iran Deal](https://www.nytimes.com/2026/07/12/us/politics/trump-strait-of-hormuz-iran-deal.html)
 
-The F.B.I. director spent about eight hours at the White House Friday focused on the effort, which led to the subpoenaing of several Times reporters who wrote about the security of Air Force One.
-
-
-4. [Lindsey Graham Was Facing Re-election in November. What Happens Now?](https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html)
-
-The senator’s death triggers an Aug. 11 special Republican primary election, and South Carolina’s governor can appoint a replacement to serve out the remaining term, through early January.
+President Trump signed an agreement that Iran said gave it control of the waterway — and global energy supplies. Now, Iran’s military is violently asserting authority.
 
 
-5. [Mick Jagger Knows He May Have Played His Last Rolling Stones Show](https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html)
+3. [Trump Justifies Money Made as President With Inaccurate Claims](https://www.nytimes.com/2026/07/11/us/politics/trump-money-crypto-financial-gains.html)
+
+President Trump has wrongly attributed the $2 billion windfall he gained during his second term to a hot stock market and claimed that he was the only president to donate his salary.
+
+
+4. [Mick Jagger Knows He May Have Played His Last Rolling Stones Show](https://www.nytimes.com/2026/07/11/magazine/mick-jagger-interview.html)
 
 The legendary rock star, now 82, on how fame, touring and aging have changed him.
 
 
-6. [Royal Rapprochement: Harry and Meghan Pay a Rare Visit to the King and Queen](https://www.nytimes.com/2026/07/10/world/europe/harry-meghan-visit-charles-camilla.html)
+5. [We’re Living in a Tick Nightmare. It’s Time to Go to War.](https://www.nytimes.com/2026/07/11/opinion/ticks-disease-lyme-alpha-gal.html)
 
-Friday’s visit to King Charles and Queen Camilla signaled a détente in relations with Prince Harry and his wife, who stepped down from royal duties and moved to the United States in 2020.
-
-
-7. [A Decorated Historian’s Research Comes Under Fire](https://www.nytimes.com/2026/07/10/books/kerri-greenidge-the-grimkes.html)
-
-Kerri K. Greenidge appeared to lose her professorship at Tufts University after scholars began scrutinizing her 2022 book, “The Grimkes,” which is no longer listed on its publisher’s website.
+With ticks, we’ve barely begun to fight back. The longer we wait, the more territory they will claim across both our geographic and psychic maps.
 
 
-8. [Flashback: Your Weekly History Quiz, July 11, 2026](https://www.nytimes.com/interactive/2026/07/10/upshot/flashback.html)
+6. [After Weeks of Silence, McConnell Says He Is Recovering From a Fall](https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html)
 
-Can you sort 8 historical events?
+The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.
+
+
+7. [Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota](https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html)
+
+The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.
+
+
+8. [The Population Bust Is Coming Sooner Than Anyone Is Prepared For](https://www.nytimes.com/2026/07/11/opinion/population-forecast-birth-rate.html)
+
+America is not prepared for population decline.
 
 
 9. [Our Never-Ending Race to the Bottom](https://www.nytimes.com/2026/07/12/opinion/paxton-talarico-platner-trump.html)
@@ -45,8 +45,8 @@ Can you sort 8 historical events?
 Something is wrong if vice is all them and virtue is all you.
 
 
-10. [Trump’s Posts on Singing Somali Schoolchildren Stir Anger in Minnesota](https://www.nytimes.com/2026/07/11/us/politics/trump-somali-kindergartners.html)
+10. [Trump Mourns Graham as ‘Great Politician’ and ‘Member of the Family’](https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html)
 
-The state’s large Muslim and Somali communities expressed indignation after the president reposted a video of a kindergarten promotion ceremony, including comments noting the girls were in hijabs.
+In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.
 
 
