@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-13 19:41:49)
+## 📰 NYTimes Most Popular (Updated: 2026-07-13 21:03:37)
 
-1. [What We Know About Lindsey Graham’s Final Days](https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html)
+1. [The World Is Cutting Ties With America. It’s Already Costing Us.](https://www.nytimes.com/2026/07/12/opinion/america-trump-nato-europe-world.html)
 
-Senator Lindsey Graham died on Saturday night, a day after returning from Ukraine and four months before he was to face re-election.
-
-
-2. [After Weeks of Silence, McConnell Says He Is Recovering From a Fall](https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html)
-
-The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.
+When other countries cut ties, Americans pay.
 
 
-3. [Inside Israel’s Secret Operation to Cultivate Ahmadinejad](https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html)
-
-The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to an Israeli safe house in the early days of the war. But the plan fell apart.
-
-
-4. [The Population Bust Is Coming Sooner Than Anyone Is Prepared For](https://www.nytimes.com/2026/07/11/opinion/population-forecast-birth-rate.html)
-
-America is not prepared for population decline.
-
-
-5. [Elin Hilderbrand on Her Beloved Nantucket ‘Money Pit’](https://www.nytimes.com/interactive/2026/07/11/realestate/elin-hilderbrand-house-tour-nantucket.html)
+2. [Elin Hilderbrand on Her Beloved Nantucket ‘Money Pit’](https://www.nytimes.com/interactive/2026/07/11/realestate/elin-hilderbrand-house-tour-nantucket.html)
 
 Inside the home where the best-selling author has written many of her books — and is secretly working on a new novel.
 
 
-6. [Jayson Conner, 48, and Jeffrey Newman, 58, Die; Gave Thousands of Backpacks to Those in Need](https://www.nytimes.com/2026/07/11/nyregion/jeffrey-newman-jayson-connor-dead.html)
+3. [Lindsey Graham, Republican Senator and Staunch Trump Ally, Dies at 71](https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-dead.html)
 
-The couple, who died within a few days of each other, provided needed supplies, like socks and wet wipes, to people living on New York City’s streets.
-
-
-7. [Lindsey Graham Was Facing Re-election in November. What Happens Now?](https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-death-reelection-seat.html)
-
-The senator’s death triggers an Aug. 11 special Republican primary election, and South Carolina’s governor can appoint a replacement to serve out the remaining term, through early January.
+He consistently pushed for the use of U.S. military power overseas. The Washington, D.C., medical examiner said he died of an aortic dissection, a tear in the body’s main artery.
 
 
-8. [What Is an Aortic Dissection?](https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html)
+4. [Sam Neill, Leading Man in ‘Jurassic Park,’ Dies at 78](https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html)
+
+He appeared in more than 150 films and TV shows over a five-decade career, but was perhaps best known for his star turn in the dinosaur blockbuster.
+
+
+5. [How Putin Turned Japan Into a Den of Spies](https://www.nytimes.com/2026/07/12/world/asia/russia-spies-japan-war-drones-electronics.html)
+
+Operating out of a Tokyo high-rise, a military intelligence unit finds the high-tech equipment that Russia needs to wage war.
+
+
+6. [Inside Israel’s Secret Operation to Cultivate Ahmadinejad](https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html)
+
+The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to an Israeli safe house in the early days of the war. But the plan fell apart.
+
+
+7. [From a Young Age, Graham and His Sister Had a Tight Bond](https://www.nytimes.com/2026/07/13/us/lindsey-graham-sister-darline-nordone.html)
+
+After the senator and his sister, Darline, lost their parents, he guided her through the teenage years and into college. He called her success the highlight of his life.
+
+
+8. [What We Know About Lindsey Graham’s Final Days](https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html)
+
+Senator Lindsey Graham died on Saturday night, a day after returning from Ukraine and four months before he was to face re-election.
+
+
+9. [What Is an Aortic Dissection?](https://www.nytimes.com/2026/07/12/science/lindsey-graham-aortic-dissection.html)
 
 The condition that killed Senator Lindsey Graham is deadly, sudden and difficult to treat — “like a knife to the heart,” one expert said.
-
-
-9. [Trump Mourns Graham as ‘Great Politician’ and ‘Member of the Family’](https://www.nytimes.com/2026/07/12/us/politics/donald-trump-lindsey-graham-death-interview.html)
-
-In an interview on Sunday, President Trump recounted his last conversation with Senator Lindsey Graham, hours before his death. Mr. Graham sounded “perfect,” he said.
 
 
 10. [Bison Attacks Tourist at Yellowstone National Park, Tossing Him Into the Air](https://www.nytimes.com/2026/07/12/us/yellowstone-bison-injures-tourist.html)
