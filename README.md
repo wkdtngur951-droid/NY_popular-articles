@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-14 17:20:44)
+## 📰 NYTimes Most Popular (Updated: 2026-07-14 19:35:24)
 
 1. [Who Will Win the Midterms? 6 Pollsters and Pundits Make Educated Guesses.](https://www.nytimes.com/interactive/2026/07/13/opinion/midterms-pollsters-pundits-scorecard.html)
 
 If the election were held today, which party would win a majority in the House and Senate?
 
 
-2. [Lindsey Graham’s Sister Appointed to Finish His Senate Term](https://www.nytimes.com/2026/07/13/us/politics/trump-graham-sister-south-carolina-senate.html)
-
-Gov. Henry McMaster of South Carolina named Darline Graham Nordone to replace Mr. Graham, who died on Saturday.
-
-
-3. [What We Know About Lindsey Graham’s Final Days](https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html)
-
-Senator Lindsey Graham died on Saturday night, a day after returning from Ukraine and four months before he was to face re-election.
-
-
-4. [I’m a College Professor Inflating Grades. I Need Help.](https://www.nytimes.com/2026/07/13/opinion/college-grade-inflation.html)
+2. [I’m a College Professor Inflating Grades. I Need Help.](https://www.nytimes.com/2026/07/13/opinion/college-grade-inflation.html)
 
 Easy A’s are an easy out.
 
 
-5. [After Weeks of Silence, McConnell Says He Is Recovering From a Fall](https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html)
+3. [From a Young Age, Graham and His Sister Had a Tight Bond](https://www.nytimes.com/2026/07/13/us/lindsey-graham-sister-darline-nordone.html)
 
-The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.
-
-
-6. [Jon Stewart Mocks Mitch McConnell’s Recovery Photo](https://www.nytimes.com/2026/07/14/arts/television/jon-stewart-mitch-mcconnell-recovery.html)
-
-The “Daily Show” host called the image “totally believable evidence that Mitch McConnell is not only alive, but the happiest boy in the hospital.”
+After the senator and his sister, Darline, lost their parents, he guided her through the teenage years and into college. He called her success the highlight of his life.
 
 
-7. [Sam Neill, Leading Man in ‘Jurassic Park,’ Dies at 78](https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html)
+4. [Trump Sharply Cuts the Size of Two National Monuments in Utah](https://www.nytimes.com/2026/07/13/climate/trump-national-monuments-utah.html)
+
+Native American tribes and environmental groups are expected to challenge the move to shrink the Bears Ears and Grand Staircase-Escalante National Monuments.
+
+
+5. [Sam Neill, Leading Man in ‘Jurassic Park,’ Dies at 78](https://www.nytimes.com/2026/07/13/movies/sam-neill-dead.html)
 
 He appeared in more than 150 films and TV shows over a five-decade career, but was perhaps best known for his star turn in the dinosaur blockbuster.
+
+
+6. [ICE Agent Kills Person in Vehicle in Maine, Homeland Security Says](https://www.nytimes.com/2026/07/13/us/biddeford-maine-ice-shooting.html)
+
+The fatal shooting in Biddeford, Maine, was the second in a week involving an Immigration and Customs Enforcement agent firing into a vehicle.
+
+
+7. [‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak](https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html)
+
+Michigan health officials announced the preliminary findings, but they cautioned that other foods could not be ruled out. The illness has sickened thousands across the United States.
 
 
 8. [Inside Israel’s Secret Operation to Cultivate Ahmadinejad](https://www.nytimes.com/2026/07/13/us/politics/israel-mahmoud-ahmadinejad-iran.html)
@@ -40,13 +40,13 @@ He appeared in more than 150 films and TV shows over a five-decade career, but w
 The yearslong effort to groom the former Iranian president as an intelligence asset culminated in a dramatic effort to take him to a Mossad safe house in Iran in the early days of the war. But the plan fell apart.
 
 
-9. [‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak](https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html)
+9. [What We Know About Lindsey Graham’s Final Days](https://www.nytimes.com/2026/07/12/us/politics/lindsey-graham-final-days.html)
 
-Michigan health officials announced the preliminary findings, but they cautioned that other foods could not be ruled out. The illness has sickened thousands across the United States.
+Senator Lindsey Graham died on Saturday night, a day after returning from Ukraine and four months before he was to face re-election.
 
 
-10. [Jayson Conner, 48, and Jeffrey Newman, 58, Die; Gave Thousands of Backpacks to Those in Need](https://www.nytimes.com/2026/07/11/nyregion/jeffrey-newman-jayson-connor-dead.html)
+10. [After Weeks of Silence, McConnell Says He Is Recovering From a Fall](https://www.nytimes.com/2026/07/12/us/politics/mitch-mcconnell-fall-hospitalized-statement.html)
 
-The couple, who died within a few days of each other, provided needed supplies, like socks and wet wipes, to people living on New York City’s streets.
+The Republican senator denied that he had suffered a heart attack and said he had left the hospital and moved to a physical rehabilitation center. He did not give a timetable for returning to Capitol Hill.
 
 
