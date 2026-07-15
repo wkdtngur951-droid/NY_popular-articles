@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-15 05:38:47)
+## 📰 NYTimes Most Popular (Updated: 2026-07-15 08:25:19)
 
-1. [Pat Oliphant, Cartoonist Who Skewered the Powerful, Dies at 90](https://www.nytimes.com/2026/07/13/arts/pat-oliphant-dead.html)
-
-The winner of countless awards, including a Pulitzer Prize, he was described in 1990 as “the most influential political cartoonist now working.”
-
-
-2. [The Ukraine-Russia War Reaches a New Phase](https://www.nytimes.com/2026/07/14/opinion/ukraine-russia-patriots-drones.html)
-
-The ground war in Ukraine has stalemated and the crucial fight has shifted to the skies — missiles and interceptors.
-
-
-3. [How Healthy Are Cucumbers?](https://www.nytimes.com/2026/07/13/well/eat/cucumber-health-benefits.html)
-
-They’re not exactly packed with nutrition. Here’s why dietitians love them anyway.
-
-
-4. [At 91, He’s Hiking the Appalachian Trail. Again.](https://www.nytimes.com/2026/07/14/well/appalachian-trail-hiking-record-grey-beard.html)
-
-Dale “Grey Beard” Sanders once set the record as the oldest person to complete the roughly 2,190-mile trail. Now, he’s back for his title.
-
-
-5. [Jon Stewart Mocks Mitch McConnell’s Recovery Photo](https://www.nytimes.com/2026/07/14/arts/television/jon-stewart-mitch-mcconnell-recovery.html)
-
-The “Daily Show” host called the image “totally believable evidence that Mitch McConnell is not only alive, but the happiest boy in the hospital.”
-
-
-6. [‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak](https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html)
-
-Michigan health officials announced the preliminary findings, but they cautioned that other foods could not be ruled out. The illness has sickened thousands across the United States.
-
-
-7. [E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case](https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html)
+1. [E. Jean Carroll Receives $5.6 Million Payment From Trump in Civil Case](https://www.nytimes.com/2026/07/14/nyregion/carroll-trump-settlement-million.html)
 
 A federal jury found President Trump liable for sexually abusing and defaming Ms. Carroll. He exhausted his appeals last month, prompting a judge to order that the money be paid.
 
 
-8. [The Democratic Establishment Had This Coming](https://www.nytimes.com/2026/07/14/opinion/democrats-platner-midterms.html)
+2. [House Votes for Permanent Daylight Saving Time](https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html)
 
-The Democratic Party needs shaking up.
+House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.
 
 
-9. [The Lo-Fi Way I Broke My Addiction to the Algorithm](https://www.nytimes.com/2026/07/14/opinion/culture/phone-algorithm-addiction.html)
+3. [Opportunities Narrow for Women as Hegseth Blocks More Promotions](https://www.nytimes.com/2026/07/14/us/hegseth-blocks-navy-promotions.html)
+
+For the first time in more than a decade, no active-duty female Navy officers are likely to be promoted to admiral this year.
+
+
+4. [The Strange Phenomenon of ‘Terminal Lucidity’](https://www.nytimes.com/2026/07/14/magazine/terminal-lucidity.html)
+
+As they near death, some dementia patients recover mental faculties assumed to be long lost. Researchers want to know why.
+
+
+5. [‘I Am Frustrated’: Emails Show Blanche’s Role in Trump’s Retribution Campaign](https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html)
+
+The cooperation of Todd Blanche will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.
+
+
+6. [He Says He Killed a Man. Republicans Nominated Him Anyway.](https://www.nytimes.com/2026/07/13/opinion/victor-marx-colorado-republican.html)
+
+Once started, the process of voter radicalization isn’t easy to modulate.
+
+
+7. [‘Lettuce or Salad Greens’ Identified as Potential Source of Cyclospora Outbreak](https://www.nytimes.com/2026/07/13/well/eat/michigan-cyclospora-outbreak-lettuce-salad-greens.html)
+
+Michigan health officials announced the preliminary findings, but they cautioned that other foods could not be ruled out. The illness has sickened thousands across the United States.
+
+
+8. [ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week](https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html)
+
+Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.
+
+
+9. [One Person Is Dead and Three Are Missing After Boat Capsizes Near Alcatraz](https://www.nytimes.com/2026/07/14/us/boat-fire-rescue-san-francisco-alcatraz.html)
+
+Sixteen other passengers were rescued after the pleasure boat sank in the San Francisco Bay on Tuesday.
+
+
+10. [The Lo-Fi Way I Broke My Addiction to the Algorithm](https://www.nytimes.com/2026/07/14/opinion/culture/phone-algorithm-addiction.html)
 
 I tried many remedies to break my social media habit. A homemade hack worked best.
-
-
-10. [Trump Sharply Cuts the Size of Two National Monuments in Utah](https://www.nytimes.com/2026/07/13/climate/trump-national-monuments-utah.html)
-
-Native American tribes and environmental groups are expected to challenge the move to shrink the Bears Ears and Grand Staircase-Escalante National Monuments.
 
 
