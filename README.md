@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-15 20:14:58)
+## 📰 NYTimes Most Popular (Updated: 2026-07-15 22:07:08)
 
-1. [He Says He Killed a Man. Republicans Nominated Him Anyway.](https://www.nytimes.com/2026/07/13/opinion/victor-marx-colorado-republican.html)
+1. [Takeaways From Rare Congressional Testimony by Two Supreme Court Justices](https://www.nytimes.com/2026/07/14/us/politics/supreme-court-congress-takeaways.html)
 
-Once started, the process of voter radicalization isn’t easy to modulate.
-
-
-2. [ICE Ordered to Cease Most Vehicle Stops After 2 Killings in a Week](https://www.nytimes.com/2026/07/14/us/ice-agents-traffic-stops.html)
-
-Agents fatally shot a man in Houston and another in coastal Maine, both in their vehicles. The killings were the latest in a string of ICE shootings during President Trump’s second term.
+Elena Kagan and Amy Coney Barrett, the first Supreme Court justices to testify since 2019, talked about ethics and security threats during collegial hearings.
 
 
-3. [The Lo-Fi Way I Broke My Addiction to the Algorithm](https://www.nytimes.com/2026/07/14/opinion/culture/phone-algorithm-addiction.html)
-
-I tried many remedies to break my social media habit. A homemade hack worked best.
-
-
-4. [How to Stay Safe From the Severe Stomach Bug That’s Going Around](https://www.nytimes.com/2026/07/08/well/eat/cyclospora-stomach-bug-prevention.html)
-
-Cyclospora, a parasite that causes intestinal illness, is sickening many people across the United States. Health experts have tips for avoiding infection.
-
-
-5. [The Democratic Establishment Had This Coming](https://www.nytimes.com/2026/07/14/opinion/democrats-platner-midterms.html)
+2. [The Democratic Establishment Had This Coming](https://www.nytimes.com/2026/07/14/opinion/democrats-platner-midterms.html)
 
 The Democratic Party needs shaking up.
 
 
-6. [Lindsey Graham’s Choice](https://www.nytimes.com/2026/07/14/opinion/lindsey-graham-ukraine-trump.html)
+3. [The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?](https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html)
 
-Would the world have been safer if Graham hadn’t cozied up to Trump?
-
-
-7. [‘I Am Frustrated’: Emails Show Blanche’s Role in Trump’s Retribution Campaign](https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html)
-
-The cooperation of Todd Blanche will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.
+The largest U.S. automakers have backed away from electric vehicles, even as global sales are booming. The decision may make them obsolete.
 
 
-8. [Trump Paid $2 Million by South Korean Company Facing Trade Investigation](https://www.nytimes.com/2026/07/14/us/politics/trump-south-korea-aluminum.html)
+4. [He Says He Killed a Man. Republicans Nominated Him Anyway.](https://www.nytimes.com/2026/07/13/opinion/victor-marx-colorado-republican.html)
 
-The payment illustrates the minefield Mr. Trump has created by maintaining personal financial ties with foreign businesses while he is in office.
+Once started, the process of voter radicalization isn’t easy to modulate.
 
 
-9. [Opportunities Narrow for Women as Hegseth Blocks More Promotions](https://www.nytimes.com/2026/07/14/us/hegseth-blocks-navy-promotions.html)
+5. [House Votes for Permanent Daylight Saving Time](https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html)
+
+House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.
+
+
+6. [Opportunities Narrow for Women as Hegseth Blocks More Promotions](https://www.nytimes.com/2026/07/14/us/hegseth-blocks-navy-promotions.html)
 
 For the first time in more than a decade, no active-duty female Navy officers are likely to be promoted to admiral this year.
 
 
-10. [The Housing Crisis Is Also a Retirement Crisis](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html)
+7. [The Housing Crisis Is Also a Retirement Crisis](https://www.nytimes.com/2026/07/14/opinion/housing-retirement-crisis.html)
 
 A home has stopped being just a place to live — it has also become an asset.
+
+
+8. [Lindsey Graham Knew Better](https://www.nytimes.com/2026/07/15/opinion/lindsey-graham-donald-trump.html)
+
+He could see the obvious truth that Trump was a malign and corrosive force in American politics — that is, until Trump won the White House.
+
+
+9. [‘I Am Frustrated’: Emails Show Blanche’s Role in Trump’s Retribution Campaign](https://www.nytimes.com/2026/07/14/us/politics/todd-blanche-trump-enemies-emails.html)
+
+The cooperation of Todd Blanche will be a flashpoint in his confirmation hearing to be attorney general on Wednesday.
+
+
+10. [Jon Stewart Mocks Mitch McConnell’s Recovery Photo](https://www.nytimes.com/2026/07/14/arts/television/jon-stewart-mitch-mcconnell-recovery.html)
+
+The “Daily Show” host called the image “totally believable evidence that Mitch McConnell is not only alive, but the happiest boy in the hospital.”
 
 
