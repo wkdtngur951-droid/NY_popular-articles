@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-16 04:12:48)
+## 📰 NYTimes Most Popular (Updated: 2026-07-16 07:26:24)
 
-1. [House Votes for Permanent Daylight Saving Time](https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html)
+1. [Lindsey Graham Knew Better](https://www.nytimes.com/2026/07/15/opinion/lindsey-graham-donald-trump.html)
 
-House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.
-
-
-2. [Wildfire Smoke Spreads Across the Northeast as Temperatures Spike](https://www.nytimes.com/2026/07/15/weather/heat-dome-wildfire-smoke-minnesota-canada-nyc.html)
-
-A heat dome is responsible for miserably high temperatures, and it’s also helping to push smoke from wildfires to the east.
+He could see the obvious truth that Trump was a malign and corrosive force in American politics — that is, until Trump won the White House.
 
 
-3. [‘The Odyssey’ Review: Passion in Every Frame](https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html)
+2. [‘The Odyssey’ Review: Passion in Every Frame](https://www.nytimes.com/2026/07/15/movies/the-odyssey-review.html)
 
 Few directors close the divide between the art film and the blockbuster like Christopher Nolan.
 
 
-4. [Is This the Fastest Opinion Shift in American Politics?](https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html)
-
-David Wallace-Wells and Robinson Meyer discuss whether the gathering coalition of Americans against data centers could be the next Occupy Wall Street movement or Tea Party.
-
-
-5. [We’re About to Find Out Whether Republican Senators Can Still Say No](https://www.nytimes.com/2026/07/15/opinion/todd-blanche-attorney-general-senate-hearing.html)
+3. [We’re About to Find Out Whether Republican Senators Can Still Say No](https://www.nytimes.com/2026/07/15/opinion/todd-blanche-attorney-general-senate-hearing.html)
 
 Republicans should have the decency, patriotism and self-respect to vote against Mr. Blanche.
 
 
-6. [See How Spain Pulled Apart France’s Defense](https://www.nytimes.com/interactive/2026/07/14/sports/soccer/spain-france-world-cup-goal.html)
-
-View in 3-D how Spain cut through France’s defense to double its lead, securing a victory and a place in the World Cup final.
-
-
-7. [‘It’s Chaos’: What New York’s Suburbs Can Tell Us About the Mood of the Country](https://www.nytimes.com/2026/07/15/opinion/midterm-elections-politicians-trump-new-york.html)
+4. [‘It’s Chaos’: What New York’s Suburbs Can Tell Us About the Mood of the Country](https://www.nytimes.com/2026/07/15/opinion/midterm-elections-politicians-trump-new-york.html)
 
 The midterms are looming. We asked people in New York City’s suburbs how they feel about the state of America.
 
 
-8. [How Worried Should You Be About Eating Lettuce?](https://www.nytimes.com/2026/07/15/opinion/cyclospora-stomach-bug-risk-lettuce.html)
+5. [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html)
 
-We didn’t need an outbreak of a nightmare stomach bug. But here we are.
-
-
-9. [The American E.V. Has Been Crushed. Will It Take the U.S. Auto Industry With It?](https://www.nytimes.com/2026/07/15/magazine/electric-cars-american-evs.html)
-
-The largest U.S. automakers have backed away from electric vehicles, even as global sales are booming. The decision may make them obsolete.
+The parasite has sickened thousands across the United States. Experts have tips on how to stay safe.
 
 
-10. [Blanche Faces Crucial Hurdle After Rocky Hearing](https://www.nytimes.com/2026/07/15/us/politics/todd-blanche-attorney-general-confirmation.html)
+6. [How the Rich and Powerful Dress Right Now](https://www.nytimes.com/2026/07/14/style/sun-valley-conference-style.html)
 
-Even a single Republican “no” vote would block Mr. Blanche’s nomination from consideration by the full Senate, which could sink his confirmation.
+What went down at the equivalent of Fashion Week for tech bros. Plus, Jay-Z’s still got it.
+
+
+7. [How to Stay Safe From the Severe Stomach Bug That’s Going Around](https://www.nytimes.com/2026/07/08/well/eat/cyclospora-stomach-bug-prevention.html)
+
+Cyclospora, a parasite that causes intestinal illness, is sickening many people across the United States. Health experts have tips for avoiding infection.
+
+
+8. [U.S. War Against Iran Enters a New Phase](https://www.nytimes.com/2026/07/14/us/politics/us-war-iran-next-phase.html)
+
+As President Trump resumes his war, the focus is now on the Strait of Hormuz. But it remains unclear how far the U.S. military will go to exert control.
+
+
+9. [U.S. Strikes Hit Tiny, Disputed Island in Strait of Hormuz](https://www.nytimes.com/2026/07/15/world/middleeast/us-iran-hormuz-greater-tunb-island.html)
+
+The U.S. military said on Wednesday it had attacked Iranian cruise missile storage and launch sites on Greater Tunb, one of several small islands in the Strait of Hormuz subject to a decades-old territorial dispute.
+
+
+10. [Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea](https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html)
+
+After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.
 
 
