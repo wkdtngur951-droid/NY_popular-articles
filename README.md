@@ -1,4 +1,4 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-17 13:52:35)
+## 📰 NYTimes Most Popular (Updated: 2026-07-17 15:18:41)
 
 1. [Trump Is Building a White House Helipad. He Sought No Approvals.](https://www.nytimes.com/interactive/2026/07/16/us/politics/white-house-helipad-trump.html)
 
