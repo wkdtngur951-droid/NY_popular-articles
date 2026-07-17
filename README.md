@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-16 23:02:42)
+## 📰 NYTimes Most Popular (Updated: 2026-07-17 03:21:20)
 
-1. [Almost Half of House Democrats Vote to End Aid to Israel](https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html)
+1. [Hegseth Plans to Screen All Troops, Including Women, for Low Testosterone](https://www.nytimes.com/2026/07/15/us/politics/hegseth-troops-testosterone.html)
 
-The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.
+Pete Hegseth, as defense secretary, has sought to cultivate an image as a manosphere-friendly leader.
 
 
 2. [Cyclospora Cases Are Rising. Here’s What to Know.](https://www.nytimes.com/2026/07/15/well/eat/cyclospora-stomach-bug-what-to-know.html)
@@ -10,43 +10,43 @@ The measure failed, but the level of support among Democrats exposed a stark shi
 The parasite has sickened thousands across the United States. Experts have tips on how to stay safe.
 
 
-3. [How Worried Should You Be About Eating Lettuce?](https://www.nytimes.com/2026/07/15/opinion/cyclospora-stomach-bug-risk-lettuce.html)
+3. [Almost Half of House Democrats Vote to End Aid to Israel](https://www.nytimes.com/2026/07/15/us/politics/democrats-house-israel-vote-aid.html)
 
-We didn’t need an outbreak of a nightmare stomach bug. But here we are.
-
-
-4. [Ukraine Pounds Russian Ships in Its Campaign to Cut Off Crimea](https://www.nytimes.com/2026/07/15/world/europe/ukraine-russia-crimea-azov-sea.html)
-
-After striking roads and railways, Kyiv is now focusing on sea routes as it tries to disrupt fuel supplies and pressure Russia to end the war.
+The measure failed, but the level of support among Democrats exposed a stark shift in the party away from backing the Jewish state.
 
 
-5. [How the Rich and Powerful Dress Right Now](https://www.nytimes.com/2026/07/14/style/sun-valley-conference-style.html)
+4. [The F.D.A. Approves a New Pill to Slash Cholesterol Levels](https://www.nytimes.com/2026/07/16/science/the-fda-approves-a-new-pill-to-slash-cholesterol-levels.html)
 
-What went down at the equivalent of Fashion Week for tech bros. Plus, Jay-Z’s still got it.
-
-
-6. [The Army Veteran Killed Outside His ‘Trump House’](https://www.nytimes.com/2026/07/16/us/army-veteran-trump-house.html)
-
-Kerry Sheron could often be found waving and nodding to those who passed his home, which stood out in Escondido, Calif.
+The new pills can lower cholesterol levels far below what can be achieved with statins, clinical trials have shown.
 
 
-7. [Is This the Fastest Opinion Shift in American Politics?](https://www.nytimes.com/2026/07/15/opinion/ai-data-center-politics.html)
+5. [White House Teleprompter Operator Bet on Trump Speeches, Kalshi Says](https://www.nytimes.com/2026/07/16/technology/teleprompter-operator-kalshi-trump-speeches.html)
 
-David Wallace-Wells and Robinson Meyer discuss whether the gathering coalition of Americans against data centers could be the next Occupy Wall Street movement or Tea Party.
-
-
-8. [We’re About to Find Out Whether Republican Senators Can Still Say No](https://www.nytimes.com/2026/07/15/opinion/todd-blanche-attorney-general-senate-hearing.html)
-
-Republicans should have the decency, patriotism and self-respect to vote against Mr. Blanche.
+A technical assistant to President Trump won around $100,000, according to the prediction market, which flagged the activity to the federal government.
 
 
-9. [House Votes for Permanent Daylight Saving Time](https://www.nytimes.com/2026/07/14/us/politics/house-daylight-savings-time-sunshine-protection-act.html)
+6. [Ukraine’s Ousted Defense Minister Attacks the Military’s Old Guard](https://www.nytimes.com/2026/07/16/world/europe/ukraine-fedorov-protests.html)
 
-House Republicans and Democrats united in favor of a bill to eliminate semiannual clock-changing, but it faces an uncertain fate in the Senate.
+Mykhailo Fedorov defended his efforts to modernize the Ukrainian armed forces as thousands of people protested his dismissal.
 
 
-10. [Trump Administration Fires U.S. Attorney Minutes After His Appointment](https://www.nytimes.com/2026/07/15/us/trump-fires-prosecutor-roger-rogoff.html)
+7. [Trump Administration Fires U.S. Attorney Minutes After His Appointment](https://www.nytimes.com/2026/07/15/us/trump-fires-prosecutor-roger-rogoff.html)
 
 Federal judges had chosen the veteran Seattle prosecutor to fill the vacant seat. Now, a potential legal battle looms.
+
+
+8. [Trump Is at His Wit’s End](https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html)
+
+The president lacks not only a coherent strategic concept but an elementary understanding of what strategy is.
+
+
+9. [Paul Pelosi’s Errant Driving Record Preceded His Latest Napa Valley Crash](https://www.nytimes.com/2026/07/16/us/paul-pelosi-driving-record.html)
+
+Mr. Pelosi, the 86-year-old husband of former Speaker Nancy Pelosi, had at least eight traffic violations in one 13-year period before his crash this year, according to court records.
+
+
+10. [‘A Million Men With Kalashnikovs Are Dangerous’](https://www.nytimes.com/2026/07/16/opinion/russia-ukraine-putin-zelensky.html)
+
+A Q&A with Kori Schake on the Russia-Ukraine war.
 
 
