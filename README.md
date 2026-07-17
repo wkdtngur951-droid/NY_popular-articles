@@ -1,4 +1,4 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-17 11:24:48)
+## 📰 NYTimes Most Popular (Updated: 2026-07-17 13:52:35)
 
 1. [Trump Is Building a White House Helipad. He Sought No Approvals.](https://www.nytimes.com/interactive/2026/07/16/us/politics/white-house-helipad-trump.html)
 
@@ -45,7 +45,7 @@ The parasite has sickened thousands across the United States. Experts have tips 
 President Trump, who promised to “end wars,” not start them, may have fallen into a familiar presidential trap.
 
 
-10. [Trump Is at His Wit’s End](https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html)
+10. [Trump Is at His Wits’ End](https://www.nytimes.com/2026/07/16/opinion/iran-trump-graham-odyssey.html)
 
 The president lacks not only a coherent strategic concept but an elementary understanding of what strategy is.
 
