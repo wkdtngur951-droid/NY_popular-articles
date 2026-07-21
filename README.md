@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-21 10:29:59)
+## 📰 NYTimes Most Popular (Updated: 2026-07-21 12:26:00)
 
-1. [First World Cup Halftime Show: Lots of Stars, Little Purpose](https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html)
-
-The performers valiantly attempted to justify the existence of the show, which was impeccably choreographed and thematically jumbled.
-
-
-2. [Pentagon Identifies Two U.S. Soldiers Killed in Jordan](https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html)
-
-Both were active-duty soldiers, the Defense Department said. They were killed in action after an Iranian strike on a U.S. base on Friday.
-
-
-3. [G.O.P. Boxed In on Iran War as Trump Sidelines Congress](https://www.nytimes.com/2026/07/20/us/politics/gop-trump-iran-war.html)
-
-Republicans now face a worst-case political scenario of being asked to fund an unpopular war over which they have exercised little oversight.
-
-
-4. [North Carolina’s Blissfully Boring Retort to All the Democratic Drama](https://www.nytimes.com/2026/07/20/opinion/roy-cooper-senate-election.html)
+1. [North Carolina’s Blissfully Boring Retort to All the Democratic Drama](https://www.nytimes.com/2026/07/20/opinion/roy-cooper-senate-election.html)
 
 There are important lessons in my state’s Senate race.
 
 
-5. [America Has Eight Political Tribes. Which One Do You Belong to?](https://www.nytimes.com/2026/07/20/opinion/voters-political-parties-coalitions.html)
+2. [Tate Brothers to Stay in Jail as New Details About Charges Emerge](https://www.nytimes.com/2026/07/20/us/andrew-tristan-tate-brothers-hearing.html)
 
-Think of our two major political parties as two coalitions.
+In court documents unsealed on Monday, British prosecutors accused the “manosphere” influencers of choking women, sometimes until they passed out, and then raping them.
+
+
+3. [Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’](https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html)
+
+The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
+
+
+4. [Tehran and Washington Face a ‘Wake-Up Moment’ Over the War](https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html)
+
+U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.
+
+
+5. [U.S. Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html)
+
+The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.
 
 
 6. [Family of Five Found Dead After Storms Flooded Utah Canyon](https://www.nytimes.com/2026/07/19/us/utah-flooding-deaths.html)
@@ -30,23 +30,23 @@ Think of our two major political parties as two coalitions.
 A Provo fire captain, his wife and their three sons were found dead over the weekend near a campground in southern Utah. They were likely flood victims, the authorities said.
 
 
-7. [It’s No Longer So Much Fun to Be MAGA in Washington](https://www.nytimes.com/2026/07/19/opinion/washington-dc-maga-trump.html)
+7. [First World Cup Halftime Show: Lots of Stars, Little Purpose](https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html)
 
-It’s a vibe shift.
-
-
-8. [What Did They Eat? Here’s How One Case of Cyclosporiasis Was Solved.](https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html)
-
-New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.
+The performers valiantly attempted to justify the existence of the show, which was impeccably choreographed and thematically jumbled.
 
 
-9. [A.I. Drones Are Coming. We Are Not Ready.](https://www.nytimes.com/2026/07/20/opinion/ai-drones-modern-warfare.html)
-
-World leaders are marching us toward an uncertain era of new warfare — fast.
-
-
-10. [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html)
+8. [5 Things to Know About the Maine Senate Candidate Troy Jackson](https://www.nytimes.com/2026/07/20/us/politics/troy-jackson-maine-senate.html)
 
 Mr. Jackson, who has emerged as the clear front-runner to replace Graham Platner, is a Republican turned Democrat who is seen as close to Mr. Platner on policy.
+
+
+9. [In Maine Senate Race, Democrats Go From Chaos to Coronation](https://www.nytimes.com/2026/07/20/us/politics/maine-democrats-senate-jackson-platner.html)
+
+Troy Jackson’s emergence as the clear front-runner to replace Graham Platner spares the party some challenges but points to some new ones.
+
+
+10. [This Is Why Our Fresh Produce Keeps Making Us Sick](https://www.nytimes.com/2026/07/20/opinion/cyclospora-outbreak-symptoms-lettuce.html)
+
+Cyclospora outbreaks are just a small part of a much larger food safety crisis linked to fresh produce.
 
 
