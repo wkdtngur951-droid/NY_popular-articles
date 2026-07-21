@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-21 00:01:42)
+## 📰 NYTimes Most Popular (Updated: 2026-07-21 04:19:05)
 
-1. [Low-T, High Chair](https://www.nytimes.com/2026/07/18/opinion/trump-hegseth-testosterone.html)
+1. [North Carolina’s Blissfully Boring Retort to All the Democratic Drama](https://www.nytimes.com/2026/07/20/opinion/roy-cooper-senate-election.html)
 
-Where are Hegseth’s hormones when Trump needs them?
-
-
-2. [Trump Says New Air Force One Will Be Taken Out of Service to Be ‘Maxed Out’](https://www.nytimes.com/2026/07/19/us/politics/trump-air-force-modifications.html)
-
-The Qatari-donated plane has been under scrutiny over whether it is fitted with sufficient defensive capabilities to adequately protect a U.S. president and others traveling on it.
+There are important lessons in my state’s Senate race.
 
 
-3. [The Emmy Awards Are Afraid of This Vulgar, Gory, Brilliant Show](https://www.nytimes.com/2026/07/19/opinion/emmys-the-boys-amazon-homelander-snub.html)
+2. [Family of Five Found Dead After Storms Flooded Utah Canyon](https://www.nytimes.com/2026/07/19/us/utah-flooding-deaths.html)
 
-“The Boys” was supersnubbed.
-
-
-4. [What Did They Eat? Here’s How One Case of Cyclosporiasis Was Solved.](https://www.nytimes.com/2026/07/19/nyregion/cyclosporiasis-outbreak-nyc-testing.html)
-
-New York City health officials shared details of how they traced a much smaller cyclosporiasis outbreak, showing the difficulty of tracing contamination.
+A Provo fire captain, his wife and their three sons were found dead over the weekend near a campground in southern Utah. They were likely flood victims, the authorities said.
 
 
-5. [In Maine, Jackson Takes Big Step Toward Nomination as Top Rivals Bow Out](https://www.nytimes.com/2026/07/19/us/politics/maine-senate-bellows-jackson-platner-democrats.html)
+3. [First World Cup Halftime Show: Lots of Stars, Little Purpose](https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html)
 
-Troy Jackson, a progressive, solidified his clear edge in the contest to replace Graham Platner, as Shenna Bellows, Jordan Wood and Nirav Shah ended their bids.
+The performers valiantly attempted to justify the existence of the show, which was impeccably choreographed and thematically jumbled.
+
+
+4. [The Second Home Tax Is a Win for New York](https://www.nytimes.com/2026/07/20/opinion/second-home-tax-nyc-fairness.html)
+
+The recent debate over the new pied-à-terre tax in the city offers a useful case study.
+
+
+5. [Trump to Impose 50% Tariff on Many Canadian Goods](https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html)
+
+The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.
 
 
 6. [Tehran and Washington Face a ‘Wake Up Moment’ Over the War](https://www.nytimes.com/2026/07/20/world/middleeast/iran-united-states-escalation.html)
@@ -30,23 +30,23 @@ Troy Jackson, a progressive, solidified his clear edge in the contest to replace
 U.S. and Iranian attacks are unfolding in a way that risks a wider war they cannot contain, analysts warn, unless they can return to negotiations quickly.
 
 
-7. [First World Cup Halftime Show: Lots of Stars, Little Purpose](https://www.nytimes.com/2026/07/19/arts/music/world-cup-halftime-show-review.html)
+7. [U.S. Sought Phone Records of Times Journalists and Their Relatives](https://www.nytimes.com/2026/07/20/business/media/new-york-times-subpoenas-phone-records.html)
 
-The performers valiantly attempted to justify the existence of the show, which was impeccably choreographed and thematically jumbled.
-
-
-8. [Tate Brothers Arrested in Miami as U.K. Authorities File New Rape and Trafficking Charges](https://www.nytimes.com/2026/07/18/us/tate-brothers-arrest-miami.html)
-
-Federal marshals arrested the influencers, who are known for their misogynistic views and have faced years of criminal investigations in Europe. The new charges concern offenses dating to 2010, British officials said.
+The government is aggressively seeking the confidential sources of Times reporters who wrote about the president’s new Air Force One. The Times has asked a judge to quash the subpoenas.
 
 
-9. [Vance’s Remarks on Epstein and Israel Echo Conspiracy Theories](https://www.nytimes.com/2026/07/18/us/vances-epstein-israel-conspiracy-theories.html)
+8. [America Has Eight Political Tribes. Which One Do You Belong to?](https://www.nytimes.com/2026/07/20/opinion/voters-political-parties-coalitions.html)
 
-The vice president’s comment that there were ties between Mr. Epstein and the “highest levels” of Israeli intelligence troubled some in his party.
+Think of our two major political parties as two coalitions.
 
 
-10. [Misery in the Epicenter of Cyclospora: ‘A Baseball Bat to Your Abdomen’](https://www.nytimes.com/2026/07/19/us/cyclospora-michigan.html)
+9. [It’s No Longer So Much Fun to Be MAGA in Washington](https://www.nytimes.com/2026/07/19/opinion/washington-dc-maga-trump.html)
 
-The debilitating malady has gripped Monroe County, Mich.
+It’s a vibe shift.
+
+
+10. [Pentagon Identifies Two U.S. Soldiers Killed in Jordan](https://www.nytimes.com/2026/07/20/us/iran-war-us-soldiers-killed-jordan-identified.html)
+
+Both were active-duty soldiers, the Defense Department said. They were killed in action after an Iranian strike on a U.S. base on Friday.
 
 
