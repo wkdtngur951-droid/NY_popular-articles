@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-22 06:35:19)
+## 📰 NYTimes Most Popular (Updated: 2026-07-22 09:30:52)
 
-1. [This Is Why Our Fresh Produce Keeps Making Us Sick](https://www.nytimes.com/2026/07/20/opinion/cyclospora-outbreak-symptoms-lettuce.html)
-
-Cyclospora outbreaks are just a small part of a much larger food safety crisis linked to fresh produce.
-
-
-2. [Trump Officials Withhold $1 Billion in Medicaid Funds From 2 States](https://www.nytimes.com/2026/07/21/us/politics/trump-administration-medicaid-california-minnesota-fraud.html)
-
-The administration accused California and Minnesota of fraudulent activity in their public health insurance programs.
-
-
-3. [Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html)
-
-Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.
-
-
-4. [The Rise of Fashion Slop](https://www.nytimes.com/2026/07/21/opinion/fashion-slop-boring.html)
-
-Fast fashion and mall brands used to look to the runways for inspiration. Now, much of their output has been run through an algorithm.
-
-
-5. [5 Found Dead in Ohio After Child Tells Driver His ‘Family Was in the River’](https://www.nytimes.com/2026/07/20/us/scioto-river-drowning-ohio.html)
-
-Two women and three men were pulled from the Scioto River, outside Columbus.
-
-
-6. [Trump’s Kiss of Death](https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html)
-
-On top of everything else, the president is inept.
-
-
-7. [Lost at Sea, the Pan Am Clipper Endeavor Is Found After Over 70 Years](https://www.nytimes.com/2026/07/21/us/pan-am-clipper-endeavor-wreckage-found.html)
+1. [Lost at Sea, the Pan Am Clipper Endeavor Is Found After Over 70 Years](https://www.nytimes.com/2026/07/21/us/pan-am-clipper-endeavor-wreckage-found.html)
 
 Fifty-two of the 69 people aboard the plane died when it crashed off Puerto Rico and sank to the bottom of the Atlantic Ocean.
 
 
-8. [Cyclospora Spreads Through Human Feces. How Did It Get Into Our Food Supply?](https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html)
+2. [Cyclospora Spreads Through Human Feces. How Did It Get Into Our Food Supply?](https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html)
 
 The large number of cases suggests that excrement entered the food system on a “surprising scale.”
 
 
-9. [Three World Leaders. Three Incredibly Bad Decisions.](https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html)
+3. [A Family’s Daring Escape From North Korea ‘to Live and Stand Tall’](https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html)
 
-The quick-fix fantasies of the world’s strongmen.
+Their resolve for freedom hardened during the pandemic, when they lived through a crippling food shortage and were forced to witness frequent public executions.
 
 
-10. [Why Does This Jacket Cost $770? Because It Made Me a New Man.](https://www.nytimes.com/2026/07/21/magazine/menswear-clothes.html)
+4. [The Maduro Case May Be About to Take a Hairpin Turn](https://www.nytimes.com/2026/07/21/opinion/nicolas-maduro-court-extradition.html)
+
+It’s a story a century old.
+
+
+5. [Trump to Impose 50% Tariff on Many Canadian Goods](https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html)
+
+The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.
+
+
+6. [5 Found Dead in Ohio After Child Tells Driver His ‘Family Was in the River’](https://www.nytimes.com/2026/07/20/us/scioto-river-drowning-ohio.html)
+
+Two women and three men were pulled from the Scioto River, outside Columbus.
+
+
+7. [Senior Living Facility in Distress as Immigrant Caregivers Are Forced Out](https://www.nytimes.com/2026/07/20/us/immigration-trump-senior-living-staffing.html)
+
+Retirement communities already grappling with labor shortages are being forced to terminate caregivers at a time when more Americans are living longer.
+
+
+8. [Trump’s Kiss of Death](https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html)
+
+On top of everything else, the president is inept.
+
+
+9. [Why Does This Jacket Cost $770? Because It Made Me a New Man.](https://www.nytimes.com/2026/07/21/magazine/menswear-clothes.html)
 
 Lots of men are geeking out over very expensive clothes — and I became one of them.
+
+
+10. [Error Led to 400 Noncitizens Voting, New Jersey Governor Says](https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html)
+
+A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.
 
 
