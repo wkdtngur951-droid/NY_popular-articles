@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-22 11:52:33)
+## 📰 NYTimes Most Popular (Updated: 2026-07-22 14:10:20)
 
-1. [Kaylee Hottle, Actress in ‘Godzilla’ Movies, Is Killed in Car Crash](https://www.nytimes.com/2026/07/21/us/kaylee-hottle-godzilla-kong-dead.html)
+1. [Trump’s Kiss of Death](https://www.nytimes.com/2026/07/21/opinion/trump-inept-second-term.html)
 
-A deaf teenage actress, she appeared in “Godzilla vs. Kong” and “Godzilla x Kong: The New Empire.”
-
-
-2. [This Is Why Our Fresh Produce Keeps Making Us Sick](https://www.nytimes.com/2026/07/20/opinion/cyclospora-outbreak-symptoms-lettuce.html)
-
-Cyclospora outbreaks are just a small part of a much larger food safety crisis linked to fresh produce.
+On top of everything else, the president is inept.
 
 
-3. [Trump Joke at Kennedy Center Is Left Out of Netflix Special](https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html)
+2. [Lost at Sea, the Pan Am Clipper Endeavor Is Found After Over 70 Years](https://www.nytimes.com/2026/07/21/us/pan-am-clipper-endeavor-wreckage-found.html)
 
-At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein.
+Fifty-two of the 69 people aboard the plane died when it crashed off Puerto Rico and sank to the bottom of the Atlantic Ocean.
 
 
-4. [I’m a Scholar of Genocide. We’re Entering a Terrifying New Era.](https://www.nytimes.com/2026/07/21/opinion/israel-gaza-palestinians-genocide.html)
+3. [I’m a Scholar of Genocide. We’re Entering a Terrifying New Era.](https://www.nytimes.com/2026/07/21/opinion/israel-gaza-palestinians-genocide.html)
 
 Israel has not been held accountable for its actions in Gaza. The nation and the individuals and countries enabling it to escape punishment may only benefit.
 
 
-5. [Cyclospora Spreads Through Human Feces. How Did It Get Into Our Food Supply?](https://www.nytimes.com/2026/07/21/well/eat/how-cyclospora-contaminates-food.html)
+4. [Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html)
 
-The large number of cases suggests that excrement entered the food system on a “surprising scale.”
+Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.
 
 
-6. [A Family’s Daring Escape From North Korea ‘to Live and Stand Tall’](https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html)
+5. [A Family’s Daring Escape From North Korea ‘to Live and Stand Tall’](https://www.nytimes.com/2026/07/21/world/asia/south-korea-family-defection-escape.html)
 
 Their resolve for freedom hardened during the pandemic, when they lived through a crippling food shortage and were forced to witness frequent public executions.
 
 
-7. [The Maduro Case May Be About to Take a Hairpin Turn](https://www.nytimes.com/2026/07/21/opinion/nicolas-maduro-court-extradition.html)
+6. [Zelensky Dismisses Ukraine’s Top General After Protests](https://www.nytimes.com/2026/07/21/world/europe/ukraine-syrskyi-russia-war-fedorov-zelensky-protest.html)
 
-It’s a story a century old.
-
-
-8. [Trump to Impose 50% Tariff on Many Canadian Goods](https://www.nytimes.com/2026/07/20/business/economy/trump-tariffs-canada.html)
-
-The administration will use an untested legal provision to put significant duties on Canadian exports, reigniting a clash with one of America’s biggest trading partners.
+The move followed the firing of a popular defense minister, who had clashed with the general over how to fight the war.
 
 
-9. [5 Found Dead in Ohio After Child Tells Driver His ‘Family Was in the River’](https://www.nytimes.com/2026/07/20/us/scioto-river-drowning-ohio.html)
+7. [Why Does This Jacket Cost $770? Because It Made Me a New Man.](https://www.nytimes.com/2026/07/21/magazine/menswear-clothes.html)
 
-Two women and three men were pulled from the Scioto River, outside Columbus.
+Lots of men are geeking out over very expensive clothes — and I became one of them.
 
 
-10. [Error Led to 400 Noncitizens Voting, New Jersey Governor Says](https://www.nytimes.com/2026/07/21/nyregion/noncitizen-voting-new-jersey-error.html)
+8. [Storms Sweeping Across the Northeast Bring Heavy Rain and Strong Winds](https://www.nytimes.com/2026/07/21/weather/new-york-rain-flood-forecast.html)
 
-A 2023 software glitch at the state’s Motor Vehicle Commission led to roughly 6,600 noncitizens being registered to vote during the Murphy administration, Gov. Mikie Sherrill announced.
+New York was under a tornado watch, and forecasters warned that flash flooding was possible into the evening.
+
+
+9. [Three World Leaders. Three Incredibly Bad Decisions.](https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html)
+
+The quick-fix fantasies of the world’s strongmen.
+
+
+10. [Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel](https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html)
+
+U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.
 
 
