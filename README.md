@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-23 21:11:47)
+## 📰 NYTimes Most Popular (Updated: 2026-07-23 23:02:44)
 
-1. [House Adopts $95 Billion G.O.P. Budget for Iran War](https://www.nytimes.com/2026/07/22/us/politics/house-republicans-iran-budget-pentagon.html)
+1. [Trump’s Canada Threats Are Nothing Compared With What’s Coming](https://www.nytimes.com/2026/07/22/opinion/tariffs-canada-trump-bond-market.html)
 
-Republican leaders muscled through resistance in their own ranks to approve the budget blueprint for the war and other measures, but its prospects were far dimmer in the Senate.
-
-
-2. [Trump Joke at Kennedy Center Is Left Out of Netflix Special](https://www.nytimes.com/2026/07/21/arts/television/whitney-cummings-trump-joke-kennedy-center.html)
-
-At the Mark Twain Prize ceremony, the comedian Whitney Cummings made a joke about the president that seemed to refer to Jeffrey Epstein.
+We will be stuck with tariffs long after this president is out of office.
 
 
-3. [Women Are Too Controlling, She Wrote. Her Message Still Resonates.](https://www.nytimes.com/2026/07/22/us/laura-doyle-surrendered-wife.html)
-
-The message in “The Surrendered Wife,” the best-selling book by Laura Doyle, was provocative. Many women credit it with saving their marriages.
-
-
-4. [Donald Trump Jr.’s Investment Firm Posts Staggering Returns of 200%](https://www.nytimes.com/2026/07/22/business/donald-trump-jr-1789-capital.html)
-
-The fledgling firm, run by the president’s oldest son and his partner Omeed Malik, has made investments in A.I. and defense technology that have tripled in value in just months.
-
-
-5. [Mamdani Calls Netanyahu a ‘War Criminal’ and Calls on U.S. to Arrest Him](https://www.nytimes.com/2026/07/21/nyregion/mamdani-netanyahu-arrest-warrant.html)
-
-Mayor Zohran Mamdani challenged the United States to execute an international arrest warrant against Prime Minister Benjamin Netanyahu of Israel, which New York itself cannot do.
-
-
-6. [‘Charlie Kirk Memorial Highway’ Signs Face Backlash From Vietnam Veterans](https://www.nytimes.com/2026/07/22/us/charlie-kirk-memorial-highway-signs.html)
-
-The signs appeared last month on a stretch of Tennessee State Route 386 north of Nashville that was designated Vietnam Veterans Boulevard nearly four decades ago.
-
-
-7. [OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)
-
-The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.
-
-
-8. [Japan Is Startled by Prime Minister’s Grueling Sleep Schedule](https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html)
+2. [Japan Is Startled by Prime Minister’s Grueling Sleep Schedule](https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html)
 
 Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.
 
 
-9. [Gen Z Fell Out of Love With Work. I Don’t Blame Them.](https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html)
+3. [Trump’s New Insult Won’t Save Republicans](https://www.nytimes.com/2026/07/22/opinion/trump-red-scare-midterms.html)
 
-For Gen Z college graduates, the way millennials lived out their ambitions no longer makes sense.
+The president’s attempt to drum up a third red scare is certain to fail.
 
 
-10. [Model Scout Who Connected Women to Epstein Is Found Dead in France](https://www.nytimes.com/2026/07/22/world/europe/epstein-daniel-siad-dead-model-scout.html)
+4. [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html)
 
-Daniel Siad, who was found dead on Monday, repeatedly introduced Jeffrey Epstein to young women, according to messages he exchanged with Mr. Epstein. Mr. Siad had denied wrongdoing.
+Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+
+
+5. [ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html)
+
+The case appears to be the first to argue that a chatbot’s advice harmed someone seeking guidance about a medical condition.
+
+
+6. [OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)
+
+The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.
+
+
+7. [Three World Leaders. Three Incredibly Bad Decisions.](https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html)
+
+The quick-fix fantasies of the world’s strongmen.
+
+
+8. [Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel](https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html)
+
+U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.
+
+
+9. [Meet Jimothy, the ‘Silly and Round’ Creature Taking Over Instagram Feeds](https://www.nytimes.com/2026/07/21/style/jimothy-raccoon-seattle-videos.html)
+
+The stout raccoon, which has a spinal condition, is “an example to all of us that you don’t have to be perfect to be loved,” a Seattle City Council member said.
+
+
+10. [He’s the Last Great Land Artist You’ve Never Heard Of](https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html)
+
+Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?
 
 
