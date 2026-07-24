@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-23 23:02:44)
+## 📰 NYTimes Most Popular (Updated: 2026-07-24 03:24:14)
 
-1. [Trump’s Canada Threats Are Nothing Compared With What’s Coming](https://www.nytimes.com/2026/07/22/opinion/tariffs-canada-trump-bond-market.html)
+1. [Google Hit With $1 Billion Fine for Abusing Its Power in Europe](https://www.nytimes.com/2026/07/23/business/google-eu-fine-search-competition.html)
 
-We will be stuck with tariffs long after this president is out of office.
-
-
-2. [Japan Is Startled by Prime Minister’s Grueling Sleep Schedule](https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html)
-
-Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.
+At a tense moment for trans-Atlantic trade, the European Union accused Google of anti-competitive business practices.
 
 
-3. [Trump’s New Insult Won’t Save Republicans](https://www.nytimes.com/2026/07/22/opinion/trump-red-scare-midterms.html)
+2. [F.D.A. Panel Supports Lifting Restrictions on Four Peptides, Despite Scientists’ Objections](https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html)
 
-The president’s attempt to drum up a third red scare is certain to fail.
-
-
-4. [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html)
-
-Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+In an all-day hearing, the agency’s scientists argued against allowing broad access to unproven drugs that the agency had banned three years ago.
 
 
-5. [ChatGPT Led to a Man’s Near-Fatal Health Crisis, Lawsuit Claims](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html)
+3. [This Is What’s Keeping Me Up at Night](https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html)
 
-The case appears to be the first to argue that a chatbot’s advice harmed someone seeking guidance about a medical condition.
-
-
-6. [OpenAI Says Its A.I. Models Went Rogue and Attacked a Digital Library](https://www.nytimes.com/2026/07/21/technology/openai-attack-hugging-face.html)
-
-The incident, which targeted the computer systems of another company called Hugging Face, happened while OpenAI was testing the systems.
+Stop the steal before it starts.
 
 
-7. [Three World Leaders. Three Incredibly Bad Decisions.](https://www.nytimes.com/2026/07/21/opinion/trump-netanyahu-putin-war.html)
+4. [Why I Sought Out a Taliban Commander I Had Fought](https://www.nytimes.com/2026/07/23/world/asia/taliban-afghanistan-marine.html)
 
-The quick-fix fantasies of the world’s strongmen.
-
-
-8. [Saudis Reach Deal With U.S. That Could Let Them Enrich Nuclear Fuel](https://www.nytimes.com/2026/07/21/us/politics/trump-saudi-nuclear-deal.html)
-
-U.S. lawmakers and Israeli officials have expressed opposition to such a plan, to be announced Wednesday, fearing that the kingdom could use a civilian nuclear project to develop nuclear weapons.
+First as a Marine and then as a journalist, I spent years tied to Afghanistan. I returned one last time to speak to a former enemy in search of answers, and perhaps closure.
 
 
-9. [Meet Jimothy, the ‘Silly and Round’ Creature Taking Over Instagram Feeds](https://www.nytimes.com/2026/07/21/style/jimothy-raccoon-seattle-videos.html)
+5. [4 Prompts That Can Tell You What Chatbots Really Know About You](https://www.nytimes.com/2026/07/23/technology/personaltech/chatgpt-gemini-prompts-privacy.html)
 
-The stout raccoon, which has a spinal condition, is “an example to all of us that you don’t have to be perfect to be loved,” a Seattle City Council member said.
+It can be unsettling what Gemini and ChatGPT have figured out about you and how easily your privacy can be punctured. Here’s how to find out.
 
 
-10. [He’s the Last Great Land Artist You’ve Never Heard Of](https://www.nytimes.com/2026/07/22/arts/design/charles-ross-star-axis-land-art.html)
+6. [U.S. Withdraws Subpoenas Issued to New York Times Journalists](https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html)
 
-Charles Ross spent 50 years building “Star Axis,” a naked-eye observatory in New Mexico. Now his masterwork is ready. How to share it with a changed world?
+A federal judge raised questions about the government’s handling of the subpoenas, which The Times called an attempt to intimidate the free press.
+
+
+7. [How to Eat a 2,000-Pound Fish? These Orcas Choose to Pulverize It.](https://www.nytimes.com/2026/07/23/science/orcas-sunfish-ramming.html)
+
+Marine biologists in Mexico captured video of a strange maneuver that killer whales used to shred their meal.
+
+
+8. [Trump Administration Drops Subpoena Demanding List of Jews From Penn](https://www.nytimes.com/2026/07/23/us/eeoc-subpoena-penn-jewish-list.html)
+
+The move was a rare pullback for the administration, which has used inquiries as leverage. Few schools resisted as Penn did after it was pressed for antisemitism complaints and a list of campus groups involved with Judaism.
+
+
+9. [Deep in This Lake, a Contagious Cancer Is Spreading](https://www.nytimes.com/2026/07/22/science/contagious-cancer-catfish.html)
+
+Transmissible tumors have been reported in a handful of animal species, but never before among fish. Is it possible in humans?
+
+
+10. [‘Charlie Kirk Memorial Highway’ Signs Face Backlash From Vietnam Veterans](https://www.nytimes.com/2026/07/22/us/charlie-kirk-memorial-highway-signs.html)
+
+The signs appeared last month on a stretch of Tennessee State Route 386 north of Nashville that was designated Vietnam Veterans Boulevard nearly four decades ago.
 
 
