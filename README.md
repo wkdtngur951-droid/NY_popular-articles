@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-24 19:38:41)
+## 📰 NYTimes Most Popular (Updated: 2026-07-24 21:11:19)
 
-1. [Deep in This Lake, a Contagious Cancer Is Spreading](https://www.nytimes.com/2026/07/22/science/contagious-cancer-catfish.html)
+1. [Trump Administration Admits Canceling Grants to States That Did Not Vote for Him](https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html)
 
-Transmissible tumors have been reported in a handful of animal species, but never before among fish. Is it possible in humans?
-
-
-2. [The Tate Brothers, in Federal Custody, Watch Their Powerful Backers Go Quiet](https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html)
-
-After Andrew and Tristan Tate, prominent leaders of the so-called manosphere, were arrested in Miami, many of their onetime allies on the American right pulled back support.
+Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.
 
 
-3. [U.S. Withdraws Subpoenas Issued to New York Times Journalists](https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html)
+2. [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html)
 
-A federal judge raised questions about the government’s handling of the subpoenas, which The Times called an attempt to intimidate the free press.
-
-
-4. [Jason Alexander Apologizes for 2012 Sketch With Teenage Courtney Stodden](https://www.nytimes.com/2026/07/22/arts/television/jason-alexander-apology-courtney-stodden.html)
-
-Alexander rubs a phone against the actress’s breasts in the Funny or Die comedy sketch, which was published when she was 17.
+Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
 
 
-5. [Japan Is Startled by Prime Minister’s Grueling Sleep Schedule](https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html)
+3. [This Is What’s Keeping Me Up at Night](https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html)
 
-Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.
-
-
-6. [‘Charlie Kirk Memorial Highway’ Signs Face Backlash From Vietnam Veterans](https://www.nytimes.com/2026/07/22/us/charlie-kirk-memorial-highway-signs.html)
-
-The signs appeared last month on a stretch of Tennessee State Route 386 north of Nashville that was designated Vietnam Veterans Boulevard nearly four decades ago.
+Stop the steal before it starts.
 
 
-7. [No Wonder Elon Musk Hates ‘The Odyssey’](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)
+4. [Americans Told to Stay Home as Canada Opens International Bridge](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html)
+
+After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.
+
+
+5. [New U.S. Tariffs Aimed at Over 80 Countries Go Into Effect](https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html)
+
+The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.
+
+
+6. [No Wonder Elon Musk Hates ‘The Odyssey’](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)
 
 A.I. has rendered eye candy cheap. Viewers long for the visceral.
 
 
-8. [How Can Anyone Trust This Crew With Anything?](https://www.nytimes.com/2026/07/23/opinion/trump-vance-iran-cyclospora.html)
+7. [‘Charlie Kirk Memorial Highway’ Signs Face Backlash From Vietnam Veterans](https://www.nytimes.com/2026/07/22/us/charlie-kirk-memorial-highway-signs.html)
+
+The signs appeared last month on a stretch of Tennessee State Route 386 north of Nashville that was designated Vietnam Veterans Boulevard nearly four decades ago.
+
+
+8. [U.S. Withdraws Subpoenas Issued to New York Times Journalists](https://www.nytimes.com/2026/07/23/business/media/new-york-times-subpoenas-withdraw.html)
+
+A federal judge raised questions about the government’s handling of the subpoenas, which The Times called an attempt to intimidate the free press.
+
+
+9. [How Can Anyone Trust This Crew With Anything?](https://www.nytimes.com/2026/07/23/opinion/trump-vance-iran-cyclospora.html)
 
 JD Vance isn’t going to save us. Neither is Pete Hegseth.
 
 
-9. [F.D.A. Announces New Cyclosporiasis Outbreak with 72 Cases](https://www.nytimes.com/2026/07/23/well/eat/new-cyclosporiasis-outbreak-fda.html)
+10. [F.D.A. Panel Supports Lifting Restrictions on Four Peptides, Despite Scientists’ Objections](https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html)
 
-Health officials did not identify the location of the outbreak, or what they believed was causing it.
-
-
-10. [The Best and Worst Habits for Your Liver](https://www.nytimes.com/2026/07/23/well/liver-health-tips.html)
-
-Liver disease is on the rise worldwide. Your diet, workout routine and other health conditions can affect your risk.
+In an all-day hearing, the agency’s scientists argued against allowing broad access to unproven drugs that the agency had banned three years ago.
 
 
