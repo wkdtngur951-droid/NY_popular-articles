@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-25 13:48:55)
+## 📰 NYTimes Most Popular (Updated: 2026-07-25 15:09:15)
 
-1. [C.D.C. Expands Cyclosporiasis Outbreak to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html)
+1. [The New York Times News Quiz, July 24, 2026](https://www.nytimes.com/interactive/2026/07/24/briefing/news-quiz-world-cup-trump-iran.html)
 
-Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.
-
-
-2. [Facing a Surge of Criticism, Argentines Have Something to Say](https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html)
-
-Many Argentines condemned their players’ racist chants and aggressive behavior during the World Cup, but rejected what felt like a sweeping stigmatization of their entire nation.
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
-3. [Trump Administration Admits Canceling Grants to States That Did Not Vote for Him](https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html)
+2. [Trump Administration Admits Canceling Grants to States That Did Not Vote for Him](https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html)
 
 Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.
 
 
-4. [No Wonder Elon Musk Hates ‘The Odyssey’](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)
+3. [No Wonder Elon Musk Hates ‘The Odyssey’](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)
 
 A.I. has rendered eye candy cheap. Viewers long for the visceral.
 
 
-5. [Iranian Threat to Air Force One Prompted Plane Swap During NATO Summit](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html)
+4. [The Tate Brothers, in Federal Custody, Watch Their Powerful Backers Go Quiet](https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html)
 
-The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
-
-
-6. [‘Is This Supposed to Be Fun?’ Trump Hurls Insults at Correspondents’ Dinner](https://www.nytimes.com/2026/07/25/us/politics/trump-white-house-correspondents-dinner-speech.html)
-
-President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.
+After Andrew and Tristan Tate, prominent leaders of the so-called manosphere, were arrested in Miami, many of their onetime allies on the American right pulled back support.
 
 
-7. [Platner’s Top Campaign Strategist on What Went Wrong](https://www.nytimes.com/2026/07/24/opinion/ezra-klein-podcast-morris-katz.html)
-
-Morris Katz helped Zohran Mamdani win, and then tried to do the same for Graham Platner. What has he learned?
-
-
-8. [The Best and Worst Habits for Your Liver](https://www.nytimes.com/2026/07/23/well/liver-health-tips.html)
+5. [The Best and Worst Habits for Your Liver](https://www.nytimes.com/2026/07/23/well/liver-health-tips.html)
 
 Liver disease is on the rise worldwide. Your diet, workout routine and other health conditions can affect your risk.
 
 
-9. [Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html)
+6. [Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html)
 
 The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts growth.
 
 
-10. [Can This New Enzyme Turn Back the Clock in the Human Body?](https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html)
+7. [Gen Z-ers Are Ditching Sex. They Might Be Onto Something.](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
+
+Is celibacy cool now?
+
+
+8. [Can This New Enzyme Turn Back the Clock in the Human Body?](https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html)
 
 In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.
+
+
+9. [Help! I Might Be a Tradwife!](https://www.nytimes.com/2026/07/24/opinion/tradwife-confession-little-house.html)
+
+I’m not the target audience for online content about frontier chores and child rearing. But if I’m honest, domestic rituals help to keep me sane.
+
+
+10. [C.D.C. Expands Cyclosporiasis Outbreak to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html)
+
+Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.
 
 
