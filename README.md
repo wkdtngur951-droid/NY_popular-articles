@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-25 15:09:15)
+## 📰 NYTimes Most Popular (Updated: 2026-07-25 17:06:37)
 
-1. [The New York Times News Quiz, July 24, 2026](https://www.nytimes.com/interactive/2026/07/24/briefing/news-quiz-world-cup-trump-iran.html)
+1. [Americans Told to Stay Home as Canada Opens International Bridge](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.
 
 
-2. [Trump Administration Admits Canceling Grants to States That Did Not Vote for Him](https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html)
+2. [‘Is This Supposed to Be Fun?’ Trump Hurls Insults at Correspondents’ Dinner](https://www.nytimes.com/2026/07/25/us/politics/trump-white-house-correspondents-dinner-speech.html)
 
-Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.
+President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.
 
 
 3. [No Wonder Elon Musk Hates ‘The Odyssey’](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)
@@ -15,38 +15,38 @@ Federal officials said in court documents that they halted billions of dollars i
 A.I. has rendered eye candy cheap. Viewers long for the visceral.
 
 
-4. [The Tate Brothers, in Federal Custody, Watch Their Powerful Backers Go Quiet](https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html)
+4. [Facing a Surge of Criticism, Argentines Have Something to Say](https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html)
 
-After Andrew and Tristan Tate, prominent leaders of the so-called manosphere, were arrested in Miami, many of their onetime allies on the American right pulled back support.
-
-
-5. [The Best and Worst Habits for Your Liver](https://www.nytimes.com/2026/07/23/well/liver-health-tips.html)
-
-Liver disease is on the rise worldwide. Your diet, workout routine and other health conditions can affect your risk.
+Many Argentines condemned their players’ racist chants and aggressive behavior during the World Cup, but rejected what felt like a sweeping stigmatization of their entire nation.
 
 
-6. [Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html)
+5. [Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html)
 
 The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts growth.
 
 
-7. [Gen Z-ers Are Ditching Sex. They Might Be Onto Something.](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
+6. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
 
-Is celibacy cool now?
-
-
-8. [Can This New Enzyme Turn Back the Clock in the Human Body?](https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html)
-
-In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.
+Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
 
 
-9. [Help! I Might Be a Tradwife!](https://www.nytimes.com/2026/07/24/opinion/tradwife-confession-little-house.html)
+7. [New U.S. Tariffs Aimed at Over 80 Countries Go Into Effect](https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html)
 
-I’m not the target audience for online content about frontier chores and child rearing. But if I’m honest, domestic rituals help to keep me sane.
+The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.
 
 
-10. [C.D.C. Expands Cyclosporiasis Outbreak to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html)
+8. [Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum](https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html)
 
-Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.
+President Trump said the signage at the National Museum of American History would correct what a disputed White House report described as “extreme political activism.”
+
+
+9. [Iranian Threat to Air Force One Prompted Plane Swap During NATO Summit](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html)
+
+The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
+
+
+10. [Inside the Rushed Effort to Get Trump His New Air Force One](https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html)
+
+A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.
 
 
