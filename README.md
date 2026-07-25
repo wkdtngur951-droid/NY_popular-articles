@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-24 23:07:21)
+## 📰 NYTimes Most Popular (Updated: 2026-07-25 03:22:03)
 
-1. [Gen Z-ers Are Ditching Sex. They Might Be Onto Something.](https://www.nytimes.com/2026/07/22/opinion/gen-z-sex-celibacy-relationships.html)
+1. [New Tariffs as Old Ones Expire: The Latest on Trump’s Trade War](https://www.nytimes.com/article/trump-tariffs-trade.html)
 
-Is celibacy cool now?
-
-
-2. [New U.S. Tariffs Aimed at Over 80 Countries Go Into Effect](https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html)
-
-The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.
+The president has unveiled a complicated system to forge ahead with his trade war, after the Supreme Court struck down his original levies.
 
 
-3. [F.D.A. Panel Supports Lifting Restrictions on Four Peptides, Despite Scientists’ Objections](https://www.nytimes.com/2026/07/23/health/fda-scientists-rfk-peptides.html)
+2. [Can This New Enzyme Turn Back the Clock in the Human Body?](https://www.nytimes.com/2026/07/24/science/enzymes-aging-cmlase.html)
 
-In an all-day hearing, the agency’s scientists argued against allowing broad access to unproven drugs that the agency had banned three years ago.
-
-
-4. [What Visuals Show About Recent Damage to U.S. Military Sites in the Middle East](https://www.nytimes.com/2026/07/22/world/middleeast/iran-war-us-bases-images.html)
-
-Video footage and satellite images reveal new details about Iranian strikes on U.S. targets during the latest flare-up in fighting.
+In a recent study, scientists devised a way of reversing the buildup of compounds that lead to some age-related diseases.
 
 
-5. [He Was Once the Most Famous Terrorist in the World. His Brand of Violent Chaos Is Returning.](https://www.nytimes.com/2026/07/23/opinion/carlos-the-jackal-terrorism-violence.html)
+3. [Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html)
 
-And Americans are nowhere near prepared to deal with it.
-
-
-6. [Japan Is Startled by Prime Minister’s Grueling Sleep Schedule](https://www.nytimes.com/2026/07/22/world/asia/japan-takaichi-sleep-schedule.html)
-
-Sanae Takaichi has said she gets just “zero to three hours” of sleep a night, prompting a debate in the country over work-life balance.
+The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts growth.
 
 
-7. [How to Eat a 2,000-Pound Fish? These Orcas Choose to Pulverize It.](https://www.nytimes.com/2026/07/23/science/orcas-sunfish-ramming.html)
+4. [Platner’s Top Campaign Strategist on What Went Wrong](https://www.nytimes.com/2026/07/24/opinion/ezra-klein-podcast-morris-katz.html)
 
-Marine biologists in Mexico captured video of a strange maneuver that killer whales used to shred their meal.
-
-
-8. [This Is What’s Keeping Me Up at Night](https://www.nytimes.com/2026/07/23/opinion/trump-midterms-fraud-corruption.html)
-
-Stop the steal before it starts.
+Morris Katz helped Zohran Mamdani win, and then tried to do the same for Graham Platner. What has he learned?
 
 
-9. [Gen Z Fell Out of Love With Work. I Don’t Blame Them.](https://www.nytimes.com/2026/07/23/opinion/gen-z-ambition-millennials-career.html)
+5. [‘Charlie Kirk Memorial Highway’ Signs Face Backlash From Vietnam Veterans](https://www.nytimes.com/2026/07/22/us/charlie-kirk-memorial-highway-signs.html)
 
-For Gen Z college graduates, the way millennials lived out their ambitions no longer makes sense.
+The signs appeared last month on a stretch of Tennessee State Route 386 north of Nashville that was designated Vietnam Veterans Boulevard nearly four decades ago.
 
 
-10. [Trump Administration Admits Canceling Grants to States That Did Not Vote for Him](https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html)
+6. [Iranian Threat to Air Force One Prompted Plane Swap During NATO Summit](https://www.nytimes.com/2026/07/24/us/politics/trump-plane-iran-threat.html)
 
-Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.
+The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
+
+
+7. [I’m Native American. Land Acknowledgments Are Infuriating.](https://www.nytimes.com/2026/07/24/opinion/native-american-land-acknowledgment.html)
+
+Conservatives who critique land acknowledgments aren’t acting in good faith, but they do have a point.
+
+
+8. [Measles Cases Hit New Record in U.S., as Vaccination Rates Wane](https://www.nytimes.com/2026/07/24/well/measles-record-united-states-numbers.html)
+
+More measles cases have been reported in the United States in the last two years than in all the years from 2000 through 2024 combined.
+
+
+9. [The Tate Brothers, in Federal Custody, Watch Their Powerful Backers Go Quiet](https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html)
+
+After Andrew and Tristan Tate, prominent leaders of the so-called manosphere, were arrested in Miami, many of their onetime allies on the American right pulled back support.
+
+
+10. [A Tempting Remedy for Heat-Stricken France: Be More Like Spain](https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html)
+
+A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.
 
 
