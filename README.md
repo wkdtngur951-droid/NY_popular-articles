@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-25 17:06:37)
+## 📰 NYTimes Most Popular (Updated: 2026-07-25 19:17:25)
 
-1. [Americans Told to Stay Home as Canada Opens International Bridge](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html)
+1. [I’m Native American. Land Acknowledgments Are Infuriating.](https://www.nytimes.com/2026/07/24/opinion/native-american-land-acknowledgment.html)
 
-After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.
-
-
-2. [‘Is This Supposed to Be Fun?’ Trump Hurls Insults at Correspondents’ Dinner](https://www.nytimes.com/2026/07/25/us/politics/trump-white-house-correspondents-dinner-speech.html)
-
-President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.
+Conservatives who critique land acknowledgments aren’t acting in good faith, but they do have a point.
 
 
-3. [No Wonder Elon Musk Hates ‘The Odyssey’](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)
+2. [Inside the Rushed Effort to Get Trump His New Air Force One](https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html)
 
-A.I. has rendered eye candy cheap. Viewers long for the visceral.
-
-
-4. [Facing a Surge of Criticism, Argentines Have Something to Say](https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html)
-
-Many Argentines condemned their players’ racist chants and aggressive behavior during the World Cup, but rejected what felt like a sweeping stigmatization of their entire nation.
+A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.
 
 
-5. [Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html)
+3. [The Best and Worst Habits for Your Liver](https://www.nytimes.com/2026/07/23/well/liver-health-tips.html)
+
+Liver disease is on the rise worldwide. Your diet, workout routine and other health conditions can affect your risk.
+
+
+4. [The New York Times News Quiz, July 24, 2026](https://www.nytimes.com/interactive/2026/07/24/briefing/news-quiz-world-cup-trump-iran.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+5. [C.D.C. Expands Cyclosporiasis Outbreak to Nine States](https://www.nytimes.com/2026/07/24/well/eat/cyclospora-outbreak-states-cdc.html)
+
+Illinois, Kansas, Oklahoma and Pennsylvania now join Michigan, Ohio, Indiana, Kentucky and West Virginia in cyclospora outbreak linked to iceberg lettuce.
+
+
+6. [The Tate Brothers, in Federal Custody, Watch Their Powerful Backers Go Quiet](https://www.nytimes.com/2026/07/23/us/tate-brothers-trump-tucker-carlson.html)
+
+After Andrew and Tristan Tate, prominent leaders of the so-called manosphere, were arrested in Miami, many of their onetime allies on the American right pulled back support.
+
+
+7. [Crucial Interest Rate Jumps to Highest Level of Trump’s Second Term](https://www.nytimes.com/2026/07/24/business/trump-interest-rates-bonds.html)
 
 The yield on the 10-year Treasury bond has risen steadily this year, as the Iran war rages, government spending worries intensify and artificial intelligence spending boosts growth.
-
-
-6. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
-
-Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
-
-
-7. [New U.S. Tariffs Aimed at Over 80 Countries Go Into Effect](https://www.nytimes.com/2026/07/23/business/economy/trump-tariffs.html)
-
-The administration launched new duties tied to countries’ imports of goods made with forced labor, replacing a 10 percent tariff immediately after it expired.
 
 
 8. [Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum](https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html)
@@ -45,8 +45,8 @@ President Trump said the signage at the National Museum of American History woul
 The threat led the Secret Service to urge President Trump to fly out of Turkey on a different plane, raising questions about the security of the Qatari-donated jet.
 
 
-10. [Inside the Rushed Effort to Get Trump His New Air Force One](https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html)
+10. [A Tempting Remedy for Heat-Stricken France: Be More Like Spain](https://www.nytimes.com/2026/07/24/world/europe/france-spain-climate-heat-wildfires.html)
 
-A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.
+A French government delegation will travel to its southern neighbor to learn how it copes with long spells of hot weather.
 
 
