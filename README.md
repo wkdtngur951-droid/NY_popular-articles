@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-26 18:04:58)
+## 📰 NYTimes Most Popular (Updated: 2026-07-26 20:13:43)
 
-1. [Meet the Woman Who Stands to Inherit Much of Jeffrey Epstein’s Fortune](https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html)
-
-Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.
-
-
-2. [Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum](https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html)
+1. [Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum](https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html)
 
 President Trump said the signage at the National Museum of American History would correct what a disputed White House report described as “extreme political activism.”
 
 
-3. [Trump Seems Trapped by Iran War, Even as He Wields the World’s Biggest Hammer](https://www.nytimes.com/2026/07/26/us/politics/trump-trapped-in-iran-war.html)
+2. [Flashback: Your Weekly History Quiz, July 25, 2026](https://www.nytimes.com/interactive/2026/07/24/upshot/flashback.html)
 
-A president who thought there were no limits to his power has discovered several, leaving him more frustrated and erratic.
-
-
-4. [Nolan’s Zero-Eros ‘Odyssey’](https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html)
-
-Homer’s Odysseus was hardly a man of remorse and shame.
+Can you sort 8 historical events?
 
 
-5. [Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party](https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html)
+3. [Americans Told to Stay Home as Canada Opens International Bridge](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html)
 
-The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.
-
-
-6. [Trump Administration Admits Canceling Grants to States That Did Not Vote for Him](https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html)
-
-Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.
+After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.
 
 
-7. [More Than 500 Howard University Students Are Bumped From Enrollment](https://www.nytimes.com/2026/07/25/us/howard-university-unenrolled-students.html)
+4. [13 Children Accidentally Consume Edibles at New Jersey Y.M.C.A. Summer Camp](https://www.nytimes.com/2026/07/25/nyregion/new-jersey-campers-mushroom-chocolate.html)
 
-The university said the students failed to meet payment requirements by a July 10 deadline and were removed from the school’s enrollment weeks before they were to move in.
+The Y.M.C.A. said a camper had handed them out without its knowledge. A parent described the affected children as looking like “little baby zombies.”
 
 
-8. [Lowered Number of Troop Deaths on Pentagon Site Upsets Military Families](https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html)
+5. [Lowered Number of Troop Deaths on Pentagon Site Upsets Military Families](https://www.nytimes.com/2026/07/25/us/pentagon-iran-war-troops-death-toll.html)
 
 The change in the number to 14 from 18 this week has prompted scrutiny over the Defense Department’s accounting and reporting practices.
 
 
-9. [‘Is This Supposed to Be Fun?’ Trump Hurls Insults at Correspondents’ Dinner](https://www.nytimes.com/2026/07/25/us/politics/trump-white-house-correspondents-dinner-speech.html)
+6. [Trump Holds Off on Major Escalation Against Iran as Advisers Raise Concerns](https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html)
 
-President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.
+Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.
 
 
-10. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
+7. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
 
 Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
+
+
+8. [Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack](https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html)
+
+The police said a suspect was involved in local Islamic groups and that there was a “strong suspicion” it was an act of terrorism. At least one person was killed and 16 injured.
+
+
+9. [An Admiral’s Rise Reveals the Politics Driving Hegseth’s Pentagon](https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html)
+
+Before he was picked to lead the Navy, Adm. Daryl Caudle found ways to signal his support for Defense Secretary Pete Hegseth’s anti-diversity goals.
+
+
+10. [The New Tactic Trump Thinks Will Rally Voters](https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html)
+
+Three Opinion writers discuss whether the president’s Red Scare strategy will work.
 
 
