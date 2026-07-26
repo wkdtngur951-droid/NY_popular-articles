@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-26 10:06:35)
+## 📰 NYTimes Most Popular (Updated: 2026-07-26 12:08:30)
 
-1. [Trump Holds Off on Major Escalation Against Iran as Advisers Raise Concerns](https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html)
-
-Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.
-
-
-2. [Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack](https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html)
-
-The police said a suspect was involved in local Islamic groups and that there was a “strong suspicion” it was an act of terrorism. At least one person was killed and 16 injured.
-
-
-3. [Nolan’s Zero-Eros ‘Odyssey’](https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html)
+1. [Nolan’s Zero-Eros ‘Odyssey’](https://www.nytimes.com/2026/07/25/opinion/odyssey-nolan-greek-mythology.html)
 
 Homer’s Odysseus was hardly a man of remorse and shame.
 
 
-4. [Facing a Surge of Criticism, Argentines Have Something to Say](https://www.nytimes.com/2026/07/24/world/americas/argentina-world-cup-racism-players.html)
+2. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
 
-Many Argentines condemned their players’ racist chants and aggressive behavior during the World Cup, but rejected what felt like a sweeping stigmatization of their entire nation.
-
-
-5. [Inside the Rushed Effort to Get Trump His New Air Force One](https://www.nytimes.com/2026/07/25/us/politics/trump-air-force-one-security.html)
-
-A New York Times investigation found that President Trump’s push to speed delivery of the aircraft led to ballooning costs and trade-offs in safety features.
+Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
 
 
-6. [Flashback: Your Weekly History Quiz, July 25, 2026](https://www.nytimes.com/interactive/2026/07/24/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-7. [The New York Times News Quiz, July 24, 2026](https://www.nytimes.com/interactive/2026/07/24/briefing/news-quiz-world-cup-trump-iran.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-8. [Trump Administration Admits Canceling Grants to States That Did Not Vote for Him](https://www.nytimes.com/2026/07/24/business/trump-state-grants-canceled.html)
-
-Federal officials said in court documents that they halted billions of dollars in funding for energy projects to states “based solely” on whether they backed President Trump in the 2024 election.
-
-
-9. [The New Tactic Trump Thinks Will Rally Voters](https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html)
+3. [The New Tactic Trump Thinks Will Rally Voters](https://www.nytimes.com/2026/07/25/opinion/trump-iran-socialism-communism-dsa.html)
 
 Three Opinion writers discuss whether the president’s Red Scare strategy will work.
 
 
-10. [In Maine, Democrats Pick Troy Jackson to Replace Platner in Senate Race](https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html)
+4. [In Maine, Democrats Pick Troy Jackson to Replace Platner in Senate Race](https://www.nytimes.com/2026/07/25/us/politics/troy-jackson-maine-senate-democrats-platner.html)
 
 Mr. Jackson, a progressive former State Senate president, clinched the nomination at a hastily arranged state party convention.
+
+
+5. [India’s ‘Cockroach’ Protesters Declare Rare Victory Over Government](https://www.nytimes.com/2026/07/25/world/asia/india-education-minister-resigns-cockroach-protests.html)
+
+The Cockroach Janta Party called an end to weeks of protests after the education minister resigned, a win for that movement even as deep-seated anger among young people remains.
+
+
+6. [The Dead End to Trump’s ‘Perfect’ War](https://www.nytimes.com/2026/07/25/opinion/trump-iran-saudi-arabia-war-nuclear-deal.html)
+
+Worst of all, the result may be that both Iran and Saudi Arabia end up with nuclear weapons.
+
+
+7. [Trump Orders Warnings Placed at ‘Inaccurate’ Smithsonian History Museum](https://www.nytimes.com/2026/07/24/arts/design/smithsonian-signs-trump-executive-order.html)
+
+President Trump said the signage at the National Museum of American History would correct what a disputed White House report described as “extreme political activism.”
+
+
+8. [Americans Told to Stay Home as Canada Opens International Bridge](https://www.nytimes.com/2026/07/24/world/canada/canada-gordie-howe-bridge-trump.html)
+
+After a delay ordered by President Trump and new tariffs against Canada, the bridge between Windsor, Ontario, and Detroit finally opened on Friday.
+
+
+9. [Flashback: Your Weekly History Quiz, July 25, 2026](https://www.nytimes.com/interactive/2026/07/24/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+10. [No Wonder Elon Musk Hates ‘The Odyssey’](https://www.nytimes.com/2026/07/24/opinion/elon-musk-odyssey-ai.html)
+
+A.I. has rendered eye candy cheap. Viewers long for the visceral.
 
 
