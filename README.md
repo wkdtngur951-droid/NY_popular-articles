@@ -1,28 +1,28 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-27 21:17:04)
+## 📰 NYTimes Most Popular (Updated: 2026-07-27 23:10:19)
 
-1. [What’s the Worst Thing Trump Can Do in the Midterms?](https://www.nytimes.com/2026/07/27/opinion/trump-midterms-worst.html)
+1. [Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing](https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html)
 
-President Trump could accomplish on Jan. 3, 2027, what he failed to do on Jan. 6. 2021.
-
-
-2. [3 Killed in Shooting at Seattle Food Festival](https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html)
-
-Four others were injured near the city’s Space Needle, the authorities said. The police took a suspect into custody and were searching for another.
+A college fraternity member was paddled so severely during hazing rituals that he suffered kidney damage and nearly died.
 
 
-3. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
+2. [An Admiral’s Rise Reveals the Politics Driving Hegseth’s Pentagon](https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html)
+
+Before he was picked to lead the Navy, Adm. Daryl Caudle found ways to signal his support for Defense Secretary Pete Hegseth’s anti-diversity goals.
+
+
+3. [Stop Pathologizing Ordinary Life](https://www.nytimes.com/2026/07/26/opinion/mental-health-exercise-charity.html)
+
+We need to support psychological well-being without fixating on it.
+
+
+4. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
 
 Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
 
 
-4. [Berlin Pride Event Attacker Killed in Police Shootout, Officials Say](https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html)
+5. [A Captain Calls This Yacht His Home. The Owner Is Selling It.](https://www.nytimes.com/2026/07/26/realestate/a-captain-calls-this-yacht-his-home-the-owner-is-selling-it.html)
 
-The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.
-
-
-5. [13 Children Accidentally Consume Edibles at New Jersey Y.M.C.A. Summer Camp](https://www.nytimes.com/2026/07/25/nyregion/new-jersey-campers-mushroom-chocolate.html)
-
-The Y.M.C.A. said a camper had handed them out without its knowledge. A parent described the affected children as looking like “little baby zombies.”
+Gavin Bladen oversaw the construction of the luxury catamaran Hemisphere and has lived on it for 15 years. When it changes hands, he may be cast adrift.
 
 
 6. [This Is the Way Out of Our Ultraprocessed Dystopia](https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html)
@@ -30,19 +30,19 @@ The Y.M.C.A. said a camper had handed them out without its knowledge. A parent d
 A teenager’s lawsuit against the food industry shows us the path to a better food system.
 
 
-7. [Car Plows Into Crowd at Berlin Pride Event in Suspected Terror Attack](https://www.nytimes.com/2026/07/25/world/europe/berlin-car-attack.html)
+7. [Trump Holds Off on Major Escalation Against Iran as Advisers Raise Concerns](https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html)
 
-The police said a suspect was involved in local Islamic groups and that there was a “strong suspicion” it was an act of terrorism. At least one person was killed and 16 injured.
-
-
-8. [Meet the Woman Who Stands to Inherit Much of Jeffrey Epstein’s Fortune](https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html)
-
-Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.
+Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.
 
 
-9. [Stop Pathologizing Ordinary Life](https://www.nytimes.com/2026/07/26/opinion/mental-health-exercise-charity.html)
+8. [Berlin Pride Event Attacker Killed in Police Shootout, Officials Say](https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html)
 
-We need to support psychological well-being without fixating on it.
+The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.
+
+
+9. [‘Is This Supposed to Be Fun?’ Trump Hurls Insults at Correspondents’ Dinner](https://www.nytimes.com/2026/07/25/us/politics/trump-white-house-correspondents-dinner-speech.html)
+
+President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.
 
 
 10. [Employers Fear Labor Shortage as Many Immigrants Lose Protected Status](https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html)
