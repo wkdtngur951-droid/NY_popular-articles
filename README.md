@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-28 15:25:14)
+## 📰 NYTimes Most Popular (Updated: 2026-07-28 17:40:05)
 
-1. [Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole](https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html)
+1. [Trump Backs New Iran Talks but It’s Unclear What He Hopes to Achieve This Time](https://www.nytimes.com/2026/07/27/us/politics/trump-iran-talks-negotiations.html)
 
-David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.
-
-
-2. [How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal](https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html)
-
-A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.
+Iran denied President Trump’s claim that it wants to talk, and gave no sign that it would make concessions or speak directly with U.S. officials.
 
 
-3. [Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party](https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html)
+2. [3 Killed in Shooting at Seattle Food Festival](https://www.nytimes.com/2026/07/26/us/bite-of-seattle-shooting-center.html)
 
-The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.
-
-
-4. [Meet the Woman Who Stands to Inherit Much of Jeffrey Epstein’s Fortune](https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html)
-
-Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.
+Four others were injured near the city’s Space Needle, the authorities said. The police took a suspect into custody and were searching for another.
 
 
-5. [Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing](https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html)
-
-A college fraternity member was paddled so severely during hazing rituals that he suffered kidney damage and nearly died.
-
-
-6. [What’s the Worst Thing Trump Can Do in the Midterms?](https://www.nytimes.com/2026/07/27/opinion/trump-midterms-worst.html)
+3. [What’s the Worst Thing Trump Can Do in the Midterms?](https://www.nytimes.com/2026/07/27/opinion/trump-midterms-worst.html)
 
 President Trump could accomplish on Jan. 3, 2027, what he failed to do on Jan. 6. 2021.
 
 
-7. [‘You Aren’t Going to Like What Comes After America’](https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html)
+4. [Trump Asks Supreme Court to Allow Order Restricting Mail Voting](https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html)
 
-Remember when ‘blame Canada’ was a joke?
-
-
-8. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
-
-Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
+The Trump administration asks justices to intervene after an appeals court blocked key parts of a mail-in voting executive order.
 
 
-9. [McConnell Extends Senate Leave, Will Miss State Picnic](https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html)
+5. [Stop Pathologizing Ordinary Life](https://www.nytimes.com/2026/07/26/opinion/mental-health-exercise-charity.html)
 
-A new statement said the senator was not “medically cleared” to leave a rehabilitation facility and would miss a Kentucky political event.
+We need to support psychological well-being without fixating on it.
 
 
-10. [Of Costco and Cliques](https://www.nytimes.com/2026/07/27/opinion/grocery-stores-politics.html)
+6. [Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame](https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html)
 
-Our grocery stores mirror the mess of America.
+Private entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.
+
+
+7. [Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing](https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html)
+
+A college fraternity member was paddled so severely during hazing rituals that he suffered kidney damage and nearly died.
+
+
+8. [How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal](https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html)
+
+A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.
+
+
+9. [Cracker Barrel Chief Executive Who Oversaw Logo Change Steps Down](https://www.nytimes.com/2026/07/27/business/cracker-barrel-julie-masino.html)
+
+Julie Masino faced backlash online when the company tried to shed its old-timey image. David Deno, a former chief of Bloomin’ Brands, will take over.
+
+
+10. [This Teen Took on a $10 Trillion Industry. We Might All Be Healthier Because of Him.](https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html)
+
+A teenager’s lawsuit against the food industry shows us the path to a better food system.
 
 
