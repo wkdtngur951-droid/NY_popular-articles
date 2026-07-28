@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-28 12:01:08)
+## 📰 NYTimes Most Popular (Updated: 2026-07-28 15:25:14)
 
-1. [How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal](https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html)
+1. [Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole](https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html)
+
+David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.
+
+
+2. [How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal](https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html)
 
 A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.
 
 
-2. [‘The Odyssey’ Should Have Done Better by This Character](https://www.nytimes.com/2026/07/27/movies/the-odyssey-circe.html)
+3. [Inside the Phone-Throwing Drama at the Troubled, Broke Democratic Party](https://www.nytimes.com/2026/07/26/us/politics/ken-martin-dnc-democrats.html)
 
-One of the fascinating women of early literature, Circe becomes a simple witch in Christopher Nolan’s blockbuster.
-
-
-3. [Cracker Barrel Chief Executive Who Oversaw Logo Change Steps Down](https://www.nytimes.com/2026/07/27/business/cracker-barrel-julie-masino.html)
-
-Julie Masino faced backlash online when the company tried to shed its old-timey image. David Deno, a former chief of Bloomin’ Brands, will take over.
+The Democrats should be well positioned to make gains in this year’s midterms. But inside party headquarters, every week brings paranoia, worries about money and, on occasion, emotional eruptions.
 
 
-4. [Man Convicted in Idaho College Killings Seeks to Take Back Guilty Plea](https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html)
+4. [Meet the Woman Who Stands to Inherit Much of Jeffrey Epstein’s Fortune](https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html)
 
-In an interview from prison, Bryan Kohberger said he had filed a petition to reopen the case. He blamed his guilty plea on “false promises” and wrong information.
-
-
-5. [This Teen Took on a $10 Trillion Industry. We Might All Be Healthier Because of Him.](https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html)
-
-A teenager’s lawsuit against the food industry shows us the path to a better food system.
+Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.
 
 
-6. [McConnell Extends Senate Leave, Will Miss State Picnic](https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html)
+5. [Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing](https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html)
+
+A college fraternity member was paddled so severely during hazing rituals that he suffered kidney damage and nearly died.
+
+
+6. [What’s the Worst Thing Trump Can Do in the Midterms?](https://www.nytimes.com/2026/07/27/opinion/trump-midterms-worst.html)
+
+President Trump could accomplish on Jan. 3, 2027, what he failed to do on Jan. 6. 2021.
+
+
+7. [‘You Aren’t Going to Like What Comes After America’](https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html)
+
+Remember when ‘blame Canada’ was a joke?
+
+
+8. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
+
+Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
+
+
+9. [McConnell Extends Senate Leave, Will Miss State Picnic](https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html)
 
 A new statement said the senator was not “medically cleared” to leave a rehabilitation facility and would miss a Kentucky political event.
 
 
-7. [Stop Pathologizing Ordinary Life](https://www.nytimes.com/2026/07/26/opinion/mental-health-exercise-charity.html)
+10. [Of Costco and Cliques](https://www.nytimes.com/2026/07/27/opinion/grocery-stores-politics.html)
 
-We need to support psychological well-being without fixating on it.
-
-
-8. [Firefighters in France Encounter a ‘Fire Cloud’](https://www.nytimes.com/2026/07/27/world/europe/pyrocumulonimbus-fire-cloud-france-wildfires.html)
-
-A pyrocumulonimbus — a thundercloud created by intense heat — is a phenomenon that can spark new blazes and is “unprecedented in France,” officials said.
-
-
-9. [How the Houthis Cornered Saudi Arabia Into a New Conflict](https://www.nytimes.com/2026/07/27/world/middleeast/houthis-saudi-arabia-iran-war.html)
-
-The Iranian-backed Houthi militia in Yemen has seized on a vulnerable moment for neighboring Saudi Arabia. The group hopes to force political concessions in Yemen.
-
-
-10. [An Admiral’s Rise Reveals the Politics Driving Hegseth’s Pentagon](https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html)
-
-Before he was picked to lead the Navy, Adm. Daryl Caudle found ways to signal his support for Defense Secretary Pete Hegseth’s anti-diversity goals.
+Our grocery stores mirror the mess of America.
 
 
