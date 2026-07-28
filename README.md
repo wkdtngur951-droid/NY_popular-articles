@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-27 23:10:19)
+## 📰 NYTimes Most Popular (Updated: 2026-07-28 03:15:48)
 
-1. [Secret Service Agent and 2 Others Charged in Near-Fatal Fraternity Hazing](https://www.nytimes.com/2026/07/26/us/florida-secret-service-agent-fraternity-hazing.html)
+1. [Man Convicted in Idaho College Killings Seeks to Take Back Guilty Plea](https://www.nytimes.com/2026/07/27/us/bryan-kohberger-idaho-college-deaths.html)
 
-A college fraternity member was paddled so severely during hazing rituals that he suffered kidney damage and nearly died.
-
-
-2. [An Admiral’s Rise Reveals the Politics Driving Hegseth’s Pentagon](https://www.nytimes.com/2026/07/26/us/politics/caudle-navy-hegseth-parlatore-promotion.html)
-
-Before he was picked to lead the Navy, Adm. Daryl Caudle found ways to signal his support for Defense Secretary Pete Hegseth’s anti-diversity goals.
+In an interview from prison, Bryan Kohberger said he had filed a petition to reopen the case. He blamed his guilty plea on “false promises” and wrong information.
 
 
-3. [Stop Pathologizing Ordinary Life](https://www.nytimes.com/2026/07/26/opinion/mental-health-exercise-charity.html)
+2. [McConnell Extends Senate Leave, Will Miss State Picnic](https://www.nytimes.com/2026/07/27/us/politics/mcconnell-extends-senate-leave-update.html)
 
-We need to support psychological well-being without fixating on it.
-
-
-4. [Stream These 5 Movies Before They Leave Netflix in August](https://www.nytimes.com/2026/07/24/arts/television/netflix-expiring-august.html)
-
-Notable titles leaving for U.S. subscribers include a stunning literary adaptation and the movie that made Eddie Murphy a cinema star.
+A new statement said the senator was not “medically cleared” to leave a rehabilitation facility and would miss a Kentucky political event.
 
 
-5. [A Captain Calls This Yacht His Home. The Owner Is Selling It.](https://www.nytimes.com/2026/07/26/realestate/a-captain-calls-this-yacht-his-home-the-owner-is-selling-it.html)
-
-Gavin Bladen oversaw the construction of the luxury catamaran Hemisphere and has lived on it for 15 years. When it changes hands, he may be cast adrift.
-
-
-6. [This Is the Way Out of Our Ultraprocessed Dystopia](https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html)
+3. [This Teen Took on a $10 Trillion Industry. We Might All Be Healthier Because of Him.](https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html)
 
 A teenager’s lawsuit against the food industry shows us the path to a better food system.
 
 
-7. [Trump Holds Off on Major Escalation Against Iran as Advisers Raise Concerns](https://www.nytimes.com/2026/07/25/us/politics/trump-iran-military.html)
+4. [Trump Asks Supreme Court to Allow Order Restricting Mail Voting](https://www.nytimes.com/2026/07/27/us/politics/supreme-court-trump-mail-ballots.html)
 
-Among the worries is that expanded hostilities could dangerously drain the diminished stockpile of air defense munitions in the Middle East.
-
-
-8. [Berlin Pride Event Attacker Killed in Police Shootout, Officials Say](https://www.nytimes.com/2026/07/26/world/europe/berlin-gay-pride-attack.html)
-
-The confrontation with the suspect in what has been described as a likely act of Islamist terrorism occurred as a large-scale manhunt was underway, the authorities said.
+The Trump administration asks justices to intervene after an appeals court blocked key parts of a mail-in voting executive order.
 
 
-9. [‘Is This Supposed to Be Fun?’ Trump Hurls Insults at Correspondents’ Dinner](https://www.nytimes.com/2026/07/25/us/politics/trump-white-house-correspondents-dinner-speech.html)
+5. [Stop Pathologizing Ordinary Life](https://www.nytimes.com/2026/07/26/opinion/mental-health-exercise-charity.html)
 
-President Trump gave the keynote speech as relations between his administration and the press continue to deteriorate.
+We need to support psychological well-being without fixating on it.
 
 
-10. [Employers Fear Labor Shortage as Many Immigrants Lose Protected Status](https://www.nytimes.com/2026/07/26/us/trump-tps-labor-shortage.html)
+6. [Cracker Barrel Chief Executive Who Oversaw Logo Change Steps Down](https://www.nytimes.com/2026/07/27/business/cracker-barrel-julie-masino.html)
 
-A recent Supreme Court ruling cleared the way for the Trump administration to end a humanitarian program that has allowed about one million immigrants to work legally in the U.S.
+Julie Masino faced backlash online when the company tried to shed its old-timey image. David Deno, a former chief of Bloomin’ Brands, will take over.
+
+
+7. [Pentagon Changes How It Reports Casualties in Iran War](https://www.nytimes.com/2026/07/26/us/politics/pentagon-casualties-iran-war.html)
+
+The changes separated the casualty numbers into two separate web pages, potentially making it more difficult to tally the war’s full toll.
+
+
+8. [What’s the Worst Thing Trump Can Do in the Midterms?](https://www.nytimes.com/2026/07/27/opinion/trump-midterms-worst.html)
+
+President Trump could accomplish on Jan. 3, 2027, what he failed to do on Jan. 6. 2021.
+
+
+9. [How Meta Got Everything It Wanted in a Secret Louisiana Data Center Deal](https://www.nytimes.com/2026/07/27/technology/meta-data-center-louisiana.html)
+
+A Times examination details how the Silicon Valley giant used private talks with local officials to start a project big enough to cover nearly six square miles.
+
+
+10. [Congress Budgeted Billions for Big Transit Projects. Trump Isn’t Spending It.](https://www.nytimes.com/2026/07/27/upshot/transit-projects-trump.html)
+
+“It’s hard to look at the last year and see anything other than a deliberate slowdown of these grants.”
 
 
