@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-29 03:18:48)
+## 📰 NYTimes Most Popular (Updated: 2026-07-29 06:37:12)
 
-1. [Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience](https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html)
+1. [Meet the Woman Who Stands to Inherit Much of Jeffrey Epstein’s Fortune](https://www.nytimes.com/2026/07/26/business/jeffrey-epstein-girlfriend-estate.html)
+
+Karyna Shuliak, 37, is a complicated and unusual figure in the disgraced financier’s world who has been trying to blend into obscurity since his death.
+
+
+2. [Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience](https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html)
 
 Ruby Rippey had stayed mostly quiet since her relationship with the San Francisco mayor rocked the city.
 
 
-2. [Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole](https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html)
+3. [Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame](https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html)
 
-David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.
-
-
-3. [Why Iran Is in No Rush to Return to Talks With United States](https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html)
-
-Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump can, and they have leverage over the Strait of Hormuz, analysts say.
+Diary entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.
 
 
-4. [Who Does JD Vance Think He Is?](https://www.nytimes.com/2026/07/28/opinion/jd-vance-president-campaign.html)
+4. [A U.S. Citizen Deleted His Phone’s Data. Now He Faces a Felony Charge.](https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html)
 
-The chameleon effect is endangering the vice president’s political prospects.
-
-
-5. [Ross Douthat Joins ‘60 Minutes’ as a Correspondent](https://www.nytimes.com/2026/07/28/business/media/60-minutes-ross-douthat.html)
-
-Mr. Douthat, an opinion columnist at The New York Times, will join the CBS News program, along with several other journalists.
+Federal prosecutors charged a man returning to the United States with obstruction because he gave them a passcode that erased his smartphone during a customs search.
 
 
-6. [Late Night Roasts President Trump’s Attempt at Comedy](https://www.nytimes.com/2026/07/28/arts/television/late-night-trump-white-house-correspondents-dinner.html)
+5. [Mamdani’s Netanyahu Stunt Was a Waste of His Talent and Our Time](https://www.nytimes.com/2026/07/28/opinion/mamdani-netanyahu-stunt-israel.html)
 
-“And let’s just say Iran’s not the only thing he bombed,” Seth Meyers said of the president’s performance at the White House Correspondents’ Dinner.
-
-
-7. [What the Crackup of the Heritage Foundation Says About the Post-Trump Right](https://www.nytimes.com/2026/07/28/magazine/heritage-foundation-trump-republicans.html)
-
-The bastion of American conservatism best known for Project 2025 has been consumed by an ideological — and generational — civil war.
+What if Mamdani actually wanted to be a bridge builder between Israelis and Palestinians, a role for which he has the unique capacity and talent?
 
 
-8. [This Teen Took on a $10 Trillion Industry. We Might All Be Healthier Because of Him.](https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html)
+6. [This Teen Took on a $10 Trillion Industry. We Might All Be Healthier Because of Him.](https://www.nytimes.com/2026/07/27/opinion/ultraprocessed-food-lawsuit.html)
 
 A teenager’s lawsuit against the food industry shows us the path to a better food system.
 
 
-9. [Most ‘Ovarian Cancer’ Isn’t. And That Fact Can Save Lives.](https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html)
+7. [Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole](https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html)
 
-The vast majority of cases begin in the fallopian tubes — and removing them can reduce the risk by nearly 80 percent.
+David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.
 
 
-10. [Ukraine’s Strike on an Iranian Ship Could Bring Two Wars Closer](https://www.nytimes.com/2026/07/28/world/middleeast/iran-ukraine-ship-strikes-caspian.html)
+8. [ICE Arrests Surge at Airports, Opening New Front in Deportation Drive](https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html)
 
-The attack in the Caspian Sea was an unusually direct encounter between two countries that have been on opposite sides for years.
+Federal agents are arresting spouses of Americans, tech workers and others whose visas have expired, including many who have active applications to stay in the country.
+
+
+9. [Why Iran Is in No Rush to Return to Talks With United States](https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html)
+
+Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump can, and they have leverage over the Strait of Hormuz, analysts say.
+
+
+10. [Who Does JD Vance Think He Is?](https://www.nytimes.com/2026/07/28/opinion/jd-vance-president-campaign.html)
+
+The chameleon effect is endangering the vice president’s political prospects.
 
 
