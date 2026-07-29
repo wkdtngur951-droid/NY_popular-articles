@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-29 15:11:12)
+## 📰 NYTimes Most Popular (Updated: 2026-07-29 17:20:49)
 
-1. [‘You Aren’t Going to Like What Comes After America’](https://www.nytimes.com/2026/07/28/opinion/canada-trump-tariffs-south-park.html)
-
-Remember when ‘blame Canada’ was a joke?
-
-
-2. [Ross Douthat Joins ‘60 Minutes’ as a Correspondent](https://www.nytimes.com/2026/07/28/business/media/60-minutes-ross-douthat.html)
-
-Mr. Douthat, an opinion columnist at The New York Times, will join the CBS News program, along with several other journalists.
-
-
-3. [Should We Make Daylight Saving Time Permanent?](https://www.nytimes.com/2026/07/27/science/daylight-saving-time-health-safety.html)
-
-More light at the day’s end comes at a price: much later winter sunrises across much of the U.S. Scientists have documented consequences for public health and the economy.
-
-
-4. [ICE Arrests Surge at Airports, Opening New Front in Deportation Drive](https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html)
+1. [ICE Arrests Surge at Airports, Opening New Front in Deportation Drive](https://www.nytimes.com/2026/07/28/us/ice-arrests-airports-visa-overstay.html)
 
 Federal agents are arresting spouses of Americans, tech workers and others whose visas have expired, including many who have active applications to stay in the country.
+
+
+2. [Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame](https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html)
+
+Diary entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.
+
+
+3. [Why Iran Is in No Rush to Return to Talks With United States](https://www.nytimes.com/2026/07/28/world/middleeast/iran-war-us-trump.html)
+
+Amid a reprieve in the fighting, Iran’s leaders are betting that they can endure more pain than President Trump can, and they have leverage over the Strait of Hormuz, analysts say.
+
+
+4. [Ross Douthat Joins ‘60 Minutes’ as a Correspondent](https://www.nytimes.com/2026/07/28/business/media/60-minutes-ross-douthat.html)
+
+Mr. Douthat, an opinion columnist at The New York Times, will join the CBS News program, along with several other journalists.
 
 
 5. [Mamdani’s Netanyahu Stunt Was a Waste of His Talent and Our Time](https://www.nytimes.com/2026/07/28/opinion/mamdani-netanyahu-stunt-israel.html)
@@ -30,23 +30,23 @@ What if Mamdani actually wanted to be a bridge builder between Israelis and Pale
 A teenager’s lawsuit against the food industry shows us the path to a better food system.
 
 
-7. [Trump Will End Subsidies for Medicare Drug Premiums](https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html)
+7. [The Silicon Valley Health Trend Making Doctors Nervous](https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html)
 
-Millions of older Americans could pay more for their prescription drug coverage next year.
-
-
-8. [Most ‘Ovarian Cancer’ Isn’t. And That Fact Can Save Lives.](https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html)
-
-The vast majority of cases begin in the fallopian tubes — and removing them can reduce the risk by nearly 80 percent.
+Is more data about your body actually good for you?
 
 
-9. [Trump Asks Supreme Court to Overturn $83.3 Million Award in Carroll Defamation Case](https://www.nytimes.com/2026/07/28/us/politics/trump-supreme-court-carroll.html)
+8. [The Doctor and His Diary: What Fauci’s Innermost Musings Reveal](https://www.nytimes.com/2026/07/28/us/politics/fauci-diary-fame.html)
 
-President Trump paid E. Jean Carroll more than $5 million from a 2023 lawsuit, but he is now asking the court to overturn a much larger award that a jury ordered him to pay in 2024 for defaming her.
+Dr. Anthony S. Fauci seemed to be the life of the party, even in the midst of a deadly pandemic.
 
 
-10. [Senate Confirms Jay Clayton to Lead U.S. Intelligence Community](https://www.nytimes.com/2026/07/28/us/politics/senate-confirms-jay-clayton-intelligence-director.html)
+9. [9 Things Experts Wish You’d Do in Midlife to Increase Longevity](https://www.nytimes.com/2026/07/28/well/longevity-expert-tips-middle-age.html)
 
-Mr. Clayton, who shed Democratic support after he refused to clearly say Joseph R. Biden Jr. won the 2020 election, will take over the Office of the Director of National Intelligence from Bill Pulte.
+How you care for yourself at this life stage matters a lot for your later years.
+
+
+10. [A U.S. Citizen Deleted His Phone’s Data. Now He Faces a Felony Charge.](https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html)
+
+Federal prosecutors charged a man returning to the United States with obstruction because he gave them a passcode that erased his smartphone during a customs search.
 
 
