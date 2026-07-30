@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-07-30 20:18:19)
+## 📰 NYTimes Most Popular (Updated: 2026-07-30 22:12:00)
 
-1. [Project Sunrise, a 22-Hour Nonstop Flight, Is Coming. What Will It Be Like?](https://www.nytimes.com/2026/07/29/world/australia/qantas-long-haul-flight-project-sunrise.html)
+1. [What We Really Learned From the Fauci Hearing](https://www.nytimes.com/2026/07/29/opinion/anthony-fauci-hearing-covid.html)
 
-Qantas plans to launch the world’s longest commercial flight next year from Sydney to London, using specially manufactured Airbus jets.
-
-
-2. [Fauci Invokes Fifth Amendment More Than 100 Times in Bitter Senate Hearing](https://www.nytimes.com/2026/07/29/us/politics/fauci-testifies-rand-paul.html)
-
-Senator Rand Paul said the committee he leads would vote next week on whether to hold Dr. Fauci in contempt of Congress.
+Show trials are bad for democracy.
 
 
-3. [Most ‘Ovarian Cancer’ Isn’t. And That Fact Can Save Lives.](https://www.nytimes.com/2026/07/28/health/ovarian-cancer-fallopian-tubes.html)
+2. [A U.S. Citizen Deleted His Phone’s Data. Now He Faces a Felony Charge.](https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html)
 
-The vast majority of cases begin in the fallopian tubes — and removing them can reduce the risk by nearly 80 percent.
-
-
-4. [Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience](https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html)
-
-Ruby Rippey had stayed mostly quiet since her relationship with the San Francisco mayor rocked the city.
+Federal prosecutors charged a man returning to the United States with obstruction because he gave them a passcode that erased his smartphone during a customs search.
 
 
-5. [With Blanche Nomination at Stake, Payouts to Trump Allies Continue](https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html)
-
-A seven-figure settlement was announced hours before senators skeptical about the so-called weaponization fund delayed a crucial vote on Todd Blanche’s nomination to be attorney general.
-
-
-6. [Matt Damon’s Biceps in That ‘Odyssey’ Fight Scene? They’re Hers.](https://www.nytimes.com/2026/07/29/style/devyn-dalton-matt-damon-stuntwoman-odyssey.html)
-
-Devyn Dalton, a 4-foot-6 woman, is the leading man’s stunt double in Christopher Nolan’s summer blockbuster.
-
-
-7. [Trump Will End Subsidies for Medicare Drug Premiums](https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html)
+3. [Trump Will End Subsidies for Medicare Drug Premiums](https://www.nytimes.com/2026/07/28/business/medicare-drug-subsidies-part-d.html)
 
 Millions of older Americans could pay more for their prescription drug coverage next year.
 
 
-8. [Why Do We Tolerate Elon Musk’s Racist Commentary?](https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html)
+4. [Why Do We Tolerate Elon Musk’s Racist Commentary?](https://www.nytimes.com/2026/07/29/opinion/elon-musk-far-right-remigration.html)
 
 Why does the owner of X get a pass for what he says and does there?
 
 
-9. [9 Things Experts Wish You’d Do in Midlife to Increase Longevity](https://www.nytimes.com/2026/07/28/well/longevity-expert-tips-middle-age.html)
+5. [Un excursionista se empaló con su bastón y caminó 16 km para buscar ayuda](https://www.nytimes.com/es/2026/07/28/espanol/excursionista-empalo-baston.html)
 
-How you care for yourself at this life stage matters a lot for your later years.
+David Cifaldi iba a llegar a la cima de la montaña más alta de Montana, cuando resbaló y cayó sobre uno de sus bastones. Después bajó la montaña a pie.
 
 
-10. [Trump Demanded Details of Agents’ Interview of Comey, New Filing Says](https://www.nytimes.com/2026/07/29/us/james-comey-seashells-trump-secret-service.html)
+6. [With Blanche Nomination at Stake, Payouts to Trump Allies Continue](https://www.nytimes.com/2026/07/29/us/politics/todd-blanche-weaponization-payouts.html)
 
-The request suggests the intense personal involvement of President Trump in investigating one of his longtime critics, the former F.B.I. director James B. Comey.
+A seven-figure settlement was announced hours before senators skeptical about the so-called weaponization fund delayed a crucial vote on Todd Blanche’s nomination to be attorney general.
+
+
+7. [Fauci, in Private Diary, Reflected on Covid’s Origins and His Own Fame](https://www.nytimes.com/2026/07/27/us/politics/fauci-in-private-diary-reflected-on-covids-origins-and-his-own-fame.html)
+
+Diary entries, released by a Republican senator, have reignited a furious debate over whether Covid-19 leaked from a lab.
+
+
+8. [Aide Who Had Affair With Newsom 20 Years Ago Details Her Experience](https://www.nytimes.com/2026/07/28/us/gavin-newsom-ruby-rippey-affair.html)
+
+Ruby Rippey had stayed mostly quiet since her relationship with the San Francisco mayor rocked the city.
+
+
+9. [The Silicon Valley Health Trend Making Doctors Nervous](https://www.nytimes.com/2026/07/29/opinion/health-data-trend-body.html)
+
+Is more data about your body actually good for you?
+
+
+10. [Hiker Trekked 10 Miles to Safety After Impaling Himself on Pole](https://www.nytimes.com/2026/07/27/us/montana-hiker-impaled-pole.html)
+
+David Cifaldi was hiking up Granite Peak, Montana’s tallest mountain, last week when he slipped and fell on one of his trekking poles. A wound nurse, he went into survival mode.
 
 
