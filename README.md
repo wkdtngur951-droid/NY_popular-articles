@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-01 00:04:49)
+## 📰 NYTimes Most Popular (Updated: 2026-08-01 04:24:07)
 
-1. [Editor of Washington Post Opinion Section Resigns After 1 Year](https://www.nytimes.com/2026/07/31/business/media/washington-post-opinion-editor-resigns-after-1-year.html)
+1. [How Emily Wilson’s Takedown of ‘The Odyssey’ Ignited a Debate](https://www.nytimes.com/2026/07/31/arts/the-odyssey-emily-wilson-christopher-nolan.html)
 
-Adam O’Neal inherited a mandate from the paper’s owner, Jeff Bezos, to shift toward “personal liberties and free markets.”
-
-
-2. [A U.S. Citizen Deleted His Phone’s Data. Now He Faces a Felony Charge.](https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html)
-
-Federal prosecutors charged a man returning to the United States with obstruction because he gave them a passcode that erased his smartphone during a customs search.
+Wilson, whose 2017 translation of Homer’s Greek classic influenced the director Christopher Nolan, panned his screenplay for the movie version in an essay for The London Review of Books.
 
 
-3. [Sales Are So Low, California Wineries Are Burning Their Vineyards](https://www.nytimes.com/2026/07/30/us/pinot-noir-california-wine-sales-decline.html)
+2. [Larry Ellison Bet It All on the A.I. Boom. Will He Be the Face of the A.I. Bubble?](https://www.nytimes.com/2026/07/31/magazine/larry-ellison-ai-oracle.html)
 
-The rise and fall of pinot noir symbolizes the larger struggles of the wine industry as younger generations turn to other beverages.
-
-
-4. [Parents of Toddler Found Alive in Arizona Morgue Will Not Face Charges](https://www.nytimes.com/2026/07/29/us/arizona-toddler-dead-alive-morgue.html)
-
-The boy, who was 18 months old, had been found unconscious in a pool at the family home in Gilbert, Ariz., and was declared dead. But a medical examiner’s employee later discovered he was breathing.
+Inside the 81-year-old billionaire’s risky, debt-fueled scramble to transform his data empire into an A.I. juggernaut.
 
 
-5. [Trump Threatens to Withdraw Blanche as Attorney General, Dealing Blow to Nomination](https://www.nytimes.com/2026/07/30/us/politics/trump-blanche-attorney-general-cornyn-tillis.html)
-
-President Trump’s threat followed a day of fruitless negotiations with two Republican holdouts, Senators John Cornyn and Thom Tillis.
-
-
-6. [What to Know About Ceuta](https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html)
+3. [What to Know About Ceuta](https://www.nytimes.com/2026/07/30/world/europe/ceuta-spain-morocco-migrants.html)
 
 The peninsula on Morocco’s northern coast that Spain has governed for centuries has been a frequent site of mass migrant crossings and political tensions.
 
 
-7. [Rescue Boat Crews Show Signs of Brain Injuries, but Coast Guard Isn’t Looking](https://www.nytimes.com/2026/07/30/us/coast-guard-rescue-boat-surfmen-brain-injury.html)
+4. [‘The Proximity to Trump Is a Stain at This Point’](https://www.nytimes.com/2026/07/31/opinion/vivek-ramaswamy-ohio-trump.html)
 
-Untreated and undiagnosed, the crews that save lives in the roughest seas face the relentless pounding of waves.
-
-
-8. [Inflammation Keeps Us Alive. It's Also Making Us Sick.](https://www.nytimes.com/interactive/2026/07/29/magazine/inflammation-chronic-immune-system-health.html)
-
-The discovery that chronic inflammation is a cause of myriad illnesses could be this century's biggest medical breakthrough.
+Vivek Ramaswamy’s brand of post-Trump fusionism faces a test in Ohio.
 
 
-9. [Defying Trump, Cornyn Uses His Lame-Duck Power](https://www.nytimes.com/2026/07/30/us/politics/cornyn-trump-blanche.html)
+5. [Trump Administration Plans to Upend Head Start by Deregulating It](https://www.nytimes.com/2026/07/31/us/politics/head-start-deregulation.html)
 
-In standing in the way of Todd Blanche, President Trump’s choice for attorney general, a liberated Senator John Cornyn is wielding his leverage.
+The White House tried but failed to block funding for preschool for poor children. Instead, it will seek to strip away standards on health, literacy — and brushing teeth.
 
 
-10. [Fauci and the Democrats Have a Lot to Answer For](https://www.nytimes.com/2026/07/30/opinion/fauci-el-syed-democratic-socialists-america.html)
+6. [4 Bodies Found, 6 Climbers Missing After Avalanche in Pakistan](https://www.nytimes.com/2026/07/31/world/asia/nirmal-purja-nims-avalanche-pakistan.html)
 
-Would you rather be famous or infamous?
+The bodies of the first Omani woman to reach the summit of Mount Everest and of an American climber were recovered. An influential British-Nepali mountaineer was missing.
+
+
+7. [How Trump Has Changed, With Maggie Haberman](https://www.nytimes.com/2026/07/31/opinion/ezra-klein-podcast-maggie-haberman.html)
+
+The New York Times correspondent says 70 percent of the president’s mind is dedicated to White House renovations.
+
+
+8. [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
+
+A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.
+
+
+9. [A U.S. Citizen Deleted His Phone’s Data. Now He Faces a Felony Charge.](https://www.nytimes.com/2026/07/28/us/duress-password-phone-wipe-charge.html)
+
+Federal prosecutors charged a man returning to the United States with obstruction because he gave them a passcode that erased his smartphone during a customs search.
+
+
+10. [All This Staring at Our Faces Is Messing With Our Heads](https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html)
+
+Staring at ourselves on screens, on video and on social media is taking us to a dark place.
 
 
