@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-02 16:04:56)
+## 📰 NYTimes Most Popular (Updated: 2026-08-02 18:03:25)
 
-1. [In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear](https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html)
+1. [Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.](https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html)
 
-With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.
-
-
-2. [Vincent Pastore, Whose ‘Sopranos’ Character Ratted Out Tony, Dies at 80](https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html)
-
-He played Salvatore Bonpensiero, a mobster’s foot soldier turned F.B.I. informant known to his friends as Big Pussy, on the celebrated HBO series.
+Barely a third of Americans approve of Mr. Trump’s handling of the job, putting him at historic depths for a second-term president at this stage of his tenure.
 
 
-3. [Meet the Americans Who Can’t Afford Hair Cuts or Toilet Paper](https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html)
+2. [Nancy Guthrie Ransom Notes Demanded Millions, Then Said She Had Perished](https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html)
 
-Millions of Americans struggle in sometimes unimaginable ways, and Trump’s cuts in food stamps and other benefits are now making life even more precarious.
+The 84-year-old mother of Savannah Guthrie, the television news anchor, has been missing for nearly six months.
 
 
-4. [Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts](https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html)
+3. [It Is Banal, Bland, Thin and Didactic. We Can’t Stop Talking About It.](https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html)
 
-The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.
+Christopher Nolan’s film is perfectly calibrated for the culture war.
+
+
+4. [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
+
+Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.
 
 
 5. [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
@@ -25,28 +25,28 @@ The president decided to buy 11 polar icebreakers after a game of golf with Finl
 A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.
 
 
-6. [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html)
+6. [Vincent Pastore, Whose ‘Sopranos’ Character Ratted Out Tony, Dies at 80](https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html)
 
-Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.
+He played Salvatore Bonpensiero, a mobster’s foot soldier turned F.B.I. informant known to his friends as Big Pussy, on the celebrated HBO series.
 
 
-7. [The New York Times News Quiz, July 31, 2026 ](https://www.nytimes.com/interactive/2026/07/31/briefing/news-quiz-iran-war-europe-wildfires.html)
+7. [Meet the Americans Who Can’t Afford Hair Cuts or Toilet Paper](https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html)
+
+Millions of Americans struggle in sometimes unimaginable ways, and Trump’s cuts in food stamps and other benefits are now making life even more precarious.
+
+
+8. [The New York Times News Quiz, July 31, 2026 ](https://www.nytimes.com/interactive/2026/07/31/briefing/news-quiz-iran-war-europe-wildfires.html)
 
 Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
-8. [At Least 3 Dead and 5 Wounded in Shooting at In-N-Out Burger in Idaho](https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html)
+9. [Nirmal Purja, Renowned Mountaineer, Dies at 43 After Pakistan Avalanche](https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html)
 
-The shooting occurred at a busy shopping center in Twin Falls, as people were getting food, shopping and going to the movies on a Saturday afternoon. The police said the shooter was dead.
-
-
-9. [It Is Banal, Bland, Thin and Didactic. We Can’t Stop Talking About It.](https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html)
-
-Christopher Nolan’s film is perfectly calibrated for the culture war.
+The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.
 
 
-10. [Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.](https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html)
+10. [Trump Threatens to Revive $1.8 Billion Fund for Allies Over Blanche Standoff](https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html)
 
-Barely a third of Americans approve of Mr. Trump’s handling of the job, putting him at historic depths for a second-term president at this stage of his tenure.
+The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.
 
 
