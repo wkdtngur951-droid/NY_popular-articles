@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-02 07:34:50)
+## 📰 NYTimes Most Popular (Updated: 2026-08-02 10:02:54)
 
-1. [Flashback: Your Weekly History Quiz, August 1, 2026](https://www.nytimes.com/interactive/2026/07/31/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-2. [The New York Times News Quiz, July 31, 2026 ](https://www.nytimes.com/interactive/2026/07/31/briefing/news-quiz-iran-war-europe-wildfires.html)
+1. [The New York Times News Quiz, July 31, 2026 ](https://www.nytimes.com/interactive/2026/07/31/briefing/news-quiz-iran-war-europe-wildfires.html)
 
 Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
-3. [How 50,000 People Surged Into a Spanish Exclave in Africa](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html)
+2. [In Dropping Reflecting Pool Case, Pirro Draws Trump’s Wrath](https://www.nytimes.com/2026/08/01/us/politics/jeanine-pirro-trump-reflecting-pool.html)
 
-On Thursday, tens of thousands of Moroccans broke into Ceuta, a Spanish territory that neighbors Morocco. By Friday evening, most of them had left, hungry and disappointed.
-
-
-4. [Meet the Americans Who Can’t Afford Hair Cuts or Toilet Paper](https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html)
-
-Millions of Americans struggle in sometimes unimaginable ways, and Trump’s cuts in food stamps and other benefits are now making life even more precarious.
+Jeanine Pirro, the U.S. attorney in Washington, blamed shoddy construction, contradicting President Trump’s pet theory. Mr. Trump said he disagreed “100%” with her.
 
 
-5. [Nancy Guthrie Ransom Notes Demanded Millions, Then Said She Had Perished](https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html)
-
-The 84-year-old mother of Savannah Guthrie, the television news anchor, has been missing for nearly six months.
-
-
-6. [California Man Is Kidnapped Then Executed in Front of Police](https://www.nytimes.com/2026/07/31/us/kidnapping-shooting-chino-hills.html)
-
-An abduction from a home in Chino Hills led to a short police chase. The driver fired at a man in the trunk before being gunned down.
-
-
-7. [The Working Class Is Fleeing Trump](https://www.nytimes.com/2026/08/01/opinion/trump-maga-republican-midterm.html)
-
-Democrats have an anger problem. Republicans have a Trump problem.
-
-
-8. [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
+3. [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
 
 A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.
 
 
-9. [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html)
+4. [Nancy Guthrie Ransom Notes Demanded Millions, Then Said She Had Perished](https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html)
 
-Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.
+The 84-year-old mother of Savannah Guthrie, the television news anchor, has been missing for nearly six months.
 
 
-10. [It Is Banal, Bland, Thin and Didactic. We Can’t Stop Talking About It.](https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html)
+5. [In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear](https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html)
+
+With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.
+
+
+6. [Visuals Suggest U.S. Dropped 2,000-Pound Bomb on Home in Iran, Killing 3](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html)
+
+The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.
+
+
+7. [At Least 3 Dead and 2 Injured in Shooting at In-N-Out Burger in Idaho, Official Says](https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html)
+
+A spokesman for Twin Falls cautioned that the number of victims was “expected to be higher.” The police said the shooter was dead.
+
+
+8. [Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts](https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html)
+
+The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.
+
+
+9. [It Is Banal, Bland, Thin and Didactic. We Can’t Stop Talking About It.](https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html)
 
 Christopher Nolan’s film is perfectly calibrated for the culture war.
+
+
+10. [Flashback: Your Weekly History Quiz, August 1, 2026](https://www.nytimes.com/interactive/2026/07/31/upshot/flashback.html)
+
+Can you sort 8 historical events?
 
 
