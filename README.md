@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-02 18:03:25)
+## 📰 NYTimes Most Popular (Updated: 2026-08-02 20:13:23)
 
-1. [Trump’s Polling Numbers Hit a New Low. Don’t Expect Him to Change Course.](https://www.nytimes.com/2026/08/01/us/politics/trump-polls-approval-rating.html)
-
-Barely a third of Americans approve of Mr. Trump’s handling of the job, putting him at historic depths for a second-term president at this stage of his tenure.
-
-
-2. [Nancy Guthrie Ransom Notes Demanded Millions, Then Said She Had Perished](https://www.nytimes.com/2026/07/31/us/savannah-nancy-guthrie-ransom-note.html)
-
-The 84-year-old mother of Savannah Guthrie, the television news anchor, has been missing for nearly six months.
-
-
-3. [It Is Banal, Bland, Thin and Didactic. We Can’t Stop Talking About It.](https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html)
-
-Christopher Nolan’s film is perfectly calibrated for the culture war.
-
-
-4. [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
-
-Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.
-
-
-5. [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
+1. [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
 
 A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.
 
 
-6. [Vincent Pastore, Whose ‘Sopranos’ Character Ratted Out Tony, Dies at 80](https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html)
+2. [At Least 3 Dead and 5 Wounded in Shooting at In-N-Out Burger in Idaho](https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html)
 
-He played Salvatore Bonpensiero, a mobster’s foot soldier turned F.B.I. informant known to his friends as Big Pussy, on the celebrated HBO series.
-
-
-7. [Meet the Americans Who Can’t Afford Hair Cuts or Toilet Paper](https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html)
-
-Millions of Americans struggle in sometimes unimaginable ways, and Trump’s cuts in food stamps and other benefits are now making life even more precarious.
+The shooting occurred at a busy shopping center in Twin Falls, as people were getting food, shopping and going to the movies on a Saturday afternoon. The police said the shooter was dead.
 
 
-8. [The New York Times News Quiz, July 31, 2026 ](https://www.nytimes.com/interactive/2026/07/31/briefing/news-quiz-iran-war-europe-wildfires.html)
+3. [In Iran, the U.S. Appears Headed for a Strategic Defeat, Allies Fear](https://www.nytimes.com/2026/08/01/world/middleeast/us-iran-war-strategy.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-9. [Nirmal Purja, Renowned Mountaineer, Dies at 43 After Pakistan Avalanche](https://www.nytimes.com/2026/08/01/world/asia/nirmal-purja-dead-pakistan-avalanche.html)
-
-The British-Nepali mountaineer was one of 10 climbers who were struck by an avalanche on Thursday on Broad Peak, one of the world’s highest mountains.
+With none of President Trump’s aims accomplished and the Strait of Hormuz closed, U.S. allies see dysfunction and vulnerability from the war.
 
 
-10. [Trump Threatens to Revive $1.8 Billion Fund for Allies Over Blanche Standoff](https://www.nytimes.com/2026/08/01/us/politics/trump-todd-blanche-weaponization-payouts.html)
+4. [It Is Banal, Bland, Thin and Didactic. We Can’t Stop Talking About It.](https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html)
 
-The president vowed to push for the payout fund if Senate Republicans fail to confirm Todd Blanche as attorney general, reigniting a dispute over the settlement.
+Christopher Nolan’s film is perfectly calibrated for the culture war.
+
+
+5. [How a Top Law Firm Went From Standing Up to Trump to Bending the Knee](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html)
+
+Paul Weiss was a progressive stalwart for decades and led the legal resistance against President Trump in his first term. Then it surrendered without a fight. This is the inside story of its transformation.
+
+
+6. [How 50,000 People Surged Into a Spanish Exclave in Africa](https://www.nytimes.com/2026/08/01/world/europe/spain-ceuta-migrants-morocco.html)
+
+On Thursday, tens of thousands of Moroccans broke into Ceuta, a Spanish territory that neighbors Morocco. By Friday evening, most of them had left, hungry and disappointed.
+
+
+7. [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
+
+Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.
+
+
+8. [California Man Is Kidnapped Then Executed in Front of Police](https://www.nytimes.com/2026/07/31/us/kidnapping-shooting-chino-hills.html)
+
+An abduction from a home in Chino Hills led to a short police chase. The driver fired at a man in the trunk before being gunned down.
+
+
+9. [Flashback: Your Weekly History Quiz, August 1, 2026](https://www.nytimes.com/interactive/2026/07/31/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+10. [The Allure and Peril of Riding an Alaskan Wave for Six Miles](https://www.nytimes.com/2026/08/02/us/bore-tide-surfing-alaska.html)
+
+The tidal bore that rockets up the Turnagain Arm south of Anchorage can carry a surfer for an hour; it can also kill. Now that the secret is out, how long will authorities allow surfers to catch the wave?
 
 
