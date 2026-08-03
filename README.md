@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-03 00:02:51)
+## 📰 NYTimes Most Popular (Updated: 2026-08-03 04:34:43)
 
-1. [It Is Banal, Bland, Thin and Didactic. We Can’t Stop Talking About It.](https://www.nytimes.com/2026/08/01/opinion/the-odyssey-culture-war.html)
-
-Christopher Nolan’s film is perfectly calibrated for the culture war.
-
-
-2. [Visuals Suggest U.S. Dropped 2,000-Pound Bomb on Home in Iran, Killing 3](https://www.nytimes.com/2026/07/31/world/middleeast/us-iran-bomb-mk84-qeshm-island.html)
-
-The weapon, one of the largest in the U.S.’s arsenal, struck a house in a heavily populated area, according to a Times analysis.
-
-
-3. [Meet the Americans Who Can’t Afford Hair Cuts or Toilet Paper](https://www.nytimes.com/2026/08/01/opinion/poverty-america-oklahoma.html)
-
-Millions of Americans struggle in sometimes unimaginable ways, and Trump’s cuts in food stamps and other benefits are now making life even more precarious.
-
-
-4. [How a Top Law Firm Went From Standing Up to Trump to Bending the Knee](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html)
+1. [How a Top Law Firm Went From Standing Up to Trump to Bending the Knee](https://www.nytimes.com/2026/08/02/us/politics/paul-weiss-trump.html)
 
 Paul Weiss was a progressive stalwart for decades and led the legal resistance against President Trump in his first term. Then it surrendered without a fight. This is the inside story of its transformation.
 
 
-5. [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
+2. [At Least 3 Dead and 5 Wounded in Shooting at In-N-Out Burger in Idaho](https://www.nytimes.com/2026/08/01/us/in-n-out-shooting-idaho.html)
+
+The shooting occurred at a busy shopping center in Twin Falls, as people were getting food, shopping and going to the movies on a Saturday afternoon. The police said the shooter was dead.
+
+
+3. [All This Staring at Our Faces Is Messing With Our Heads](https://www.nytimes.com/2026/07/31/opinion/face-self-reflection-technology-video.html)
+
+Staring at ourselves on screens, on video and on social media is taking us to a dark place.
+
+
+4. [A Self-Help Influencer With Troubles of Her Own](https://www.nytimes.com/2026/08/02/style/nicole-lepera-self-help-litigation-holistic-psychologist.html)
+
+Millions look to Nicole LePera for advice on how to achieve contentment and maintain healthy relationships. But her own story is complicated.
+
+
+5. [With a Series of Big Donations, State Department Restores Some Global Health Aid](https://www.nytimes.com/2026/08/02/health/trump-health-aid-state-department.html)
+
+The amount is still far below what the U.S. spent previously on humanitarian and health aid, but resumes the flow of money for key efforts to fight malnutrition and disease.
+
+
+6. [What We Know About the Shooting at an In-N-Out Burger in Idaho](https://www.nytimes.com/2026/08/02/us/in-n-out-shooting-idaho-victims-suspect.html)
+
+Gunfire brought panic to a shopping center in Twin Falls in what the authorities described as a chaotic scene. At least three people were killed.
+
+
+7. [It Wasn’t a Civil War. It Was the Slaveholders’ Rebellion.](https://www.nytimes.com/2026/08/02/opinion/civil-war-slaveholders-rebellion-slavery.html)
+
+To face our history, we must be honest about it.
+
+
+8. [Scope of Hacks on U.S. Water Supply Widens as Evidence Points to Iran](https://www.nytimes.com/2026/08/01/us/politics/iran-cyberattack-water-systems.html)
 
 Michigan and Minnesota are among at least seven states coping with cyberattacks aimed at disrupting water systems nationwide.
 
 
-6. [Trump’s Fixation on Arctic Ships Led to Billions in No-Bid Contracts](https://www.nytimes.com/2026/08/01/climate/trump-arctic-ships.html)
+9. [The War That Could Swallow the World](https://www.nytimes.com/2026/08/02/opinion/iran-war-russia-ukraine-world-war-threat.html)
 
-The president decided to buy 11 polar icebreakers after a game of golf with Finland’s president. Experts say it’s far from clear the United States needs so many.
-
-
-7. [Charges Dropped in Reflecting Pool Case as Prosecutors Say Work Was ‘Botched’](https://www.nytimes.com/2026/07/31/us/politics/david-hearn-reflecting-pool-vandalism-charges.html)
-
-A former Olympian will not face trial after federal prosecutors acknowledged that the Trump administration’s claims of vandalism were false.
+Whatever is happening in Iran, it isn’t working.
 
 
-8. [She Voted for a Justice Who Overturned Roe. Now it Haunts Her on the Trail.](https://www.nytimes.com/2026/08/01/us/politics/collins-kavanaugh-vote-roe-v-wade.html)
+10. [Christopher Nolan’s Trojan Horse](https://www.nytimes.com/2026/08/02/opinion/christopher-nolan-odyssey-elon-musk.html)
 
-Senator Susan Collins, who supports abortion rights, endorsed Brett Kavanaugh’s nomination for the Supreme Court. It has emerged as a major issue in her campaign for re-election.
-
-
-9. [Vincent Pastore, Whose ‘Sopranos’ Character Ratted Out Tony, Dies at 80](https://www.nytimes.com/2026/08/01/arts/television/vincent-pastore-dead.html)
-
-He played Salvatore Bonpensiero, a mobster’s foot soldier turned F.B.I. informant known to his friends as Big Pussy, on the celebrated HBO series.
-
-
-10. [The Allure and Peril of Riding an Alaskan Wave for Six Miles](https://www.nytimes.com/2026/08/02/us/bore-tide-surfing-alaska.html)
-
-The tidal bore that rockets up the Turnagain Arm south of Anchorage can carry a surfer for an hour; it can also kill. Now that the secret is out, how long will authorities allow surfers to catch the wave?
+The big trick of his “Odyssey” is smuggling the core of Judeo-Christian ethics into an ancient Greek epic.
 
 
