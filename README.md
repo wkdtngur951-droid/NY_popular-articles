@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-05 03:14:44)
+## 📰 NYTimes Most Popular (Updated: 2026-08-05 06:33:50)
 
-1. [David Ellison: In Defense of the Paramount-Warner Deal](https://www.nytimes.com/2026/08/04/opinion/david-ellison-paramount-warner-deal.html)
+1. [Missouri Primary Election Results](https://www.nytimes.com/interactive/2026/08/04/us/elections/results-missouri-primary.html)
 
-The issue is whether I can be trusted as a steward of CNN.
-
-
-2. [This Is What a Desperate Dictatorship Looks Like](https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html)
-
-Nicaragua shows what happens when even dictators fear a rigged election.
+Get live results and maps from the 2026 Missouri primary elections.
 
 
-3. [An Angry Trump Struggles to Understand Iran’s Defiant Leaders](https://www.nytimes.com/2026/08/04/us/politics/trump-iran.html)
+2. [Ronald Lauder, a Billionaire G.O.P. Backer, Closes His Wallet](https://www.nytimes.com/2026/08/04/nyregion/ronald-lauder-republicans-donor.html)
 
-Iran’s leaders have perplexed several American presidents, perhaps none more than President Trump.
+Ronald S. Lauder, a major funder of conservative political causes, has not given a single dollar this year to Republicans in his home state, and his super PAC has gone idle.
 
 
-4. [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html)
+3. [Inside the Oval Office Showdown Between Trump and Jeanine Pirro](https://www.nytimes.com/2026/08/04/us/politics/trump-jeanine-pirro-showdown.html)
 
 Jeanine Pirro, the U.S. attorney for the District of Columbia, told President Trump that his interior secretary, Doug Burgum, had misled him with a self-serving cover story for his own mistakes.
 
 
-5. [Michigan U.S. Senate Primary Election Results](https://www.nytimes.com/interactive/2026/08/04/us/elections/results-michigan-us-senate-primary.html)
+4. [Pirro Meets With Trump at the White House After He Said She ‘Choked’ in Reflecting Pool Case](https://www.nytimes.com/2026/08/03/us/politics/trump-pirro-reflecting-pool-vandalism.html)
 
-Get live results and maps from the 2026 Michigan primary election.
-
-
-6. [One of the World’s Smallest Countries Has a New Name](https://www.nytimes.com/2026/08/03/world/naoero-nauru-name-change.html)
-
-Formerly called Nauru, the island in the South Pacific wants its name to more closely match how it is said in the language spoken by its people.
+President Trump said Jeanine Pirro, the U.S. attorney for Washington, D.C., “folded like an umbrella.” For now, her job appeared to be safe, according to two people familiar with the meeting.
 
 
-7. [Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’](https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html)
+5. [Michigan Primary Election Results](https://www.nytimes.com/interactive/2026/08/04/us/elections/results-michigan-primary.html)
+
+Get live results and maps from the 2026 Michigan primary elections.
+
+
+6. [An Emerging Deal Could Cement Iran’s Control of Strait of Hormuz](https://www.nytimes.com/2026/08/03/us/politics/strait-of-hormuz-possible-reopening-deal.html)
+
+The deal would address President Trump’s most urgent political problem by allowing ships to move again. But it would give Iran strategic leverage it did not have before the war.
+
+
+7. [This Is What a Desperate Dictatorship Looks Like](https://www.nytimes.com/2026/08/04/opinion/nicaragua-ortega-murillo-elections.html)
+
+Nicaragua shows what happens when even dictators fear a rigged election.
+
+
+8. [Uber’s Strategy for Fighting Sexual Assault Suits: ‘What Were You Wearing?’](https://www.nytimes.com/2026/08/04/business/uber-sexual-assault-lawsuits.html)
 
 The ride-hailing giant promised to handle legal claims “in a way that is best for the survivor.” Its lawyers are pursuing a far more aggressive strategy.
 
 
-8. [Workers Disassemble Parts of Trump’s White House Helipad, Photos Show](https://www.nytimes.com/2026/08/04/us/politics/trump-helipad-white-house-construction.html)
+9. [Arizona’s Democratic Governor Set to Pick a Republican Running Mate](https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html)
 
-Last week, construction workers had begun to decorate the new South Lawn helipad with a giant presidential seal. By Tuesday, the design was gone.
-
-
-9. [The A.I. Giants Weren’t Prepared for This](https://www.nytimes.com/2026/08/04/opinion/ezra-klein-podcast-jasmine-sun.html)
-
-Jasmine Sun, a writer covering technology, takes us into the backlash against A.I. data centers.
+Gov. Katie Hobbs, locked in a competitive re-election battle, plans to tap a moderate former mayor of Mesa, Ariz., John Giles, to serve as her lieutenant governor if she wins in November.
 
 
-10. [Ariana Grande and the Debate Over Health, Privacy and Celebrity](https://www.nytimes.com/2026/08/04/arts/music/ariana-grande-health-weight.html)
+10. [Michigan U.S. Senate Primary Election Results](https://www.nytimes.com/interactive/2026/08/04/us/elections/results-michigan-us-senate-primary.html)
 
-The pop star has long pushed back on comments about her weight loss, urging fans to be “gentler.” As her fame reached new heights, so did the scrutiny.
+Get live results and maps from the 2026 Michigan primary election.
 
 
