@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-06 15:19:32)
+## 📰 NYTimes Most Popular (Updated: 2026-08-07 00:08:02)
 
-1. [Michigan Primary Election Results](https://www.nytimes.com/interactive/2026/08/04/us/elections/results-michigan-primary.html)
-
-Get live results and maps from the 2026 Michigan primary elections.
-
-
-2. [Progressive Democrat Wins Primary in Battleground Michigan House District](https://www.nytimes.com/2026/08/04/us/politics/maasdam-lawrence-michigan-primary.html)
-
-William Lawrence defeated two moderate candidates to challenge a vulnerable Republican incumbent, but some worry his views could hurt his chances in November.
-
-
-3. [They Were Voted Out. They Refuse to Leave. Now What?](https://www.nytimes.com/2026/08/05/us/avenal-california-recall-election-dispute.html)
-
-Avenal, Calif., a city in the rural Central Valley, has become an unlikely example of election denialism months after a recall election.
-
-
-4. [Trump Said Qatari Jet Was Destined for His Library. That May Change.](https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html)
-
-A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.
-
-
-5. [Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview](https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html)
+1. [Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview](https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html)
 
 In a 23-minute appearance with the anchor Jake Tapper, the Ohio Republican made an unusual effort to rebut a multitude of allegations that have threatened his re-election bid.
 
 
-6. [Michigan U.S. Senate Primary Election Results](https://www.nytimes.com/interactive/2026/08/04/us/elections/results-michigan-us-senate-primary.html)
+2. [Doesn’t Anybody Want to Win This Thing?](https://www.nytimes.com/2026/08/06/opinion/el-syed-democrats-cornyn-tillis-republicans.html)
 
-Get live results and maps from the 2026 Michigan primary election.
-
-
-7. [These 25 Artifacts Explain America](https://www.nytimes.com/interactive/2026/08/04/opinion/museum-of-america.html)
-
-Want to understand this country? Look at our stuff.
+Democrats and Republicans are both playing with fire.
 
 
-8. [The Tradwife Illusion Meets the Anti-Trump Reality](https://www.nytimes.com/2026/08/05/opinion/nara-smith-working-mom.html)
+3. [A Trans Woman Pulled a Gun and Started a ‘Stand Your Ground’ Debate](https://www.nytimes.com/2026/08/06/us/transgender-gun-rights-wyoming.html)
 
-Nara Smith’s illusion meets the anti-Trump reality.
-
-
-9. [A Democratic Governor Is Set to Pick a Former Republican Running Mate](https://www.nytimes.com/2026/08/04/us/elections/arizona-governor-running-mate.html)
-
-Gov. Katie Hobbs of Arizona, locked in a competitive re-election battle, plans to tap a moderate former mayor of Mesa, Ariz., John Giles, to serve as her lieutenant governor.
+Gun-friendly Wyoming has a “stand your ground” statute that allows people to use force to defend themselves. So why is a trans woman being prosecuted after being shoved to the ground?
 
 
-10. [Trump-Backed Republican Loses to Little-Known Rival Who Had Suspended His Bid](https://www.nytimes.com/2026/08/05/us/politics/trump-hassan-smith-loses-michigan-primary.html)
+4. [The 50 Best Thrillers of the 21st Century](https://www.nytimes.com/interactive/2026/books/best-thriller-books-21st-century.html)
 
-Without running a single ad or filing a campaign finance report, Tom Smith, who had suspended his bid, soundly defeated Amir Hassan, a Navy veteran backed by President Trump.
+Hundreds of novelists, librarians, editors and other book lovers voted. See how their ballots stack up.
+
+
+5. [Bessent Declares Widening Gap Between Rich and Poor ‘Dead’](https://www.nytimes.com/2026/08/05/business/bessent-wage-gap.html)
+
+Despite data to the contrary, the Treasury Secretary made the case that the K-shaped economy no longer exists.
+
+
+6. [Insults, Expletives and Fat-Shaming: Vance Trolls Critics on the Right and Left](https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html)
+
+The vice president has dispensed with the decorum and restraint of his predecessors to directly take on opponents and journalists on social media with sometimes profane and often personal jabs.
+
+
+7. [Trump Said Qatari Jet Was Destined for His Library. That May Change.](https://www.nytimes.com/2026/08/05/us/trump-air-force-one-qatar-library.html)
+
+A White House official says no final decision has been made about which plane will go on display at the Trump presidential library. That leaves the fate of the Qatari jet unclear.
+
+
+8. [Helicopter Carrying Trump Flew Near Passenger Jet in Washington Airspace](https://www.nytimes.com/2026/08/05/us/politics/trump-helicopter-jet-marine-one.html)
+
+Marine One, the helicopter that ferries the president, came within less than a mile of an Envoy Air flight on Tuesday, raising new concerns about air traffic control in the congested area.
+
+
+9. [In Texas’ Most Eligible Senate Race, It’s Bachelor vs. Divorcé-to-Be](https://www.nytimes.com/2026/08/06/us/paxton-talarico-single-dating.html)
+
+Ken Paxton is divorcing. James Talarico is dating a onetime staffer. Both have had their romantic lives scrutinized as part of their high-stakes campaigns.
+
+
+10. [The Metropolitan Museum of Art Is Making a Very Bad Mistake](https://www.nytimes.com/2026/08/06/opinion/met-gala-galliano-antisemitism.html)
+
+Is the Met Gala’s new theme antisemitism?
 
 
