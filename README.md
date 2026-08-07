@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-07 22:43:37)
+## 📰 NYTimes Most Popular (Updated: 2026-08-07 23:38:31)
 
-1. [How Fauci Got to This Point and the Legal Peril He Faces](https://www.nytimes.com/2026/08/05/us/politics/fauci-contempt-vote-congress.html)
+1. [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
 
-The case is unique, legal scholars say, because of the tension between the Fifth Amendment and the reach of a presidential pardon. The potential consequences could be grave.
-
-
-2. [McConnell Announces Discharge From Rehabilitation Center](https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html)
-
-The Kentucky Republican has been absent from Congress for nearly two months after a health episode. He said he would continue recovering from home.
+A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
 
 
-3. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
+2. [The 50 Best Thrillers of the 21st Century](https://www.nytimes.com/interactive/2026/books/best-thriller-books-21st-century.html)
 
-Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
-
-
-4. [Woman Who Killed Husband 2 Decades Ago Admits to Murdering Wife](https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html)
-
-A California woman who was sentenced to 11 years in prison in 2004 pleaded guilty this week in another stabbing death.
+Hundreds of novelists, librarians, editors and other book lovers voted. See how their ballots stack up.
 
 
-5. [Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview](https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html)
+3. [Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview](https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html)
 
 In a 23-minute appearance with the anchor Jake Tapper, the Ohio Republican made an unusual effort to rebut a multitude of allegations that have threatened his re-election bid.
 
 
-6. [A Promising Heart Drug Fails, Challenging a Long-Held Theory of Disease](https://www.nytimes.com/2026/08/06/science/heart-disease-drug-fails-novo-nordisk.html)
+4. [Insults, Expletives and Fat-Shaming: Vance Trolls Critics on the Right and Left](https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html)
 
-The drug targeted inflammation, and its shocking failure has experts questioning whether inflammation really does cause heart disease.
-
-
-7. [A Trans Woman Pulled a Gun and Started a ‘Stand Your Ground’ Debate](https://www.nytimes.com/2026/08/06/us/transgender-gun-rights-wyoming.html)
-
-Gun-friendly Wyoming has a “stand your ground” statute that allows people to use force to defend themselves. So why is a trans woman being prosecuted after being shoved to the ground?
+The vice president has dispensed with the decorum and restraint of his predecessors to directly take on opponents and journalists on social media with sometimes profane and often personal jabs.
 
 
-8. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
+5. [Trump Signs Executive Orders Targeting Birthright Citizenship](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html)
+
+The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
+
+
+6. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
 
 For an audience that grew to more than a million followers, she challenged assumptions about how people with serious illnesses should look and live.
 
 
-9. [The Metropolitan Museum of Art Is Making a Very Bad Mistake](https://www.nytimes.com/2026/08/06/opinion/met-gala-galliano-antisemitism.html)
+7. [The Metropolitan Museum of Art Is Making a Very Bad Mistake](https://www.nytimes.com/2026/08/06/opinion/met-gala-galliano-antisemitism.html)
 
 Is the Met Gala’s new theme antisemitism?
 
 
-10. [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
+8. [McConnell Announces Discharge From Rehabilitation Center](https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html)
 
-A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
+The Kentucky Republican has been absent from Congress for nearly two months after a health episode. He said he would continue recovering from home.
+
+
+9. [Star Scholar Resigns as Cambridge Announces Investigation Into His Record](https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html)
+
+Jason Arday was hired by the University of Cambridge in 2023 as the youngest Black professor in its history. Doubt has since been cast on his academic qualifications and claims about his life.
+
+
+10. [Moderate Democrats Prepare for ‘War’ Against an Ascendant Left](https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html)
+
+One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.
 
 
