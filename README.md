@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-07 23:38:31)
+## 📰 NYTimes Most Popular (Updated: 2026-08-08 02:02:49)
 
-1. [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
+1. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
 
-A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
-
-
-2. [The 50 Best Thrillers of the 21st Century](https://www.nytimes.com/interactive/2026/books/best-thriller-books-21st-century.html)
-
-Hundreds of novelists, librarians, editors and other book lovers voted. See how their ballots stack up.
+Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
 
 
-3. [Bunny Dolls and Disturbing Allegations: Max Miller’s Strange CNN Interview](https://www.nytimes.com/2026/08/05/business/media/cnn-max-miller-jake-tapper.html)
+2. [Republicans Cannot Possibly Let This Congressman Go On](https://www.nytimes.com/2026/08/07/opinion/max-miller-moreno-ohio-congressman.html)
 
-In a 23-minute appearance with the anchor Jake Tapper, the Ohio Republican made an unusual effort to rebut a multitude of allegations that have threatened his re-election bid.
+This Ohio congressman should not still be running for Congress.
 
 
-4. [Insults, Expletives and Fat-Shaming: Vance Trolls Critics on the Right and Left](https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html)
+3. [Why Are These Retro Sweatpants All Over the Hamptons?](https://www.nytimes.com/2026/08/06/style/sweatpants-free-city-hamptons-retro.html)
+
+In quiet luxury Long Island, $168 Y2K logo sweats are having an unexpected renaissance.
+
+
+4. [Meta Ordered to Pay $567 Million in New Mexico Child Safety Case](https://www.nytimes.com/2026/08/06/technology/meta-new-mexico-child-safety.html)
+
+The penalty, imposed by a state judge, is on top of a $375 million fine ordered by a jury that found Meta misled users about the safety of its platforms.
+
+
+5. [Insults, Expletives and Fat-Shaming: Vance Trolls Critics on the Right and Left](https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html)
 
 The vice president has dispensed with the decorum and restraint of his predecessors to directly take on opponents and journalists on social media with sometimes profane and often personal jabs.
 
 
-5. [Trump Signs Executive Orders Targeting Birthright Citizenship](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html)
+6. [Woman Who Killed Husband 2 Decades Ago Admits to Murdering Wife](https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html)
 
-The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
+A California woman who was sentenced to 11 years in prison in 2004 pleaded guilty this week in another stabbing death.
 
 
-6. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
+7. [Groceries Are Expensive. Here’s How 5 Shoppers Are Adjusting.](https://www.nytimes.com/interactive/2026/08/05/dining/grocery-prices-shoppers.html)
+
+Two years ago, we collected receipts from people across the U.S. We thought now would be a good time to look at their spending again.
+
+
+8. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)
+
+While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.
+
+
+9. [Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom](https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html)
+
+In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.
+
+
+10. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
 
 For an audience that grew to more than a million followers, she challenged assumptions about how people with serious illnesses should look and live.
-
-
-7. [The Metropolitan Museum of Art Is Making a Very Bad Mistake](https://www.nytimes.com/2026/08/06/opinion/met-gala-galliano-antisemitism.html)
-
-Is the Met Gala’s new theme antisemitism?
-
-
-8. [McConnell Announces Discharge From Rehabilitation Center](https://www.nytimes.com/2026/08/06/us/politics/mitch-mcconnell-discharged-hospitalization-senate.html)
-
-The Kentucky Republican has been absent from Congress for nearly two months after a health episode. He said he would continue recovering from home.
-
-
-9. [Star Scholar Resigns as Cambridge Announces Investigation Into His Record](https://www.nytimes.com/2026/08/05/books/review/cambridge-jason-arday-resignation-investigation.html)
-
-Jason Arday was hired by the University of Cambridge in 2023 as the youngest Black professor in its history. Doubt has since been cast on his academic qualifications and claims about his life.
-
-
-10. [Moderate Democrats Prepare for ‘War’ Against an Ascendant Left](https://www.nytimes.com/2026/08/06/us/politics/democratic-party-socialists-moderates.html)
-
-One moderate group says the progressive wins are “deeply troubling” and is planning a $15 million effort against democratic socialism.
 
 
