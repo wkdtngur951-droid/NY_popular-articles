@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-08 18:47:36)
+## 📰 NYTimes Most Popular (Updated: 2026-08-08 19:35:01)
 
-1. [Trump Restarts Battle to Fire Sitting Fed Governor](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html)
+1. [Woman Who Killed Husband 2 Decades Ago Admits to Murdering Wife](https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html)
 
-The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
-
-
-2. [She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html)
-
-As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
+A California woman who was sentenced to 11 years in prison in 2004 pleaded guilty this week in another stabbing death.
 
 
-3. [The News Quiz](https://www.nytimes.com/quiz/2026/08/06/briefing/weekly-news-quiz.html)
+2. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
 
 
-4. [Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom](https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html)
+3. [Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom](https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html)
 
 In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.
+
+
+4. [Trump Signs Executive Orders Targeting Birthright Citizenship](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html)
+
+The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
 
 
 5. [‘I Was So Wrong’: Iranians Say Trump’s Promises Never Came True](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html)
@@ -25,28 +25,28 @@ In an interview with The New York Times, Dr. El-Sayed recalled some of his conve
 As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.
 
 
-6. [Iran Issues List of Demands, Complicating Efforts to Reopen Strait](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html)
+6. [Trump, Told It Was Illegal, Still Pressured Pence to Overturn His Loss](https://www.nytimes.com/2022/06/16/us/trump-pence-election-jan-6.html)
 
-The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
-
-
-7. [Prosecutor Sues Justice Dept. Over Dismissal After Right-Wing Influencer’s Claim](https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html)
-
-Will Rosenzweig joins a growing list of former prosecutors and federal agents who have gone to court to contest the purge of law enforcement deemed disloyal.
+In its third public hearing to lay out its findings, the House committee investigating the Jan. 6 attack showed evidence that the president knew his order to the vice president was unlawful.
 
 
-8. [A Generation on Antidepressants Searches for the Exit](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
+7. [Groceries Are Expensive. Here’s How 5 Shoppers Are Adjusting.](https://www.nytimes.com/interactive/2026/08/05/dining/grocery-prices-shoppers.html)
 
-Many people feel that antidepressants block their true emotions, but they don’t have guidance about how to get off these drugs.
-
-
-9. [He Trained to Stop a Mass Shooting. When the Moment Came, He Was Ready.](https://www.nytimes.com/2026/08/07/us/twin-falls-idaho-shooting.html)
-
-While the motive in the strip mall shooting rampage in Twin Falls, Idaho, remains elusive, a community embraces a bystander who stepped in.
+Two years ago, we collected receipts from people across the U.S. We thought now would be a good time to look at their spending again.
 
 
-10. [Insults, Expletives and Fat-Shaming: Vance Trolls Critics on the Right and Left](https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html)
+8. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
 
-The vice president has dispensed with the decorum and restraint of his predecessors to directly take on opponents and journalists on social media with sometimes profane and often personal jabs.
+For an audience that grew to more than a million followers, she challenged assumptions about how people with serious illnesses should look and live.
+
+
+9. [Justin Trudeau, Katy Perry and the Look of the Celebrity Statesman](https://www.nytimes.com/2026/08/07/style/justin-trudeau-katy-perry-style.html)
+
+What the former prime minister’s boyfriend rebrand says about the intersection of politics and entertainment.
+
+
+10. [Trump Restarts Battle to Fire Sitting Fed Governor](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html)
+
+The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
 
 
