@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-08 09:44:20)
+## 📰 NYTimes Most Popular (Updated: 2026-08-08 10:39:43)
 
-1. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)
+1. [A Generation on Antidepressants Searches for the Exit](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
 
-While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.
-
-
-2. [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
-
-A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
+Many people feel that antidepressants block their true emotions, but they don’t have guidance about how to get off these drugs.
 
 
-3. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
+2. [Groceries Are Expensive. Here’s How 5 Shoppers Are Adjusting.](https://www.nytimes.com/interactive/2026/08/05/dining/grocery-prices-shoppers.html)
 
-For an audience that grew to more than a million followers, she challenged assumptions about how people with serious illnesses should look and live.
-
-
-4. [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html)
-
-Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
+Two years ago, we collected receipts from people across the U.S. We thought now would be a good time to look at their spending again.
 
 
-5. [Prosecutor Sues Justice Dept. Over Dismissal After Right-Wing Influencer’s Claim](https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html)
+3. [‘I Was So Wrong’: Iranians Say Trump’s Promises Never Came True](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html)
 
-Will Rosenzweig joins a growing list of former prosecutors and federal agents who have gone to court to contest the purge of law enforcement deemed disloyal.
+As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.
 
 
-6. [The Gospel According to Anthony Bourdain](https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html)
+4. [The Gospel According to Anthony Bourdain](https://www.nytimes.com/2026/08/07/magazine/tony-anthony-bourdain-cult-fandom.html)
 
 Fans of the late writer and chef are cultlike in their devotion. But have they misunderstood his message?
 
 
-7. [Insults, Expletives and Fat-Shaming: Vance Trolls Critics on the Right and Left](https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html)
+5. [‘The First Time I Voted for Donald Trump, I Thought It Was Going to Make a Difference’](https://www.nytimes.com/2026/08/07/opinion/georgia-midterm-black-voters-senate.html)
 
-The vice president has dispensed with the decorum and restraint of his predecessors to directly take on opponents and journalists on social media with sometimes profane and often personal jabs.
-
-
-8. [Republicans Cannot Possibly Let This Congressman Go On](https://www.nytimes.com/2026/08/07/opinion/max-miller-moreno-ohio-congressman.html)
-
-This Ohio congressman should not still be running for Congress.
+In Georgia, where Black voters could help decide control of the Senate, Mara Gay asks what they want from America and the Democratic Party.
 
 
-9. [Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say](https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html)
+6. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
+
+Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
+
+
+7. [Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom](https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html)
+
+In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.
+
+
+8. [Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say](https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html)
 
 A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.
 
 
-10. [He Trained to Stop a Mass Shooting. When the Moment Came, He Was Ready.](https://www.nytimes.com/2026/08/07/us/twin-falls-idaho-shooting.html)
+9. [Trump Restarts Battle to Fire Sitting Fed Governor](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html)
 
-While the motive in the strip mall shooting rampage in Twin Falls, Idaho, remains elusive, a community embraces a bystander who stepped in.
+The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
+
+
+10. [Trump Signs Executive Orders Targeting Birthright Citizenship](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html)
+
+The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
 
 
