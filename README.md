@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-08 04:14:26)
+## 📰 NYTimes Most Popular (Updated: 2026-08-08 05:45:55)
 
-1. [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
+1. [Woman Who Killed Husband 2 Decades Ago Admits to Murdering Wife](https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html)
 
-A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
-
-
-2. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
-
-Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
+A California woman who was sentenced to 11 years in prison in 2004 pleaded guilty this week in another stabbing death.
 
 
-3. [Cassidy Will Back Blanche, Salvaging His Confirmation](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html)
+2. [Republicans Cannot Possibly Let This Congressman Go On](https://www.nytimes.com/2026/08/07/opinion/max-miller-moreno-ohio-congressman.html)
 
-The Louisiana senator said that, despite reservations, he would back President Trump’s pick for attorney general, giving Republicans enough votes for a majority.
+This Ohio congressman should not still be running for Congress.
 
 
-4. [He Trained to Stop a Mass Shooting. When the Moment Came, He Was Ready.](https://www.nytimes.com/2026/08/07/us/twin-falls-idaho-shooting.html)
+3. [A Generation on Antidepressants Searches for the Exit](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
+
+Many people feel that antidepressants block their true emotions, but they don’t have guidance about how to get off these drugs.
+
+
+4. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
+
+For an audience that grew to more than a million followers, she challenged assumptions about how people with serious illnesses should look and live.
+
+
+5. [He Trained to Stop a Mass Shooting. When the Moment Came, He Was Ready.](https://www.nytimes.com/2026/08/07/us/twin-falls-idaho-shooting.html)
 
 While the motive in the strip mall shooting rampage in Twin Falls, Idaho, remains elusive, a community embraces a bystander who stepped in.
 
 
-5. [Prosecutor Sues Justice Dept. Over Dismissal After Right-Wing Influencer’s Claim](https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html)
+6. [Prosecutor Sues Justice Dept. Over Dismissal After Right-Wing Influencer’s Claim](https://www.nytimes.com/2026/08/07/us/politics/prosecutor-fired-lawsuit-justice-department.html)
 
 Will Rosenzweig joins a growing list of former prosecutors and federal agents who have gone to court to contest the purge of law enforcement deemed disloyal.
-
-
-6. [The Bond Market Is Signaling Rising Risks. Investors Should Listen.](https://www.nytimes.com/2026/08/07/business/bonds-stocks-federal-reserve-interest-rates.html)
-
-While the Fed didn’t raise rates, the bond market did. That means hardship for home buyers and higher hurdles for A.I. data centers and the stock market. But it’s also a boon for retirees.
 
 
 7. [‘I Was So Wrong’: Iranians Say Trump’s Promises Never Came True](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html)
@@ -35,9 +35,9 @@ While the Fed didn’t raise rates, the bond market did. That means hardship for
 As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.
 
 
-8. [Insults, Expletives and Fat-Shaming: Vance Trolls Critics on the Right and Left](https://www.nytimes.com/2026/08/06/us/politics/jd-vance-insults.html)
+8. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
 
-The vice president has dispensed with the decorum and restraint of his predecessors to directly take on opponents and journalists on social media with sometimes profane and often personal jabs.
+Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
 
 
 9. [Groceries Are Expensive. Here’s How 5 Shoppers Are Adjusting.](https://www.nytimes.com/interactive/2026/08/05/dining/grocery-prices-shoppers.html)
@@ -45,8 +45,8 @@ The vice president has dispensed with the decorum and restraint of his predecess
 Two years ago, we collected receipts from people across the U.S. We thought now would be a good time to look at their spending again.
 
 
-10. [A Generation on Antidepressants Searches for the Exit](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
+10. [Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom](https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html)
 
-Many people feel that antidepressants block their true emotions, but they don’t have guidance about how to get off these drugs.
+In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.
 
 
