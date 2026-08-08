@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-08 19:35:01)
+## 📰 NYTimes Most Popular (Updated: 2026-08-08 20:37:03)
 
-1. [Woman Who Killed Husband 2 Decades Ago Admits to Murdering Wife](https://www.nytimes.com/2026/08/06/us/woman-murder-spouse-california.html)
+1. [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
 
-A California woman who was sentenced to 11 years in prison in 2004 pleaded guilty this week in another stabbing death.
+A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
 
 
-2. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
+2. [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html)
+
+Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
+
+
+3. [Iran Issues List of Demands, Complicating Efforts to Reopen Strait](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html)
+
+The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
+
+
+4. [After Trump Calls Canadians ‘Nasty,’ Mark Carney Says the Word Fits Trade Talks](https://www.nytimes.com/2026/08/06/world/canada/carney-trump-tariffs-trade.html)
 
 Canada’s prime minister laughed off Trump’s description of Canada but suggested that trade talks between the two countries are acrimonious.
 
 
-3. [Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom](https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html)
+5. [She Is Russia’s Richest Woman. Her Business Empire Is Going Up in Flames.](https://www.nytimes.com/2026/08/08/world/europe/russia-wildberries-tatyana-kim.html)
 
-In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.
-
-
-4. [Trump Signs Executive Orders Targeting Birthright Citizenship](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html)
-
-The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
+As Ukraine repeatedly strikes warehouses of the e-commerce site Wildberries, Tatyana Kim, its billionaire co-founder, faces her biggest test yet.
 
 
-5. [‘I Was So Wrong’: Iranians Say Trump’s Promises Never Came True](https://www.nytimes.com/2026/08/07/us/politics/trump-iran-war-protesters.html)
+6. [He Trained to Stop a Mass Shooting. When the Moment Came, He Was Ready.](https://www.nytimes.com/2026/08/07/us/twin-falls-idaho-shooting.html)
 
-As President Trump struggles to extricate the United States from the war in Iran, his promises to protesters in the country have fallen by the wayside.
-
-
-6. [Trump, Told It Was Illegal, Still Pressured Pence to Overturn His Loss](https://www.nytimes.com/2022/06/16/us/trump-pence-election-jan-6.html)
-
-In its third public hearing to lay out its findings, the House committee investigating the Jan. 6 attack showed evidence that the president knew his order to the vice president was unlawful.
+While the motive in the strip mall shooting rampage in Twin Falls, Idaho, remains elusive, a community embraces a bystander who stepped in.
 
 
-7. [Groceries Are Expensive. Here’s How 5 Shoppers Are Adjusting.](https://www.nytimes.com/interactive/2026/08/05/dining/grocery-prices-shoppers.html)
+7. [Republicans Cannot Possibly Let This Congressman Go On](https://www.nytimes.com/2026/08/07/opinion/max-miller-moreno-ohio-congressman.html)
 
-Two years ago, we collected receipts from people across the U.S. We thought now would be a good time to look at their spending again.
+This Ohio congressman should not still be running for Congress.
 
 
-8. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
+8. [The News Quiz](https://www.nytimes.com/quiz/2026/08/06/briefing/weekly-news-quiz.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+9. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
 
 For an audience that grew to more than a million followers, she challenged assumptions about how people with serious illnesses should look and live.
 
 
-9. [Justin Trudeau, Katy Perry and the Look of the Celebrity Statesman](https://www.nytimes.com/2026/08/07/style/justin-trudeau-katy-perry-style.html)
+10. [Trump, Told It Was Illegal, Still Pressured Pence to Overturn His Loss](https://www.nytimes.com/2022/06/16/us/trump-pence-election-jan-6.html)
 
-What the former prime minister’s boyfriend rebrand says about the intersection of politics and entertainment.
-
-
-10. [Trump Restarts Battle to Fire Sitting Fed Governor](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html)
-
-The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
+In its third public hearing to lay out its findings, the House committee investigating the Jan. 6 attack showed evidence that the president knew his order to the vice president was unlawful.
 
 
