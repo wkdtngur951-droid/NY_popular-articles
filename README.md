@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-08 23:34:34)
+## 📰 NYTimes Most Popular (Updated: 2026-08-09 02:10:44)
 
-1. [Groceries Are Expensive. Here’s How 5 Shoppers Are Adjusting.](https://www.nytimes.com/interactive/2026/08/05/dining/grocery-prices-shoppers.html)
+1. [These 25 Artifacts Explain America](https://www.nytimes.com/interactive/2026/08/04/opinion/museum-of-america.html)
 
-Two years ago, we collected receipts from people across the U.S. We thought now would be a good time to look at their spending again.
-
-
-2. [Abdul El-Sayed Talks About His Victory, Chuck Schumer and His Mom](https://www.nytimes.com/2026/08/07/us/politics/abdul-el-sayed-michigan-primary-interview.html)
-
-In an interview with The New York Times, Dr. El-Sayed recalled some of his conversations with establishment figures who once opposed his candidacy.
+Want to understand this country? Look at our stuff.
 
 
-3. [Justin Trudeau, Katy Perry and the Look of the Celebrity Statesman](https://www.nytimes.com/2026/08/07/style/justin-trudeau-katy-perry-style.html)
+2. [Who Are the Good Guys and the Bad Guys? I’m No Longer Sure.](https://www.nytimes.com/2026/08/08/opinion/obama-trump-biden-enemy.html)
 
-What the former prime minister’s boyfriend rebrand says about the intersection of politics and entertainment.
-
-
-4. [Trump Restarts Battle to Fire Sitting Fed Governor](https://www.nytimes.com/2026/08/07/business/trump-lisa-cook-fed.html)
-
-The Trump administration, rebuffed by the Supreme Court in its first attempt to fire Lisa D. Cook, sent the Federal Reserve governor a letter saying it was “considering” removing her from the job.
+Where does the side of the angels really lie?
 
 
-5. [Trump Signs Executive Orders Targeting Birthright Citizenship](https://www.nytimes.com/2026/08/06/us/politics/trump-birthright-citizenship-tourism.html)
+3. [Flashback: Your Weekly History Quiz, Aug. 8, 2026](https://www.nytimes.com/interactive/2026/08/07/upshot/flashback.html)
 
-The orders come after the Supreme Court ruled June 30 that President Trump’s previous efforts to end birthright citizenship were unconstitutional.
-
-
-6. [Blanche Is Confirmed as Attorney General After Overcoming G.O.P. Concerns](https://www.nytimes.com/2026/08/07/us/politics/todd-blanche-ag-murkowski.html)
-
-Todd Blanche, who has served as acting attorney general since April, eked out Senate approval, despite growing unease about his willingness to rein in President Trump.
+Can you sort 8 historical events?
 
 
-7. [Iran Issues List of Demands, Complicating Efforts to Reopen Strait](https://www.nytimes.com/2026/08/08/world/middleeast/iran-us-oman-strait-of-hormuz.html)
+4. [New York City Dismisses Haitian Workers After Loss of Protected Status](https://www.nytimes.com/2026/08/07/nyregion/haitian-nyc-workers-tps.html)
 
-The head of Iran’s Supreme National Security Council said that the Strait of Hormuz would remain closed until the United States met certain conditions.
-
-
-8. [A Generation on Antidepressants Searches for the Exit](https://www.nytimes.com/2026/08/07/opinion/antidepressants-ssris-side-effects-drugs-maha.html)
-
-Many people feel that antidepressants block their true emotions, but they don’t have guidance about how to get off these drugs.
+Officials said that dozens of Haitian workers for the city would lose their jobs, but warned that the number could easily reach the hundreds.
 
 
-9. [Sydney Towle, Who Chronicled Her Cancer on TikTok, Dies at 26](https://www.nytimes.com/2026/08/06/style/sydney-towle-dead.html)
+5. [Students Skinned a Bear in a Dorm. Cornell Realized It Should Ban That.](https://www.nytimes.com/2026/08/07/nyregion/cornell-student-bear-meat.html)
 
-For an audience that grew to more than a million followers, she challenged assumptions about how people with serious illnesses should look and live.
+After two Cornell University students skinned a black bear in a communal kitchen last year to make a meal, the school changed the rules.
 
 
-10. [Boy Kills Grandparents and Then Five Teachers, Thai Authorities Say](https://www.nytimes.com/2026/08/07/world/asia/thailand-school-shooting.html)
+6. [The 50 Best Thrillers of the 21st Century](https://www.nytimes.com/interactive/2026/books/best-thriller-books-21st-century.html)
 
-A student killed his grandparents before opening fire at his high school and shooting himself, the authorities said. The episode revived a debate about gun laws.
+Hundreds of novelists, librarians, editors and other book lovers voted. See how their ballots stack up.
+
+
+7. [How the Reflecting Pool Came to Mirror Trump’s Washington](https://www.nytimes.com/2026/08/07/us/politics/reflecting-pool-trump-administration.html)
+
+A hospitality manager for the Trump Organization traveled to Las Vegas to find a solution to problems at a national landmark. This is the untold back story of the fallout.
+
+
+8. [Why a Fabulous Broadway Show Can Fill Its Seats and Still Close](https://www.nytimes.com/2026/08/08/opinion/cats-jellicle-ball-closing-webber-de-shields.html)
+
+“Cats: The Jellicle Ball” was a success, despite its short run.
+
+
+9. [The News Quiz](https://www.nytimes.com/quiz/2026/08/06/briefing/weekly-news-quiz.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+10. [Growing Up in Peru, I Thought I Knew Poverty. America Surprised Me.](https://www.nytimes.com/2026/08/08/opinion/america-poverty-peru.html)
+
+A Latin American sees homes that have air-conditioning but are racked by addiction and puzzles over what it means to be poor.
 
 
