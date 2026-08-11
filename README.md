@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-11 09:05:48)
+## 📰 NYTimes Most Popular (Updated: 2026-08-11 10:55:17)
 
-1. [Flight Is Canceled After a Child Refuses to Be Seated](https://www.nytimes.com/2026/08/09/travel/flight-canceled-child-seatbelt-porter-canada.html)
+1. [Map: 7.4-Magnitude Earthquake Shakes Colombia](https://www.nytimes.com/interactive/2026/08/10/world/earthquake-colombia-tracker.html)
 
-Passengers aboard a Porter Airlines plane headed to Toronto had to wait for a flight the next day after a child remained standing in a seat and would not get buckled in, the company said.
-
-
-2. [Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61](https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html)
-
-She challenged the conventional view that most head and neck cancers resulted from cigarette smoking and excessive alcohol consumption.
+View the location of the quake’s epicenter and shake area.
 
 
-3. [Adieu, Odysseus. Enough Already.](https://www.nytimes.com/2026/08/10/opinion/odyssey-nolan-discourse.html)
+2. [Private Equity Is Stuck With 33,575 Unsold Businesses](https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html)
+
+Even amid a booming deal-making environment, private equity firms are unable to exit a growing number of investments at values their investors require.
+
+
+3. [Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.](https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html)
+
+In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.
+
+
+4. [Adieu, Odysseus. Enough Already.](https://www.nytimes.com/2026/08/10/opinion/odyssey-nolan-discourse.html)
 
 The attention to “The Odyssey” is as exhausting as its hero’s travels.
-
-
-4. [Inside the Left’s Playbook for Winning Elections](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html)
-
-Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
 
 
 5. [A Nighttime New York Boat Tour Turned Deadly in a Matter of Moments](https://www.nytimes.com/2026/08/10/nyregion/nyc-boat-deadly-capsize.html)
@@ -25,28 +25,28 @@ Progressives are being outspent and are receiving little support from the Democr
 Investigators are focusing on the tour operator and the captain of the boat that capsized in New York Bay on Saturday, killing a mother and her infant daughter.
 
 
-6. [Amanda Knox Takes the Stage, Reclaiming Her Story Through Comedy](https://www.nytimes.com/2026/08/10/theater/amanda-knox-comedy-edinburgh-festival-fringe.html)
+6. [Traffic to Trump’s Truth Social Falls Sharply This Summer](https://www.nytimes.com/2026/08/10/business/trump-truth-social-traffic-declines.html)
+
+President Trump’s social media platform has had double-digit declines in visitors in June and July, according to estimates from a widely cited online tracking firm.
+
+
+7. [Amanda Knox Takes the Stage, Reclaiming Her Story Through Comedy](https://www.nytimes.com/2026/08/10/theater/amanda-knox-comedy-edinburgh-festival-fringe.html)
 
 In a solo show at the Edinburgh Fringe, Knox is trying to turn her tabloid infamy into stand-up humor, despite an intense backlash.
 
 
-7. [Beth, the Beloved Vacuum of a 92-Year-Old Iowa Senator, Has Died](https://www.nytimes.com/2026/08/08/us/politics/beth-vacuum-chuck-grassley-iowa.html)
+8. [He Saw Specialist After Specialist. He Died When No One Gave Him a Flu Shot.](https://www.nytimes.com/2026/08/10/opinion/medical-cures-trump-patients.html)
 
-Senator Chuck Grassley mourned his decades-long cleaning companion, writing on social media: “GOOD BYE BETH. U hv been a real workhorse.”
-
-
-8. [Trump Said to Have Secretly Used Military Jet to Leave Turkey Amid Threats](https://www.nytimes.com/2026/08/10/us/politics/trump-plane-ruse.html)
-
-President Trump hid in an airport catering container and was taken to a military jet for a secret flight out of country after the NATO summit last month.
+The Trump administration has dismantled the agency that ensures that research makes its way into medical practice.
 
 
-9. [Gen Z-ers Dress Like They’ve Never Worn Clothes Before](https://www.nytimes.com/2026/08/10/opinion/subcultures-dead-age.html)
+9. [Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61](https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html)
 
-It used to be that you could tell goths from preps by the look of them.
+She challenged the conventional view that most head and neck cancers resulted from cigarette smoking and excessive alcohol consumption.
 
 
-10. [Map: 7.4-Magnitude Earthquake Shakes Colombia](https://www.nytimes.com/interactive/2026/08/10/world/earthquake-colombia-tracker.html)
+10. [Ukrainian Drone Attack Deep Into Russia Is Among Its Deadliest of the War](https://www.nytimes.com/2026/08/10/world/europe/ukraine-drone-attack-russia.html)
 
-View the location of the quake’s epicenter and shake area.
+The strike, on an industrial center in Tatarstan, killed at least 13 people.
 
 
