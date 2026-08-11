@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-10 23:40:04)
+## 📰 NYTimes Most Popular (Updated: 2026-08-11 02:09:32)
 
-1. [Senate Bows to Reality, Leaving Trump’s Voting Bill Undone](https://www.nytimes.com/2026/08/08/us/politics/trump-save-america-act-republican-voting-bill-senate.html)
+1. [A Fight Brews Between Mamdani and Amazon Over Delivery Workers](https://www.nytimes.com/2026/08/10/nyregion/mamdani-amazon-delivery-workers-nyc.html)
 
-The summer exit confirmed what had been apparent for weeks: that Republicans lacked the votes to pass the voting restrictions the president has made a top priority.
-
-
-2. [Gen Z-ers Dress Like They’ve Never Worn Clothes Before](https://www.nytimes.com/2026/08/10/opinion/subcultures-dead-age.html)
-
-It used to be that you could tell goths from preps by the look of them.
+New York City’s mayor wants major companies to hire employees directly rather than relying on contractors. The firms say that will raise prices and slow service.
 
 
-3. [Ocasio-Cortez Says She Is Freezing Her Eggs and Still Mulling a Presidential Run](https://www.nytimes.com/2026/08/09/nyregion/nyc-alexandria-ocasio-cortez-freezing-eggs.html)
+2. [Flock Cameras Can Track Every Car in America. Police Love Them. Citizens Don’t.](https://www.nytimes.com/2026/08/10/us/flock-cameras-can-track-every-car-in-america-police-love-them-citizens-dont.html)
 
-Representative Alexandria Ocasio-Cortez acknowledged the “political risk” of openly discussing her reproductive decisions.
-
-
-4. [Flight Is Canceled After a Child Refuses to Be Seated](https://www.nytimes.com/2026/08/09/travel/flight-canceled-child-seatbelt-porter-canada.html)
-
-Passengers aboard a Porter Airlines plane headed to Toronto had to wait for a flight the next day after a child remained standing in a seat and would not get buckled in, the company said.
+In Texas, there’s one thing liberals and conservatives agree on: They don’t want cameras trained on their cars.
 
 
-5. [Forget the East Wing. The Real Demolition Has Only Just Begun.](https://www.nytimes.com/2026/08/09/opinion/trump-washington-landmarks-arch-pool-east-wing.html)
+3. [Adieu, Odysseus. Enough Already.](https://www.nytimes.com/2026/08/10/opinion/odyssey-nolan-discourse.html)
 
-The Trump administration’s proposed changes to the review process will allow it to take a wrecking ball to historic sites across the country.
-
-
-6. [The Lonely Crew at the Kennedy Center Will Miss Its…Mice](https://www.nytimes.com/2026/08/09/us/politics/kennedy-center-renovation-mice.html)
-
-Employees say the performing arts center’s quirky-looking mice have an exotic back story. Do they?
+The attention to “The Odyssey” is as exhausting as its hero’s travels.
 
 
-7. [Private Equity Is Stuck With 33,575 Unsold Businesses](https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html)
+4. [Beth, the Beloved Vacuum of a 92-Year-Old Iowa Senator, Has Died](https://www.nytimes.com/2026/08/08/us/politics/beth-vacuum-chuck-grassley-iowa.html)
+
+Senator Chuck Grassley mourned his decades-long cleaning companion, writing on social media: “GOOD BYE BETH. U hv been a real workhorse.”
+
+
+5. [Private Equity Is Stuck With 33,575 Unsold Businesses](https://www.nytimes.com/2026/08/10/business/private-equity-unsold-businesses.html)
 
 Even amid a booming deal-making environment, private equity firms are unable to exit a growing number of investments at values their investors require.
 
 
-8. [He’s Young and Thoughtful, With Kennedy-esque Good Looks. Can He Break the Republican Grip on His State?](https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html)
-
-Just shy of 44 with boyish good looks, Rob Sand is very much a moderate, but he has a withering critique of the political establishment in this country.
-
-
-9. [Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61](https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html)
+6. [Maura L. Gillison, Who Linked Throat Cancers to HPV, Dies at 61](https://www.nytimes.com/2026/08/09/science/maura-l-gillison-dead.html)
 
 She challenged the conventional view that most head and neck cancers resulted from cigarette smoking and excessive alcohol consumption.
 
 
-10. [Iran, Holding Firm to Strait, Steers Trump Back to June Deal](https://www.nytimes.com/2026/08/09/world/europe/iran-strait-hormuz-trump-deal.html)
+7. [Inside the Left’s Playbook for Winning Elections](https://www.nytimes.com/2026/08/10/us/politics/progressive-left-dsa-ground-game.html)
 
-The Strait of Hormuz is Iran’s best leverage to get Washington to release Iran’s frozen assets, lift economic sanctions and end its naval blockade.
+Progressives are being outspent and are receiving little support from the Democratic Party. Their tactics show a different way to succeed.
+
+
+8. [Amanda Knox Takes the Stage, Reclaiming Her Story Through Comedy](https://www.nytimes.com/2026/08/10/theater/amanda-knox-comedy-edinburgh-festival-fringe.html)
+
+In a solo show at the Edinburgh Fringe, Knox is trying to turn her tabloid infamy into stand-up humor, despite an intense backlash.
+
+
+9. [America Is Atomizing](https://www.nytimes.com/2026/08/10/style/america-is-atomizing.html)
+
+A nation of us versus them and them and them.
+
+
+10. [One Source of Paxton’s Wealth: A Cell Tower at a Hospital He Knew Well](https://www.nytimes.com/2026/08/10/us/paxton-cell-tower-company-texas-senate.html)
+
+Ken Paxton, the Texas attorney general, makes six-figure income from a cellphone tower on the grounds of a hospital where he was a board member.
 
 
