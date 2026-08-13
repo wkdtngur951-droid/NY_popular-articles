@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-13 02:29:08)
+## 📰 NYTimes Most Popular (Updated: 2026-08-13 04:56:39)
 
-1. [A Stunning Loss in Wisconsin Shows the Limits of the Left](https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html)
+1. [Wisconsin Governor Primary Election Results](https://www.nytimes.com/interactive/2026/08/11/us/elections/results-wisconsin-governor-primary.html)
 
-Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.
-
-
-2. [Even Elite Colleges Have Become Trade Schools](https://www.nytimes.com/2026/08/12/opinion/elite-college-trade-school.html)
-
-Short-term return on investment is an impoverished view of a college education.
+Get live results and maps from the 2026 Wisconsin primary election.
 
 
-3. [Even Some Cabinet Members Didn’t Join Trump’s Secret Flight. Here’s Who Did.](https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html)
+2. [Karoline Leavitt, Trump’s Press Secretary, to Depart White House](https://www.nytimes.com/2026/08/12/us/politics/karoline-leavitt-trump-press-secretary.html)
 
-The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
-
-
-4. [Jake Whisenant, Who Raced Up Yosemite’s El Capitan at Record Speed, Dies in a Fall](https://www.nytimes.com/2026/08/11/us/jake-whisenant-climber-dead.html)
-
-Authorities in California said he died in a climbing accident. He set a record in 2024 for climbing El Capitan’s Lurking Fear route in under three hours.
+President Trump said that Ms. Leavitt, who recently gave birth to her second child, would be leaving to spend time with her family.
 
 
-5. [Gen Z-ers Dress Like They’ve Never Worn Clothes Before](https://www.nytimes.com/2026/08/10/opinion/subcultures-dead-age.html)
-
-It used to be that you could tell goths from preps by the look of them.
-
-
-6. [It Started as a Hot Tub Harbor Cruise. It Became a Rescue Mission.](https://www.nytimes.com/2026/08/11/nyregion/nyc-capsized-boat-passengers-help.html)
-
-The captain of a party boat gave the fullest account of the rescue of 12 passengers near Liberty Island. A mother and daughter died and the incident is now part of a federal investigation.
-
-
-7. [I’m Not Going to Lie About My Neck](https://www.nytimes.com/2026/08/12/opinion/face-lift-feminism-plastic-surgery.html)
+3. [I’m Not Going to Lie About My Neck](https://www.nytimes.com/2026/08/12/opinion/face-lift-feminism-plastic-surgery.html)
 
 I, like many a young woman, was once wildly judgmental about plastic surgery. Now I’m not so sure.
 
 
-8. [With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy](https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html)
+4. [A Stunning Loss in Wisconsin Shows the Limits of the Left](https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html)
 
-In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.
+Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.
 
 
-9. [He Was Deported to a Country He’d Never Heard of. He May Never Go Free.](https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html)
+5. [He Was Deported to a Country He’d Never Heard of. He May Never Go Free.](https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html)
 
 As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.
 
 
-10. [Minnesota House Speaker Wins G.O.P. Nomination for Governor](https://www.nytimes.com/2026/08/11/us/elections/minnesota-governor-republican-demuth.html)
+6. [Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment](https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html)
 
-Lisa Demuth beat Mike Lindell, the MyPillow founder who was endorsed by President Trump.
+Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has worked with Forbes on content about wealth advisers.
+
+
+7. [I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why.](https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html)
+
+The president has not been looking well. Americans should get answers to these seven questions.
+
+
+8. [Even Some Cabinet Members Didn’t Join Trump’s Secret Flight. Here’s Who Did.](https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html)
+
+The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
+
+
+9. [Even Elite Colleges Have Become Trade Schools](https://www.nytimes.com/2026/08/12/opinion/elite-college-trade-school.html)
+
+Short-term return on investment is an impoverished view of a college education.
+
+
+10. [He’s Young and Thoughtful, With Kennedyesque Good Looks. Can He Break the Republican Grip on His State?](https://www.nytimes.com/2026/08/10/opinion/rob-sand-democrats-iowa.html)
+
+Just shy of 44 with boyish good looks, Rob Sand is very much a moderate, but he has a withering critique of the political establishment in this country.
 
 
