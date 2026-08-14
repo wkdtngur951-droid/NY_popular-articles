@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-14 15:59:03)
+## 📰 NYTimes Most Popular (Updated: 2026-08-14 17:03:31)
 
 1. [Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.](https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html)
 
 The agency used a no-bid contract to buy 10 used jets, saying they were urgently needed for deportation flights. But the fleet has largely sat idle for months.
 
 
-2. [Concerns Grow Over Conditions on Navy Carrier](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html)
+2. [How the Polls Got It So Wrong in Wisconsin](https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html)
 
-The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.
-
-
-3. [U.S. Investigated Left-Leaning Groups During Minnesota Immigration Crackdown](https://www.nytimes.com/2026/08/13/us/politics/dhs-inquiry-immigration-protests-minnesota.html)
-
-The government conducted expansive surveillance, infiltrated group chats and obtained financial records of organizations never accused of crimes.
+Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?
 
 
-4. [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html)
-
-The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
-
-
-5. [If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)
-
-If there was ever a time to consider halting development of A.I., it’s now.
-
-
-6. [I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why.](https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html)
-
-The president has not been looking well. Americans should get answers to these seven questions.
-
-
-7. [Luigi Mangione Is Expected to Plead Guilty in Federal Court](https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html)
-
-He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.
-
-
-8. [Which U.S. Cities Are People Moving To?](https://www.nytimes.com/2026/08/13/realestate/which-us-cities-are-people-moving-to.html)
-
-Military bases, colleges, and local economies are among the factors driving domestic migration.
-
-
-9. [What’s Happening in Kansas Should Alarm Us All](https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html)
+3. [What’s Happening in Kansas Should Alarm Us All](https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html)
 
 Is Kansas just the beginning?
 
 
-10. [It Was a Great Scam While It Lasted](https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html)
+4. [If You Weren’t Worried About A.I., You Should Be After the Past Few Weeks](https://www.nytimes.com/2026/08/13/opinion/ai-danger-openai-anthropic-models.html)
 
-U.S. tariff rates are not for rent.
+If there was ever a time to consider halting development of A.I., it’s now.
+
+
+5. [I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why.](https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html)
+
+The president has not been looking well. Americans should get answers to these seven questions.
+
+
+6. [😭 or 😂: Do Your Emojis Make You Look Old?](https://www.nytimes.com/interactive/2026/08/12/upshot/emoji-generations.html)
+
+When it comes to emoji usage, we’re all just following teen girls.
+
+
+7. [41 of the Greatest Mexican Restaurants Across the United States](https://www.nytimes.com/2026/08/13/dining/best-mexican-restaurants-united-states.html)
+
+Our favorite choices for seafood from Sonora, carnitas from Michoacán, chalupas from Puebla and so much more.
+
+
+8. [Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment](https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html)
+
+Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has worked with Forbes on content about wealth advisers.
+
+
+9. [Trump Gives Green Light to U.S. Companies to Aim Hacks at Cybercriminals](https://www.nytimes.com/2026/08/13/us/politics/trump-private-companies-hacking-cybercriminals.html)
+
+The practice would align the United States more closely with countries like China and Russia, where spy agencies have long relied on private-sector hackers to help with national security missions.
+
+
+10. [Russian Strikes on Dozens of Grain Ships Threaten Global Food Supplies](https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html)
+
+The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
 
 
