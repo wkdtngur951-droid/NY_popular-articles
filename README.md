@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-13 23:49:13)
+## 📰 NYTimes Most Popular (Updated: 2026-08-14 02:27:14)
 
-1. [Homeland Security Paid $464 Million for Airplanes. Then It Parked Them.](https://www.nytimes.com/2026/08/13/us/politics/homeland-security-parked-airplanes.html)
+1. [What’s Happening in Kansas Should Alarm Us All](https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html)
 
-The agency used a no-bid contract to buy 10 used jets, saying they were urgently needed for deportation flights. But the fleet has largely sat idle for months.
+Is Kansas just the beginning?
 
 
-2. [I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why.](https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html)
+2. [Hegseth Is Pressed to Clarify Lawyer’s Role in Promotion Decisions](https://www.nytimes.com/2026/08/13/us/hegseth-jason-crow-military-promotions.html)
+
+Representative Jason Crow asked Defense Secretary Pete Hegseth to explain statements about his special adviser’s influence following a New York Times report.
+
+
+3. [Luigi Mangione Is Expected to Plead Guilty in Federal Court](https://www.nytimes.com/2026/08/13/nyregion/luigi-mangione-guilty-plea-federal.html)
+
+He is charged with stalking resulting in the death of an executive, but the specifics of his plea were unclear. A murder trial in state court is set for next month.
+
+
+4. [How the Polls Got It So Wrong in Wisconsin](https://www.nytimes.com/2026/08/12/us/politics/crowley-hong-wisconsin-governor-primary-polls.html)
+
+Francesca Hong, the democratic socialist running in Wisconsin’s Democratic primary for governor, had a double-digit lead in polls as recently as last week. Then she lost. What happened?
+
+
+5. [Trump Administration Lets Key Gun Law Lapse Following Court Ruling](https://www.nytimes.com/2026/08/13/us/politics/national-firearms-act-gun-control-doj.html)
+
+The retreat by the Justice Department effectively allowed a pillar of the Prohibition-era National Firearms Act to lapse.
+
+
+6. [I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why.](https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html)
 
 The president has not been looking well. Americans should get answers to these seven questions.
 
 
-3. [Kennedy Center Board Decides to Inscribe Trump’s Name on Building](https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html)
+7. [Even Some Cabinet Members Didn’t Join Trump’s Secret Flight. Here’s Who Did.](https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html)
 
-The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.
-
-
-4. [A Stunning Loss in Wisconsin Shows the Limits of the Left](https://www.nytimes.com/2026/08/12/us/elections/david-crowley-wisconsin-governors-primary.html)
-
-Francesca Hong’s defeat in the Democratic primary for governor defied expectations and may have shown the democratic socialist wave cannot reach beyond urban centers.
-
-
-5. [8 Takeaways From Tuesday’s Primaries](https://www.nytimes.com/2026/08/12/us/politics/south-carolina-wisconsin-minnesota-primaries.html)
-
-A moderate won the closely fought Democratic primary for governor in Wisconsin, the latest contest between the party’s progressive and moderate wings.
-
-
-6. [With Trump Secretly Evacuated, Imperiled Air Force One Became a Flying Decoy](https://www.nytimes.com/2026/08/11/us/politics/trump-air-force-one-decoy.html)
-
-In response to a threat against the jet last month, the president was clandestinely removed in a catering container. But the plane was sent into the skies anyway with government employees and reporters onboard.
-
-
-7. [Wisconsin Governor Primary Election Results](https://www.nytimes.com/interactive/2026/08/11/us/elections/results-wisconsin-governor-primary.html)
-
-Get live results and maps from the 2026 Wisconsin primary election.
+The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
 
 
 8. [Forbes Fired Top Editor After Discovering He Received Secret $6 Million Payment](https://www.nytimes.com/2026/08/12/business/forbes-editor-fired.html)
@@ -40,13 +40,13 @@ Get live results and maps from the 2026 Wisconsin primary election.
 Randall Lane, the magazine’s chief content officer, received the money from the founder of Shook Research, which has worked with Forbes on content about wealth advisers.
 
 
-9. [Even Some Cabinet Members Didn’t Join Trump’s Secret Flight. Here’s Who Did.](https://www.nytimes.com/2026/08/12/us/politics/trump-air-force-one-secret-flight-passengers.html)
+9. [Russian Strikes on Dozens of Grain Ships Threaten Global Food Supplies](https://www.nytimes.com/2026/08/13/world/europe/russia-ukraine-ports-odesa-cargo-ship-attacks.html)
 
-The White House aides Natalie Harp and Dan Scavino were among those traveling with the president on a military jet.
+The deadly strikes are part of a long-running maritime battle with Ukraine and echo battles over other key shipping routes around the world.
 
 
-10. [He Was Deported to a Country He’d Never Heard Of. He May Never Go Free.](https://www.nytimes.com/2026/08/12/magazine/deportation-immigrants-prison-eswatini.html)
+10. [😭 or 😂: Do Your Emojis Make You Look Old?](https://www.nytimes.com/interactive/2026/08/12/upshot/emoji-generations.html)
 
-As the Trump administration sends a growing number of immigrants to countries they have no connection to, some find themselves imprisoned with no way out.
+When it comes to emoji usage, we’re all just following teen girls.
 
 
