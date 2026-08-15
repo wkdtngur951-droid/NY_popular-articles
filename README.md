@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-15 01:38:00)
+## 📰 NYTimes Most Popular (Updated: 2026-08-15 02:56:55)
 
 1. [I Was Dick Cheney’s Cardiologist. Trump Has Not Looked Well, and We Should Know Why.](https://www.nytimes.com/2026/08/12/opinion/trump-health-questions.html)
 
 The president has not been looking well. Americans should get answers to these seven questions.
 
 
-2. [Republicans Are About to Repeat the Democrats’ Biggest Mistake](https://www.nytimes.com/2026/08/14/opinion/republicans-woke-radical.html)
+2. [Kennedy Center Board Decides to Inscribe Trump’s Name on Building](https://www.nytimes.com/2026/08/13/arts/design/kennedy-center-closure-board-vote-trump.html)
 
-The right’s reluctance to gatekeep may be its undoing.
-
-
-3. [Is Ocasio-Cortez Ready for the Glass Cliff?](https://www.nytimes.com/2026/08/14/opinion/aoc-president-woman-egg-freezing.html)
-
-She will run as a woman but unlike how every woman before her was forced to run.
+The vote to add “Restored and Renovated by President Donald J. Trump” is an aggressive test of a judge’s order to remove his name.
 
 
-4. [This Is One of the Most Important Policy Decisions of Our Lifetime](https://www.nytimes.com/2026/08/14/opinion/ai-policy-tax-technology.html)
+3. [An Unlikely Emergency Appeal to the Supreme Court From a Dog Named Bruce](https://www.nytimes.com/2026/08/14/us/politics/supreme-court-emergency-appeal-bruce-the-dog.html)
 
-The risks posed by A.I. are too great to forgo any regulation, even for those who stand to gain tremendously from the technology’s rise.
-
-
-5. [Inside Russia’s Giant Push to Upend a Tiny Country](https://www.nytimes.com/2026/08/14/world/europe/russia-moldova-putin.html)
-
-In Moldova, Moscow paid Orthodox priests, conducted a vote-buying scheme and set up training camps on election interference — all in an effort to derail the Western-leaning government.
+A last-ditch filing this week came on behalf of a dog that a judge found to be “vicious” and shows how the court’s emergency docket has been growing.
 
 
-6. [We Are Living in a New Inferno](https://www.nytimes.com/2026/08/14/opinion/extreme-heat-arizona-climate-change.html)
+4. [Here Are the Biggest Stock Traders in Congress](https://www.nytimes.com/2026/08/14/us/politics/biggest-stock-traders-congress.html)
 
-Firefighters in Phoenix race to save lives in a city that’s only getting hotter.
-
-
-7. [Readers Pick Their 100 Best Thrillers of the Century](https://www.nytimes.com/2026/08/13/books/readers-list-100-best-thrillers-century.html)
-
-The backbone of the list: nine novels by Tana French, and five novels each from John le Carré, Kate Atkinson and Mick Herron.
+Some lawmakers and their families have traded millions of dollars worth of stocks since the start of this term.
 
 
-8. [Little Thefts, Big Charges: Trump’s Justice Dept. Targets Lesser Fraud](https://www.nytimes.com/2026/08/14/us/politics/trump-doj-fraud-california-food-truck.html)
-
-As the Trump administration drops charges against corporations and the wealthy, it is also taking aim at small-scale fraud cases, including against the operator of a weathered food truck in California.
-
-
-9. [It Was a Great Scam While It Lasted](https://www.nytimes.com/2026/08/13/opinion/us-tariffs-economy-trade-transshipment-scam.html)
-
-U.S. tariff rates are not for rent.
-
-
-10. [Jason Arday, Cambridge Scholar Who Resigned Under Scrutiny, Is Found Dead](https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html)
+5. [Jason Arday, Cambridge Scholar Who Resigned Under Scrutiny, Is Found Dead](https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html)
 
 Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.
+
+
+6. [Brad Pitt’s Return to Drinking Is Not Unsafe, Experts Say, but It’s Not for Everyone](https://www.nytimes.com/2026/08/14/us/brad-pitt-sobriety-experts.html)
+
+His disclosure in an interview revived a key question about sobriety: whether someone who once drank dangerously can ever drink moderately.
+
+
+7. [Concerns Grow Over Conditions on Navy Carrier](https://www.nytimes.com/2026/08/13/us/uss-abraham-lincoln-iran-navy.html)
+
+The U.S.S. Abraham Lincoln has been deployed for nearly nine months. Members of Congress are worried about the crew’s well-being.
+
+
+8. [Five Arrested in Connection to Stolen Works by Cézanne, Renoir and Matisse, Prosecutors Say](https://www.nytimes.com/2026/08/14/world/europe/cezanne-renoir-matisse-heist-recovered.html)
+
+The Italian military police said that art collectively valued at more than $10 million had been found five months after being taken in a nighttime heist near Parma.
+
+
+9. [Jimmy Fallon Reacts to Karoline Leavitt’s White House Exit](https://www.nytimes.com/2026/08/14/arts/television/late-night-jimmy-fallon-karoline-leavitt.html)
+
+The “Tonight Show” host said President Trump had been surprised by the press secretary’s decision to step down. “She was like, ‘I wanted to wait for a good time but there hasn’t been one, so.’”
+
+
+10. [Readers Pick Their 100 Best Thrillers of the Century](https://www.nytimes.com/2026/08/13/books/readers-list-100-best-thrillers-century.html)
+
+The backbone of the list: nine novels by Tana French, and five novels each from John le Carré, Kate Atkinson and Mick Herron.
 
 
