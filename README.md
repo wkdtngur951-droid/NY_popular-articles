@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-16 23:25:25)
+## 📰 NYTimes Most Popular (Updated: 2026-08-17 01:42:54)
 
-1. [Prosecutors Examined Firm With Tie to Judge in Trump Hush-Money Trial](https://www.nytimes.com/2026/08/15/us/politics/prosecutors-examined-firm-with-tie-to-judge-in-trump-hush-money-trial.html)
+1. [As the Old Files Open, One Family Confronts Another’s Dark Nazi Past](https://www.nytimes.com/2026/08/16/arts/zilversmit-netherlands-podcast-book-holocaust-nazi.html)
 
-The U.S. attorney in Chicago subpoenaed a fund-raising firm that had been co-owned by the daughter of Judge Juan Merchan, who conducted the trial that led to Donald Trump’s felony conviction.
-
-
-2. [Flashback: Your Weekly History Quiz, Aug. 15, 2026](https://www.nytimes.com/interactive/2026/08/14/upshot/flashback.html)
-
-Can you sort 8 historical events?
+A woman who secured the criminal file of her grandmother, a collaborator, offered to share it with a Jewish family that had been betrayed. Then she balked and a new dispute ensued.
 
 
-3. [Mary Heilmann, Painter of Vividly Wobbly Abstractions, Dies at 86](https://www.nytimes.com/2026/08/15/arts/design/mary-heilmann-dead.html)
+2. [Tommy John, Pitcher Who Gave His Name to Career-Saving Surgery, Dies at 83](https://www.nytimes.com/2026/08/16/sports/baseball/tommy-john-dead.html)
 
-An emblem of the obstacles faced by women artists of her generation, she was 67 when her first museum retrospective opened to rave reviews in 2007.
-
-
-4. [An American Mosaic](https://www.nytimes.com/interactive/2026/07/01/us/america-ancestry-census-data-map.html)
-
-This map shows how people in the United States identify their ancestry or family origin. Explore the many ways we describe our heritage and ourselves.
+After tearing an elbow ligament, he underwent a risky procedure and returned at his best, changing baseball and giving new hope to injured players.
 
 
-5. [Jason Arday, Cambridge Scholar Who Resigned Under Scrutiny, Is Found Dead](https://www.nytimes.com/2026/08/14/world/europe/jason-arday-dead.html)
+3. [Inside Emmy Rossum’s Tidy and Spacious Upper East Side Home](https://www.nytimes.com/interactive/2026/08/16/realestate/emmy-rossum-home-tour-furious.html)
 
-Mr. Arday resigned last week after the university announced an investigation into allegations of plagiarism and fabrication.
-
-
-6. [Brad Pitt’s Return to Drinking Is Not Unsafe, Experts Say, but It’s Not for Everyone](https://www.nytimes.com/2026/08/14/us/brad-pitt-sobriety-experts.html)
-
-His disclosure in an interview revived a key question about sobriety: whether someone who once drank dangerously can ever drink moderately.
+The ‘Furious’ actress long dreamed of returning to the neighborhood where she grew up, but with more square footage this time.
 
 
-7. [What’s Happening in Kansas Should Alarm Us All](https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html)
+4. [What’s Happening in Kansas Should Alarm Us All](https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html)
 
 Is Kansas just the beginning?
+
+
+5. [Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off](https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html)
+
+Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 200,000 Canadians want him gone.
+
+
+6. [Ocasio-Cortez Rewrites the Rules](https://www.nytimes.com/2026/08/16/opinion/aoc-egg-freezing-women-politics.html)
+
+The representative is fusing her body and mind on the public stage to show us what real female power can look like.
+
+
+7. [As Iran War Turns Into Economic Battle, a New U.S. Strategy Recalls Old Ones](https://www.nytimes.com/2026/08/16/world/middleeast/iran-war-us-trump.html)
+
+The United States and Iran are poised to blow past a deadline they had set themselves to broker terms on peace and Iran’s nuclear program.
 
 
 8. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
@@ -40,13 +40,13 @@ Is Kansas just the beginning?
 Try these simple movements to stay strong and limber.
 
 
-9. [The New York Times News Quiz, August 14, 2026](https://www.nytimes.com/quiz/2026/08/14/briefing/weekly-news-quiz.html)
+9. [Trump’s Other Hold on the Americas: The Visa](https://www.nytimes.com/2026/08/16/world/americas/trump-americas-visas.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+As part of its expansionist approach to the Western Hemisphere, the Trump administration is trying to reassert its dominance, one U.S. visa at a time.
 
 
-10. [Europe’s Great Rivers Are Dying. The Continent Is In for a Shock.](https://www.nytimes.com/2026/08/15/opinion/europe-rivers-danube-rhine-drought.html)
+10. [Professor’s Death Leaves Behind Hard Questions for Cambridge on Race and Hiring](https://www.nytimes.com/2026/08/15/world/europe/jason-arday-cambridge-hiring-questions.html)
 
-Climate change is beginning to tear up the old map of Europe’s power and wealth.
+Jason Arday, the school’s youngest Black professor, was found dead on Friday. The school ignored a series of warnings about his life story and his work.
 
 
