@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-17 23:27:45)
+## 📰 NYTimes Most Popular (Updated: 2026-08-18 01:38:15)
 
-1. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
+1. [Sick of A.I. Slop? So Are Tech Giants.](https://www.nytimes.com/2026/08/17/technology/ai-slop.html)
+
+Spotify, LinkedIn and others are trying to dig out of a digital sewage heap full of low-quality content made with artificial intelligence.
+
+
+2. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
 
 The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
 
 
-2. [Emergency Responders Found Hayden Panettiere in Cardiac Arrest](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html)
+3. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
 
-After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”
-
-
-3. [Cutting Your Parents Off Isn’t the Answer](https://www.nytimes.com/2026/08/16/opinion/parents-children-no-contact-families.html)
-
-Many queer people are going no contact — cutting off their families for myriad reasons. It’s not always the right answer.
+Try these simple movements to stay strong and limber.
 
 
-4. [Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln](https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html)
-
-Admiral Brad Cooper, head of U.S. Central Command, acknowledged the difficulty of the carrier’s nearly nine-month deployment but said mental health issues were lower than on other vessels.
-
-
-5. [Canadian Petition to Expel U.S. Ambassador Pete Hoekstra Takes Off](https://www.nytimes.com/2026/08/15/world/canada/hoekstra-ambassador-petition-canada-trump.html)
-
-Mr. Hoekstra has been President Trump’s faithful messenger in Canada amid a historic low in relations. More than 200,000 Canadians want him gone.
-
-
-6. [I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything.](https://www.nytimes.com/2026/08/17/opinion/higher-ed-dostoevsky-attention.html)
+4. [I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything.](https://www.nytimes.com/2026/08/17/opinion/higher-ed-dostoevsky-attention.html)
 
 Teachers need to model the passion they want to see.
 
 
-7. [What’s Happening in Kansas Should Alarm Us All](https://www.nytimes.com/2026/08/13/opinion/kansas-anti-trans-laws-drivers-license.html)
+5. [Nation’s Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 
-Is Kansas just the beginning?
-
-
-8. [Nazi Jokes and Vulgar Insults: The Edgy Gun Influencer Embraced by the G.O.P.](https://www.nytimes.com/2026/08/16/us/politics/herrera-trump-republican-texas-house.html)
-
-Brandon Herrera, long an anti-establishment outsider, is trying to help the party defend a red-leaning House district in West Texas. It’s proving messy.
+Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.
 
 
-9. [Brad Pitt’s Return to Drinking Is Not Unsafe, Experts Say, but It’s Not for Everyone](https://www.nytimes.com/2026/08/14/us/brad-pitt-sobriety-experts.html)
+6. [Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html)
 
-His disclosure in an interview revived a key question about sobriety: whether someone who once drank dangerously can ever drink moderately.
+In May, she published a memoir after a tumultuous decade that involved depression, substance abuse, losing custody of her daughter and stints in rehab.
 
 
-10. [This Is the Solution to America’s Literacy Crisis, and It’s a Lot of Fun](https://www.nytimes.com/2026/08/16/opinion/reading-literacy-books-education.html)
+7. [Iran Is Bracing for Conflict Abroad and at Home](https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html)
 
-Come join the fun.
+Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.
+
+
+8. [Trump’s Overture to Kim Jong-un Strains Alliance With South Korea](https://www.nytimes.com/2026/08/17/world/asia/trump-korea-military-kim-jong-un.html)
+
+President Trump wants to curtail military exercises with South Korea, saying they were hostile to North Korea. But under Mr. Kim, the North has become increasingly belligerent toward the South.
+
+
+9. [Islamophobia’s Rise in Texas: ‘I Won’t Rest Until Every Muslim Is Gone’](https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html)
+
+Muslim communities have been growing for decades, particularly around Dallas. Now, conservatives want to roll up the welcome mat.
+
+
+10. [What Do Students Lose When They Stop Writing?](https://www.nytimes.com/2026/08/17/us/student-writing-essays-ai.html)
+
+Educators are worried that many students can no longer write essays without A.I. And it’s costing more than just grammar skills.
 
 
