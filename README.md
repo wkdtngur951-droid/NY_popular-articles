@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-18 16:37:49)
+## 📰 NYTimes Most Popular (Updated: 2026-08-18 17:32:52)
 
-1. [Iran Is Bracing for Conflict Abroad and at Home](https://www.nytimes.com/2026/08/17/world/middleeast/iran-khamenei-military-leaders-war.html)
+1. [Botched Injections Left a Comedian Unable to Smile. But She’s Laughing it Off.](https://www.nytimes.com/2026/08/16/style/hannah-berner-botox-jaw-tmj.html)
 
-Ayatollah Mojtaba Khamenei’s appointment of hard-line loyalists to top jobs suggests he is prepared to keep the country on a war footing and to quash domestic dissent.
+Since a treatment for TMJ went awry, Hannah Berner, who hosts “Giggly Squad,” has made the most of her predicament.
 
 
-2. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
+2. [Hayden Panettiere, Star of ‘Nashville’ and ‘Heroes,’ Dies at 36](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-dead.html)
+
+In May, she published a memoir after a tumultuous decade that involved depression, substance abuse, losing custody of her daughter and stints in rehab.
+
+
+3. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
 
 Try these simple movements to stay strong and limber.
 
 
-3. [Nation’s Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
+4. [Trump’s Broken Promises, in 11 Charts](https://www.nytimes.com/interactive/2026/08/18/opinion/trump-economy-campaign-promises.html)
+
+The president likes to boast about the “greatest economy we’ve ever had.” His record falls far short.
+
+
+5. [Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html)
+
+“And if you thought the president hated ‘Jimmy Kimmel Live’ when it was hosted by Jimmy Kimmel, buckle up, people. Buckle up!” O’Donnell said.
+
+
+6. [Emergency Responders Found Hayden Panettiere in Cardiac Arrest](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html)
+
+After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”
+
+
+7. [Democrats, Repeat After Pete Buttigieg and Abdul El-Sayed](https://www.nytimes.com/2026/08/17/opinion/buttigieg-el-sayed-patriotism.html)
+
+Flag, faith and family don’t belong to one political party.
+
+
+8. [Nation’s Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
 
 Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.
 
 
-4. [I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything.](https://www.nytimes.com/2026/08/17/opinion/higher-ed-dostoevsky-attention.html)
-
-Teachers need to model the passion they want to see.
-
-
-5. [As Iran Truce Expires and Options Shrivel, Trump Lashes Out](https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html)
+9. [As Iran Truce Expires and Options Shrivel, Trump Lashes Out](https://www.nytimes.com/2026/08/17/us/politics/trump-iran-truce-oman.html)
 
 President Trump took aim at Oman, a U.S. ally that has been mediating the talks, as efforts to end a war he started have faltered.
 
 
-6. [I’m a Psychiatrist. I’m Hearing Something New From Young Women.](https://www.nytimes.com/2026/08/18/opinion/therapy-speak-daughter-trauma-anxiety.html)
+10. [Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un](https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html)
 
-Step 1: Take it seriously, not literally.
-
-
-7. [Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race](https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html)
-
-Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.
-
-
-8. [Top Admiral Praises Sailors but Concedes Hardships After Visit to U.S.S. Lincoln](https://www.nytimes.com/2026/08/16/us/politics/uss-lincoln-iran-admiral.html)
-
-Admiral Brad Cooper, head of U.S. Central Command, acknowledged the difficulty of the carrier’s nearly nine-month deployment but said mental health issues were lower than on other vessels.
-
-
-9. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
-
-The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
-
-
-10. [Emergency Responders Found Hayden Panettiere in Cardiac Arrest](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html)
-
-After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”
+Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?
 
 
