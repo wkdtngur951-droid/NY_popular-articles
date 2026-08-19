@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-19 01:40:10)
+## 📰 NYTimes Most Popular (Updated: 2026-08-19 03:03:11)
 
-1. [Trump’s Broken Promises, in 11 Charts](https://www.nytimes.com/interactive/2026/08/18/opinion/trump-economy-campaign-promises.html)
+1. [Two Ships Passing Through the Strait of Hormuz Are Attacked](https://www.nytimes.com/2026/08/18/business/strait-of-hormuz-ship-attack.html)
 
-The president likes to boast about the “greatest economy we’ve ever had.” His record falls far short.
-
-
-2. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
-
-The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
+Maritime officials on Tuesday announced the recent attacks, which killed at least one sailor. Six months into the conflict, the vital waterway remains perilous.
 
 
-3. [Emergency Responders Found Hayden Panettiere in Cardiac Arrest](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html)
+2. [I’m a Psychiatrist. I’m Hearing Something New From Young Women.](https://www.nytimes.com/2026/08/18/opinion/therapy-speak-daughter-trauma-anxiety.html)
 
-After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”
-
-
-4. [Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un](https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html)
-
-Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?
+Step 1: Take it seriously, not literally.
 
 
-5. [What if America Went Completely Dark?](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html)
+3. [Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race](https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html)
 
-The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.
-
-
-6. [Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007](https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html)
-
-Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.
+Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.
 
 
-7. [Florida Primary Underscores State’s New Identity as a Republican Juggernaut](https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html)
+4. [Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html)
 
-Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.
+“And if you thought the president hated ‘Jimmy Kimmel Live’ when it was hosted by Jimmy Kimmel, buckle up, people. Buckle up!” O’Donnell said.
 
 
-8. [Forty First Dates and Still Searching](https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html)
+5. [Forty First Dates and Still Searching](https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html)
 
 As he looks for The One, Joseph Pascaretta is investing in pricey matchmaking services. Will it help him find love?
 
 
-9. [Frank Beard, Beardless Drummer for ZZ Top, Dies at 77](https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html)
+6. [ABC Sues F.C.C. to Block Threat to Its TV Licenses](https://www.nytimes.com/2026/08/18/business/media/abc-fcc-lawsuit-broadcast-licenses.html)
+
+The network asked a court to stop the agency from taking steps that could force ABC stations off the air and accused the F.C.C. of violating its First Amendment rights.
+
+
+7. [Hayden Panettiere Grew Up in Front of the Camera. It Took a Toll.](https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-child-star-struggles.html)
+
+The “Heroes” and “Nashville” star, who died Sunday at 36, endured personal struggles that were compounded by her public profile.
+
+
+8. [Frank Beard, Beardless Drummer for ZZ Top, Dies at 77](https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html)
 
 The only member of the Texas power trio without a beard, he propelled the band’s blend of boogie, Southern rock and blues for more than a half-century.
 
 
-10. [Why Is It So Hard to Build the Thing Our Entire Power Supply Depends On?](https://www.nytimes.com/interactive/2026/08/17/magazine/transformers-power-electric-grid.html)
+9. [What if America Went Completely Dark?](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html)
 
-Transformers are the linchpin of modern civilization. A single one can take five years to build.
+The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.
+
+
+10. [The Meaning of the $20 Burrito That’s Tearing MAGA Apart](https://www.nytimes.com/2026/08/17/opinion/inflation-affordability-prices-burrito.html)
+
+It’s the psychology of inflation that sparks outrage over a $20 burrito.
 
 
