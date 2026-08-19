@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-19 14:39:37)
+## 📰 NYTimes Most Popular (Updated: 2026-08-19 15:37:08)
 
-1. [‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges.](https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html)
-
-President Trump’s White House aide Natalie Harp is always by his side. What, exactly, does she do?
-
-
-2. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
-
-The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
-
-
-3. [Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week](https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html)
-
-Although the fate of the ballroom is tied up in court, the Trump administration argues that the project is too far along to be stopped now.
-
-
-4. [Emergency Responders Found Hayden Panettiere in Cardiac Arrest](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html)
-
-After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”
-
-
-5. [What if America Went Completely Dark?](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html)
+1. [What if America Went Completely Dark?](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html)
 
 The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.
 
 
-6. [Trump’s Broken Promises, in 11 Charts](https://www.nytimes.com/interactive/2026/08/18/opinion/trump-economy-campaign-promises.html)
+2. [‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges.](https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html)
 
-The president likes to boast about the “greatest economy we’ve ever had.” His record falls far short.
+President Trump’s White House aide Natalie Harp is always by his side. What, exactly, does she do?
 
 
-7. [The Meaning of the $20 Burrito That’s Tearing MAGA Apart](https://www.nytimes.com/2026/08/17/opinion/inflation-affordability-prices-burrito.html)
+3. [The Meaning of the $20 Burrito That’s Tearing MAGA Apart](https://www.nytimes.com/2026/08/17/opinion/inflation-affordability-prices-burrito.html)
 
 It’s the psychology of inflation that sparks outrage over a $20 burrito.
 
 
-8. [Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life](https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html)
+4. [A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries](https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html)
+
+State Representative Angie Nixon, a progressive firebrand, defeated a moderate who dramatically out-raised her with grass-roots enthusiasm. Can it carry her to victory in November?
+
+
+5. [Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life](https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html)
 
 Despite the actress’s efforts to move on from a turbulent relationship with Brian Hickerson, they were together when she went into cardiac arrest and died.
 
 
-9. [Forty First Dates and Still Searching](https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html)
+6. [Forty First Dates and Still Searching](https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html)
 
 As he looks for The One, Joseph Pascaretta is investing in pricey matchmaking services. Will it help him find love?
 
 
-10. [Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html)
+7. [Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week](https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html)
 
-“And if you thought the president hated ‘Jimmy Kimmel Live’ when it was hosted by Jimmy Kimmel, buckle up, people. Buckle up!” O’Donnell said.
+Although the fate of the ballroom is tied up in court, the Trump administration argues that the project is too far along to be stopped now.
+
+
+8. [Wasserman Schultz Wins Democratic Primary in Historically Black District](https://www.nytimes.com/2026/08/18/us/politics/wasserman-schultz-manley-florida-primary.html)
+
+The congresswoman won her party’s nomination in Florida’s 20th District over several Black candidates who sharply criticized her decision to run there.
+
+
+9. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
+
+Try these simple movements to stay strong and limber.
+
+
+10. [‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate](https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html)
+
+Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways from the debate.
 
 
