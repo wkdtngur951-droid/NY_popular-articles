@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-18 23:27:21)
+## 📰 NYTimes Most Popular (Updated: 2026-08-19 01:40:10)
 
-1. [Botched Injections Left a Comedian Unable to Smile. But She’s Laughing It Off.](https://www.nytimes.com/2026/08/16/style/hannah-berner-botox-jaw-tmj.html)
+1. [Trump’s Broken Promises, in 11 Charts](https://www.nytimes.com/interactive/2026/08/18/opinion/trump-economy-campaign-promises.html)
 
-Since a treatment for TMJ went awry, Hannah Berner, who hosts “Giggly Squad,” has made the most of her predicament.
-
-
-2. [Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un](https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html)
-
-Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?
+The president likes to boast about the “greatest economy we’ve ever had.” His record falls far short.
 
 
-3. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
-
-Try these simple movements to stay strong and limber.
-
-
-4. [Nation’s Largest Reservoirs Are Drying Up, Threatening Life in the Southwest](https://www.nytimes.com/2026/08/17/climate/lake-powell-record-low-colorado.html)
-
-Levels in Lakes Mead and Powell have not been so low since 1957, underscoring a water crisis that plagues seven states that rely on the Colorado River.
-
-
-5. [Supreme Court Again Rejects Trump’s Appeal of $5 Million E. Jean Carroll Payment](https://www.nytimes.com/2026/08/17/us/politics/supreme-court-trump-carroll.html)
-
-The court declined President Trump’s long-shot request that it reconsider his appeal. He has separately asked the court to overturn a much larger 2024 award.
-
-
-6. [Islamophobia’s Rise in Texas: ‘I Won’t Rest Until Every Muslim Is Gone’](https://www.nytimes.com/2026/08/17/us/politics/islamophobia-texas.html)
-
-Muslim communities have been growing for decades, particularly around Dallas. Now, conservatives want to roll up the welcome mat.
-
-
-7. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
+2. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
 
 The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
 
 
-8. [What if America Went Completely Dark?](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html)
+3. [Emergency Responders Found Hayden Panettiere in Cardiac Arrest](https://www.nytimes.com/2026/08/17/arts/television/hayden-panettiere-death-foul-play.html)
+
+After the authorities responded to a 911 call in Greenville, S.C., an initial police investigation found no evidence of “foul play or suspicious circumstances.”
+
+
+4. [Facing Quagmire in Iran, Trump Turns to a Familiar Face: North Korea’s Kim Jong-un](https://www.nytimes.com/2026/08/17/us/politics/trump-iran-north-korea-kim-jong-un.html)
+
+Seven years ago, President Trump failed to disarm North Korea and walked away. Could the same thing happen with Iran?
+
+
+5. [What if America Went Completely Dark?](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html)
 
 The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.
 
 
-9. [Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race](https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html)
+6. [Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007](https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html)
 
-Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.
+Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.
 
 
-10. [I Let My Students Watch Me Struggle With a Masterpiece. It Changed Everything.](https://www.nytimes.com/2026/08/17/opinion/higher-ed-dostoevsky-attention.html)
+7. [Florida Primary Underscores State’s New Identity as a Republican Juggernaut](https://www.nytimes.com/2026/08/18/us/politics/florida-primary-republican-dominance.html)
 
-Teachers need to model the passion they want to see.
+Republicans hold every statewide elected office and have drastically swung voter registration in the state. A newly gerrymandered congressional map has added four Republican-leaning seats.
+
+
+8. [Forty First Dates and Still Searching](https://www.nytimes.com/2026/08/18/well/family/forty-first-dates-and-still-searching.html)
+
+As he looks for The One, Joseph Pascaretta is investing in pricey matchmaking services. Will it help him find love?
+
+
+9. [Frank Beard, Beardless Drummer for ZZ Top, Dies at 77](https://www.nytimes.com/2026/08/18/arts/music/frank-beard-zz-top-dead.html)
+
+The only member of the Texas power trio without a beard, he propelled the band’s blend of boogie, Southern rock and blues for more than a half-century.
+
+
+10. [Why Is It So Hard to Build the Thing Our Entire Power Supply Depends On?](https://www.nytimes.com/interactive/2026/08/17/magazine/transformers-power-electric-grid.html)
+
+Transformers are the linchpin of modern civilization. A single one can take five years to build.
 
 
