@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-20 01:38:46)
+## 📰 NYTimes Most Popular (Updated: 2026-08-20 03:02:36)
 
-1. [‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate](https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html)
+1. [The New Physics of Power](https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html)
 
-Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways from the debate.
-
-
-2. [Harry and Meghan Will Move Back to Britain After 6 Years in U.S.](https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html)
-
-The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.
+It doesn’t take much for small powers to gain a big advantage over the powerful.
 
 
-3. [Peltola Shows Strength in Crucial Alaska Senate Contest](https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html)
-
-Both parties see Alaska as key to winning the Senate. The state’s nonpartisan primary put Mary Peltola, a Democratic former congresswoman, on the same ballot as Dan Sullivan, the incumbent Republican she hopes to unseat. Both advanced to the general election.
-
-
-4. [Yes, Woke 1.0 Was Crazy. Now Where’s the Accountability?](https://www.nytimes.com/2026/08/18/opinion/woke-liberals-restitution.html)
-
-The damage was real and long-lasting.
-
-
-5. [Tariffs on Hold as Trump Claims Deal With Canada Is Near](https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html)
+2. [Tariffs on Hold as Trump Claims Deal With Canada Is Near](https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html)
 
 Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying “important work” remained.
 
 
-6. [The Left Notches Another Win With This Secret Weapon: Old-Fashioned Organizing](https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html)
+3. [U.A.E. Announces Halt to Trade With Iran Amid Trump’s Push To Isolate Tehran](https://www.nytimes.com/2026/08/19/world/middleeast/uae-cuts-trade-ties-iran-missiles.html)
 
-State Representative Angie Nixon scored a stunning upset on Tuesday in Florida’s Democratic Senate primary. Her victory will test the strength of a democratic socialist in a red state.
+The Emirates has long been a major trading hub for Iran, and analysts say it has been key to Iranian efforts to evade international sanctions, which Emirati officials deny.
 
 
-7. [‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges.](https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html)
+4. [‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges.](https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html)
 
 President Trump’s White House aide Natalie Harp is always by his side. What, exactly, does she do?
 
 
-8. [Status Defines Friendship for Too Many Americans](https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html)
+5. [‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate](https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html)
+
+Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways from the debate.
+
+
+6. [Status Defines Friendship for Too Many Americans](https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html)
 
 The four-year degree isn’t just an economic signal; it’s become a lifestyle determinant.
 
 
-9. [The ‘Crack Spread’ Is Going to Make Your Life Unpleasant](https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html)
+7. [Trump’s Lust for Vengeance Is Turning Into a Farce](https://www.nytimes.com/2026/08/19/opinion/trumps-revenge.html)
 
-Gas prices are going to remain high. Don’t blame the price of crude oil.
+Revenge shapes the president’s priorities, drives his actions and structures the decisions of his government.
+
+
+8. [U.S. Debt Hits $40 Trillion as America’s Borrowing Binge Continues](https://www.nytimes.com/2026/08/19/business/economy/us-debt-40-trillion.html)
+
+President Trump’s promises to restore fiscal order and reduce the amount of America’s debt burden have been undercut by spending on the Iran war, tax cuts and tariff refunds.
+
+
+9. [Yes, Woke 1.0 Was Crazy. Now Where’s the Accountability?](https://www.nytimes.com/2026/08/18/opinion/woke-liberals-restitution.html)
+
+The damage was real and long-lasting.
 
 
 10. [Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer](https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html)
