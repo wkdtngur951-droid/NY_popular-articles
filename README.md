@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-19 23:27:37)
+## 📰 NYTimes Most Popular (Updated: 2026-08-20 01:38:46)
 
-1. [Bond Sell-Off Sends Borrowing Costs to Highest Level Since 2007](https://www.nytimes.com/2026/08/18/business/oil-prices-bonds.html)
+1. [‘I’m Not That Informed on National Security,’ Graham Says in South Carolina Debate](https://www.nytimes.com/2026/08/18/us/politics/south-carolina-senate-runoff-debate-graham-norman.html)
 
-Yields on the 30-year U.S. Treasury and government bonds across the world rose to multiyear highs as investors fret about inflation, deficits and A.I. spending.
-
-
-2. [Rosie O’Donnell Just Knows Trump Is Watching Her Host ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/18/arts/television/rosie-odonnell-jimmy-kimmel-trump.html)
-
-“And if you thought the president hated ‘Jimmy Kimmel Live’ when it was hosted by Jimmy Kimmel, buckle up, people. Buckle up!” O’Donnell said.
+Senator Darline Graham made the remark in a debate against Representative Ralph Norman, her opponent in the runoff election to succeed her brother, Lindsey Graham. Here are five takeaways from the debate.
 
 
-3. [The ‘Crack Spread’ Is Going to Make Your Life Unpleasant](https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html)
+2. [Harry and Meghan Will Move Back to Britain After 6 Years in U.S.](https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html)
+
+The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.
+
+
+3. [Peltola Shows Strength in Crucial Alaska Senate Contest](https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html)
+
+Both parties see Alaska as key to winning the Senate. The state’s nonpartisan primary put Mary Peltola, a Democratic former congresswoman, on the same ballot as Dan Sullivan, the incumbent Republican she hopes to unseat. Both advanced to the general election.
+
+
+4. [Yes, Woke 1.0 Was Crazy. Now Where’s the Accountability?](https://www.nytimes.com/2026/08/18/opinion/woke-liberals-restitution.html)
+
+The damage was real and long-lasting.
+
+
+5. [Tariffs on Hold as Trump Claims Deal With Canada Is Near](https://www.nytimes.com/2026/08/18/world/canada/tariffs-trade-trump-carney.html)
+
+Prime Minister Mark Carney of Canada was less definitive about what the intense talks produced, saying “important work” remained.
+
+
+6. [The Left Notches Another Win With This Secret Weapon: Old-Fashioned Organizing](https://www.nytimes.com/2026/08/19/us/politics/florida-primary-progressives-upset.html)
+
+State Representative Angie Nixon scored a stunning upset on Tuesday in Florida’s Democratic Senate primary. Her victory will test the strength of a democratic socialist in a red state.
+
+
+7. [‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges.](https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html)
+
+President Trump’s White House aide Natalie Harp is always by his side. What, exactly, does she do?
+
+
+8. [Status Defines Friendship for Too Many Americans](https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html)
+
+The four-year degree isn’t just an economic signal; it’s become a lifestyle determinant.
+
+
+9. [The ‘Crack Spread’ Is Going to Make Your Life Unpleasant](https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html)
 
 Gas prices are going to remain high. Don’t blame the price of crude oil.
 
 
-4. [The Meaning of the $20 Burrito That’s Tearing MAGA Apart](https://www.nytimes.com/2026/08/17/opinion/inflation-affordability-prices-burrito.html)
+10. [Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer](https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html)
 
-It’s the psychology of inflation that sparks outrage over a $20 burrito.
-
-
-5. [Searching for Answers From the Man Accused of Sabotaging Alaska’s Senate Race](https://www.nytimes.com/2026/08/18/us/politics/dan-sullivan-alaska-senate-primary.html)
-
-Dan Sullivan, a retired schoolteacher from tiny Petersburg, Alaska, shares a name with the incumbent senator he hopes to defeat. Is he a spoiler trying to divide the Republican vote? We traveled to Alaska to find out.
-
-
-6. [I’m a Psychiatrist. I’m Hearing Something New From Young Women.](https://www.nytimes.com/2026/08/18/opinion/therapy-speak-daughter-trauma-anxiety.html)
-
-Step 1: Take it seriously, not literally.
-
-
-7. [A Stunning Win for the Left in Florida: 6 Takeaways From Tuesday’s Primaries](https://www.nytimes.com/2026/08/19/us/politics/florida-primaries-takeaways.html)
-
-State Representative Angie Nixon, a progressive firebrand, marshaled grass-roots enthusiasm to defeat a moderate who dramatically out-raised her. Can it carry her to victory in November?
-
-
-8. [What if America Went Completely Dark?](https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html)
-
-The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.
-
-
-9. [Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life](https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html)
-
-Despite the actress’s efforts to move on from a turbulent relationship with Brian Hickerson, they were together when she went into cardiac arrest and died.
-
-
-10. [Trump’s Ballroom Is Rising at Breakneck Speed: 20 Hours a Day, 7 Days a Week](https://www.nytimes.com/2026/08/18/us/politics/trump-ballroom-construction.html)
-
-Although the fate of the ballroom is tied up in court, the Trump administration argues that the project is too far along to be stopped now.
+Wispr Flow is supposed to make writing effortless and magical. So I “wrote” this column with it.
 
 
