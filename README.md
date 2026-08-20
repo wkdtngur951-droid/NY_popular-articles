@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-20 14:41:18)
+## 📰 NYTimes Most Popular (Updated: 2026-08-20 15:39:09)
 
-1. [Boyfriend Who Abused Hayden Panettiere Had Returned to Her Life](https://www.nytimes.com/2026/08/18/arts/television/hayden-panettiere-brian-hickerson.html)
+1. [Peltola Shows Strength in Crucial Alaska Senate Contest](https://www.nytimes.com/2026/08/19/us/politics/peltola-sullivan-alaska-senate-primary.html)
 
-Despite the actress’s efforts to move on from a turbulent relationship with Brian Hickerson, they were together when she went into cardiac arrest and died.
-
-
-2. [Status Defines Friendship for Too Many Americans](https://www.nytimes.com/2026/08/19/opinion/friendship-luxury-good.html)
-
-The four-year degree isn’t just an economic signal; it’s become a lifestyle determinant.
+Both parties see Alaska as key to winning the Senate. The state’s nonpartisan primary put Mary Peltola, a Democratic former congresswoman, on the same ballot as Dan Sullivan, the incumbent Republican she hopes to unseat. Both advanced to the general election.
 
 
-3. [The ‘Crack Spread’ Is Going to Make Your Life Unpleasant](https://www.nytimes.com/2026/08/19/opinion/gas-prices-crude-oil-diesel.html)
-
-Gas prices are going to remain high. Don’t blame the price of crude oil.
-
-
-4. [Yes, Woke 1.0 Was Crazy. Now Where’s the Accountability?](https://www.nytimes.com/2026/08/18/opinion/woke-liberals-restitution.html)
-
-The damage was real and long-lasting.
-
-
-5. [Years of Trump Support Came Undone in 15 Minutes in an Airport.](https://www.nytimes.com/2026/08/16/us/trump-immigration-crackdown.html)
-
-The case represents a new front in President Trump’s mass deportation drive: arrests at airports of people who have active immigration cases and no criminal history.
-
-
-6. [Trump’s Lust for Vengeance Is Turning Into a Farce](https://www.nytimes.com/2026/08/19/opinion/trumps-revenge.html)
-
-Revenge shapes the president’s priorities, drives his actions and structures the decisions of his government.
-
-
-7. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
+2. [6 Exercises Physical Therapists Wish Everyone Did to Age Well](https://www.nytimes.com/2026/08/15/well/move/exercises-physical-therapists-longevity.html)
 
 Try these simple movements to stay strong and limber.
 
 
-8. [Mamdani Sues City Council Over $10,000 Bonuses to Teachers’ Aides](https://www.nytimes.com/2026/08/19/nyregion/mamdani-ny-city-council-lawsuit-teachers.html)
+3. [‘With All My Heart, Natalie.’ Trump’s Most Devoted Aide Emerges.](https://www.nytimes.com/2026/08/18/us/politics/natalie-harp-trump-devotion-white-house.html)
 
-New York City says the Council’s legislation violates collective bargaining law. The dispute could set up the first high-profile battle between the mayor and a public sector union.
+President Trump’s White House aide Natalie Harp is always by his side. What, exactly, does she do?
 
 
-9. [More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting](https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html)
+4. [Harry and Meghan Will Move Back to Britain After 6 Years in U.S.](https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html)
+
+The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.
+
+
+5. [‘It’s Bonkers’: Jennifer Hegseth’s Hands-On Role in Her Husband’s Pentagon](https://www.nytimes.com/2026/08/19/style/jennifer-hegseth.html)
+
+After an 18-year career at Fox News, she is now her husband’s most influential adviser and de facto producer, shaping the job as no Pentagon spouse has before.
+
+
+6. [Everyone’s Using This A.I. Dictation App That I Want to Murder With a Hammer](https://www.nytimes.com/2026/08/19/magazine/ai-dictation-app-wispr.html)
+
+Wispr Flow is supposed to make writing effortless and magical. So I “wrote” this column with it.
+
+
+7. [The New Physics of Power](https://www.nytimes.com/2026/08/18/opinion/us-israel-gaza-hezbollah-hamas-houthis.html)
+
+It doesn’t take much for small powers to gain a big advantage over the powerful.
+
+
+8. [More Fed Officials Lost Patience About Elevated Inflation at Latest Meeting](https://www.nytimes.com/2026/08/19/business/federal-reserve-interest-rates.html)
 
 Minutes from the Federal Reserve’s July gathering showed broadening support for higher borrowing costs to stamp out lingering price pressures.
 
 
-10. [Harry and Meghan Will Move Back to Britain After 6 Years in U.S.](https://www.nytimes.com/2026/08/19/world/europe/prince-harry-meghan-return-uk.html)
+9. [Yes, Woke 1.0 Was Crazy. Now Where’s the Accountability?](https://www.nytimes.com/2026/08/18/opinion/woke-liberals-restitution.html)
 
-The prince and his wife, whose relations with King Charles and the rest of the royal family have long been strained, will remain non-working royals, according to a person familiar with the decision.
+The damage was real and long-lasting.
+
+
+10. [The Scales Can’t Fall From Our Eyes Fast Enough](https://www.nytimes.com/2026/08/20/opinion/trump-maga-immigration-woke-democrats.html)
+
+More Republicans and Democrats are seeing reality for what it is. Does it matter?
 
 
