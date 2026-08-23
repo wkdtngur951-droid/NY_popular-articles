@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-23 18:37:38)
+## 📰 NYTimes Most Popular (Updated: 2026-08-23 19:25:57)
 
-1. [He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.](https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html)
-
-Bryan Johnson, the longevity guru, wants to live forever. But the big question is why.
-
-
-2. [Jeffries and Kushner Meet Privately as Midterm Attacks Fly](https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html)
-
-President Trump’s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together.
-
-
-3. [What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.](https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html)
-
-Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.
-
-
-4. [Carney Stands Up to Trump in Trade War Despite the Risks](https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html)
-
-Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.
-
-
-5. [A Masked Man Was Scaring Philadelphians. Then He Picked the Wrong Woman.](https://www.nytimes.com/2026/08/20/us/chucky-doll-mask-kick-philadelphia.html)
-
-When Jameka Wilson encountered a man wearing a Chucky-style Halloween mask, her stage combat training kicked in. Now she’s a minor local celebrity.
-
-
-6. [This Is Why Women Are Scared to Tell Their Doctors the Truth](https://www.nytimes.com/2026/08/22/opinion/women-pain-doctors-medical-system.html)
-
-Is it OK to raise this issue? I don’t want to be a bother.
-
-
-7. [U.S. Economy Could Feel the Sting From Trade War With Canada](https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html)
+1. [U.S. Economy Could Feel the Sting From Trade War With Canada](https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html)
 
 A tit-for-tat trade fight between the two allies could create new headaches for consumers and businesses already stung by high prices.
 
 
-8. [The Right Is Rethinking MAGA. The Left Is Rethinking ‘Woke.’](https://www.nytimes.com/2026/08/22/opinion/politics-maga-right-left-woke-primaries.html)
+2. [5 (More) Surprising Signs You’re Getting Older](https://www.nytimes.com/2026/08/21/well/more-aging-signs.html)
 
-As primary results trickle in, both parties are wrestling with what they stand for — and where they’re headed.
-
-
-9. [‘Attacked’ by Trump on Trade, Canada Is ‘at War’ With U.S., Carney Says](https://www.nytimes.com/2026/08/22/world/canada/carney-tariffs-trade-trump.html)
-
-Prime Minister Mark Carney gave a powerful speech to Canadians on Saturday morning, hours after ordering negotiators to suspend U.S. trade talks despite President Trump’s punishing tariffs.
+Hint: You may need to buy new shoes.
 
 
-10. [Natalie’s Magnificent Obsession](https://www.nytimes.com/2026/08/22/opinion/natalie-harp-jon-ossoff-trump.html)
+3. [America’s Desert Metropolis Is on the Short List to Lose Water](https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html)
 
-This human printer runs — but not out of ink.
+Decades ago, Arizona won funding for a massive Colorado River project by agreeing to be first in line for cuts at a time of deep drought. The Trump administration says that time has come.
+
+
+4. [Harry and Meghan See Their California Dreams, and Riches, Fade Away](https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html)
+
+Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.
+
+
+5. [Canada-U.S. Trade War Escalates as Talks Collapse](https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html)
+
+Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.
+
+
+6. [Jeffries and Kushner Meet Privately as Midterm Attacks Fly](https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html)
+
+President Trump’s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together.
+
+
+7. [Frank Smith, Who Served 70 Years for Murder, Dies at 101](https://www.nytimes.com/2026/08/22/us/francis-clifford-smith-dead.html)
+
+One of the longest-serving prisoners in American history, he was sent to death row in 1950 before his sentence was commuted to life imprisonment.
+
+
+8. [Flashback: Your Weekly History Quiz, Aug. 22, 2026](https://www.nytimes.com/interactive/2026/08/21/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+9. [Postal Service Publishes Finalized Plan to Restrict Mail Ballots](https://www.nytimes.com/2026/08/21/us/politics/postal-service-rule-restrict-mail-ballots.html)
+
+The plan, which complies with President Trump’s executive order to curtail mail voting, will only go into effect if the Supreme Court rules in the order’s favor.
+
+
+10. [My Neighbor Installed a Camera Pointing to My Yard. Is That Legal?](https://www.nytimes.com/2026/08/22/realestate/neighbors-cameras-visual-surveillance.html)
+
+The answer may partly depend on whether the device was installed with the intent to harass or intimidate.
 
 
