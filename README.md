@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-24 20:37:01)
+## 📰 NYTimes Most Popular (Updated: 2026-08-24 21:35:07)
 
-1. [The U.S. Start-Up Making Low-Cost Interceptors for the Iran War](https://www.nytimes.com/2026/08/23/business/powerus-counter-drone-iran-war.html)
-
-For Florida-based Powerus, becoming a global supplier of counterdrone technology has meant involving the Trumps, a golf course and a new way of doing business.
-
-
-2. [The Barbie Backlash](https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html)
-
-‘The Odyssey’ and ‘Barbie’ show a zeitgeist shift that goes beyond Hollywood: The hero’s narrative is corroding our political and public life.
-
-
-3. [Trump’s Top Trade Representative Details Offer That Canada Rejected](https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html)
-
-In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.
-
-
-4. [Jeffries and Kushner Meet Privately as Midterm Attacks Fly](https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html)
+1. [Jeffries and Kushner Meet Privately as Midterm Attacks Fly](https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html)
 
 President Trump’s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together.
 
 
-5. [Angry Ohio Voters Could Turn Their State Purple Again](https://www.nytimes.com/2026/08/23/us/politics/ohio-politics-voter-anger.html)
+2. [I’m the Guy Who Sat in Front of You at the Beach](https://www.nytimes.com/2026/08/23/opinion/beach-battle-nemesis.html)
 
-A governor’s race, a Senate contest and enough congressional contests to swing control of the House are all in play in Ohio, where voters of all stripes express a deep sense of powerlessness.
-
-
-6. [Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex](https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html)
-
-In the year before the actress’s death, she struggled to walk at times and worked to disentangle herself from an ex-boyfriend who had abused her.
+As New Yorkers, we’re used to negotiating over tiny patches of space. But I didn’t expect that to continue on the beach.
 
 
-7. [Washington Post Ordered to Rehire Fired Columnist](https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html)
+3. [Washington Post Ordered to Rehire Fired Columnist](https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html)
 
 An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about “white men who espouse hatred and violence” following Charlie Kirk’s killing.
 
 
-8. [Jackie O’s Private Beach Is Open to All. But It’s a Hike.](https://www.nytimes.com/2026/08/23/us/kennedy-estate-marthas-vineyard-conservation.html)
+4. [Harry and Meghan See Their California Dreams, and Riches, Fade Away](https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html)
+
+Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.
+
+
+5. [Don’t Harry and Meghan Know Better?](https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html)
+
+Given their past, what does a future in England hold for them?
+
+
+6. [The Barbie Backlash](https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html)
+
+‘The Odyssey’ and ‘Barbie’ show a zeitgeist shift that goes beyond Hollywood: The hero’s narrative is corroding our political and public life.
+
+
+7. [Someone Was Impersonating Her in Online Affairs. She Says It Was Her Husband.](https://www.nytimes.com/2026/08/23/magazine/collien-fernandes-impersonators-germany-metoo.html)
+
+The German actress Collien Fernandes set out to discover who was pretending to be her and sending men sexually explicit material. Her answer ignited a feminist movement.
+
+
+8. [A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)
+
+An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.
+
+
+9. [Jackie O’s Private Beach Is Open to All. But It’s a Hike.](https://www.nytimes.com/2026/08/23/us/kennedy-estate-marthas-vineyard-conservation.html)
 
 Caroline Kennedy and her family sold more than 330 acres of coastal land on Martha’s Vineyard to conservation groups. It comes with some caveats.
 
 
-9. [The Midterms Feel Like 2006 All Over Again](https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html)
+10. [Can Democrats Win Back the Senate? Why Their Chances Are Improving.](https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html)
 
-With an unpopular war and high prices agitating voters, members of both parties see parallels to an election cycle when Democrats romped. But a lot has changed.
-
-
-10. [Harry and Meghan See Their California Dreams, and Riches, Fade Away](https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html)
-
-Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.
+Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.
 
 
