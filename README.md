@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-23 23:26:51)
+## 📰 NYTimes Most Popular (Updated: 2026-08-24 01:44:22)
 
-1. [Canada-U.S. Trade War Escalates as Talks Collapse](https://www.nytimes.com/2026/08/21/world/canada/trump-tariffs-trade-no-deal-carney-canada.html)
+1. [Jeffries and Kushner Meet Privately as Midterm Attacks Fly](https://www.nytimes.com/2026/08/23/us/politics/jeffries-kushner-private-meeting.html)
 
-Intense negotiations to stave off new levies by the Trump administration ended in an impasse as Mark Carney suspended talks. U.S. tariffs on Canada, and retaliatory tariffs on the U.S., will come into effect.
-
-
-2. [He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.](https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html)
-
-Bryan Johnson, the longevity guru, wants to live forever. But the big question is why.
+President Trump’s son-in-law and the man in line to be speaker of a Democratic-led House discussed how Democrats and the administration could work together.
 
 
-3. [Flashback: Your Weekly History Quiz, Aug. 22, 2026](https://www.nytimes.com/interactive/2026/08/21/upshot/flashback.html)
+2. [The Barbie Backlash](https://www.nytimes.com/2026/08/23/opinion/culture/heroine-journey-odyssey-barbie.html)
 
-Can you sort 8 historical events?
+‘The Odyssey’ and ‘Barbie’ show a zeitgeist shift that goes beyond Hollywood: The hero’s narrative is corroding our political and public life.
 
 
-4. [What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.](https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html)
+3. [The Midterms Feel Like 2006 All Over Again](https://www.nytimes.com/2026/08/23/us/politics/midterms-feel-like-2006-all-over-again.html)
+
+With an unpopular war and high prices agitating voters, members of both parties see parallels to an election cycle when Democrats romped. But a lot has changed.
+
+
+4. [Trump’s Top Trade Representative Details Offer That Canada Rejected](https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html)
+
+In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.
+
+
+5. [The Data Center Backlash Bursts Into the Midterms](https://www.nytimes.com/2026/08/23/us/politics/data-centers-midterm-elections.html)
+
+With opposition to the centers mounting, many Democrats and a growing number of Republicans are campaigning against them.
+
+
+6. [Republicans Are Making the Same Mistake Democrats Did](https://www.nytimes.com/2026/08/23/opinion/twitter-x-woke-1-elon-musk.html)
+
+Democrats paid a price for forming their politics on Twitter; the right will pay a price for forming theirs on X.
+
+
+7. [This Is Why Women Are Scared to Tell Their Doctors the Truth](https://www.nytimes.com/2026/08/22/opinion/women-pain-doctors-medical-system.html)
+
+Is it OK to raise this issue? I don’t want to be a bother.
+
+
+8. [What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.](https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html)
 
 Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.
 
 
-5. [U.S. Economy Could Feel the Sting From Trade War With Canada](https://www.nytimes.com/2026/08/22/business/economy-trade-war-us-canada.html)
+9. [Go Ahead, Sean Duffy. Let Your Daughter Go to Harvard.](https://www.nytimes.com/2026/08/23/opinion/harvard-education-ideology-political-polarization.html)
 
-A tit-for-tat trade fight between the two allies could create new headaches for consumers and businesses already stung by high prices.
-
-
-6. [5 (More) Surprising Signs You’re Getting Older](https://www.nytimes.com/2026/08/21/well/more-aging-signs.html)
-
-Hint: You may need to buy new shoes.
+Four years at Harvard won’t corrupt your children.
 
 
-7. [I’m the Guy Who Sat in Front of You at the Beach](https://www.nytimes.com/2026/08/23/opinion/beach-battle-nemesis.html)
+10. [Jackie O’s Private Beach Is Open to All. But It’s a Hike.](https://www.nytimes.com/2026/08/23/us/kennedy-estate-marthas-vineyard-conservation.html)
 
-As New Yorkers, we’re used to negotiating over tiny patches of space. But I didn’t expect that to continue on the beach.
-
-
-8. [Carney Stands Up to Trump in Trade War Despite the Risks](https://www.nytimes.com/2026/08/22/world/canada/carney-trump-canada-tariffs.html)
-
-Canada’s prime minister walked away from what he thought was a bad trade deal with the United States. Many Canadians are behind him, but it will be costly.
-
-
-9. [Natalie’s Magnificent Obsession](https://www.nytimes.com/2026/08/22/opinion/natalie-harp-jon-ossoff-trump.html)
-
-This human printer runs — but not out of ink.
-
-
-10. [Trump’s Top Trade Representative Details Offer That Canada Rejected](https://www.nytimes.com/2026/08/22/business/economy/greer-us-canada-trade-deal.html)
-
-In an interview, Jamieson Greer, President Trump’s trade representative, laid out details of what the United States offered to Canada before talks crumbled.
+Caroline Kennedy and her family sold more than 330 acres of coastal land on Martha’s Vineyard to conservation groups. It comes with some caveats.
 
 
