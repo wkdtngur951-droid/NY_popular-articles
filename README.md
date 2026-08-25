@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-25 22:33:06)
+## 📰 NYTimes Most Popular (Updated: 2026-08-25 23:29:39)
 
-1. [Trump Officials Propose Sale of ‘Woke’ Painting by Kehinde Wiley](https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html)
+1. [Washington Post Ordered to Rehire Fired Columnist](https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html)
 
-The State Department recently removed the painting of Dominicans from a U.S. embassy, noting it was by the artist who made Barack Obama’s presidential portrait.
-
-
-2. [These 20 Words Are Worth a Thousand Pictures](https://www.nytimes.com/interactive/2026/08/24/books/ezra-pound-poem-station-metro.html)
-
-People-watchers, trainspotters and A.O. Scott agree: Ezra Pound’s “In a Station of the Metro” is one of the shortest great poems in English.
+An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about “white men who espouse hatred and violence” following Charlie Kirk’s killing.
 
 
-3. [Canada Said No to America. It Will Reverberate Far Beyond Its Borders.](https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html)
+2. [A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)
 
-Mark Carney has chosen suffering, but he did what Canadians elected him to do.
+An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.
 
 
-4. [Canada Retaliates With Up to 50% Tariffs on Hundreds of U.S. Products](https://www.nytimes.com/2026/08/25/world/canada/canada-tariffs-trump-carney-retaliatory.html)
+3. [Target Apologizes and Drops Halloween Costume Criticized as Racist](https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html)
 
-Canada said the higher levies, on items from aluminum foil to dishwashers to fish, would help protect workers, producers and manufacturers harmed by new Trump tariffs.
+The children’s costume evoked blackface imagery, critics said. “We know we got this wrong, and we are deeply sorry,” the retailer said in response.
+
+
+4. [The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)
+
+A.I. could turn one of our country’s worst habits into a national security crisis.
 
 
 5. [Jelly Roll Celebrates His 300-Pound Weight Loss on ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html)
@@ -25,28 +25,28 @@ Canada said the higher levies, on items from aluminum foil to dishwashers to fis
 “That means I’ve lost an entire Donald Trump,” the country singer said while guest hosting Monday’s late night show.
 
 
-6. [Don’t Harry and Meghan Know Better?](https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html)
+6. [Hegseth’s Purge of Top Generals Leaves the Army Rudderless](https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html)
 
-Given their past, what does a future in England hold for them?
-
-
-7. [Target Apologizes and Drops Halloween Costume Criticized as Racist](https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html)
-
-The children’s costume evoked blackface imagery, critics said. “We know we got this wrong, and we are deeply sorry,” the retailer said in response.
+The leadership vacuum comes as the Army is trying to adapt to a new kind of war dominated by deadly drones.
 
 
-8. [The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)
+7. [Court Allows Trump to Pursue Mail Voting Limits, for Now](https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html)
 
-A.I. could turn one of our country’s worst habits into a national security crisis.
-
-
-9. [Two Unvaccinated People Died From Measles in Pennsylvania, Officials Say](https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html)
-
-The deaths were the first in the United States in 2026.
+The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.
 
 
-10. [Can Democrats Win Back the Senate? Why Their Chances Are Improving.](https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html)
+8. [Wife Charged in Massachusetts Officer’s Death Is Believed Dead](https://www.nytimes.com/2026/08/24/us/karen-solomon-dead-worcester.html)
+
+Karen Solomon, 58, a longtime advocate for the mental health of emergency workers, had been missing for six days after her husband, a police officer, was found dead.
+
+
+9. [Can Democrats Win Back the Senate? Why Their Chances Are Improving.](https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html)
 
 Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.
+
+
+10. [Canada Said No to America. It Will Reverberate Far Beyond Its Borders.](https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html)
+
+Mark Carney has chosen suffering, but he did what Canadians elected him to do.
 
 
