@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-25 16:44:04)
+## 📰 NYTimes Most Popular (Updated: 2026-08-25 17:36:08)
 
-1. [The Weed Got Too Strong](https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html)
+1. [Can Democrats Win Back the Senate? Why Their Chances Are Improving.](https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html)
+
+Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.
+
+
+2. [The Weed Got Too Strong](https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html)
 
 Are we willing to regulate and enforce cannabis safety, especially to protect the most vulnerable among us?
 
 
-2. [Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex](https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html)
-
-In the year before the actress’s death, she struggled to walk at times and worked to disentangle herself from an ex-boyfriend who had abused her.
-
-
-3. [Jelly Roll Celebrates His 300-Pound Weight Loss on ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html)
-
-“That means I’ve lost an entire Donald Trump,” the country singer said while guest hosting Monday’s late night show.
-
-
-4. [America’s Desert Metropolis Is on the Short List to Lose Water](https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html)
-
-Decades ago, Arizona won funding for a massive Colorado River project by agreeing to be first in line for cuts at a time of deep drought. The Trump administration says that time has come.
-
-
-5. [What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.](https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html)
-
-Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.
-
-
-6. [Court Allows Trump to Pursue Mail Voting Limits, for Now](https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html)
-
-The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.
-
-
-7. [Washington Post Ordered to Rehire Fired Columnist](https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html)
-
-An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about “white men who espouse hatred and violence” following Charlie Kirk’s killing.
-
-
-8. [Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease](https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html)
-
-The actual prevalence, researchers said, may be much higher.
-
-
-9. [Trump Officials Propose Sale of ‘Woke’ Painting by Kehinde Wiley](https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html)
+3. [Trump Officials Propose Sale of ‘Woke’ Painting by Kehinde Wiley](https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html)
 
 The State Department recently removed the painting of Dominicans from a U.S. embassy, noting it was by the artist who made Barack Obama’s presidential portrait.
 
 
-10. [Don’t Harry and Meghan Know Better?](https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html)
+4. [Stranded French Tourist Dies in Death Valley During 116-Degree Heat](https://www.nytimes.com/2026/08/23/us/french-tourist-dead-death-valley.html)
 
-Given their past, what does a future in England hold for them?
+The 68-year-old tourist and his companion were driving through Death Valley National Park on a remote road last week when their car got stuck in mud, officials said.
+
+
+5. [Is This a New Era of Class Warfare?](https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html)
+
+The class-based violence of the past was part of a broader struggle. Today, the violence is the end in itself.
+
+
+6. [Jelly Roll Celebrates His 300-Pound Weight Loss on ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html)
+
+“That means I’ve lost an entire Donald Trump,” the country singer said while guest hosting Monday’s late night show.
+
+
+7. [Harry and Meghan See Their California Dreams, and Riches, Fade Away](https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html)
+
+Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.
+
+
+8. [The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)
+
+A.I. could turn one of our country’s worst habits into a national security crisis.
+
+
+9. [What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.](https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html)
+
+Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.
+
+
+10. [Wife Charged in Massachusetts Officer’s Death Is Believed Dead](https://www.nytimes.com/2026/08/24/us/karen-solomon-dead-worcester.html)
+
+Karen Solomon, 58, a longtime advocate for the mental health of emergency workers, had been missing for six days after her husband, a police officer, was found dead.
 
 
