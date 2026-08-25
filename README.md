@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-25 07:51:14)
+## 📰 NYTimes Most Popular (Updated: 2026-08-25 08:50:22)
 
-1. [The Weed Got Too Strong](https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html)
+1. [Canada Said No to America. It Will Reverberate Far Beyond Its Borders.](https://www.nytimes.com/2026/08/24/opinion/mark-carney-tariffs-canada-america.html)
+
+Mark Carney has chosen suffering, but he did what Canadians elected him to do.
+
+
+2. [The Weed Got Too Strong](https://www.nytimes.com/2026/08/24/opinion/weed-marijuna-children-regulation.html)
 
 Are we willing to regulate and enforce cannabis safety, especially to protect the most vulnerable among us?
 
 
-2. [Harry and Meghan See Their California Dreams, and Riches, Fade Away](https://www.nytimes.com/2026/08/22/us/meghan-harry-hollywood-uk-move.html)
+3. [Trump’s Economic Approach Draws Concern From Some Republicans](https://www.nytimes.com/2026/08/23/us/politics/trump-republicans-economy-midterms.html)
 
-Like so many others before them, Prince Harry and Meghan arrived in Hollywood with big plans. They are leaving with their star power fading.
-
-
-3. [America’s Desert Metropolis Is on the Short List to Lose Water](https://www.nytimes.com/2026/08/23/us/arizona-canals-colorado-river.html)
-
-Decades ago, Arizona won funding for a massive Colorado River project by agreeing to be first in line for cuts at a time of deep drought. The Trump administration says that time has come.
+A plan to lower tariffs on imported beef and trade tensions with Canada have compounded some G.O.P. worries about a central issue in the midterms.
 
 
-4. [Washington Post Ordered to Rehire Fired Columnist](https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html)
+4. [Court Allows Trump to Pursue Mail Voting Limits, for Now](https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html)
 
-An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about “white men who espouse hatred and violence” following Charlie Kirk’s killing.
-
-
-5. [Can Democrats Win Back the Senate? Why Their Chances Are Improving.](https://www.nytimes.com/2026/08/24/us/politics/democrats-republicans-midterms-senate-majority.html)
-
-Republicans still have some clear advantages on the map, but President Trump’s unpopularity has opened the door for an outcome that once seemed far-fetched.
+The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.
 
 
-6. [Wife Charged in Massachusetts Officer’s Death Is Believed Dead](https://www.nytimes.com/2026/08/24/us/karen-solomon-dead-worcester.html)
-
-Karen Solomon, 58, a longtime advocate for the mental health of emergency workers, had been missing for six days after her husband, a police officer, was found dead.
-
-
-7. [Is This a New Era of Class Warfare?](https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html)
+5. [Is This a New Era of Class Warfare?](https://www.nytimes.com/2026/08/24/opinion/class-warfare-violence.html)
 
 The class-based violence of the past was part of a broader struggle. Today, the violence is the end in itself.
 
 
-8. [California Cancels Talks With Paramount Over Warner Bros. Merger](https://www.nytimes.com/2026/08/24/us/california-bonta-paramount-warner-settlement-talks.html)
+6. [Minicomputers Made by Nvidia Are Powering Moscow’s A.I. Drones](https://www.nytimes.com/2026/08/24/world/europe/ukraine-war-nvidia-ai-autonomous-drones.html)
 
-The attorney general of California, one of 12 states suing to block the $111 billion deal, accused Paramount of leaking and misrepresenting earlier settlement discussions.
-
-
-9. [What Canadian Goods Will Take Trump’s 50% Tariffs? Some Pretty Strange Items.](https://www.nytimes.com/2026/08/23/world/canada/canadian-goods-trump-tariffs-items-list.html)
-
-Buoys, dog muzzles, capes, national flags and “base metal statuettes” from Canada are now more expensive for U.S. shoppers.
+The tech giant says it does not sell the devices in Russia, but they are widely available on resale markets. When purchased that way, they are virtually impossible to track.
 
 
-10. [The Original Sin of Anthropic’s Claude](https://www.nytimes.com/2026/08/24/opinion/claude-pirated-books-ai.html)
+7. [Don’t Harry and Meghan Know Better?](https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html)
 
-The model collapse scenario threatens to wipe out whatever gains chatbots like Claude enjoyed from being trained on books in the first place.
+Given their past, what does a future in England hold for them?
+
+
+8. [Washington Post Ordered to Rehire Fired Columnist](https://www.nytimes.com/2026/08/24/business/washington-post-karen-attiah.html)
+
+An arbitrator ordered the newspaper to reinstate Karen Attiah, who was fired after posting about “white men who espouse hatred and violence” following Charlie Kirk’s killing.
+
+
+9. [A Drone Killed Three Ukrainians. It Was Guided Entirely by A.I.](https://www.nytimes.com/2026/08/24/world/europe/russia-drones-autonomous-ai-kill-ukraine-war.html)
+
+An attack by what Ukrainian officials said was a Russian drone with an Nvidia chip presages a dystopian future of weaponry untethered to humans.
+
+
+10. [Hayden Panettiere’s Final Battles: Mysterious Pain and Trouble With an Ex](https://www.nytimes.com/2026/08/23/arts/television/hayden-panettiere-brian-hickerson-boyfriend-book-tour.html)
+
+In the year before the actress’s death, she struggled to walk at times and worked to disentangle herself from an ex-boyfriend who had abused her.
 
 
