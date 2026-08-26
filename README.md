@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-26 10:40:21)
+## 📰 NYTimes Most Popular (Updated: 2026-08-26 11:34:48)
 
-1. [South Carolina U.S. Senate Special Runoff Election Results](https://www.nytimes.com/interactive/2026/08/25/us/elections/results-south-carolina-us-senate-special-runoff-august-25.html)
-
-Get live results and maps from the 2026 South Carolina special runoff election.
-
-
-2. [What Did I Miss? Your Summer Politics Quiz.](https://www.nytimes.com/quiz/2026/08/24/opinion/end-of-summer-politics-quiz.html)
-
-It’s perfectly sane to want to avoid thinking about current events, but attention must be paid. 
-
-
-3. [Man Who Told of a Childhood With Wolves Dies at 80](https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dead.html)
-
-Marcos Rodríguez Pantoja’s improbable story of a wild youth became the subject of a study, and inspired a novel and film.
-
-
-4. [Hegseth’s Purge of Top Generals Leaves the Army Rudderless](https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html)
+1. [Hegseth’s Purge of Top Generals Leaves the Army Rudderless](https://www.nytimes.com/2026/08/25/us/hegseth-purge-army-generals.html)
 
 The leadership vacuum comes as the Army is trying to adapt to a new kind of war dominated by deadly drones.
 
 
-5. [Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease](https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html)
-
-The actual prevalence, researchers said, may be much higher.
-
-
-6. [Target Apologizes and Drops Halloween Costume Criticized as Racist](https://www.nytimes.com/2026/08/25/business/target-halloween-costume-controversy.html)
-
-The children’s costume evoked blackface imagery, critics said. “We know we got this wrong, and we are deeply sorry,” the retailer said in response.
-
-
-7. [At Home and Abroad, Deference to Trump Turns Increasingly to Defiance](https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html)
+2. [At Home and Abroad, Deference to Trump Turns Increasingly to Defiance](https://www.nytimes.com/2026/08/25/us/politics/trump-polls-tariffs-carney.html)
 
 While the president remains the most dominant figure in the world, other leaders and institutions are pushing back more vigorously than at the beginning of his second term.
 
 
-8. [The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)
+3. [Jelly Roll Celebrates His 300-Pound Weight Loss on ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html)
+
+“That means I’ve lost an entire Donald Trump,” the country singer said while guest hosting Monday’s late night show.
+
+
+4. [Don’t Harry and Meghan Know Better?](https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html)
+
+Given their past, what does a future in England hold for them?
+
+
+5. [What Did I Miss? Your Summer Politics Quiz.](https://www.nytimes.com/quiz/2026/08/24/opinion/end-of-summer-politics-quiz.html)
+
+It’s perfectly sane to want to avoid thinking about current events, but attention must be paid. 
+
+
+6. [These 20 Words Are Worth a Thousand Pictures](https://www.nytimes.com/interactive/2026/08/24/books/ezra-pound-poem-station-metro.html)
+
+People-watchers, trainspotters and A.O. Scott agree: Ezra Pound’s “In a Station of the Metro” is one of the shortest great poems in English.
+
+
+7. [Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease](https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html)
+
+The actual prevalence, researchers said, may be much higher.
+
+
+8. [South Carolina U.S. Senate Special Runoff Election Results](https://www.nytimes.com/interactive/2026/08/25/us/elections/results-south-carolina-us-senate-special-runoff-august-25.html)
+
+Get live results and maps from the 2026 South Carolina special runoff election.
+
+
+9. [The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)
 
 A.I. could turn one of our country’s worst habits into a national security crisis.
 
 
-9. [Has World War III Already Started?](https://www.nytimes.com/2026/08/25/opinion/has-world-war-iii-already-started.html)
+10. [Dolly Parton Died After Brief Period of Cancer](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html)
 
-Spheres of conflict have multiplied and are merging. Meanwhile, the West is a mess.
-
-
-10. [Dolly Parton, Superstar Whose Songs Spoke to Millions, Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html)
-
-Known for her outsize persona, appearance and talent, she rose from rural poverty to become a top-selling singer, songwriter and entrepreneur.
+Parton had recently canceled a Las Vegas residency because of health issues. A spokesman said she was admitted to a cancer center in Nashville on Friday.
 
 
