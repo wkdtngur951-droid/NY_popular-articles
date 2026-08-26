@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-26 01:44:54)
+## 📰 NYTimes Most Popular (Updated: 2026-08-26 03:11:20)
 
-1. [The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)
+1. [These 20 Words Are Worth a Thousand Pictures](https://www.nytimes.com/interactive/2026/08/24/books/ezra-pound-poem-station-metro.html)
+
+People-watchers, trainspotters and A.O. Scott agree: Ezra Pound’s “In a Station of the Metro” is one of the shortest great poems in English.
+
+
+2. [South Carolina U.S. Senate Special Runoff Election Results](https://www.nytimes.com/interactive/2026/08/25/us/elections/results-south-carolina-us-senate-special-runoff-august-25.html)
+
+Get live results and maps from the 2026 South Carolina special runoff election.
+
+
+3. [The Warning Lights Are Blinking Again](https://www.nytimes.com/2026/08/25/opinion/ai-risks.html)
 
 A.I. could turn one of our country’s worst habits into a national security crisis.
 
 
-2. [Don’t Harry and Meghan Know Better?](https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html)
+4. [Don’t Harry and Meghan Know Better?](https://www.nytimes.com/2026/08/24/opinion/harry-meghan-return-england.html)
 
 Given their past, what does a future in England hold for them?
 
 
-3. [Man Who Told of a Childhood With Wolves Dies at 80](https://www.nytimes.com/2026/08/24/world/europe/spain-wolf-boy-dead.html)
+5. [Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease](https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html)
 
-Marcos Rodríguez Pantoja’s improbable story of a wild youth became the subject of a study, and inspired a novel and film.
-
-
-4. [References to ‘Mortal Sin’ Anger Judge and Defense in Clancy Trial](https://www.nytimes.com/2026/08/24/us/lindsay-clancy-trial-religion-catholic.html)
-
-The religious reference by a prosecution witness on Monday incensed the presiding judge, who sternly instructed jurors to disregard it. Lindsay Clancy’s lawyer asked for a mistrial.
+The actual prevalence, researchers said, may be much higher.
 
 
-5. [Jelly Roll Celebrates His 300-Pound Weight Loss on ‘Jimmy Kimmel Live’](https://www.nytimes.com/2026/08/25/arts/television/jelly-roll-jimmy-kimmel-trump.html)
+6. [Court Allows Trump to Pursue Mail Voting Limits, for Now](https://www.nytimes.com/2026/08/24/us/politics/supreme-court-trump-mail-ballots.html)
 
-“That means I’ve lost an entire Donald Trump,” the country singer said while guest hosting Monday’s late night show.
-
-
-6. [Two Unvaccinated People Died From Measles in Pennsylvania, Officials Say](https://www.nytimes.com/2026/08/25/well/measles-deaths-pennsylvania-outbreak.html)
-
-The deaths were the first in the United States in 2026.
+The administration asked the court to clear the way for President Trump’s order that creates “state citizenship lists” and directs the Postal Service to decide who gets a mail-in ballot.
 
 
-7. [What Did I Miss? Your Summer Politics Quiz.](https://www.nytimes.com/quiz/2026/08/24/opinion/end-of-summer-politics-quiz.html)
+7. [Trump Officials Propose Sale of ‘Woke’ Painting by Kehinde Wiley](https://www.nytimes.com/2026/08/24/arts/design/kehinde-wiley-painting-embassy-dominican-republic.html)
 
-It’s perfectly sane to want to avoid thinking about current events, but attention must be paid. 
+The State Department recently removed the painting of Dominicans from a U.S. embassy, noting it was by the artist who made Barack Obama’s presidential portrait.
 
 
 8. [This Is Why People Hate the Government](https://www.nytimes.com/2026/08/25/opinion/ezra-klein-podcast-annie-lowrey.html)
@@ -45,8 +45,8 @@ Annie Lowrey, the author of “The Time Tax,” explains how the government stea
 Detailed accounts of the final hours of the negotiations show that, while the United States offered Canada what it said was the best deal of any country, what Canada had to give up in exchange was seen as unthinkable.
 
 
-10. [Study’s Alarming Finding: At Least 1 in 4 N.F.L. Players Gets Brain Disease](https://www.nytimes.com/2026/08/25/us/nfl-cte-brain-disease.html)
+10. [Dolly Parton Died After Brief Battle With Cancer](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-cancer-cause-death.html)
 
-The actual prevalence, researchers said, may be much higher.
+Parton had recently canceled a Las Vegas residency because of health issues. A spokesman said she was admitted to a cancer center in Nashville on Friday.
 
 
