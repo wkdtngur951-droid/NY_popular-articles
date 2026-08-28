@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-28 04:09:05)
+## 📰 NYTimes Most Popular (Updated: 2026-08-28 17:16:15)
 
-1. [The Pompous Proof of an America in Decline](https://www.nytimes.com/2026/08/27/opinion/trump-canada-trade-war-dolly-parton.html)
+1. [A Republican Attack Ad Used a Family’s Tragedy. Now They’re Furious.](https://www.nytimes.com/2026/08/26/us/jon-husted-campaign-ad-family-tragedy.html)
 
-Even Machiavelli wouldn’t like Trump’s doings.
-
-
-2. [ICE Arrests Soar as People With No Criminal Record Are Increasingly Targeted](https://www.nytimes.com/interactive/2026/08/27/us/ice-immigrant-arrests-trump-deportation-dhs.html)
-
-As immigration arrests hit record highs, ICE appears closer than ever to meeting its goal of 2,000 daily arrests.
+Relatives of a family killed by a semi truck say they were not consulted about the ad, which connected the crash to illegal immigration.
 
 
-3. [Ratko Mladic, Murderous ‘Butcher of Bosnia,’ Dies at 83](https://www.nytimes.com/2026/08/27/world/europe/ratko-mladic-dead.html)
-
-A general during the Balkan wars of the 1990s, he was convicted in the killing of some 8,000 Muslims at Srebrenica, Europe’s deadliest massacre since World War II.
-
-
-4. [Maps and Images Show the Devastation in Nepal’s Flooding](https://www.nytimes.com/interactive/2026/08/26/world/asia/nepal-china-flash-flood.html)
-
-Floodwaters swept away villages near the border between Nepal and the Tibet region of China.
-
-
-5. [Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
-
-The Japanese artist’s polka-dot-covered paintings, phallic sculptures and public performances caused a stir in New York City and Europe in the 1960s.
-
-
-6. [White House Construction May Have Contributed to Close Call With Trump’s Helicopter](https://www.nytimes.com/2026/08/27/us/marine-one-white-house-construction.html)
-
-A controller let a jet take off after missing warnings that Marine One was about to fly through the area, according to the National Transportation Safety Board.
-
-
-7. [Loving Dolly Was Easy. Understanding Her Was Hard.](https://www.nytimes.com/2026/08/27/opinion/dolly-parton-appalachia-legacy.html)
+2. [Loving Dolly Was Easy. Understanding Her Was Hard.](https://www.nytimes.com/2026/08/27/opinion/dolly-parton-appalachia-legacy.html)
 
 She didn’t see herself as a saint; she identified as something we needed even more: a writer.
 
 
-8. [Canada Hires 48 Scholars Away From Top U.S. Universities](https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html)
+3. [F.A.A. Moves to Fire 2 Air Controllers at LaGuardia After Deadly Crash](https://www.nytimes.com/2026/08/27/nyregion/air-canada-crash-lga-air-traffic-controllers.html)
 
-A crackdown on American academia by the Trump administration has handed Canadian universities a rare opportunity to lure some top researchers north.
+The two controllers are among a dozen whom the Federal Aviation Administration has taken steps to fire as part of an inquiry into timecard fraud, according to people familiar with the matter.
 
 
-9. [There Is a Sickness Worse Than Wokeness](https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html)
+4. [There Is a Sickness Worse Than Wokeness](https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html)
 
 The anti-woke movement’s “cure” was more intolerance and more repression.
 
 
-10. [Trump Orders the Government to Rename Lake Ontario to Lake America](https://www.nytimes.com/2026/08/27/us/politics/trump-lake-america-executive-order.html)
+5. [Yielding on French Could Restart Trade Talks, Canadian Officials Say](https://www.nytimes.com/2026/08/27/world/canada/trade-war-french-language.html)
 
-The president also reiterated his criticism that Canada “treats us very badly.” Trade talks between the nations collapsed last week.
+Canada’s minister in charge of trade with the U.S. was responding to comments by Jamieson Greer, the U.S. trade representative. But that was before any mention of Lake Ontario.
+
+
+6. [F.D.A. Approves New Covid Vaccines, and They Should Be Available Soon](https://www.nytimes.com/2026/08/27/well/live/covid-vaccines-fall-2026.html)
+
+The shots have been approved for people 65 and older, and for younger people with underlying conditions. Others may be able to get them off label.
+
+
+7. [C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit](https://www.nytimes.com/2026/08/27/us/politics/cia-director-russia-ukraine.html)
+
+John Ratcliffe’s meeting this week with a Russian intelligence chief was aimed at pushing the Kremlin to pursue a peace deal with Ukraine.
+
+
+8. [The Most Important Longevity Term You’ve Probably Never Heard Of](https://www.nytimes.com/2026/08/26/well/intrinsic-capacity-longevity-measure.html)
+
+Intrinsic capacity is quickly becoming a preferred way to measure and assess human aging.
+
+
+9. [ICE Arrests Soar as People With No Criminal Record Are Increasingly Targeted](https://www.nytimes.com/interactive/2026/08/27/us/ice-immigrant-arrests-trump-deportation-dhs.html)
+
+As immigration arrests hit record highs, ICE appears closer than ever to meeting its goal of 2,000 daily arrests.
+
+
+10. [Ratko Mladic, Murderous ‘Butcher of Bosnia,’ Dies at 83](https://www.nytimes.com/2026/08/27/world/europe/ratko-mladic-dead.html)
+
+A general during the Balkan wars of the 1990s, he was convicted in the killing of some 8,000 Muslims at Srebrenica, Europe’s deadliest massacre since World War II.
 
 
