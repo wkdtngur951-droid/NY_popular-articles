@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-27 19:45:04)
+## 📰 NYTimes Most Popular (Updated: 2026-08-28 04:09:05)
 
-1. [Dolly Parton, Superstar Whose Songs Spoke to Millions, Dies at 80](https://www.nytimes.com/2026/08/25/arts/music/dolly-parton-dead.html)
+1. [The Pompous Proof of an America in Decline](https://www.nytimes.com/2026/08/27/opinion/trump-canada-trade-war-dolly-parton.html)
 
-Known for her outsize persona, appearance and talent, she rose from rural poverty to become a top-selling singer, songwriter and entrepreneur.
+Even Machiavelli wouldn’t like Trump’s doings.
 
 
-2. [Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
+2. [ICE Arrests Soar as People With No Criminal Record Are Increasingly Targeted](https://www.nytimes.com/interactive/2026/08/27/us/ice-immigrant-arrests-trump-deportation-dhs.html)
+
+As immigration arrests hit record highs, ICE appears closer than ever to meeting its goal of 2,000 daily arrests.
+
+
+3. [Ratko Mladic, Murderous ‘Butcher of Bosnia,’ Dies at 83](https://www.nytimes.com/2026/08/27/world/europe/ratko-mladic-dead.html)
+
+A general during the Balkan wars of the 1990s, he was convicted in the killing of some 8,000 Muslims at Srebrenica, Europe’s deadliest massacre since World War II.
+
+
+4. [Maps and Images Show the Devastation in Nepal’s Flooding](https://www.nytimes.com/interactive/2026/08/26/world/asia/nepal-china-flash-flood.html)
+
+Floodwaters swept away villages near the border between Nepal and the Tibet region of China.
+
+
+5. [Yayoi Kusama, Pop Artist Who Expanded and Endured, Dies at 97](https://www.nytimes.com/2026/08/26/arts/yayoi-kusama-dead.html)
 
 The Japanese artist’s polka-dot-covered paintings, phallic sculptures and public performances caused a stir in New York City and Europe in the 1960s.
 
 
-3. [In Headache for Republicans, Second Dan Sullivan Advances in Alaska Senate Race](https://www.nytimes.com/2026/08/26/us/politics/dan-sullivan-alaska-senate-midterms.html)
+6. [White House Construction May Have Contributed to Close Call With Trump’s Helicopter](https://www.nytimes.com/2026/08/27/us/marine-one-white-house-construction.html)
 
-A long-shot candidate with the same name as the incumbent Republican senator will be on the ballot in November. That could be a problem for the G.O.P.
-
-
-4. [The Real Winner of the Trade War With Canada](https://www.nytimes.com/2026/08/26/opinion/us-canada-trade-cars-trucks-china.html)
-
-China is the real problem, and Washington needs all the allies it can find.
+A controller let a jet take off after missing warnings that Marine One was about to fly through the area, according to the National Transportation Safety Board.
 
 
-5. [There’s Really Only One Way to Stop Students From Cheating](https://www.nytimes.com/2026/08/26/opinion/students-cheating-ai.html)
+7. [Loving Dolly Was Easy. Understanding Her Was Hard.](https://www.nytimes.com/2026/08/27/opinion/dolly-parton-appalachia-legacy.html)
 
-Blue-book exams are fine, but we need to address the issue at its root.
-
-
-6. [Meta to Pay Up to $17.1 Billion in Landmark Settlement Over Social Media Addiction Claims](https://www.nytimes.com/2026/08/26/technology/meta-settlement-social-media-addiction-lawsuit.html)
-
-The social media giant settled with 47 states, the District of Columbia and U.S. territories, and agreed to make major changes to its products over claims its platforms endangered children.
+She didn’t see herself as a saint; she identified as something we needed even more: a writer.
 
 
-7. [Tim Curry, Star of ‘Rocky Horror’ and Much More, Dies at 80](https://www.nytimes.com/2026/08/26/movies/tim-curry-dead.html)
+8. [Canada Hires 48 Scholars Away From Top U.S. Universities](https://www.nytimes.com/2026/08/27/world/canada/canada-universities-hire-us-researchers.html)
 
-The actor’s gift for garish eccentricity was indelibly appropriate for the outlandish, cross-dressing mad scientist Frank-N-Furter.
-
-
-8. [F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer](https://www.nytimes.com/2026/08/26/science/pancreatic-cancer-daraxonrasib-approval.html)
-
-In a key clinical trial, patients who got the pill, daraxonrasib, lived twice as long as those who got chemotherapy.
+A crackdown on American academia by the Trump administration has handed Canadian universities a rare opportunity to lure some top researchers north.
 
 
-9. [Judge Sides With Texas Over Minnesota on Extradition of ICE Agent](https://www.nytimes.com/2026/08/26/us/ice-christian-castro-extradite-texas-minnesota.html)
+9. [There Is a Sickness Worse Than Wokeness](https://www.nytimes.com/2026/08/27/opinion/woke-right-trump-free-speech.html)
 
-The two states have waged an unusual court battle over the agent facing charges over a shooting in Minneapolis. The agent could be released from jail on Thursday.
+The anti-woke movement’s “cure” was more intolerance and more repression.
 
 
-10. [At Trump’s IndyCar Race, a V.I.P. Invitation Became a Diplomatic Snub](https://www.nytimes.com/2026/08/25/us/politics/trump-indycar-diplomatic-snub.html)
+10. [Trump Orders the Government to Rename Lake Ontario to Lake America](https://www.nytimes.com/2026/08/27/us/politics/trump-lake-america-executive-order.html)
 
-Foreign ambassadors were promised free food and drinks, misting fans and shaded seats during the event. Then some of them were uninvited.
+The president also reiterated his criticism that Canada “treats us very badly.” Trade talks between the nations collapsed last week.
 
 
