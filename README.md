@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-30 06:24:35)
+## 📰 NYTimes Most Popular (Updated: 2026-08-30 12:43:00)
 
-1. [Cape Cod Learns to Live With Sharks](https://www.nytimes.com/2026/08/29/realestate/cape-cod-shark-tourism.html)
+1. [Trump Administration Looks to Give a Swath of Yosemite to a Developer](https://www.nytimes.com/2026/08/28/us/trump-administration-yosemite-private-developer.html)
 
-As great white sharks have moved into Massachusetts waters, the Cape has changed to make room for them.
+The proposed land swap would allow easy access to the crown jewel of the national park system. Democrats and former Park Service officials are incensed.
 
 
-2. [I Study Successful People. They Have One Habit in Common.](https://www.nytimes.com/2026/08/28/opinion/successful-people-help.html)
+2. [Influencers Have a Lot to Say About Politics. Many Are Quietly Paid for It.](https://www.nytimes.com/2026/08/29/us/politics/campaigns-paid-influencers.html)
+
+Their videos have proliferated on social media, but the payments are frequently hidden from viewers.
+
+
+3. [I Study Successful People. They Have One Habit in Common.](https://www.nytimes.com/2026/08/28/opinion/successful-people-help.html)
 
 Being a successful self-starter doesn’t mean pulling yourself up by your bootstraps.
 
 
-3. [Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil](https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html)
+4. [Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil](https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html)
 
 The president said an agreement between the countries covered more than 65 billion barrels of reserves. A U.S. official said it would involve a partnership with a private company.
 
 
-4. [Milo Yiannopoulos, a Right-Wing Provocateur, Is Arrested by ICE](https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html)
+5. [The New York Times News Quiz, August 28, 2026](https://www.nytimes.com/quiz/2026/08/28/briefing/weekly-news-quiz.html)
 
-Mr. Yiannopoulos, a prominent early supporter of President Trump, was detained at the New Orleans airport. The Trump administration publicized his arrest and shared a mug shot.
-
-
-5. [Flashback: Your Weekly History Quiz, Aug. 29, 2026](https://www.nytimes.com/interactive/2026/08/28/upshot/flashback.html)
-
-Can you sort 8 historical events?
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
-6. [‘I Need to Go to the Hospital,’ Delta Pilot Tells Air Traffic Control](https://www.nytimes.com/2026/08/27/us/delta-pilot-ill.html)
+6. [Hegseth Blocks Promotions of Four Army Officers as Purge Widens](https://www.nytimes.com/2026/08/28/us/politics/hegseth-blocks-army-promotions.html)
 
-A Delta Air Lines flight from Los Angeles to Boston safely diverted to Detroit after the captain of a Boeing 757 became ill.
-
-
-7. [Ina Garten Says You Can Either Get on Her Train or Get Out of the Way](https://www.nytimes.com/2026/08/29/magazine/ina-garten-interview.html)
-
-At 78, the cookbook author and Food Network host knows what she likes, knows what she wants and isn’t stopping anytime soon.
+The turmoil has left a leadership vacuum in the Army at a moment when it is trying to find ways to defend troops against the threat posed by cheap drones.
 
 
-8. [37 Killed After Russian Strike on Weapons Depot as Ukraine Blames Negligence](https://www.nytimes.com/2026/08/29/world/europe/russia-ukraine-strike-kyiv-drones.html)
+7. [‘Trump Voters Are Finally Starting to Sour on Him’](https://www.nytimes.com/2026/08/28/opinion/democrats-fighters-trump-republicans.html)
 
-The depot, which was in a civilian area near Kyiv, “definitely shouldn’t have been there,” President Volodymyr Zelensky said.
+Democrats want fighters. A former Republican has ideas.
 
 
-9. [Stream These Movies and Shows Before They Leave Netflix](https://www.nytimes.com/2026/08/26/arts/television/netflix-expiring-september.html)
+8. [In Georgia, Ossoff Courts Broad Appeal With an Anti-Trump Script](https://www.nytimes.com/2026/08/29/us/politics/georgia-senate-ossoff-collins-trump.html)
+
+Senator Jon Ossoff, the youngest sitting senator and the only Democrat seeking re-election this year in a state President Trump won in 2024, hasn’t moderated his message in his critical race.
+
+
+9. [Cape Cod Learns to Live With Sharks](https://www.nytimes.com/2026/08/29/realestate/cape-cod-shark-tourism.html)
+
+As great white sharks have moved into Massachusetts waters, the Cape has changed to make room for them.
+
+
+10. [Stream These Movies and Shows Before They Leave Netflix](https://www.nytimes.com/2026/08/26/arts/television/netflix-expiring-september.html)
 
 Like “The Four Seasons”? The movie that inspired it is leaving soon, as is the Hayden Panettiere showcase “Nashville.”
-
-
-10. [Goodbye, Harry and Meghan. Turns Out We Didn’t Need Actual Royals.](https://www.nytimes.com/2026/08/29/opinion/prince-harry-meghan-markle-america.html)
-
-With their departure, can America please shake off its obsession with royalty?
 
 
