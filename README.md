@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-29 21:36:04)
+## 📰 NYTimes Most Popular (Updated: 2026-08-30 00:01:26)
 
-1. [‘Trump Voters Are Finally Starting to Sour on Him’](https://www.nytimes.com/2026/08/28/opinion/democrats-fighters-trump-republicans.html)
+1. [C.I.A. Chief Delivered Bleak Assessment of Russia’s War in Secretive Moscow Visit](https://www.nytimes.com/2026/08/27/us/politics/cia-director-russia-ukraine.html)
+
+John Ratcliffe’s meeting this week with a Russian intelligence chief was aimed at pushing the Kremlin to pursue a peace deal with Ukraine.
+
+
+2. [Hegseth Blocks Promotions of Four Army Officers as Purge Widens](https://www.nytimes.com/2026/08/28/us/politics/hegseth-blocks-army-promotions.html)
+
+The turmoil has left a leadership vacuum in the Army at a moment when it is trying to find ways to defend troops against the threat posed by cheap drones.
+
+
+3. [What It Took to Dismantle the Most Powerful Company in the World](https://www.nytimes.com/2026/08/28/opinion/ai-power-lobbying-military-britain-east-india-company.html)
+
+A playbook to curb the growing power of Big Tech.
+
+
+4. [Harald V, Norway’s King as Tradition and Modernity Collided, Dies at 89](https://www.nytimes.com/2026/08/28/world/europe/king-harald-v-dead.html)
+
+His 35-year reign opened an ancient monarchy to marriages with so-called commoners and to an incendiary association with Jeffrey Epstein.
+
+
+5. [‘Trump Voters Are Finally Starting to Sour on Him’](https://www.nytimes.com/2026/08/28/opinion/democrats-fighters-trump-republicans.html)
 
 Democrats want fighters. A former Republican has ideas.
 
 
-2. [The New York Times News Quiz, August 28, 2026](https://www.nytimes.com/quiz/2026/08/28/briefing/weekly-news-quiz.html)
+6. [‘Lake America’? These Upstate New Yorkers Aren’t Letting Go of ‘Ontario.’](https://www.nytimes.com/2026/08/28/nyregion/lake-america-ontario-trump-canada.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-3. [Trump vs. the Bond Market](https://www.nytimes.com/2026/08/28/opinion/ezra-klein-podcast-robin-wigglesworth.html)
-
-Robin Wigglesworth of Financial Times explains everything you need to know about the Trump administration’s meddling with the bond market.
-
-
-4. [‘I Need to Go to the Hospital,’ Delta Pilot Tells Air Traffic Control](https://www.nytimes.com/2026/08/27/us/delta-pilot-ill.html)
-
-A Delta Air Lines flight from Los Angeles to Boston safely diverted to Detroit after the captain of a Boeing 757 became ill.
-
-
-5. [Wyoming Governor Objects to ‘Very Odd’ D.O.J. Election Monitoring](https://www.nytimes.com/2026/08/28/us/politics/wyoming-governor-objects-to-very-odd-doj-election-monitoring.html)
-
-Governor Mark Gordon, a Republican, said he was concerned by the behavior of election observers who visited a polling station in Cheyenne.
-
-
-6. [Warsh Seeks to Calm Concerns About Fed’s Grip on Elevated Inflation](https://www.nytimes.com/2026/08/28/business/fed-kevin-warsh-speech-inflation.html)
-
-In a high-profile speech, Kevin M. Warsh said the Federal Reserve was chiefly responsible for taming inflation. If price increases do not return to the central bank’s target quickly, “we have work to do,” he said.
+President Trump on Thursday signed an order rechristening Lake Ontario as Lake America, but businesses around Niagara Falls say they won’t be changing their tune.
 
 
 7. [She Filmed the Towers That Morning. 25 Years Later, She Finally Watched.](https://www.nytimes.com/2026/08/28/nyregion/9-11-footage-25-years-unreleased.html)
@@ -35,18 +35,18 @@ In a high-profile speech, Kevin M. Warsh said the Federal Reserve was chiefly re
 A young college graduate filmed the World Trade Center attack from the fire escape of her Chinatown apartment. For many years, she avoided looking at the footage.
 
 
-8. [‘Lake America’? These Upstate New Yorkers Aren’t Letting Go of ‘Ontario.’](https://www.nytimes.com/2026/08/28/nyregion/lake-america-ontario-trump-canada.html)
+8. [Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil](https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html)
 
-President Trump on Thursday signed an order rechristening Lake Ontario as Lake America, but businesses around Niagara Falls say they won’t be changing their tune.
-
-
-9. [A Republican Attack Ad Used a Family’s Tragedy. Now They’re Furious.](https://www.nytimes.com/2026/08/26/us/jon-husted-campaign-ad-family-tragedy.html)
-
-Relatives of a family killed by a semi truck say they were not consulted about the ad, which connected the crash to illegal immigration.
+The president said an agreement between the countries covered more than 65 billion barrels of reserves. A U.S. official said it would involve a partnership with a private company.
 
 
-10. [This Wasn’t the Marriage I Promised Him](https://www.nytimes.com/2026/08/28/style/modern-love-this-wasnt-the-marriage-i-promised.html)
+9. [I Study Successful People. They Have One Habit in Common.](https://www.nytimes.com/2026/08/28/opinion/successful-people-help.html)
 
-My husband was holding up our entire world by himself.
+Being a successful self-starter doesn’t mean pulling yourself up by your bootstraps.
+
+
+10. [The New York Times News Quiz, August 28, 2026](https://www.nytimes.com/quiz/2026/08/28/briefing/weekly-news-quiz.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
