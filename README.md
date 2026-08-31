@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-30 23:20:08)
+## 📰 NYTimes Most Popular (Updated: 2026-08-31 05:02:42)
 
-1. [Milo Yiannopoulos, Right-Wing Agitator, Deported Home to U.K.](https://www.nytimes.com/2026/08/29/us/politics/milo-yiannopoulos-deported.html)
+1. [This Masterpiece Is the Novel of the Decade, if Not the Century](https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html)
 
-Mr. Yiannopoulos, an early supporter of President Trump and vocal supporter of mass deportations, was himself sent back to his home country, part of a long fall from right-wing grace.
-
-
-2. [Goodbye, Harry and Meghan. Turns Out We Didn’t Need Actual Royals.](https://www.nytimes.com/2026/08/29/opinion/prince-harry-meghan-markle-america.html)
-
-With their departure, can America please shake off its obsession with royalty?
+Marlon James’s story of gay experience and murderous homophobia in Jamaica is a maximalist’s banquet — and the Booker Prize winner’s finest book yet.
 
 
-3. [Trump Says U.S. Has Deal for Control of Large Share of Venezuela’s Oil](https://www.nytimes.com/2026/08/28/business/trump-venezuela-oil-deal.html)
+2. [He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.](https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html)
 
-The president said an agreement between the countries covered more than 65 billion barrels of reserves. A U.S. official said it would involve a partnership with a private company.
-
-
-4. [This Governor Could Lose His Primary. A Bridge May Be to Blame.](https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html)
-
-The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.
+Many people think Greg Chism is a freak — or worse. He says he was just following the incentives of the platform.
 
 
-5. [Milo Yiannopoulos, a Right-Wing Provocateur, Is Arrested by ICE](https://www.nytimes.com/2026/08/28/us/politics/milo-yiannopoulos-arrested-ice.html)
+3. [Flashback: Your Weekly History Quiz, Aug. 29, 2026](https://www.nytimes.com/interactive/2026/08/28/upshot/flashback.html)
 
-Mr. Yiannopoulos, a prominent early supporter of President Trump, was detained at the New Orleans airport. The Trump administration publicized his arrest and shared a mug shot.
-
-
-6. [Ina Garten Says You Can Either Get on Her Train or Get Out of the Way](https://www.nytimes.com/2026/08/29/magazine/ina-garten-interview.html)
-
-At 78, the cookbook author and Food Network host knows what she likes, knows what she wants and isn’t stopping anytime soon.
+Can you sort 8 historical events?
 
 
-7. [How Meta’s $17.1 Billion Social Media Settlement Came Together](https://www.nytimes.com/2026/08/29/technology/meta-states-settlement.html)
+4. [Why the United States Can’t Quit Its Wars](https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html)
 
-State attorneys general spent months in negotiations. Then, as its legal losses mounted, the social media giant’s new top lawyer brought a huge settlement to the table.
-
-
-8. [‘Trump Voters Are Finally Starting to Sour on Him’](https://www.nytimes.com/2026/08/28/opinion/democrats-fighters-trump-republicans.html)
-
-Democrats want fighters. A former Republican has ideas.
+The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran.
 
 
-9. [Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain](https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html)
+5. [Most Democrats Don’t Want to Talk About Transgender Athletes. He’s Leaning In.](https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html)
+
+Senator Ed Markey of Massachusetts has emerged as a vocal defender of transgender rights as he tries to fend off a primary challenge from Representative Seth Moulton.
+
+
+6. [Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain](https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html)
 
 For many, the trek to Mount Kailash on the border of Nepal and Tibet is a once-in-a-lifetime trip to find spiritual awakening.
 
 
-10. [This Masterpiece Is the Novel of the Decade, if Not the Century](https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html)
+7. [Men Are Onto Something. Quitting Is Great.](https://www.nytimes.com/2026/08/30/opinion/women-men-gender-quit.html)
 
-Marlon James’s story of gay experience and murderous homophobia in Jamaica is a maximalist’s banquet — and the Booker Prize winner’s finest book yet.
+Women are eager disciples of the “Never give up” dogma. But if we treat persevering and quitting as opposites, we lose.
+
+
+8. [He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.](https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html)
+
+Bryan Johnson, the longevity guru, wants to live forever. But the big question is why.
+
+
+9. [How Not to Announce a Measles Death](https://www.nytimes.com/2026/08/30/opinion/measles-deaths-pennsylvania-shapiro.html)
+
+Josh Shapiro announced two measles deaths. Things went downhill fast.
+
+
+10. [In Parton’s 60-Year Marriage, Love Fueled by Distance and Difference](https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html)
+
+Dolly Parton met Carl Dean outside a Nashville laundromat in 1964. For decades, she was as protective of her marriage as he was fiercely private.
 
 
