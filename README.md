@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-31 05:02:42)
+## 📰 NYTimes Most Popular (Updated: 2026-08-31 13:20:32)
 
-1. [This Masterpiece Is the Novel of the Decade, if Not the Century](https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html)
+1. [Nepal Turns to Mass Burials as Thousands Remain Missing from Floods](https://www.nytimes.com/2026/08/30/world/asia/nepal-floods-mass-burials-missing.html)
 
-Marlon James’s story of gay experience and murderous homophobia in Jamaica is a maximalist’s banquet — and the Booker Prize winner’s finest book yet.
+Only a fraction of the over 4,200 missing in Nepal are turning up among the dead, underscoring a bleak reality: The death toll is likely to keep rising for days to come.
 
 
-2. [He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.](https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html)
+2. [People Keep Sneaking Into New York City Sewers. No One Knows Why.](https://www.nytimes.com/2026/08/30/nyregion/manholes-sewers-nyc.html)
+
+A recent spate of subterranean exploring has piqued the curiosity of New Yorkers — and concerned officials who warn of danger underground.
+
+
+3. [He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.](https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html)
 
 Many people think Greg Chism is a freak — or worse. He says he was just following the incentives of the platform.
 
 
-3. [Flashback: Your Weekly History Quiz, Aug. 29, 2026](https://www.nytimes.com/interactive/2026/08/28/upshot/flashback.html)
-
-Can you sort 8 historical events?
-
-
-4. [Why the United States Can’t Quit Its Wars](https://www.nytimes.com/2026/08/30/us/politics/us-wars-iran-afghanistan.html)
-
-The country’s longest war came to an end exactly five years ago. Today it offers lessons for policymakers seeking to avoid an endless war in Iran.
-
-
-5. [Most Democrats Don’t Want to Talk About Transgender Athletes. He’s Leaning In.](https://www.nytimes.com/2026/08/30/us/politics/ed-markey-seth-moulton-transgender-athletes-massachusetts.html)
-
-Senator Ed Markey of Massachusetts has emerged as a vocal defender of transgender rights as he tries to fend off a primary challenge from Representative Seth Moulton.
-
-
-6. [Pilgrims to Flood-Stricken Nepal Sought the Divine at Sacred Mountain](https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html)
-
-For many, the trek to Mount Kailash on the border of Nepal and Tibet is a once-in-a-lifetime trip to find spiritual awakening.
-
-
-7. [Men Are Onto Something. Quitting Is Great.](https://www.nytimes.com/2026/08/30/opinion/women-men-gender-quit.html)
+4. [Men Are Onto Something. Quitting Is Great.](https://www.nytimes.com/2026/08/30/opinion/women-men-gender-quit.html)
 
 Women are eager disciples of the “Never give up” dogma. But if we treat persevering and quitting as opposites, we lose.
 
 
-8. [He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.](https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html)
+5. [One Dead and 15 May Be Missing at the Grand Canyon After Flash Flood](https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html)
+
+At least 62 people were evacuated on Saturday after flooding destroyed footbridges and damaged a campground and cabins near Bright Angel Creek in Arizona, the National Park Service said.
+
+
+6. [This Governor Could Lose His Primary. A Bridge May Be to Blame.](https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html)
+
+The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.
+
+
+7. [He Said He Was the World’s Healthiest Man. Then Came a Stunning Diagnosis.](https://www.nytimes.com/2026/08/21/us/bryan-johnson-biohacker-autoimmune-gastritis.html)
 
 Bryan Johnson, the longevity guru, wants to live forever. But the big question is why.
 
 
-9. [How Not to Announce a Measles Death](https://www.nytimes.com/2026/08/30/opinion/measles-deaths-pennsylvania-shapiro.html)
+8. [After Fraud Accusations, a Young Entrepreneur’s Rise Ends in Tragedy](https://www.nytimes.com/2026/08/30/nyregion/mohamed-coulibaly-scam-mali-nfl.html)
 
-Josh Shapiro announced two measles deaths. Things went downhill fast.
+Mohamed Coulibaly rose from poverty to a life of private jets and parties with N.F.L. stars who invested in his businesses — until the money stopped flowing. The 23-year-old died this summer.
 
 
-10. [In Parton’s 60-Year Marriage, Love Fueled by Distance and Difference](https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html)
+9. [Deportees Recount Harrowing Journeys to Africa: Shackles, a ‘Freezer’ and Blows](https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html)
 
-Dolly Parton met Carl Dean outside a Nashville laundromat in 1964. For decades, she was as protective of her marriage as he was fiercely private.
+Ten deportees said they experienced or witnessed what they called abusive or violent treatment by ICE. They spent months in detention, they said, before being sent to nations where they had no ties.
+
+
+10. [Postal Service Rule Could Bar Millions From Voting by Mail](https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html)
+
+A judge temporarily blocked the agency from implementing a strict new rule governing mail voting. The policy could disproportionately affect Democrats and many battleground elections.
 
 
