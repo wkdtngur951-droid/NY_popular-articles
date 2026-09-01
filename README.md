@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-08-31 23:41:24)
+## 📰 NYTimes Most Popular (Updated: 2026-09-01 04:40:52)
 
-1. [This Governor Could Lose His Primary. A Bridge May Be to Blame.](https://www.nytimes.com/2026/08/30/us/dan-mckee-rhode-island-bridge.html)
+1. [Two Dead in Grand Canyon Flood as Search Efforts Continue](https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html)
 
-The closure of a crucial Rhode Island bridge for safety reasons in 2023, and the traffic nightmare that followed, have dogged Gov. Dan McKee in the Democratic primary.
-
-
-2. [Democrats Have a Damning Answer for Republican Gotchas](https://www.nytimes.com/2026/08/31/opinion/democrats-wokeness-republicans.html)
-
-The party that capitulated to Trump has the most to answer for
+Officials announced a second death on Monday and said one person remained unaccounted for after heavy rain over the weekend.
 
 
-3. [The U.S. Open Can’t Go On Like This](https://www.nytimes.com/2026/08/31/opinion/us-open-prices.html)
+2. [These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.](https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html)
+
+A growing number of former Israeli generals, intelligence officials and prime ministers are accusing settlers in the West Bank of committing ethnic cleansing with government support. “Once a society behaves this way,” one said, “that society is doomed.”
+
+
+3. [From Top Civil Rights Post, She Spars With the Left, and Her Colleagues](https://www.nytimes.com/2026/08/31/us/politics/harmeet-dhillon-doj-trump.html)
+
+Harmeet Dhillon, who leads the Justice Department’s civil rights unit, has extracted flashy agreements and personnel moves from big universities and sought to force states to turn over confidential voter data.
+
+
+4. [Men Are Onto Something. Quitting Is Great.](https://www.nytimes.com/2026/08/30/opinion/women-men-gender-quit.html)
+
+Women are eager disciples of the “Never give up” dogma. But if we treat persevering and quitting as opposites, we lose.
+
+
+5. [John Galliano Withdraws From Met Museum Show After Backlash](https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html)
+
+Donors, politicians and Jewish leaders questioned the Met’s decision to honor Galliano, a fashion designer who was found guilty of a hate crime for his antisemitic outbursts.
+
+
+6. [The U.S. Open Can’t Go On Like This](https://www.nytimes.com/2026/08/31/opinion/us-open-prices.html)
 
 It’s the most lucrative tennis tournament in the world. Hmm. 
 
 
-4. [Death Toll Rises in Grand Canyon Flood as Search Efforts Continue](https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html)
+7. [I Expected Tech Fatalism. Americans Are Putting Up a Remarkable Fight Instead.](https://www.nytimes.com/2026/08/31/opinion/data-centers-ai-populism.html)
 
-Officials announced a second death and said that more than a dozen people remain unaccounted for after heavy rain.
-
-
-5. [One Dead and 15 May Be Missing at the Grand Canyon After Flash Flood](https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html)
-
-At least 62 people were evacuated on Saturday after flooding destroyed footbridges and damaged a campground and cabins near Bright Angel Creek in Arizona, the National Park Service said.
+Three fourths of Americans oppose data centers. Why?
 
 
-6. [Deportees Recount Harrowing Journeys to Africa: Shackles, a ‘Freezer’ and Blows](https://www.nytimes.com/2026/08/30/world/africa/us-deportation-flight-ice-detention-liberia.html)
+8. [Pilgrims in Flood-Stricken Nepal Sought the Divine at Sacred Mountain](https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html)
 
-Ten deportees said they experienced or witnessed what they called abusive or violent treatment by ICE. They spent months in detention, they said, before being sent to nations where they had no ties.
-
-
-7. [Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.](https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html)
-
-The administration has revoked funding for bike paths, and encouraged removing some. A cycling advocate said it is playing on the idea of “that dork on a bike.”
+For many, the trek to Mount Kailash in Tibet is a once-in-a-lifetime trip to find spiritual awakening.
 
 
-8. [Postal Service Rule Could Bar Millions From Voting by Mail](https://www.nytimes.com/2026/08/30/us/politics/mail-voting-trump-midterms-supreme-court.html)
-
-A judge temporarily blocked the agency from implementing a strict new rule governing mail voting. The policy could disproportionately affect Democrats and many battleground elections.
-
-
-9. [He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.](https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html)
-
-Many people think Greg Chism is a freak — or worse. He says he was just following the incentives of the platform.
-
-
-10. [In Parton’s 60-Year Marriage, Love Fueled by Distance and Difference](https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html)
+9. [In Parton’s 60-Year Marriage, Love Fueled by Distance and Difference](https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html)
 
 Dolly Parton met Carl Dean outside a Nashville laundromat in 1964. For decades, she was as protective of her marriage as he was fiercely private.
+
+
+10. [Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.](https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html)
+
+The administration has revoked funding for bike paths, and encouraged removing some. A cycling advocate said it is playing on the idea of “that dork on a bike.”
 
 
