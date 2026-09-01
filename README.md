@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-01 21:40:08)
+## 📰 NYTimes Most Popular (Updated: 2026-09-01 23:55:23)
 
-1. [These Generals Fought for Israel. Now They See ‘Jewish Terrorism’ as the Threat.](https://www.nytimes.com/2026/08/31/world/middleeast/west-bank-israel.html)
+1. [Democrats Have a Damning Answer for Republican Gotchas](https://www.nytimes.com/2026/08/31/opinion/democrats-wokeness-republicans.html)
 
-A growing number of former Israeli generals, intelligence officials and prime ministers are accusing settlers in the West Bank of committing ethnic cleansing with government support. “Once a society behaves this way,” one said, “that society is doomed.”
-
-
-2. [Pilgrims in Flood-Stricken Nepal Sought the Divine at Sacred Mountain](https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html)
-
-For many, the trek to Mount Kailash in Tibet is a once-in-a-lifetime trip to find spiritual awakening.
+The party that capitulated to Trump has the most to answer for.
 
 
-3. [In Parton’s 60-Year Marriage, Love Fueled by Distance and Difference](https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html)
-
-Dolly Parton met Carl Dean outside a Nashville laundromat in 1964. For decades, she was as protective of her marriage as he was fiercely private.
-
-
-4. [The U.S. Open Can’t Go On Like This](https://www.nytimes.com/2026/08/31/opinion/us-open-prices.html)
+2. [The U.S. Open Can’t Go On Like This](https://www.nytimes.com/2026/08/31/opinion/us-open-prices.html)
 
 It’s the most lucrative tennis tournament in the world. Hmm.
 
 
-5. [One Dead and 15 May Be Missing at the Grand Canyon After Flash Flood](https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html)
+3. [A New World Order Is Coming. We Aren’t Ready.](https://www.nytimes.com/2026/09/01/opinion/world-order-international-relations.html)
+
+We must be honest about the seriousness of the situation we’re in.
+
+
+4. [Military Officers Can’t Look Away From This Any Longer](https://www.nytimes.com/2026/09/01/opinion/air-force-military-trump.html)
+
+How senior leaders of the armed forces dodge accountability.
+
+
+5. [Men Are Onto Something. Quitting Is Great.](https://www.nytimes.com/2026/08/30/opinion/women-men-gender-quit.html)
+
+Women are eager disciples of the “Never give up” dogma. But if we treat persevering and quitting as opposites, we lose.
+
+
+6. [He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.](https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html)
+
+Many people think Greg Chism is a freak — or worse. He says he was just following the incentives of the platform.
+
+
+7. [John Galliano Withdraws From Met Museum Show After Backlash](https://www.nytimes.com/2026/08/31/style/john-galliano-met-gala-canceled.html)
+
+Donors, politicians and Jewish leaders questioned the Met’s decision to honor Galliano, a fashion designer who was found guilty of a hate crime for his antisemitic outbursts.
+
+
+8. [One Dead and 15 May Be Missing at the Grand Canyon After Flash Flood](https://www.nytimes.com/2026/08/30/us/grand-canyon-flash-flood-people-missing.html)
 
 At least 62 people were evacuated on Saturday after flooding destroyed footbridges and damaged a campground and cabins near Bright Angel Creek in Arizona, the National Park Service said.
 
 
-6. [Two Dead in Grand Canyon Flood as Search Efforts Continue](https://www.nytimes.com/2026/08/31/us/grand-canyon-floods.html)
+9. [This Masterpiece Is the Novel of the Decade, if Not the Century](https://www.nytimes.com/2026/08/30/books/review/the-disappearers-marlon-james.html)
 
-Officials announced a second death on Monday and said one person remained unaccounted for after heavy rain over the weekend.
-
-
-7. [Vance Calls El-Sayed ‘Evil’ in No-Holds-Barred Michigan Speech](https://www.nytimes.com/2026/08/31/us/politics/vance-el-sayed-michigan-speech.html)
-
-Vice President JD Vance also told Dr. Abdul El-Sayed, Michigan’s Democratic Senate nominee, to “keep my wife’s name the hell out of your mouth.”
+Marlon James’s story of gay experience and murderous homophobia in Jamaica is a maximalist’s banquet — and the Booker Prize winner’s finest book yet.
 
 
-8. [Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html)
+10. [Clancy Murder Trial: Jury Deliberations Will Stretch Into 5th Day](https://www.nytimes.com/2026/09/01/us/lindsay-clancy-murder-trial-jury-deliberations.html)
 
-A report detailed “grave concerns” that a new system being rushed into use by the U.S. Postal Service could imperil millions of mail ballots ahead of the midterm elections.
-
-
-9. [Do D.E.I. Bike Paths Exist? The Trump Administration Says Yes.](https://www.nytimes.com/2026/08/31/us/politics/trump-bike-lanes-funding-dei.html)
-
-The administration has revoked funding for bike paths, and encouraged removing some. A cycling advocate said it is playing on the idea of “that dork on a bike.”
-
-
-10. [Democrats Have a Damning Answer for Republican Gotchas](https://www.nytimes.com/2026/08/31/opinion/democrats-wokeness-republicans.html)
-
-The party that capitulated to Trump has the most to answer for.
+Jurors have now deliberated for nearly 24 hours over four days and say they are deadlocked. A judge told them to keep trying to reach a verdict.
 
 
