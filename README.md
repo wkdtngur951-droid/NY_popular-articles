@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-02 14:14:36)
+## 📰 NYTimes Most Popular (Updated: 2026-09-02 18:30:25)
 
-1. [U.S. Launches Intense New Wave of Attacks in Iran](https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html)
+1. [Allies Grumble That U.S. Is Hindering Global Economic Growth](https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html)
 
-Iranian officials said the strikes caused significant damage, including killing four people and injuring several dozens at a wedding. Iran said it retaliated by firing on U.S. bases in the region.
-
-
-2. [Senator Ed Markey, 80, Turns Back Younger Challenger in Massachusetts](https://www.nytimes.com/2026/09/01/us/politics/massachusetts-senate-democratic-primary.html)
-
-The oldest senator in Massachusetts history used a progressive message to beat Representative Seth Moulton, 47, defying calls for generational change.
+At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war with Iran.
 
 
-3. [Christian Women Say They’re Not Political. Their Living Rooms Disagree.](https://www.nytimes.com/2026/09/01/opinion/christian-women-voting-culture.html)
+2. [Christian Women Say They’re Not Political. Their Living Rooms Disagree.](https://www.nytimes.com/2026/09/01/opinion/christian-women-voting-culture.html)
 
 Precious Moments figurines and Christian romance novels aren’t overtly political, but they shape how Christian women see themselves and the world.
+
+
+3. [How a Teenager’s Cancer Treatment Became a MAHA Crusade](https://www.nytimes.com/2026/09/01/magazine/maha-cancer-treatment-doctors-cps.html)
+
+Dayna Mooney chose alternative remedies over the recommendations of her son’s doctors. Was that her right as a parent or a threat to his care?
 
 
 4. [House Censures Republican Accused of Sexually Harassing Two Aides](https://www.nytimes.com/2026/09/01/us/politics/house-censure-chuck-edwards.html)
@@ -20,33 +20,33 @@ Precious Moments figurines and Christian romance novels aren’t overtly politic
 Representative Chuck Edwards received a formal rebuke on the floor after a speech in which he apologized for his conduct but said it did not constitute harassment.
 
 
-5. [Secretary of the Army Resigns After Clashing With Hegseth Over Firings](https://www.nytimes.com/2026/08/31/us/politics/army-secretary-daniel-driscoll-resign.html)
+5. [Kennedy Center Removes ‘Blue’ Sculpture That Was an Artist’s Gift](https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html)
 
-The resignation of Daniel P. Driscoll, the secretary of the Army, had been expected but comes at a tumultuous time for the service.
-
-
-6. [In Parton’s 60-Year Marriage, Love Fueled by Distance and Difference](https://www.nytimes.com/2026/08/30/arts/music/dolly-parton-carl-dean-marriage-relationship.html)
-
-Dolly Parton met Carl Dean outside a Nashville laundromat in 1964. For decades, she was as protective of her marriage as he was fiercely private.
+The towering artwork, added to the campus in 2019, was targeted for elimination after President Trump’s takeover of the center.
 
 
-7. [A Half-Price Luxury E.V. Comes With a Big Asterisk](https://www.nytimes.com/2026/08/31/business/polestar-discounts-ev-china.html)
+6. [Woman Stabs 2, Killing One, in Times Square and Is Shot Dead by N.Y.P.D.](https://www.nytimes.com/2026/08/31/nyregion/times-square-subway-stabbing-nypd-shooting.html)
+
+The police fired at the woman, who was holding two knives, after trying to use less lethal force, officials said. A woman, 32, was killed, and a man, 68, is in stable condition.
+
+
+7. [As Families Mourn, Police Seek Answers in Fatal Times Square Attack](https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html)
+
+The New York Police Department is still trying to piece together what led a 49-year-old woman to stab two strangers, one fatally.
+
+
+8. [A Half-Price Luxury E.V. Comes With a Big Asterisk](https://www.nytimes.com/2026/08/31/business/polestar-discounts-ev-china.html)
 
 The Polestar 4 is a solid car, and current incentives make it a bargain. But the company, a Chinese-owned brand, is being forced from the U.S. market.
 
 
-8. [How a Teenager’s Cancer Treatment Became a MAHA Crusade](https://www.nytimes.com/2026/09/01/magazine/maha-cancer-treatment-doctors-cps.html)
+9. [Whistle-Blower Says Trump Officials Are Defying Court Orders on Voting by Mail](https://www.nytimes.com/2026/09/01/us/politics/whistle-blower-voting-by-mail.html)
 
-Dayna Mooney chose alternative remedies over the recommendations of her son’s doctors. Was that her right as a parent or a threat to his care?
-
-
-9. [Pilgrims in Flood-Stricken Nepal Sought the Divine at Sacred Mountain](https://www.nytimes.com/2026/08/30/us/nepal-floods-religious-tour.html)
-
-For many, the trek to Mount Kailash in Tibet is a once-in-a-lifetime trip to find spiritual awakening.
+The Postal Service disputed allegations by the whistle-blower that the agency had violated several court orders that should have halted work on the plan.
 
 
-10. [As Families Mourn, Police Seek Answers in Fatal Times Square Attack](https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html)
+10. [U.S. Launches Intense New Wave of Attacks in Iran](https://www.nytimes.com/2026/09/01/us/politics/us-launches-air-strikes-iran.html)
 
-The New York Police Department is still trying to piece together what led a 49-year-old woman to stab two strangers, one fatally.
+Iranian officials said the strikes caused significant damage, including killing four people and injuring several dozens at a wedding. Iran said it retaliated by firing on U.S. bases in the region.
 
 
