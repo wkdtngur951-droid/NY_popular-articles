@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-03 04:11:51)
+## 📰 NYTimes Most Popular (Updated: 2026-09-03 09:34:11)
 
-1. [A Plan to Eradicate the Deer on Catalina Island Will Proceed, Organizers Say](https://www.nytimes.com/2026/09/01/us/catalina-island-deer.html)
-
-After a judge issued a tentative ruling on a legal challenge Tuesday, the Catalina Island Conservancy said that it would begin the first phase of its plan to kill nearly all of the 2,000 deer on the California island.
-
-
-2. [How a Teenager’s Cancer Treatment Became a MAHA Crusade](https://www.nytimes.com/2026/09/01/magazine/maha-cancer-treatment-doctors-cps.html)
-
-Dayna Mooney chose alternative remedies over the recommendations of her son’s doctors. Was that her right as a parent or a threat to his care?
-
-
-3. [As Families Mourn, Police Seek Answers in Fatal Times Square Attack](https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html)
-
-The New York Police Department is still trying to piece together what led a 49-year-old woman to stab two strangers, one fatally.
-
-
-4. [‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner](https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html)
-
-Pamela Cisneros was killed by the police in Times Square after she stabbed two people, one fatally. Her father said she had stopped going with him to her mental health appointments.
-
-
-5. [Trump Administration Begins Blitz to Find Elusive Voter Fraud Ahead of Midterms](https://www.nytimes.com/2026/09/02/us/politics/trump-election-voter-fraud.html)
-
-Election fraud is exceedingly rare, but President Trump has fixated on rooting it out this year, claiming without evidence that tens of thousands of noncitizens are registered to vote.
-
-
-6. [Kennedy Center Removes ‘Blue’ Sculpture That Was an Artist’s Gift](https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html)
+1. [Kennedy Center Removes ‘Blue’ Sculpture That Was an Artist’s Gift](https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html)
 
 The towering artwork, added to the campus in 2019, was targeted for elimination after President Trump’s takeover of the center.
 
 
-7. [This Is What the Future of Trumpism Looks Like](https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html)
+2. [2 Killed and 2 Officers Shot at Minneapolis Apartment Building](https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html)
+
+The authorities said the suspect was also dead. Residents were warned to stay away from the downtown apartment building where the violence erupted.
+
+
+3. [Cassandra Wilson, Star Jazz Singer, Dies at 70](https://www.nytimes.com/2026/09/02/arts/music/cassandra-wilson-dead.html)
+
+With a low and smoky voice, she conjured the blues tradition of her native Mississippi in both her own songs and in covers.
+
+
+4. [To Save My Home, I Fly the American Flag](https://www.nytimes.com/2026/09/02/opinion/israel-settlers-palestine-america.html)
+
+As Israeli settlers encroach on his home, one Palestinian American man has hoisted the American flag.
+
+
+5. [This Is What the Future of Trumpism Looks Like](https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html)
 
 Steve Hilton wants to “Make California Golden Again.”
 
 
-8. [What Rising Global Bond Rates Mean for Your Money](https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html)
+6. [In Thailand, Weary U.S. Warship Crew Gets First Break in Months](https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html)
 
-If you own bonds, they may be in a broad fund that hasn’t lost much money. And that fund may do much better in the next several years.
-
-
-9. [Lindsay Clancy Murder Trial: Deadlocked Jury Will Return for 6th Day](https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html)
-
-Jurors say they cannot reach a unanimous agreement after about 30 hours of deliberations. The judge is bringing them back for one last try.
+Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
 
 
-10. [2 Killed and 2 Officers Shot at Minneapolis Apartment Building](https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html)
+7. [Allies Grumble That U.S. Is Hindering Global Economic Growth](https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html)
 
-The authorities said the suspect was also dead. Residents were warned to stay away from the downtown apartment building where the violence erupted.
+At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war with Iran.
+
+
+8. [As Families Mourn, Police Seek Answers in Fatal Times Square Attack](https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html)
+
+The New York Police Department is still trying to piece together what led a 49-year-old woman to stab two strangers, one fatally.
+
+
+9. [‘Don’t Worry About Me’: Attacker’s Father Thought She Had Turned a Corner](https://www.nytimes.com/2026/09/01/nyregion/times-square-stabbing-suspect.html)
+
+Pamela Cisneros was killed by the police in Times Square after she stabbed two people, one fatally. Her father said she had stopped going with him to her mental health appointments.
+
+
+10. [I Went to Princeton in Search of Greatness and Came Back Mediocre](https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html)
+
+I realized that in this country Indians were not supposed to be happy or to pursue happiness. We were supposed to suffer and to pursue suffering.
 
 
