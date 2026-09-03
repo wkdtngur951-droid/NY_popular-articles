@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-03 21:36:22)
+## 📰 NYTimes Most Popular (Updated: 2026-09-03 23:53:28)
 
-1. [‘The Corrections’ Is 25 Years Old. Its First Paragraph Still Feels New.](https://www.nytimes.com/interactive/2026/09/02/books/jonathan-franzen-the-corrections.html)
-
-Jonathan Franzen’s 2001 novel was celebrated for its canny portrayal of American life. It’s also a remarkable act of literary creation.
-
-
-2. [As Families Mourn, Police Seek Answers in Fatal Times Square Attack](https://www.nytimes.com/2026/09/01/nyregion/victims-stabbing-times-square-nyc.html)
-
-The New York Police Department is still trying to piece together what led a 49-year-old woman to stab two strangers, one fatally.
-
-
-3. [Kennedy Center Removes ‘Blue’ Sculpture That Was an Artist’s Gift](https://www.nytimes.com/2026/09/01/arts/design/kennedy-center-sculpture-removal-blue.html)
-
-The towering artwork, added to the campus in 2019, was targeted for elimination after President Trump’s takeover of the center.
-
-
-4. [Gloria Steinem, Personification of the Women’s Movement, Dies at 92](https://www.nytimes.com/2026/09/03/us/politics/gloria-steinem-dead.html)
-
-She challenged sexist assumptions, helping women develop a sense of self-worth and gain a measure of equality at work, at home and in society at large.
-
-
-5. [Trump Moves to Strip Tax Exemption From Schools That Aid Minority Students](https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html)
+1. [Trump Moves to Strip Tax Exemption From Schools That Aid Minority Students](https://www.nytimes.com/2026/09/03/business/economy/trump-irs-college-nonprofits.html)
 
 The Treasury Department released rules that would prevent schools with race-based programs from qualifying for tax-exempt status, a threat to both higher education and other private schools.
 
 
-6. [On Trump’s Ballroom, Chief Justice Finds Himself in an Unusual Spot: In Dissent](https://www.nytimes.com/2026/09/01/us/politics/supreme-court-ballroom-chief-roberts.html)
+2. [In Thailand, Weary U.S. Warship Crew Gets First Break in Months](https://www.nytimes.com/2026/09/02/world/asia/uss-lincoln-arrives-thailand.html)
 
-Chief Justice John G. Roberts Jr. has been in the majority in divided cases more times than any other chief since 1953. But not this time.
-
-
-7. [Visual Analysis Points to Bedrock as Likely Cause for Nepal’s Flash Floods](https://www.nytimes.com/interactive/2026/09/01/world/asia/nepal-flash-floods-landslide.html)
-
-As the planet warms, glacier meltwater and a thawing permafrost could have contributed to destabilizing the rock.
+Thousands of sailors and Marines serve on the U.S.S. Abraham Lincoln, which came into the spotlight because of a tough deployment in the war in Iran.
 
 
-8. [What Rising Global Bond Rates Mean for Your Money](https://www.nytimes.com/2026/09/02/business/bond-rates-retirement-401k.html)
+3. [Trump Isn’t Just Trolling Canada. He’s Helping Push It Apart.](https://www.nytimes.com/2026/09/03/opinion/canada-alberta-separatists-trump-maga.html)
 
-If you own bonds, they may be in a broad fund that hasn’t lost much money. And that fund may do much better in the next several years.
-
-
-9. [How the Galliano Show at the Met Fell Apart](https://www.nytimes.com/2026/09/02/style/john-galliano-met-exhibition-cancel-anna-wintour.html)
-
-Anna Wintour put her full power and prestige behind a designer convicted of an antisemitic hate crime. Behind the scenes, influential New Yorkers revolted.
+Drawing inspiration from MAGA, separatists in Alberta are pushing for a break away from Canada.
 
 
-10. [Couple in Florida Kept 4 Children Inside Truck for Years, Prosecutors Say](https://www.nytimes.com/2026/09/01/us/florida-child-abuse-charges-truck-captive.html)
+4. [I Went to Princeton in Search of Greatness and Came Back Mediocre](https://www.nytimes.com/2026/09/02/opinion/indian-identity-princeton.html)
 
-Two boys and two girls were kept in a semi truck cab for six years, the authorities said, and the two girls, both under 11 years old, were repeatedly sexually abused.
+I realized that in this country Indians were not supposed to be happy or to pursue happiness. We were supposed to suffer and to pursue suffering.
+
+
+5. [2 Killed and 2 Officers Shot at Minneapolis Apartment Building](https://www.nytimes.com/2026/09/02/us/shooting-minneapolis-downtown.html)
+
+The authorities said the suspect was also dead. Residents were warned to stay away from the downtown apartment building where the violence erupted.
+
+
+6. [Allies Grumble That U.S. Is Hindering Global Economic Growth](https://www.nytimes.com/2026/09/01/world/europe/g20-bessent-trump-allies.html)
+
+At a summit meant to showcase President Trump’s economic policies as a model for the world, Europeans complained about tariffs and the war with Iran.
+
+
+7. [Lindsay Clancy Murder Trial: Deadlocked Jury Will Return for 6th Day](https://www.nytimes.com/2026/09/02/us/lindsay-clancy-trial-judge-questions-jurors.html)
+
+Jurors say they cannot reach a unanimous agreement after about 30 hours of deliberations. The judge is bringing them back for one last try.
+
+
+8. [The President Can’t Handle the Truth](https://www.nytimes.com/2026/09/02/opinion/trump-fantasty-reality-politics.html)
+
+Trump’s fantasy-reality problem is deepening.
+
+
+9. [This Is What the Future of Trumpism Looks Like](https://www.nytimes.com/2026/09/02/opinion/steve-hilton-california-trump.html)
+
+Steve Hilton wants to “Make California Golden Again.”
+
+
+10. [Maria Bartiromo Is Out at Fox News](https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html)
+
+The host, who appeared on Fox Business and Fox News, had been with the network for more than 12 years.
 
 
