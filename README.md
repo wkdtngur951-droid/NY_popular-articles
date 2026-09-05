@@ -1,52 +1,53 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-05 18:02:57)
+## 📰 NYTimes Most Popular (Updated: 2026-09-05 21:03:31)
 
-1. [How to Train Balance as You Age](https://www.nytimes.com/2026/09/03/well/move/slackliner-gymnast-balance-aging.html)
+1. [In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members](https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html)
 
-Staying sure-footed gets harder the older you are. But there are a few strategies that can help.
+About 50 people were tested, an unparalleled inquiry that comes in the wake of news reports about the war with Iran and the U.S. military’s diminished stocks of munitions.
 
 
-2. [Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund](https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html)
+2. [Maria Bartiromo’s Downfall at an Increasingly Cautious Fox News](https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html)
+
+The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.
+
+
+3. [Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund](https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html)
 
 The plan to create a fund that could have funneled taxpayer money to the president’s allies drew repeated scrutiny, including a rare rebuke from Senate Republicans.
 
 
-3. [Another Heart Drug Fails, Shocking Cardiologists](https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html)
+4. [The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control](https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html)
 
-Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.
-
-
-4. [This Is the Real Point of College](https://www.nytimes.com/2026/09/04/opinion/college-freshman-education.html)
-
-It’s all about the practice of freedom.
+Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.
 
 
-5. [I Understand Why a Jury Could Not Convict Lindsay Clancy](https://www.nytimes.com/2026/09/04/opinion/lindsay-clancy-trial.html)
+5. [The New York Times News Quiz, September 4, 2026](https://www.nytimes.com/quiz/2026/09/04/briefing/weekly-news-quiz.html)
+
+Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+
+
+
+6. [I Understand Why a Jury Could Not Convict Lindsay Clancy](https://www.nytimes.com/2026/09/04/opinion/lindsay-clancy-trial.html)
 
 Postpartum psychosis is misunderstood and a poor fit for the justice system.
 
 
-6. [So It’s Gonna Be Ohio? This Tiny Village Is Ready for Taylor and Travis.](https://www.nytimes.com/2026/09/03/us/bratenahl-ohio-taylor-swift-travis-kelce.html)
+7. [Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists](https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html)
 
-The wealthy enclave of Bratenahl, Ohio, has been aflutter after learning that Travis Kelce purchased a Lake Erie mansion.
-
-
-7. [Something Alarming Is About to Happen in Germany](https://www.nytimes.com/2026/09/04/opinion/afd-germany-saxony-anhalt.html)
-
-The government is seemingly incapable of stopping the far right.
+As Dr. Anthony Fauci has faced public scrutiny from congressional Republicans, the D.O.J. has pursued a quieter and more expansive effort against a wider circle of researchers.
 
 
-8. [‘I Don’t Want to Die This Way’: Stranded for 15 Hours at Sea](https://www.nytimes.com/2026/09/04/us/jetski-stranded-sea.html)
+8. [Former Staff Members Threaten to Expose Fetterman’s Internal Messages](https://www.nytimes.com/2026/09/04/us/politics/john-fetterman-former-staff.html)
 
-Two longtime friends rented jet skis for an hourlong excursion. They ended up fighting for their lives.
+The former aides started a social media account they said would publicize Senator John Fetterman’s communications, following a report detailing the Democrat’s disdain for doing his job.
 
 
-9. [Judge Once Again Blocks Mail-In Ballot Rules](https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html)
+9. [N.Y.P.D. Fatally Shoots Man With Knife on Brooklyn Bridge](https://www.nytimes.com/2026/09/04/nyregion/nypd-shooting-brooklyn-bridge.html)
+
+The shooting, on Friday morning, happened days after the police shot and killed a woman in Times Square who had stabbed two people.
+
+
+10. [Judge Once Again Blocks Mail-In Ballot Rules](https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html)
 
 The ruling arrived before the Supreme Court could decide whether to intervene but appeared certain to set off yet another round of appeals.
-
-
-10. [Lindsay Clancy’s Murder Trial Ended With a Hung Jury. What Now?](https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html)
-
-Ms. Clancy still faces murder charges for killing her three children. She is likely to remain in a hospital, and prosecutors may decide to retry her.
 
 
