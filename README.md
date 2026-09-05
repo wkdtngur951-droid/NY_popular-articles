@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-05 15:53:23)
+## 📰 NYTimes Most Popular (Updated: 2026-09-05 18:02:57)
 
-1. [In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members](https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html)
-
-About 50 people were tested, an unparalleled inquiry that comes in the wake of news reports about the war with Iran and the U.S. military’s diminished stocks of munitions.
-
-
-2. [Former Staff Members Threaten to Expose Fetterman’s Internal Messages](https://www.nytimes.com/2026/09/04/us/politics/john-fetterman-former-staff.html)
-
-The former aides started a social media account they said would publicize Senator John Fetterman’s communications, following a report detailing the Democrat’s disdain for doing his job.
-
-
-3. [I Understand Why a Jury Could Not Convict Lindsay Clancy](https://www.nytimes.com/2026/09/04/opinion/lindsay-clancy-trial.html)
-
-Postpartum psychosis is misunderstood and a poor fit for the justice system.
-
-
-4. [Trump Threatens to Halt Some Trade Unless the Fed Cuts Rates](https://www.nytimes.com/2026/09/04/business/economy/trump-trade-threats-fed-rate-cuts.html)
-
-The president said he could halt trade between the United States and countries with which it has a trade deficit if the central bank doesn’t do his bidding.
-
-
-5. [The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control](https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html)
-
-Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.
-
-
-6. [‘I Don’t Want to Die This Way’: Stranded for 15 Hours at Sea](https://www.nytimes.com/2026/09/04/us/jetski-stranded-sea.html)
-
-Two longtime friends rented jet skis for an hourlong excursion. They ended up fighting for their lives.
-
-
-7. [Why the Hugging Face Hack Should Make You Worry More About A.I.](https://www.nytimes.com/2026/09/03/technology/openai-hugging-face-hacking.html)
-
-The attack by an aggressive “collective” of OpenAI agents shows the danger of artificial intelligence systems that organize themselves.
-
-
-8. [How to Train Balance as You Age](https://www.nytimes.com/2026/09/03/well/move/slackliner-gymnast-balance-aging.html)
+1. [How to Train Balance as You Age](https://www.nytimes.com/2026/09/03/well/move/slackliner-gymnast-balance-aging.html)
 
 Staying sure-footed gets harder the older you are. But there are a few strategies that can help.
 
 
-9. [Maria Bartiromo Is Out at Fox News](https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html)
+2. [Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund](https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html)
 
-The dismissal came after Ms. Bartiromo shared internal Fox Business communications with the White House, a person familiar with the details confirmed.
+The plan to create a fund that could have funneled taxpayer money to the president’s allies drew repeated scrutiny, including a rare rebuke from Senate Republicans.
 
 
-10. [Another Heart Drug Fails, Shocking Cardiologists](https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html)
+3. [Another Heart Drug Fails, Shocking Cardiologists](https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html)
 
 Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.
+
+
+4. [This Is the Real Point of College](https://www.nytimes.com/2026/09/04/opinion/college-freshman-education.html)
+
+It’s all about the practice of freedom.
+
+
+5. [I Understand Why a Jury Could Not Convict Lindsay Clancy](https://www.nytimes.com/2026/09/04/opinion/lindsay-clancy-trial.html)
+
+Postpartum psychosis is misunderstood and a poor fit for the justice system.
+
+
+6. [So It’s Gonna Be Ohio? This Tiny Village Is Ready for Taylor and Travis.](https://www.nytimes.com/2026/09/03/us/bratenahl-ohio-taylor-swift-travis-kelce.html)
+
+The wealthy enclave of Bratenahl, Ohio, has been aflutter after learning that Travis Kelce purchased a Lake Erie mansion.
+
+
+7. [Something Alarming Is About to Happen in Germany](https://www.nytimes.com/2026/09/04/opinion/afd-germany-saxony-anhalt.html)
+
+The government is seemingly incapable of stopping the far right.
+
+
+8. [‘I Don’t Want to Die This Way’: Stranded for 15 Hours at Sea](https://www.nytimes.com/2026/09/04/us/jetski-stranded-sea.html)
+
+Two longtime friends rented jet skis for an hourlong excursion. They ended up fighting for their lives.
+
+
+9. [Judge Once Again Blocks Mail-In Ballot Rules](https://www.nytimes.com/2026/09/04/us/politics/judge-blocks-trump-mail-ballots.html)
+
+The ruling arrived before the Supreme Court could decide whether to intervene but appeared certain to set off yet another round of appeals.
+
+
+10. [Lindsay Clancy’s Murder Trial Ended With a Hung Jury. What Now?](https://www.nytimes.com/2026/09/04/us/lindsay-clancy-murder-hung-jury-what-next.html)
+
+Ms. Clancy still faces murder charges for killing her three children. She is likely to remain in a hospital, and prosecutors may decide to retry her.
 
 
