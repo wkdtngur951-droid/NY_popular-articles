@@ -1,53 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-05 23:42:54)
+## 📰 NYTimes Most Popular (Updated: 2026-09-06 04:07:41)
 
-1. [Maria Bartiromo Is Out at Fox News](https://www.nytimes.com/2026/09/03/business/media/fox-news-maria-bartiromo.html)
+1. [Another Heart Drug Fails, Shocking Cardiologists](https://www.nytimes.com/2026/09/04/science/heart-drug-fails-novartis-pelacarsen.html)
 
-The dismissal came after Ms. Bartiromo shared internal Fox Business communications with the White House, a person familiar with the details confirmed.
+Doctors were hopeful the drug, which was being tested in a large clinical trial by Novartis, was going to be a powerful new tool to fight heart disease.
 
 
-2. [In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members](https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html)
+2. [He Was a Top Lawn Care Influencer on YouTube. Then Everything Went Haywire.](https://www.nytimes.com/2026/08/30/magazine/greg-chism-youtube-bad-baby.html)
+
+Many people think Greg Chism is a freak — or worse. He says he was just following the incentives of the platform.
+
+
+3. [In Major Leak Hunt, Pentagon Gives Polygraph Tests to Joint Staff Members](https://www.nytimes.com/2026/09/04/us/politics/pentagon-staff-polygraph-tests.html)
 
 About 50 people were tested, an unparalleled inquiry that comes in the wake of news reports about the war with Iran and the U.S. military’s diminished stocks of munitions.
 
 
-3. [Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones](https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html)
+4. [3 Common Drugs Older Adults May Be Overusing](https://www.nytimes.com/2026/09/05/well/older-people-drugs-overuse.html)
 
-The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.
+Not all older people need these medications, and they can carry increased risks.
 
 
-4. [‘I Don’t Want to Die This Way’: Stranded for 15 Hours at Sea](https://www.nytimes.com/2026/09/04/us/jetski-stranded-sea.html)
+5. [Clancy Faces Years of Confinement, No Matter What Comes Next](https://www.nytimes.com/2026/09/05/us/lindsay-clancy-psychiatric-hospital.html)
+
+Even as a jury failed to reach a verdict in Lindsay Clancy’s murder trial, her future is unlikely to include freedom, at least for a long time. But Americans have been divided over the goal of her confinement.
+
+
+6. [U.S. Strikes Three Iranian ‘Shadow Network’ Oil Tankers, Military Says](https://www.nytimes.com/2026/09/05/world/middleeast/iran-us-kharg-oil-tanker-attack.html)
+
+The U.S. military said it retaliated after Iran launched missiles at two warships. The strikes came days after the two sides exchanged some of their most intense fire in weeks.
+
+
+7. [‘I Don’t Want to Die This Way’: Stranded for 15 Hours at Sea](https://www.nytimes.com/2026/09/04/us/jetski-stranded-sea.html)
 
 Two longtime friends rented jet skis for an hourlong excursion. They ended up fighting for their lives.
 
 
-5. [The New York Times News Quiz, September 4, 2026](https://www.nytimes.com/quiz/2026/09/04/briefing/weekly-news-quiz.html)
+8. [Trump Officials Draft Plan to Pay At-Home Parents, Using Funds for Working Ones](https://www.nytimes.com/2026/09/05/us/politics/stay-at-home-parents-subsidies.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-
-6. [This Is the Real Point of College](https://www.nytimes.com/2026/09/04/opinion/college-freshman-education.html)
-
-It’s all about the practice of freedom.
+The proposed benefit, a top policy priority for Vice President JD Vance, would apply only to married couples and tap a fund intended to provide federal child care subsidies to working parents.
 
 
-7. [I Understand Why a Jury Could Not Convict Lindsay Clancy](https://www.nytimes.com/2026/09/04/opinion/lindsay-clancy-trial.html)
+9. [Inside the D.O.J.’s Investigation of Fauci and Other Virus Scientists](https://www.nytimes.com/2026/09/05/health/fauci-morens-covid-prosecutions.html)
 
-Postpartum psychosis is misunderstood and a poor fit for the justice system.
-
-
-8. [Maria Bartiromo’s Downfall at an Increasingly Cautious Fox News](https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html)
-
-The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.
+As Dr. Anthony Fauci has faced public scrutiny from congressional Republicans, the D.O.J. has pursued a quieter and more expansive effort against a wider circle of researchers.
 
 
-9. [Judge Orders Trump Officials to Divulge Names of Those Who Set Up $1.8 Billion Fund](https://www.nytimes.com/2026/09/04/us/politics/trump-administration-fund-compensation-jan-6.html)
+10. [Not So Supreme, Mr. Roberts](https://www.nytimes.com/2026/09/05/opinion/not-so-supreme-mr-roberts.html)
 
-The plan to create a fund that could have funneled taxpayer money to the president’s allies drew repeated scrutiny, including a rare rebuke from Senate Republicans.
-
-
-10. [The Risk of Russian Sabotage in Europe: A Fight That Spirals Out of Control](https://www.nytimes.com/2026/09/04/world/europe/russia-europe-nato-sabotage.html)
-
-Europe’s options are limited in responding to an unnerving series of plots and provocations. But the odds of unpredictable consequences are rising.
+Courting authoritarianism with a rapacious Trump.
 
 
