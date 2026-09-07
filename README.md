@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-07 16:21:02)
+## 📰 NYTimes Most Popular (Updated: 2026-09-07 20:25:25)
 
-1. [New Hampshire Democrats Sound an Alarm: ‘We’re Losing’](https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html)
+1. [For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation](https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html)
 
-The state has not elected a Republican to the Senate since 2010. But Chris Pappas, the likely Democratic nominee, anticipates a tough race against a well-known opponent, John E. Sununu.
-
-
-2. [Investigators Search for Answers After 5 Were Killed in Runway Crash](https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html)
-
-Officials said five others were injured. Flight disruptions at Miami International Airport continued on Monday morning.
+The president has made peace with Michael D. Cohen, his onetime lawyer who turned against him. But contrary to Mr. Trump’s claims, Mr. Cohen has not recanted the testimony that helped convict his former boss.
 
 
-3. [Flashback: Your Weekly History Quiz, Sept. 5, 2026](https://www.nytimes.com/interactive/2026/09/04/upshot/flashback.html)
+2. [Pete Hegseth Is a Wrecking Ball](https://www.nytimes.com/2026/09/06/opinion/hegseth-national-security-military-generals.html)
 
-Can you sort 8 historical events?
-
-
-4. [A Sympathetic Defendant and Well-Crafted Strategy Dominated Clancy Trial](https://www.nytimes.com/2026/09/05/us/lindsay-clancy-trial-defense-prosecutor-tactics.html)
-
-The defense lawyer for Lindsay Clancy showed empathy for his client in showcasing her mental health problems. That may have made all the difference.
+We are already paying a high price for the defense secretary’s purges and whims.
 
 
-5. [I Study Successful People. They Have One Habit in Common.](https://www.nytimes.com/2026/08/28/opinion/successful-people-help.html)
+3. [What to Know About the Cargo Plane That Overran a Runway in Miami, Killing 5](https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html)
 
-Being a successful self-starter doesn’t mean pulling yourself up by your bootstraps.
-
-
-6. [Trump Floats Renaming New Mexico as ‘New America,’ Prompting Pushback](https://www.nytimes.com/2026/09/07/us/politics/trump-rename-new-mexico.html)
-
-The suggestion, posted on social media, appeared to be the latest in the president’s efforts to alter geographic names.
+The plane was operating as part of Amazon’s cargo fleet and had flown from Puerto Rico. It crashed into several vehicles after overrunning the runway.
 
 
-7. [It’s Not Just the West Bank Settlers. It’s Israel.](https://www.nytimes.com/2026/09/06/opinion/israel-west-bank-settlers-violence.html)
-
-Settler violence is reaching new heights.
-
-
-8. [Inside the Battle to Save One Pioneering General From Hegseth’s Purge](https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html)
+4. [Inside the Battle to Save One Pioneering General From Hegseth’s Purge](https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html)
 
 Gen. Christopher T. Donahue’s vision for fighting future wars won him powerful supporters around the world. Could they save his career?
 
 
-9. [The 92-Year-Old Mathematician and the Teenage Apprentice](https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html)
+5. [Unruly Passenger Is Restrained With Duct Tape During a Flight](https://www.nytimes.com/2026/09/05/us/american-airlines-passenger-duct-tape.html)
+
+The passenger on an American Airlines flight began to shout vulgarities and then became violent on Thursday, the authorities said. That’s when two passengers stepped in.
+
+
+6. [The 92-Year-Old Mathematician and the Teenage Apprentice](https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html)
 
 Joan Birman thought her major discoveries were behind her. Then came an email from a young neighbor — a girl who knew little but wanted to learn.
 
 
-10. [‘It Offends Me’: Giuliani Says Mamdani Should Skip 9/11 Memorial](https://www.nytimes.com/2026/09/06/nyregion/mamdani-911-memorial-rudy-giuliani.html)
+7. [Maria Bartiromo’s Downfall at an Increasingly Cautious Fox News](https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html)
 
-During an anti-Muslim diatribe, the former mayor called for Mr. Mamdani to skip the ceremonies. The mayor has said he is going.
+The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.
+
+
+8. [Trump Administration Again Asks Supreme Court to Allow Mail Voting Restrictions](https://www.nytimes.com/2026/09/06/us/politics/trump-mail-in-voting-supreme-court.html)
+
+The filing puts the legality of the president’s push to impose limits on mail voting squarely before the justices even as states begin sending out ballots.
+
+
+9. [3 Common Drugs Older Adults May Be Overusing](https://www.nytimes.com/2026/09/05/well/older-people-drugs-overuse.html)
+
+Not all older people need these medications, and they can carry increased risks.
+
+
+10. [Far-Right Victory in German State Seen as Omen Across Europe](https://www.nytimes.com/2026/09/06/world/europe/afd-germany-europe-far-right-saxony-anhalt.html)
+
+A vote in eastern Germany has given fresh momentum to hard-right parties hoping to win elections elsewhere on the continent next year, analysts said.
 
 
