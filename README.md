@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-07 23:23:14)
+## 📰 NYTimes Most Popular (Updated: 2026-09-08 04:08:22)
 
-1. [Inside the Battle to Save One Pioneering General From Hegseth’s Purge](https://www.nytimes.com/2026/09/06/us/politics/hegseth-army-general-donahue.html)
+1. [Dolly Parton’s Former California Retreat Returns to the Market](https://www.nytimes.com/2026/09/07/realestate/real-estate-sales-listings-dolly-parton-travis-kelce-taylor-swift-amanda-seyfried.html)
 
-Gen. Christopher T. Donahue’s vision for fighting future wars won him powerful supporters around the world. Could they save his career?
-
-
-2. [Is This Democrat Too Good for His Own Good?](https://www.nytimes.com/2026/09/07/opinion/roy-cooper-senate-carolina.html)
-
-Roy Cooper’s durable lead in a crucial Senate race is causing jitters.
+The miniature compound, near Santa Barbara, is listed for $1.995 million. And Travis Kelce bought a lakeside mansion in his home state.
 
 
-3. [3 Common Drugs Older Adults May Be Overusing](https://www.nytimes.com/2026/09/05/well/older-people-drugs-overuse.html)
+2. [‘It Offends Me’: Giuliani Says Mamdani Should Skip 9/11 Memorial](https://www.nytimes.com/2026/09/06/nyregion/mamdani-911-memorial-rudy-giuliani.html)
 
-Not all older people need these medications, and they can carry increased risks.
-
-
-4. [Investigators Search for Answers After 5 Were Killed in Runway Crash](https://www.nytimes.com/2026/09/06/us/plane-crash-amazon-miami-airport.html)
-
-Officials said five others were injured. Flight disruptions at Miami International Airport continued on Monday morning.
+During an anti-Muslim diatribe, the former mayor called for Mr. Mamdani to skip the ceremonies. The mayor has said he is going.
 
 
-5. [For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation](https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html)
+3. [America’s Killer Sweetheart](https://www.nytimes.com/2026/09/07/style/reece-weaver-dcc-chicago-roxie-hart.html)
 
-The president has made peace with Michael D. Cohen, his onetime lawyer who turned against him. But contrary to Mr. Trump’s claims, Mr. Cohen has not recanted the testimony that helped convict his former boss.
-
-
-6. [I’m Furious. This TV Show Understands Why.](https://www.nytimes.com/2026/09/06/opinion/furious-tv-show-epstein.html)
-
-“Furious,” the new police procedural on Hulu, turns out to be the perfect thriller for a post-Epstein world.
+Reece Weaver, a breakout star of the Dallas Cowboys Cheerleaders, gives Broadway a whirl.
 
 
-7. [Maria Bartiromo’s Downfall at an Increasingly Cautious Fox News](https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html)
+4. [Ousted Kennedy Center Chairman Buys Dismantled ‘Blue’ Sculpture](https://www.nytimes.com/2026/09/07/arts/design/blue-sculpture-kennedy-center-rubenstein.html)
+
+David Rubenstein purchased the sculpture, which was removed from the center last week, from the artist’s foundation. He will display it at the National Gallery of Art.
+
+
+5. [Bears in Los Angeles Are Getting Their Close-Ups, Ready or Not](https://www.nytimes.com/2026/09/07/us/california-black-bears.html)
+
+California has 60,000 black bears, and they are venturing far from their usual habitat in search of food and shelter. It’s the humans who have to adapt.
+
+
+6. [There’s Something Better Than Happiness](https://www.nytimes.com/2026/09/07/opinion/happiness-research-joy-mental-health.html)
+
+We ought to make it a point not to stay in our happy place for too long.
+
+
+7. [Erika Kirk: What I’ve Learned About Grief](https://www.nytimes.com/2026/09/07/opinion/erika-kirk-grief-faith.html)
+
+It is there, always, but so is the beautiful gift of life.
+
+
+8. [A Tidier Rivian (in Size and Price) Is Ready for the Suburbs](https://www.nytimes.com/2026/09/07/business/rivian-r2-review.html)
+
+The electric automaker’s new R2 takes what works from its bigger, costlier brother and adds a host of features with the mass market in mind.
+
+
+9. [Maria Bartiromo’s Downfall at an Increasingly Cautious Fox News](https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html)
 
 The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.
 
 
-8. [What to Know About the Cargo Plane That Overran a Runway in Miami, Killing 5](https://www.nytimes.com/2026/09/06/us/miami-plane-crash-what-we-know.html)
+10. [As War Grinds On, Trump Relishes Renovation Projects](https://www.nytimes.com/2026/09/07/us/politics/trump-dc-makeover-projects.html)
 
-The plane was operating as part of Amazon’s cargo fleet and had flown from Puerto Rico. It crashed into several vehicles after overrunning the runway.
-
-
-9. [New Hampshire Democrats Sound an Alarm: ‘We’re Losing’](https://www.nytimes.com/2026/09/06/us/politics/pappas-sununu-new-hampshire-senate.html)
-
-The state has not elected a Republican to the Senate since 2010. But Chris Pappas, the likely Democratic nominee, anticipates a tough race against a well-known opponent, John E. Sununu.
-
-
-10. [The 92-Year-Old Mathematician and the Teenage Apprentice](https://www.nytimes.com/2026/09/06/science/92-year-old-mathematician-apprentice.html)
-
-Joan Birman thought her major discoveries were behind her. Then came an email from a young neighbor — a girl who knew little but wanted to learn.
+President Trump is basking in the momentum of the various projects he has spurred around downtown Washington.
 
 
