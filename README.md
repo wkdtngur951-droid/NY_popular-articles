@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-08 23:58:39)
+## 📰 NYTimes Most Popular (Updated: 2026-09-09 04:29:23)
 
-1. [For Trump’s Former Fixer, a Tortured Path From ‘Rat’ to Reconciliation](https://www.nytimes.com/2026/09/06/us/politics/michael-cohen-donald-trump-interview.html)
+1. [A Doctor Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html)
 
-The president has made peace with Michael D. Cohen, his onetime lawyer who turned against him. But contrary to Mr. Trump’s claims, Mr. Cohen has not recanted the testimony that helped convict his former boss.
-
-
-2. [There’s Something Better Than Happiness](https://www.nytimes.com/2026/09/07/opinion/happiness-research-joy-mental-health.html)
-
-We ought to make it a point not to stay in our happy place for too long.
+Patients sued by Senator Roger Marshall of Kansas were routinely charged 18 percent interest, The Times found. Some had bank accounts garnished.
 
 
-3. [Is This Democrat Too Good for His Own Good?](https://www.nytimes.com/2026/09/07/opinion/roy-cooper-senate-carolina.html)
+2. [The 25 Photos That Changed Fashion Forever](https://www.nytimes.com/2026/09/08/t-magazine/top-fashion-photographs.html)
 
-Roy Cooper’s durable lead in a crucial Senate race is causing jitters.
-
-
-4. [Maria Bartiromo’s Downfall at an Increasingly Cautious Fox News](https://www.nytimes.com/2026/09/05/business/media/maria-bartiromo-fox-news.html)
-
-The network this week took Maria Bartiromo off the air, pulling one of the last hosts whose coverage of Dominion Voting Systems drew an expensive defamation lawsuit.
+Two photographers, a fashion designer, a stylist, a creative director, an editor and a supermodel debate the images that have had an indelible impact on how we dress.
 
 
-5. [America’s Killer Sweetheart](https://www.nytimes.com/2026/09/07/style/reece-weaver-dcc-chicago-roxie-hart.html)
+3. [Israeli Allies Ban Trade With Settlements as U.K. Cites ‘Ethnic Cleansing’](https://www.nytimes.com/2026/09/08/world/europe/uk-sanctions-israel-west-bank-settlements.html)
 
-Reece Weaver, a breakout star of the Dallas Cowboys Cheerleaders, gives Broadway a whirl.
-
-
-6. [Trump’s Only Teacher](https://www.nytimes.com/2026/09/07/opinion/roy-cohn-kai-bird-trump.html)
-
-Trump needed only one teacher.
+Britain, Canada and France on Tuesday announced sanctions on Israeli settlements in the West Bank, with Britain saying Israel had “turned a blind eye” to violence against Palestinians.
 
 
-7. [Why Did Trump Order Up 660 Million Pounds of Mystery Meat?](https://www.nytimes.com/2026/09/07/opinion/trump-meat-import.html)
+4. [Trump Announces Ban on Some Canadian Imports](https://www.nytimes.com/2026/09/08/business/canada-tariffs-trump.html)
 
-On second thought, I’m not that hungry.
-
-
-8. [After 9/11, Documents Suggest, New Yorkers Were Misled About Air Quality](https://www.nytimes.com/2026/09/07/nyregion/sept-11-air-quality-cancer.html)
-
-The Mamdani administration released more than 170,000 pages of documents related to the air quality around the World Trade Center site in the months after the Sept. 11 attacks.
+President Trump invoked a 1930 law after Canada imposed new tariffs on U.S. goods, which followed his own recent tariffs in a widening trade war.
 
 
-9. [Why Stocks Are Defying Gravity and What Could Bring Them Down](https://www.nytimes.com/2026/09/08/business/stock-market-interest-rates.html)
+5. [Apple to Make First Big Change to iPhones in Years](https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html)
 
-Investors are focused on strong corporate earnings and A.I., while looking past the war in Iran. But rising interest rates are an increasing risk to the rally.
+Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.
 
 
-10. [Voters Have Spoken. Why Aren’t Democrats Listening?](https://www.nytimes.com/2026/09/08/opinion/democrats-midterms.html)
+6. [Smithsonian’s Secretary to Resign as Trump Tries to Rule the Institution](https://www.nytimes.com/2026/09/08/arts/design/smithsonian-secretary-lonnie-bunch-resigns.html)
 
-Less than two years after a catastrophic election, the Democratic brand remains unpopular, and the party is still in the grip of a divisive identity crisis.
+In the face of escalating White House attacks about how museums present American history, Lonnie G. Bunch III has announced his decision to depart.
+
+
+7. [The Truth About Brain Rot: It’s a Cry for Help](https://www.nytimes.com/2026/09/08/opinion/gen-z-tiktok-ig-reels.html)
+
+Maybe consuming meaningless content is the only way to be free online.
+
+
+8. [Thieves Steal Artworks From Renoir Museum in France](https://www.nytimes.com/2026/09/08/arts/renoir-museum-artworks-theft-france.html)
+
+Almost a year after the brazen Louvre heist, thieves targeted a museum that was formerly the artist’s home in the south of France.
+
+
+9. [Iceland Summons U.S. Ambassador Over Provocative Trump Map](https://www.nytimes.com/2026/09/08/world/europe/iceland-summon-ambassador-trump-map-greenland.html)
+
+After voting against talks to join the European Union, Iceland is reacting forcefully to a slight against its sovereignty.
+
+
+10. [Near the Border, Americans Fear Losing Ties With Canadians](https://www.nytimes.com/2026/09/08/us/canada-tariffs-us-relationship.html)
+
+Americans in border regions have had symbiotic relationships with Canadians, but the trade war is testing their bonds.
 
 
