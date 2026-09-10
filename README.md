@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-10 14:13:18)
+## 📰 NYTimes Most Popular (Updated: 2026-09-10 18:15:22)
 
-1. [JD Vance Doesn’t Want to Help Married Parents. He Wants to Hurt Single Mothers.](https://www.nytimes.com/2026/09/09/opinion/trump-vance-single-parents-married-family.html)
+1. [Elizabeth Holmes Documentary Debuts at a Secret Screening in Telluride](https://www.nytimes.com/2026/09/07/movies/elizabeth-holmes-documentary-nathan-fielder-a24.html)
 
-Redistributing money from single working parents to married ones is not a pro-family policy.
-
-
-2. [Lucien Smith, Art-World Star Whose Career Abruptly Turned, Dies at 37](https://www.nytimes.com/2026/09/09/obituaries/lucien-smith-dead.html)
-
-A phenom in his 20s, he became the poster child for Zombie Formalism before abandoning the gallery frenzy for Montauk.
+The comic Nathan Fielder and the filmmaker Lance Oppenheim teamed up to interview the convicted executive for “You Can See Everything.”
 
 
-3. [A Doctor Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html)
+2. [A Nation Gripped by ‘Bayeux Fever’ Finally Gets to See the Tapestry](https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html)
 
-Patients sued by Senator Roger Marshall of Kansas were routinely charged 18 percent interest, The Times found. Some had bank accounts garnished.
-
-
-4. [Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year](https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html)
-
-The money, listed as “cash gift for the holidays,” was detailed in financial disclosure forms released by the administration.
+On Thursday, the British Museum opened its blockbuster Bayeux Tapestry exhibition, its most eagerly anticipated show in decades.
 
 
-5. [Military Aide Accidentally Deploys Emergency Slide on New Air Force One](https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html)
+3. [Pleading for Votes, Trump Tries a New Spin on an Old Promise: Free Money](https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html)
 
-The mishap occurred while the Qatari-donated jet was parked on the tarmac at Joint Base Andrews. It delayed President Trump’s departure to a Republican convention in Dallas.
-
-
-6. [Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999](https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html)
-
-At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.
+In his convention speech, the president floated the idea of a $5,000 “Trump Dividend” for every adult American if Republicans keep control of Congress. The idea, like many others, may not come to pass.
 
 
-7. [Blame Ronald Reagan](https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html)
-
-We are suffering the consequences of the conservative revolution that began in the 1980s.
-
-
-8. [Apple to Make First Big Change to iPhones in Years](https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html)
-
-Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.
-
-
-9. [Delays and Cancellations Persist After Major Disruption at U.K. Airports](https://www.nytimes.com/2026/09/09/world/europe/uk-air-traffic-control-flight-delays-london.html)
+4. [Delays and Cancellations Persist After Major Disruption at U.K. Airports](https://www.nytimes.com/2026/09/09/world/europe/uk-air-traffic-control-flight-delays-london.html)
 
 An air traffic control failure prompted 1,700 flight cancellations on Tuesday and more than 300 on Wednesday.
 
 
-10. [‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention](https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html)
+5. [Iran Signals Readiness to Escalate Fight in Face of Rising U.S. Pressure](https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html)
+
+The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say.
+
+
+6. [He’s Seen Images of 9/11 From Just About Every Angle. Except This One.](https://www.nytimes.com/2026/09/09/nyregion/911-disposable-camera.html)
+
+The 9/11 completist community wants to know and see everything. The Holy Grail? Pictures from inside the twin towers.
+
+
+7. [Sinkhole Opens at Nicolas Cage’s Malibu Home, Forcing Evacuations](https://www.nytimes.com/2026/09/09/us/malibu-sinkhole-nicolas-cage-house.html)
+
+The expanding sinkhole formed under the driveway of a house that the actor bought in 2024. Dozens of other homes were evacuated.
+
+
+8. [‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention](https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html)
 
 At a first-of-its-kind midterm convention, President Trump mostly offered retreads and self-congratulation. Then, he offered to pay Americans $5,000 apiece if Republicans kept power.
+
+
+9. [60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality](https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html)
+
+With an assist from A.I., President Trump offers a window into how he wants to be seen — and, critics say, a barometer of his mental state.
+
+
+10. [Apple to Make First Big Change to iPhones in Years](https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html)
+
+Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.
 
 
