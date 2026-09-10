@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-10 09:30:53)
+## 📰 NYTimes Most Popular (Updated: 2026-09-10 14:13:18)
 
-1. [60 Posts in 10 Hours: How Trump’s Social Media Reflects His Version of Reality](https://www.nytimes.com/2026/09/09/us/politics/trump-social-media-ai-reality.html)
+1. [JD Vance Doesn’t Want to Help Married Parents. He Wants to Hurt Single Mothers.](https://www.nytimes.com/2026/09/09/opinion/trump-vance-single-parents-married-family.html)
 
-With an assist from A.I., President Trump offers a window into how he wants to be seen — and, critics say, a barometer of his mental state.
+Redistributing money from single working parents to married ones is not a pro-family policy.
 
 
-2. [Two Nations. Two Democracies at Stake.](https://www.nytimes.com/2026/09/08/opinion/israel-us-elections-midterms-netanyahu-trump.html)
+2. [Lucien Smith, Art-World Star Whose Career Abruptly Turned, Dies at 37](https://www.nytimes.com/2026/09/09/obituaries/lucien-smith-dead.html)
 
-Israel and the United States each hold elections one week apart in the fall. The fate of their democracies lies in the balance.
+A phenom in his 20s, he became the poster child for Zombie Formalism before abandoning the gallery frenzy for Montauk.
 
 
 3. [A Doctor Sued 700 Patients for Debts; 81 Were Arrested. Now He’s a Senator.](https://www.nytimes.com/2026/09/08/us/politics/roger-marshall-obgyn-doctor-debts.html)
@@ -15,38 +15,38 @@ Israel and the United States each hold elections one week apart in the fall. The
 Patients sued by Senator Roger Marshall of Kansas were routinely charged 18 percent interest, The Times found. Some had bank accounts garnished.
 
 
-4. [Jimmy Kimmel Weighs in on Trump’s New Look](https://www.nytimes.com/2026/09/09/arts/television/jimmy-kimmel-trump-new-hair.html)
-
-Back from his summer vacation, the late night host wondered, “Is it possible to have a midlife crisis at 80 years old?”
-
-
-5. [Apple to Make First Big Change to iPhones in Years](https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html)
-
-Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.
-
-
-6. [Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year](https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html)
+4. [Trump Doled Out $45,000 Cash Gifts to Natalie Harp and Other Aides Last Year](https://www.nytimes.com/2026/09/09/us/politics/trump-natalie-harp-cash-gift-martin-harris.html)
 
 The money, listed as “cash gift for the holidays,” was detailed in financial disclosure forms released by the administration.
 
 
-7. [2 Women Who Killed Transgender Man Are Sentenced to Life in Prison](https://www.nytimes.com/2026/09/08/nyregion/sam-nordquist-transgender-man-murder-life-prison-sentencing.html)
+5. [Military Aide Accidentally Deploys Emergency Slide on New Air Force One](https://www.nytimes.com/2026/09/09/us/politics/emergency-slide-air-force-one-trump.html)
 
-The women had pleaded guilty to all charges in connection with the death of Sam Nordquist, 24, who was held hostage in a motel for weeks and tortured.
+The mishap occurred while the Qatari-donated jet was parked on the tarmac at Joint Base Andrews. It delayed President Trump’s departure to a Republican convention in Dallas.
 
 
-8. [Delays and Cancellations Persist After Major Disruption at U.K. Airports](https://www.nytimes.com/2026/09/09/world/europe/uk-air-traffic-control-flight-delays-london.html)
+6. [Apple Unveils the iPhone Duo, a Foldable Phone That Costs $1,999](https://www.nytimes.com/2026/09/09/technology/apple-iphone-duo-foldable-phone.html)
+
+At the company’s annual September product event, Apple also demonstrated its work on artificial intelligence and other new devices.
+
+
+7. [Blame Ronald Reagan](https://www.nytimes.com/2026/09/09/opinion/80s-reagan-revolution-deregulation.html)
+
+We are suffering the consequences of the conservative revolution that began in the 1980s.
+
+
+8. [Apple to Make First Big Change to iPhones in Years](https://www.nytimes.com/2026/09/08/technology/apple-iphone-event.html)
+
+Fans of the company’s products widely believe it will unveil a folding smartphone at its annual launch event on Wednesday.
+
+
+9. [Delays and Cancellations Persist After Major Disruption at U.K. Airports](https://www.nytimes.com/2026/09/09/world/europe/uk-air-traffic-control-flight-delays-london.html)
 
 An air traffic control failure prompted 1,700 flight cancellations on Tuesday and more than 300 on Wednesday.
 
 
-9. [Iran Signals Readiness to Escalate Fight in Face of Rising U.S. Pressure](https://www.nytimes.com/2026/09/09/world/middleeast/iran-war-us-aggression-hormuz.html)
+10. [‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention](https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html)
 
-The Iranian government is taking an increasingly aggressive approach as it confronts a growing economic threat and worries that its grip on the Strait of Hormuz is slipping, analysts say.
-
-
-10. [Lucien Smith, Art-World Star Whose Career Abruptly Turned, Dies at 37](https://www.nytimes.com/2026/09/09/obituaries/lucien-smith-dead.html)
-
-A phenom in his 20s, he became the poster child for Zombie Formalism before abandoning the gallery frenzy for Montauk.
+At a first-of-its-kind midterm convention, President Trump mostly offered retreads and self-congratulation. Then, he offered to pay Americans $5,000 apiece if Republicans kept power.
 
 
