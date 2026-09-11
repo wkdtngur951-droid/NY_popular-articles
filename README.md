@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-11 04:18:26)
+## 📰 NYTimes Most Popular (Updated: 2026-09-11 09:28:08)
 
-1. [Behind the Scenes, Vance Gathered Unvarnished Views of the Iran War](https://www.nytimes.com/2026/09/10/us/politics/vance-iran-war-trump-munitions.html)
+1. [Big Tech Fooled America Once. The Second Time’s Not Going So Well.](https://www.nytimes.com/2026/09/10/opinion/ai-big-tech-america-politics.html)
 
-Vice President JD Vance received sobering assessments about the war that did not line up with what he, President Trump and other top administration officials were saying publicly.
-
-
-2. [A Nation Gripped by ‘Bayeux Fever’ Finally Gets to See the Tapestry](https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html)
-
-On Thursday, the British Museum opened its blockbuster Bayeux Tapestry exhibition, its most eagerly anticipated show in decades.
+We won’t get fooled again.
 
 
-3. [It’s My Party and I’ll Lie if I Want To](https://www.nytimes.com/2026/09/10/opinion/trump-midterms-dallas-convention.html)
-
-The problem for Democrats is that Trump has frequently done things that sane, rational people think are narcissistic, irrational, malevolent and … it works.
-
-
-4. [Houthis Seize Strategic Red Sea Port, a Major Victory for Iranian Ally](https://www.nytimes.com/2026/09/10/world/middleeast/yemens-houthis-seize-strategic-red-sea-port-officials-say.html)
-
-The Iran-backed militia routed Yemeni government forces in Mokha, putting the group in a stronger position to attack ships in a crucial waterway for global trade.
-
-
-5. [He’s Seen Images of 9/11 From Just About Every Angle. Except This One.](https://www.nytimes.com/2026/09/09/nyregion/911-disposable-camera.html)
-
-The 9/11 completist community wants to know and see everything. The Holy Grail? Pictures from inside the twin towers.
-
-
-6. [An N.Y.U. Mathematician Clashed With OpenAI Over a $1 Million Proof](https://www.nytimes.com/2026/09/10/science/tristan-buckmaster-openai-math-navier-stokes.html)
+2. [An N.Y.U. Mathematician Clashed With OpenAI Over a $1 Million Proof](https://www.nytimes.com/2026/09/10/science/tristan-buckmaster-openai-math-navier-stokes.html)
 
 Tristan Buckmaster was on the path toward an important proof when one of the A.I. giants used its staggering resources to get there first.
 
 
-7. [Trump Is Sabotaging the Midterms. The Supreme Court Must Stop Him.](https://www.nytimes.com/2026/09/09/opinion/mail-voting-chaos-trump-supreme-court.html)
+3. [Jimmy Kimmel to Interview James Talarico ‘Under Unusual Circumstances’](https://www.nytimes.com/2026/09/10/arts/television/jimmy-kimmel-james-talarico-interview.html)
+
+A conversation with the Democratic Senate hopeful from Texas will move off air because of what the late night host called F.C.C. “threats” against his show and network.
+
+
+4. [Trump Is Sabotaging the Midterms. The Supreme Court Must Stop Him.](https://www.nytimes.com/2026/09/09/opinion/mail-voting-chaos-trump-supreme-court.html)
 
 The country has built a system in which Americans can have confidence. President Trump is trying to wreck it.
 
 
-8. [‘Pretend That I Am Running’: 7 Takeaways From the G.O.P. Midterm Convention](https://www.nytimes.com/2026/09/10/us/politics/trump-republican-convention-speech-takeaways.html)
+5. [Anthropic Says It Blocked Possible Efforts to Build Biological Weapons](https://www.nytimes.com/2026/09/10/us/politics/anthropic-ai-biological-weapons.html)
 
-At a first-of-its-kind midterm convention, President Trump mostly offered retreads and self-congratulation. Then, he offered to pay Americans $5,000 apiece if Republicans kept power.
-
-
-9. [Supreme Court Again Blocks Republican-Backed Missouri Voting Map](https://www.nytimes.com/2026/09/10/us/politics/supreme-court-missouri-congress.html)
-
-The ruling deferred to the state’s Supreme Court, which had invalidated G.O.P.-friendly district lines, saying voters must first have an opportunity to approve the map in a statewide referendum.
+In a new report, the A.I. start-up added that it could not determine whether the research was legitimate or nefarious, leading the company to shut down the work.
 
 
-10. [Foldable Phones Are Unpopular. Why Is Apple Selling One?](https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html)
+6. [A Nation Gripped by ‘Bayeux Fever’ Finally Gets to See the Tapestry](https://www.nytimes.com/2026/09/10/arts/design/bayeux-tapestry-british-museum-opening.html)
+
+On Thursday, the British Museum opened its blockbuster Bayeux Tapestry exhibition, its most eagerly anticipated show in decades.
+
+
+7. [Fashion’s Most Disgusting Product](https://www.nytimes.com/2026/09/10/opinion/new-york-fashion-week-fast-fashion.html)
+
+A modicum of self-restraint is the new black.
+
+
+8. [Foldable Phones Are Unpopular. Why Is Apple Selling One?](https://www.nytimes.com/2026/09/10/technology/personaltech/iphone-duo-foldable-phones.html)
 
 The company unveiled a new iPhone that costs $1,999. Here are the economics behind that price tag.
+
+
+9. [Pleading for Votes, Trump Tries a New Spin on an Old Promise: Free Money](https://www.nytimes.com/2026/09/10/us/politics/trump-dividend-5000-dollar-checks.html)
+
+In his convention speech, the president floated the idea of a $5,000 “Trump Dividend” for every adult American if Republicans keep control of Congress. The idea, like many others, may not come to pass.
+
+
+10. [Heard About the Super Godzilla Monster El Niño? Here’s How It Could Actually Affect You.](https://www.nytimes.com/2026/09/09/weather/el-nino-weather-forecast-facts.html)
+
+Yes, El Niño is unusually powerful this time. But that’s not always a bad thing.
 
 
