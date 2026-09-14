@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-13 22:16:39)
+## 📰 NYTimes Most Popular (Updated: 2026-09-14 00:51:43)
 
-1. [Trump Catastrophically Miscalculated in Georgia](https://www.nytimes.com/2026/09/12/opinion/jon-ossoff-georgia-trump-election.html)
+1. [How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal](https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html)
 
-The president incubated the career of one of his greatest critics.
-
-
-2. [How Trump Is Wielding Power to Stifle Speech](https://www.nytimes.com/2026/09/12/us/politics/trump-free-speech.html)
-
-President Trump has harnessed agencies across the government to curtail press freedoms, a sweeping campaign that free speech advocates say will have lasting effects.
+Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.
 
 
-3. [His Act Is Getting Old](https://www.nytimes.com/2026/09/12/opinion/trump-insecure-5000-payments-midterms.html)
-
-The $5,000 election promise shows how afraid Trump really is.
-
-
-4. [The New York Times News Quiz, September 11, 2026](https://www.nytimes.com/quiz/2026/09/11/briefing/weekly-news-quiz.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-5. [The Fix Was Almost In](https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html)
-
-The midterms dodge their first MAGA bullet. It won’t be the last.
-
-
-6. [Boy, 15, Drifted for Days on an Overturned Boat Before Rescue](https://www.nytimes.com/2026/09/11/us/alaska-bering-sea-rescue-boy.html)
-
-The teenager survived in the Bering Sea off Alaska without food or water before a fishing vessel pulled him to safety, the Coast Guard said.
-
-
-7. [Why Tech Oligarchs Are Willing to Risk Apocalypse](https://www.nytimes.com/2026/09/12/opinion/ai-tech-apocalypse-silicon-valley.html)
-
-Silicon Valley’s strange new theology.
-
-
-8. [Top A.I. Leaders Call for Slowing Down A.I. Development](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)
+2. [Top A.I. Leaders Call for Slowing Down A.I. Development](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)
 
 In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.
 
 
-9. [Republican Campaign Aide Is Fired Over Nazi Photo](https://www.nytimes.com/2026/09/12/us/politics/husted-political-director-nazi-photo.html)
+3. [A Gender War Explodes in Utah Over the Courts, Abortion and Representation](https://www.nytimes.com/2026/09/13/us/politics/utah-mormon-women-abortion-redistricting.html)
 
-Senator Jon Husted, running in a high-stakes race in Ohio, dismissed his political director because of social media activity displaying a “complete lack” of judgment, a spokeswoman said.
+When Republicans tried to repeal a law that voters passed banning gerrymandering, they found an opposition that flew in the face of Utah women’s “tradwives” imagery.
 
 
-10. [Trump Says Irish Unification Would Be ‘Fantastic,’ Breaking With Precedent](https://www.nytimes.com/2026/09/12/world/europe/trump-ireland-unification-remarks.html)
+4. [This Is Really Bad](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html)
 
-The United States has been officially neutral on an issue that was a source of decades of violence in Northern Ireland until a 1998 peace deal.
+We can no longer pretend that A.I. is safe.
+
+
+5. [Inside the Impeachment Trial that Threatened to End Ken Paxton’s Political Career](https://www.nytimes.com/2026/09/13/us/politics/paxton-corruption-impeachment-trial.html)
+
+Mr. Paxton, the Texas attorney general now running for the U.S. Senate, was accused of abusing the power of his office to protect a campaign donor. He was acquitted on all counts.
+
+
+6. [As Fears of A.I. Catastrophe Magnify, Washington Stirs, but Mostly Slumbers](https://www.nytimes.com/2026/09/13/us/politics/ai-catastrophe-fears-washington.html)
+
+President Trump has been at the forefront of the “what-me-worry?” crowd, refusing to engage on how to balance the risks and rewards of A.I.
+
+
+7. [Inside the Outrageous Collapse of a ‘Montessori Ponzi’](https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html)
+
+A man with a vision set out to revolutionize preschool. It became a $440 million fiasco.
+
+
+8. [Home From College, 2 Weeks Later](https://www.nytimes.com/2026/09/09/style/gen-z-college-students-quit.html)
+
+Dozens of videos on social media feature freshmen moving out early in the first semester.
+
+
+9. [3 Common Drugs Older Adults May Be Overusing](https://www.nytimes.com/2026/09/05/well/older-people-drugs-overuse.html)
+
+Not all older people need these medications, and they can carry increased risks.
+
+
+10. [How One Man’s Quest for a Musketeer’s Bones Got Him Locked Up](https://www.nytimes.com/2026/09/13/world/europe/wim-dijkman-musketeer-bones-dartagnan.html)
+
+A secret archaeological dig inside a Dutch church has led to drama worthy of Alexandre Dumas. Did Wim Dijkman really find the bones of the fourth musketeer? We may never know.
 
 
