@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-14 12:34:41)
+## 📰 NYTimes Most Popular (Updated: 2026-09-14 18:28:51)
 
-1. [Ella Langley. ‘Landman.’ The Rural Vibe Shift Is Real.](https://www.nytimes.com/2026/09/13/opinion/ella-langley-landman-rural-politics.html)
-
-Social marginalization means something different today.
-
-
-2. [E.P.A. Expected to Erase Limits on Climate Pollution From Power Plants](https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html)
+1. [E.P.A. Expected to Erase Limits on Climate Pollution From Power Plants](https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html)
 
 Generation of electricity is the second largest source of carbon dioxide and other planet-warming gases in the United States.
 
 
-3. [Trump Catastrophically Miscalculated in Georgia](https://www.nytimes.com/2026/09/12/opinion/jon-ossoff-georgia-trump-election.html)
+2. [What’s Happening to TV Comedies Is Not Funny](https://www.nytimes.com/2026/09/13/opinion/emmy-comedy-nominees-tv.html)
 
-The president incubated the career of one of his greatest critics.
-
-
-4. [Inside the Outrageous Collapse of a ‘Montessori Ponzi’](https://www.nytimes.com/2026/09/13/business/guidepost-montessori-higher-ground-education-ray-girn.html)
-
-A man with a vision set out to revolutionize preschool. It became a $440 million fiasco.
+The demands of streaming, which is now how most viewers watch TV, are not suited to just plain old comedy.
 
 
-5. [The Bari Weiss Era of ‘60 Minutes’ Begins](https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html)
+3. [Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump](https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html)
 
-The long-running CBS News program returned for a high-pressure 59th season on Sunday. With new correspondents and a refreshed stopwatch, it was more tweak than overhaul.
-
-
-6. [This Is Really Bad](https://www.nytimes.com/2026/09/11/opinion/ai-safety-threat-technology.html)
-
-We can no longer pretend that A.I. is safe.
+The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.
 
 
-7. [An Unusual Plume of Dust Is Headed to Florida](https://www.nytimes.com/2026/09/12/weather/saharan-dust-florida.html)
+4. [Top A.I. Leaders Call for Slowing Down A.I. Development](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)
 
-Saharan dust often reaches South Florida, but rarely this late in the year.
-
-
-8. [The Tiny Country Caught in the Battle for Europe’s Future](https://www.nytimes.com/2026/09/12/opinion/moldova-russia-european-union.html)
-
-Moldova is a fault line in a new geopolitical reality.
+In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.
 
 
-9. [How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal](https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html)
+5. [Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html)
+
+During a private fund-raiser, the former president warned that the technology could be “dangerous” if not managed urgently and with a clear plan.
+
+
+6. [What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development](https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html)
+
+Dario Amodei’s 3,800-word letter laid out a three-step plan to rein in artificial intelligence.
+
+
+7. [Flashback: Your Weekly History Quiz, Sept. 12, 2026](https://www.nytimes.com/interactive/2026/09/11/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+8. [How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal](https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html)
 
 Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.
 
 
-10. [What’s Happening to TV Comedies Is Not Funny](https://www.nytimes.com/2026/09/13/opinion/emmy-comedy-nominees-tv.html)
+9. [Texas Republican’s Racist Social Media Post Draws Condemnation](https://www.nytimes.com/2026/09/13/us/bo-french-racist-post-republicans-texas.html)
 
-The demands of streaming, which is now how most viewers watch TV, are not suited to just plain old comedy.
+Many Republicans criticized the post, some in more direct terms than others.
+
+
+10. [The Fix Was Almost In](https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html)
+
+The midterms dodge their first MAGA bullet. It won’t be the last.
 
 
