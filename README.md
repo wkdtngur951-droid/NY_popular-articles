@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-14 18:28:51)
+## 📰 NYTimes Most Popular (Updated: 2026-09-14 22:23:05)
 
-1. [E.P.A. Expected to Erase Limits on Climate Pollution From Power Plants](https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html)
+1. [The Bari Weiss Era of ‘60 Minutes’ Begins](https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html)
 
-Generation of electricity is the second largest source of carbon dioxide and other planet-warming gases in the United States.
+The long-running CBS News program returned for a high-pressure 59th season on Sunday. With new correspondents and a refreshed stopwatch, it was more tweak than overhaul.
 
 
 2. [What’s Happening to TV Comedies Is Not Funny](https://www.nytimes.com/2026/09/13/opinion/emmy-comedy-nominees-tv.html)
@@ -10,39 +10,39 @@ Generation of electricity is the second largest source of carbon dioxide and oth
 The demands of streaming, which is now how most viewers watch TV, are not suited to just plain old comedy.
 
 
-3. [Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump](https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html)
+3. [A Gender War Explodes in Utah Over the Courts, Abortion and Representation](https://www.nytimes.com/2026/09/13/us/politics/utah-mormon-women-abortion-redistricting.html)
 
-The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.
-
-
-4. [Top A.I. Leaders Call for Slowing Down A.I. Development](https://www.nytimes.com/2026/09/12/technology/anthropic-dario-amodei-ai-slowdown.html)
-
-In an essay, the head of Anthropic laid out the rapidly advancing capabilities of artificial intelligence and said there needed to be greater safety controls across the industry.
+When Republicans tried to repeal a law that voters passed banning gerrymandering, they found an opposition that flew in the face of Utah women’s “tradwives” imagery.
 
 
-5. [Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html)
+4. [Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html)
 
 During a private fund-raiser, the former president warned that the technology could be “dangerous” if not managed urgently and with a clear plan.
 
 
-6. [What Anthropic’s C.E.O. Argued in His Call for Slower A.I. Development](https://www.nytimes.com/2026/09/13/technology/anthropic-ceo-slower-ai-development.html)
+5. [Trump Says a Smart President Is All That’s Needed to Rein In A.I.](https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html)
 
-Dario Amodei’s 3,800-word letter laid out a three-step plan to rein in artificial intelligence.
-
-
-7. [Flashback: Your Weekly History Quiz, Sept. 12, 2026](https://www.nytimes.com/interactive/2026/09/11/upshot/flashback.html)
-
-Can you sort 8 historical events?
+The president again rejected calls to try to regulate the industry, even as some of its leaders are speaking more openly about the risks of rapidly developing artificial intelligence.
 
 
-8. [How Iran’s Hard-Liners Prevailed and Sabotaged U.S. Peace Deal](https://www.nytimes.com/2026/09/13/world/middleeast/iran-hard-liners-sabotaged-peace-deal.html)
+6. [E.P.A. Erases Limits on Climate Pollution From Power Plants](https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html)
 
-Opponents derailed the agreement with a clandestine effort to attack ships in the Strait of Hormuz, regime insiders say. Iran’s president was furious when he found out.
+Generation of electricity is the second largest source of carbon dioxide and other planet-warming gases in the United States.
 
 
-9. [Texas Republican’s Racist Social Media Post Draws Condemnation](https://www.nytimes.com/2026/09/13/us/bo-french-racist-post-republicans-texas.html)
+7. [With Less Than Two Months Left, Here’s Who We Think Will Win the Midterms](https://www.nytimes.com/interactive/2026/09/14/opinion/midterms-pollsters-pundits-scorecard.html)
 
-Many Republicans criticized the post, some in more direct terms than others.
+It’s looking bullish for Democrats. 
+
+
+8. [Ella Langley. ‘Landman.’ The Rural Vibe Shift Is Real.](https://www.nytimes.com/2026/09/13/opinion/ella-langley-landman-rural-politics.html)
+
+Social marginalization means something different today.
+
+
+9. [‘Alligator Alcatraz’ Used Small Cages as ‘Calming Areas,’ Report Says](https://www.nytimes.com/2026/09/14/us/alligator-alcatraz-dhs-inspector-general.html)
+
+The Department of Homeland Security’s internal watchdog provided new details about conditions at the now-shuttered Florida detention center.
 
 
 10. [The Fix Was Almost In](https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html)
