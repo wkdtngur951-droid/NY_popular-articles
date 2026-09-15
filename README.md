@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-14 22:23:05)
+## 📰 NYTimes Most Popular (Updated: 2026-09-15 01:18:53)
 
-1. [The Bari Weiss Era of ‘60 Minutes’ Begins](https://www.nytimes.com/2026/09/13/business/media/60-minutes-season-premiere-bari-weiss.html)
+1. [States and Cities Sue Over Trump’s Policy to Restrict Green Cards](https://www.nytimes.com/2026/09/14/us/politics/green-cards-immigration-lawsuit.html)
 
-The long-running CBS News program returned for a high-pressure 59th season on Sunday. With new correspondents and a refreshed stopwatch, it was more tweak than overhaul.
-
-
-2. [What’s Happening to TV Comedies Is Not Funny](https://www.nytimes.com/2026/09/13/opinion/emmy-comedy-nominees-tv.html)
-
-The demands of streaming, which is now how most viewers watch TV, are not suited to just plain old comedy.
+The policy would give immigration officers wide authority to deny green cards to people using public benefits.
 
 
-3. [A Gender War Explodes in Utah Over the Courts, Abortion and Representation](https://www.nytimes.com/2026/09/13/us/politics/utah-mormon-women-abortion-redistricting.html)
+2. [Bob Mackie, Designer Who ‘Dressed Every Spangly Woman in Show Business,’ Dies at 87](https://www.nytimes.com/2026/09/14/style/bob-mackie-dead.html)
 
-When Republicans tried to repeal a law that voters passed banning gerrymandering, they found an opposition that flew in the face of Utah women’s “tradwives” imagery.
-
-
-4. [Obama Urges Democrats to Move A.I. Oversight to the Center of Their Agenda](https://www.nytimes.com/2026/09/13/us/politics/obama-democrats-ai.html)
-
-During a private fund-raiser, the former president warned that the technology could be “dangerous” if not managed urgently and with a clear plan.
+His sequined gowns and outrageous costumes threw clouds of glitter at American fashion for over half a century.
 
 
-5. [Trump Says a Smart President Is All That’s Needed to Rein In A.I.](https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html)
+3. [McConnell Returns to Senate After Three Months Away](https://www.nytimes.com/2026/09/14/us/politics/mcconnell-senate-absence.html)
 
-The president again rejected calls to try to regulate the industry, even as some of its leaders are speaking more openly about the risks of rapidly developing artificial intelligence.
-
-
-6. [E.P.A. Erases Limits on Climate Pollution From Power Plants](https://www.nytimes.com/2026/09/13/climate/epa-power-plant-climate-rules.html)
-
-Generation of electricity is the second largest source of carbon dioxide and other planet-warming gases in the United States.
+Senator Mitch McConnell, the 84-year-old Kentucky Republican and former leader, had been absent for more than 13 weeks after a health incident, fueling questions about his ability to continue serving.
 
 
-7. [With Less Than Two Months Left, Here’s Who We Think Will Win the Midterms](https://www.nytimes.com/interactive/2026/09/14/opinion/midterms-pollsters-pundits-scorecard.html)
+4. [China’s Top Spy Chief Warns A.I. Is a Threat to Party Rule](https://www.nytimes.com/2026/09/14/world/asia/china-ai-security-risks-anthropic.html)
+
+Even as Beijing urges the United States not to hype the dangers of A.I., its own spy chief is framing the technology as a threat to the Communist Party’s security.
+
+
+5. [Saudi Arabia Faces ‘Worst-Case Scenario’ After Being Rebuffed by Trump](https://www.nytimes.com/2026/09/14/world/middleeast/saudi-iran-trump-yemen-houthis.html)
+
+The kingdom is in a state of strategic shock after coming under attack from an emboldened Iran and failing to win more U.S. military support, analysts say.
+
+
+6. [A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco](https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html)
+
+City officials — and one determined mother — are working to stop the spread of cychlorphine, which is far more potent than fentanyl.
+
+
+7. [The System Is Rigged. The Cavalry Is Not Coming. We’re on Our Own.](https://www.nytimes.com/2026/09/14/opinion/america-killing-abandoment.html)
+
+The American dilemma in one subway car.
+
+
+8. [With Less Than Two Months Left, Here’s Who We Think Will Win the Midterms](https://www.nytimes.com/interactive/2026/09/14/opinion/midterms-pollsters-pundits-scorecard.html)
 
 It’s looking bullish for Democrats. 
 
 
-8. [Ella Langley. ‘Landman.’ The Rural Vibe Shift Is Real.](https://www.nytimes.com/2026/09/13/opinion/ella-langley-landman-rural-politics.html)
+9. [Trump Says a Smart President Is All That’s Needed to Rein In A.I.](https://www.nytimes.com/2026/09/14/us/politics/trump-ai-regulation-anthropic-dario-amodei.html)
 
-Social marginalization means something different today.
-
-
-9. [‘Alligator Alcatraz’ Used Small Cages as ‘Calming Areas,’ Report Says](https://www.nytimes.com/2026/09/14/us/alligator-alcatraz-dhs-inspector-general.html)
-
-The Department of Homeland Security’s internal watchdog provided new details about conditions at the now-shuttered Florida detention center.
+The president again rejected calls to try to regulate the industry, even as some of its leaders are speaking more openly about the risks of rapidly developing artificial intelligence.
 
 
-10. [The Fix Was Almost In](https://www.nytimes.com/2026/09/13/opinion/missouri-republicans-redistricting-map-midterms.html)
+10. [Your Dog Is a Genius. Just Not the Way You Think.](https://www.nytimes.com/2026/09/14/opinion/dog-smart-intelligence-test.html)
 
-The midterms dodge their first MAGA bullet. It won’t be the last.
+With pets and people, we’re stupid when assessing smarts.
 
 
