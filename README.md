@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-16 07:31:33)
+## 📰 NYTimes Most Popular (Updated: 2026-09-16 13:21:08)
 
-1. [Emmy Winners 2026: See the Full List](https://www.nytimes.com/2026/09/14/arts/television/emmy-winners-list.html)
+1. [Two Conservative Justices Would Have Allowed Trump’s Mail-In Ballot Rules](https://www.nytimes.com/2026/09/14/us/elections/supreme-court-alito-thomas-dissent.html)
 
-Here are the winners from the 78th Emmy Awards.
-
-
-2. [Kennedy Center Closes Its Doors Despite a Judge’s Order](https://www.nytimes.com/2026/09/15/arts/music/kennedy-center-trump-name-inscription-judge-ruling.html)
-
-The announcement came after President Trump said he would cancel a $257 million renovation of the venue if his name is not returned to the building.
+Justice Samuel A. Alito Jr., joined by Justice Clarence Thomas, called the challenge to the restrictions a “Hail Mary pass” that was unlikely to prevail because of the Postal Service’s broad authority to regulate the mail.
 
 
-3. [Democrats Gain Edge as Trump Drags Down G.O.P., New Poll Finds](https://www.nytimes.com/2026/09/15/us/politics/trump-midterm-election-poll.html)
+2. [Emmys Photos: All the Looks From the 2026 Red Carpet](https://www.nytimes.com/2026/09/14/style/emmys-red-carpet-photos.html)
 
-Even some Republicans are losing faith in Trump’s economy, a New York Times/Siena poll found, and Democrats were favored on the top issues as the sprint to the midterms gets underway.
+Stars are arriving at the 78th Emmy Awards in Los Angeles. See what they’re wearing to celebrate TV’s biggest night.
 
 
-4. [He Accused His Brother of Sexual Abuse. Then He Took on His Family.](https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html)
+3. [An M.I.T. Report Warns A.I. Is Causing ‘Cognitive Surrender.’ Universities Are in a Bind.](https://www.nytimes.com/2026/09/15/us/universities-ai-warnings-enthusiasm.html)
+
+As A.I. upends education, university leaders have been all over the map about how to respond. It can be very confusing for students.
+
+
+4. [Trump Slams Supreme Court Over Mail Ballot Ruling](https://www.nytimes.com/2026/09/15/us/politics/trump-supreme-court-mail-voting.html)
+
+In a blistering attack on the court, President Trump said “these are not the people I interviewed” to serve as justices.
+
+
+5. [Trump’s Effort to Assert Control Over Elections Continues, Despite Court Loss](https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-in-ballots.html)
+
+President Trump has launched a broad, governmentwide effort to take more control of state-run elections and sow doubt about the outcome.
+
+
+6. [Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back](https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html)
+
+The president’s posts about artificial intelligence on the social media platform he founded were met with an unusual volume of criticism.
+
+
+7. [He Accused His Brother of Sexual Abuse. Then He Took on His Family.](https://www.nytimes.com/2026/09/15/world/asia/thai-singha-beer-family-abuse-accusations.html)
 
 Siranudh Scott, an heir to Thailand’s Singha beer empire, has prompted a rare public reckoning about a topic considered taboo.
 
 
-5. [A Teen Autopsy Marks the Arrival of a Deadly Drug in San Francisco](https://www.nytimes.com/2026/09/14/us/san-francisco-autopsy-cychlorphine.html)
-
-City officials — and one determined mother — are working to stop the spread of cychlorphine, which is far more potent than fentanyl.
-
-
-6. [Supreme Court Blocks Trump Administration Plan to Screen Mail-In Ballots](https://www.nytimes.com/2026/09/14/us/politics/supreme-court-trump-mail-voting.html)
-
-The Trump administration had asked the justices to allow a new Postal Service plan to screen ballots just weeks before the midterm elections.
-
-
-7. [Best and Worst Moments From the 2026 Emmy Awards](https://www.nytimes.com/2026/09/15/arts/television/emmys-best-worst-moments.html)
-
-There was plenty of history in Monday’s telecast, hosted by Mariska Hargitay, and also plenty of cringe.
-
-
-8. [Sydney Sweeney Stars in a Controversial Ad. Again.](https://www.nytimes.com/2026/09/14/style/sydney-sweeney-sports-ad-novig.html)
-
-A nude campaign for a sports betting app drew strong responses. Was it all strategic?
-
-
-9. [Senate Votes to Block Crypto Bill in Major Blow to the Industry](https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html)
+8. [Senate Votes to Block Crypto Bill in Major Blow to the Industry](https://www.nytimes.com/2026/09/15/technology/senate-blocks-crypto-bill.html)
 
 The landmark legislation, known as the Clarity Act, stalled in the Senate as Democrats raised concerns about President Trump’s personal investments in crypto.
 
 
-10. [A New Book Seeks to Shame the Elites Who Caved to Trump](https://www.nytimes.com/2026/09/14/opinion/institutions-power-trump.html)
+9. [A New Book Seeks to Shame the Elites Who Caved to Trump](https://www.nytimes.com/2026/09/14/opinion/institutions-power-trump.html)
 
 The more the logic of capitalism pervades the rest of life, the less room there is for compassion, honor or heroism.
+
+
+10. [News Helicopter Crash and Bus Accident in Los Angeles Leave at Least 5 Dead](https://www.nytimes.com/2026/09/15/us/los-angeles-helicopter-crash.html)
+
+The accidents occurred back to back when an S.U.V. broadsided a bus and then a local news helicopter covering the story crashed and burst into flames.
 
 
