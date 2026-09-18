@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-18 18:15:33)
+## 📰 NYTimes Most Popular (Updated: 2026-09-18 21:33:42)
 
-1. [Republicans Reel on the Midterm Map as Deep-Red Areas Come Into Play](https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html)
+1. [He Might End Up the World’s Most Educated Person](https://www.nytimes.com/2026/09/15/style/he-might-end-up-the-worlds-most-educated-person.html)
 
-The party is putting up a costly defense of states and districts that President Trump won easily in 2024. And in places like Georgia, strategists wonder if it’s too late.
+Jamie Beaton has 12 advanced degrees from Harvard, Yale, Oxford and other top universities, with more on the way. Why? How?
 
 
-2. [Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race](https://www.nytimes.com/2026/09/16/style/hyrox-race-defecate-winner.html)
+2. [Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate](https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html)
+
+The attorney general’s campaign politicking for Republicans adds to the degradation of post-Watergate values at the Justice Department.
+
+
+3. [Photos Spur Speculation About Possible Demolition of Kennedy Center](https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html)
+
+Images captured through the windows of Air Force One showed President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”
+
+
+4. [Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race](https://www.nytimes.com/2026/09/16/style/hyrox-race-defecate-winner.html)
 
 The athlete kept going after the incident at a global fitness event in Beijing, leading to an uproar.
 
 
-3. [The $15,000 Settlement That Destroyed My Father’s Life](https://www.nytimes.com/2026/09/17/opinion/social-security-disability-insurance-father-suicide.html)
+5. [Holdout Juror in Lindsay Clancy Case Says He Didn’t Doubt Her Guilt](https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html)
 
-A 35-foot fall didn’t kill Michael Wagner. The nearly 18-year failure of the safety net did. Before he died, he recorded 694 videos explaining how.
-
-
-4. [Watching Bigots Erupt](https://www.nytimes.com/2026/09/17/opinion/bo-french-university-texas-longhorns.html)
-
-This is what I see when I look at the picture Bo French hates.
+The juror, Michael P. Desronvil, defended his decision not to join other jurors in voting for Ms. Clancy’s acquittal.
 
 
-5. [Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56](https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html)
+6. [G.O.P. Representative Breaks With Trump in Ad: Hispanic Voters ‘Feel Betrayed’](https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html)
 
-Weary of the heartthrob label after his 1996 hit “Barely Breathing,” he pivoted to musical theater and won two Tonys for composing “Spring Awakening.”
-
-
-6. [Forever Twiggy](https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html)
-
-The face of London in the 1960s is living her best life at the age of 77.
+Representative María Elvira Salazar, a three-term representative from Miami, won re-election by 20 percentage points in 2024. Her ad suggests worry among some Republicans about their standing with Hispanic voters.
 
 
-7. [The Restaurant List 2026](https://www.nytimes.com/interactive/2026/dining/best-restaurants-america.html)
+7. [Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
 
-Our 50 favorite places in America right now.
+“Father Time always wins,” the 96-year-old, who turned Berkshire Hathaway into an investing powerhouse, said in a letter to shareholders. He will remain on the board as chairman emeritus.
 
 
-8. [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html)
+8. [Republicans Reel on the Midterm Map as Deep-Red Areas Come Into Play](https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html)
+
+The party is putting up a costly defense of states and districts that President Trump won easily in 2024. And in places like Georgia, strategists wonder if it’s too late.
+
+
+9. [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html)
 
 The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
 
 
-9. [White House Pulls Nomination of Mullin Ally for ICE Director](https://www.nytimes.com/2026/09/17/us/ice-director-lance-schroyer-trump-mullin.html)
+10. [Forever Twiggy](https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html)
 
-President Trump nominated Lance Schroyer, a former law enforcement officer from Oklahoma, less than three months ago.
-
-
-10. [He Might End Up the World’s Most Educated Person](https://www.nytimes.com/2026/09/15/style/he-might-end-up-the-worlds-most-educated-person.html)
-
-Jamie Beaton has 12 advanced degrees from Harvard, Yale, Oxford and other top universities, with more on the way. Why? How?
+The face of London in the 1960s is living her best life at the age of 77.
 
 
