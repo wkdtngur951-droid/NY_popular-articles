@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-17 23:28:56)
+## 📰 NYTimes Most Popular (Updated: 2026-09-18 04:15:55)
 
-1. [OpenAI Discloses Six New Incidents of ‘Concerning’ A.I. Behavior](https://www.nytimes.com/2026/09/16/technology/openai-model-safety-guardrails.html)
-
-The artificial intelligence company also released a framework for reporting when its systems go wrong.
-
-
-2. [The Restaurant List 2026](https://www.nytimes.com/interactive/2026/dining/best-restaurants-america.html)
-
-Our 50 favorite places in America right now.
-
-
-3. [The G.O.P. Has Gone Off the Deep End](https://www.nytimes.com/2026/09/16/opinion/republican-party-alt-right-neo-nazis.html)
-
-The Republican fringe is becoming the Republican mainstream.
-
-
-4. [Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race](https://www.nytimes.com/2026/09/16/style/hyrox-race-defecate-winner.html)
-
-The athlete kept going after the incident at a global fitness event in Beijing, leading to an uproar.
-
-
-5. [Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88](https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html)
+1. [Peter Max, Trippy Artist of Counterculture Era and Beyond, Dies at 88](https://www.nytimes.com/2026/09/16/arts/peter-max-trippy-artist-of-counterculture-era-and-beyond-dies-at-88.html)
 
 With work that breathed the spirit of the 1960s, he became fabulously wealthy from licensing his paintings and posters in all their euphoric Day-Glo glory.
 
 
-6. [Sydney Sweeney Stars in a Controversial Ad. Again.](https://www.nytimes.com/2026/09/14/style/sydney-sweeney-sports-ad-novig.html)
+2. [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html)
 
-A nude campaign for a sports betting app drew strong responses. Was it all strategic?
-
-
-7. [Trump Defended A.I. Data Centers on Truth Social, and Commenters Clapped Back](https://www.nytimes.com/2026/09/15/us/politics/trump-truth-social-ai-data-centers.html)
-
-The president’s posts about artificial intelligence on the social media platform he founded were met with an unusual volume of criticism.
+The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
 
 
-8. [Saudi Pipeline Attack Risks ‘Disastrous’ Loss of Oil as Fighting Escalates](https://www.nytimes.com/2026/09/16/business/saudi-pipeline-houthi-attacks.html)
+3. [Watching Bigots Erupt](https://www.nytimes.com/2026/09/17/opinion/bo-french-university-texas-longhorns.html)
 
-Prolonged restrictions on exports could push oil prices even higher.
+This is what I see when I look at the picture Bo French hates.
 
 
-9. [Trump Administration Moves to Gut a Core Endangered Species Protection](https://www.nytimes.com/2026/09/16/climate/endangered-species-act-change.html)
+4. [He Might End Up the World’s Most Educated Person](https://www.nytimes.com/2026/09/15/style/he-might-end-up-the-worlds-most-educated-person.html)
 
-An internal memo reinterprets the law so that only the intentional killing of animals, not collateral harm, is illegal.
+Jamie Beaton has 12 advanced degrees from Harvard, Yale, Oxford and other top universities, with more on the way. Why? How?
+
+
+5. [China Stockpiled Oil, and Now It Could Dominate the Energy Landscape](https://www.nytimes.com/2026/09/17/business/energy-environment/china-oil-iran-war.html)
+
+The war with Iran revealed just how much influence the world’s biggest oil importer has over prices and other countries’ supplies of jet fuel, gasoline and diesel.
+
+
+6. [Forever Twiggy](https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html)
+
+The face of London in the 1960s is living her best life at the age of 77.
+
+
+7. [This Is Why So Many Voters Hate Both Parties](https://www.nytimes.com/interactive/2026/09/17/opinion/liberal-conservative-politics-heterodoxy.html)
+
+Most voters have messier views than their partisan labels would suggest.
+
+
+8. [The Awesome and Alarming A.I. Visions of Anthropic’s C.E.O.](https://www.nytimes.com/2026/09/17/technology/dario-amodei-anthropic-essays-ai.html)
+
+The collected essays of Dario Amodei help explain why some people are so worried about artificial intelligence.
+
+
+9. [Jewish Leaders in Michigan Urge Support for El-Sayed’s Senate Bid](https://www.nytimes.com/2026/09/17/us/politics/el-sayed-michigan-senate-jewish-petition.html)
+
+The public petition comes after other Michigan Jews registered their discontent with Abdul El-Sayed, the state’s Democratic Senate nominee.
 
 
 10. [Republicans Reel on the Midterm Map as Deep-Red Areas Come Into Play](https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html)
