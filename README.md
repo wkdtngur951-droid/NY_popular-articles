@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-19 10:43:02)
+## 📰 NYTimes Most Popular (Updated: 2026-09-19 14:17:01)
 
-1. [Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
+1. [Google Says Its A.I. Hacked Three Companies in Testing Breakout](https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html)
 
-“Father Time always wins,” the 96-year-old, who turned Berkshire Hathaway into an investing powerhouse, said in a letter to shareholders. He will remain on the board as chairman emeritus.
-
-
-2. [Trump Wants Putin to End the War. He May Offer Russia Business Deals First.](https://www.nytimes.com/2026/09/17/us/trump-putin-russia-sanctions.html)
-
-A new sanctions bill is meant to pressure President Vladimir V. Putin of Russia to end the war in Ukraine. But President Trump is also weighing enticements to Russia.
+A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.
 
 
-3. [He Left Her for a Cult, but It Would Be Years Before She Knew It](https://www.nytimes.com/2026/09/18/style/donna-flagg-hoyt-richards-wedding.html)
+2. [Woman Is Found Guilty in Death of Reporter Covering Super Bowl](https://www.nytimes.com/2026/09/17/us/jury-verdict-super-bowl-telemundo-reporter-manzano.html)
 
-Hoyt Richards, a male supermodel, disappeared from Donna Flagg’s life for several years. The reason was the subject of a recent HBO Max docuseries.
-
-
-4. [Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race](https://www.nytimes.com/2026/09/16/style/hyrox-race-defecate-winner.html)
-
-The athlete kept going after the incident at a global fitness event in Beijing, leading to an uproar.
+A jury found Danette Colbert guilty of negligent homicide in the death of a Telemundo reporter before the 2025 Super Bowl in New Orleans, but acquitted a man on a manslaughter charge.
 
 
-5. [New Species of Cat Discovered for First Time in a Century](https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html)
+3. [Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56](https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html)
 
-The species, called a tilcayo, is smaller than a house cat and lives in the cloud forests of the Andes Mountains in Bolivia.
-
-
-6. [Trump Says He Has Banned CNN, MS NOW and Politico From White House](https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html)
-
-The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court.
+Weary of the heartthrob label after his 1996 hit “Barely Breathing,” he pivoted to musical theater and won two Tonys for composing “Spring Awakening.”
 
 
-7. [Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html)
+4. [What I Found Out About Organ Donation Shocked Me](https://www.nytimes.com/2026/09/18/opinion/organ-donation-system-ethics-trust.html)
+
+The organ donation industry has routinely violated ethics standards.
+
+
+5. [Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html)
 
 The president seems driven chiefly by the sense that A.I. is the way to economic growth, and nothing can be allowed to stand in its way.
 
 
-8. [A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees](https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html)
+6. [Why Israel Fears This Searing New Documentary](https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html)
+
+It’s hard to tell whether Israelis are enraged by “NAZA” because they think it’s full of lies, or because they know or fear it’s true.
+
+
+7. [A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees](https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html)
 
 Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.
 
 
-9. [The Kennedy Center Is Trump’s Most Grotesque Obsession](https://www.nytimes.com/2026/09/18/opinion/culture/kennedy-center-trump.html)
+8. [New Species of Cat Discovered for First Time in a Century](https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html)
 
-Nothing has so thoroughly highlighted his indefatigable petulance.
+The species, called a tilcayo, is smaller than a house cat and lives in the cloud forests of the Andes Mountains in Bolivia.
 
 
-10. [Google Says Its A.I. Hacked Three Companies in Testing Breakout](https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html)
+9. [F.B.I. Temporarily Halted Cooperation With Canada Over References to 9/11](https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html)
 
-A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.
+The abrupt move by Kash Patel, the bureau’s director, came as President Trump was ramping up his attacks on the country.
+
+
+10. [A Republican ‘Minivan-Driving Mom’ Swerves Away From the Trump Brand](https://www.nytimes.com/2026/09/18/us/politics/ashley-hinson-trump-iowa-senate-race.html)
+
+Representative Ashley Hinson is hoping to keep a crucial Senate seat red in Iowa, where the president has created major headwinds for her party.
 
 
