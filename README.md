@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-18 21:33:42)
+## 📰 NYTimes Most Popular (Updated: 2026-09-19 00:04:49)
 
-1. [He Might End Up the World’s Most Educated Person](https://www.nytimes.com/2026/09/15/style/he-might-end-up-the-worlds-most-educated-person.html)
+1. [What I Found Out About Organ Donation Shocked Me](https://www.nytimes.com/2026/09/18/opinion/organ-donation-system-ethics-trust.html)
 
-Jamie Beaton has 12 advanced degrees from Harvard, Yale, Oxford and other top universities, with more on the way. Why? How?
-
-
-2. [Blanche’s Political Campaigning Breaks an Ethical Norm Going Back to Watergate](https://www.nytimes.com/2026/09/17/us/politics/todd-blanche-doj-midterm-elections.html)
-
-The attorney general’s campaign politicking for Republicans adds to the degradation of post-Watergate values at the Justice Department.
+The organ donation industry has routinely violated ethics standards.
 
 
-3. [Photos Spur Speculation About Possible Demolition of Kennedy Center](https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html)
-
-Images captured through the windows of Air Force One showed President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”
-
-
-4. [Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race](https://www.nytimes.com/2026/09/16/style/hyrox-race-defecate-winner.html)
+2. [Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race](https://www.nytimes.com/2026/09/16/style/hyrox-race-defecate-winner.html)
 
 The athlete kept going after the incident at a global fitness event in Beijing, leading to an uproar.
 
 
-5. [Holdout Juror in Lindsay Clancy Case Says He Didn’t Doubt Her Guilt](https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html)
+3. [A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees](https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html)
 
-The juror, Michael P. Desronvil, defended his decision not to join other jurors in voting for Ms. Clancy’s acquittal.
-
-
-6. [G.O.P. Representative Breaks With Trump in Ad: Hispanic Voters ‘Feel Betrayed’](https://www.nytimes.com/2026/09/17/us/politics/salazar-florida-republican-immigration-trump.html)
-
-Representative María Elvira Salazar, a three-term representative from Miami, won re-election by 20 percentage points in 2024. Her ad suggests worry among some Republicans about their standing with Hispanic voters.
+Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.
 
 
-7. [Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
+4. [Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56](https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html)
 
-“Father Time always wins,” the 96-year-old, who turned Berkshire Hathaway into an investing powerhouse, said in a letter to shareholders. He will remain on the board as chairman emeritus.
-
-
-8. [Republicans Reel on the Midterm Map as Deep-Red Areas Come Into Play](https://www.nytimes.com/2026/09/17/us/politics/midterms-map-republicans-democrats.html)
-
-The party is putting up a costly defense of states and districts that President Trump won easily in 2024. And in places like Georgia, strategists wonder if it’s too late.
+Weary of the heartthrob label after his 1996 hit “Barely Breathing,” he pivoted to musical theater and won two Tonys for composing “Spring Awakening.”
 
 
-9. [Trump Wanted Canada as the 51st State. He Ended Up Pushing It Toward the European Union.](https://www.nytimes.com/2026/09/16/us/politics/trump-canada-51st-state-eu.html)
+5. [F.B.I. Temporarily Halted Cooperation With Canada Over References to 9/11](https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html)
 
-The invitation by the E.U. for Canada to become an “associate member” is a sign of Mr. Trump’s brand of diplomacy, which often involves threatening America’s closest friends.
+The abrupt move by Kash Patel, the bureau’s director, came as President Trump was ramping up his attacks on the country.
 
 
-10. [Forever Twiggy](https://www.nytimes.com/2026/09/16/style/twiggy-documentary.html)
+6. [Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html)
 
-The face of London in the 1960s is living her best life at the age of 77.
+The president seems driven chiefly by the sense that A.I. is the way to economic growth, and nothing can be allowed to stand in its way.
+
+
+7. [Will A.I. Kill Us? Can It Hack My Bank Account? Your A.I. Questions Answered](https://www.nytimes.com/2026/09/18/science/ai-safety-questions-risk-danger.html)
+
+Nearly 1,000 readers sent us their questions about artificial intelligence, its potential and its potential risks.
+
+
+8. [Abortion Rights Activists in Idaho Find Their Pitch: Bring Back the Doctors](https://www.nytimes.com/2026/09/18/us/politics/abortion-rights-activists-idaho-doctors.html)
+
+Organizers of a referendum to repeal an abortion ban in deep-red Idaho are far more focused on how the ban has broadly affected health care in the state.
+
+
+9. [A Republican ‘Minivan-Driving Mom’ Swerves Away From the Trump Brand](https://www.nytimes.com/2026/09/18/us/politics/ashley-hinson-trump-iowa-senate-race.html)
+
+Representative Ashley Hinson is hoping to keep a crucial Senate seat red in Iowa, where the president has created major headwinds for her party.
+
+
+10. [He Left Her for a Cult, but It Would Be Years Before She Knew It](https://www.nytimes.com/2026/09/18/style/donna-flagg-hoyt-richards-wedding.html)
+
+Hoyt Richards, a male supermodel, disappeared from Donna Flagg’s life for several years. The reason was the subject of a recent HBO Max docuseries.
 
 
