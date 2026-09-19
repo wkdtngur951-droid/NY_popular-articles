@@ -1,53 +1,53 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-19 17:53:47)
+## 📰 NYTimes Most Popular (Updated: 2026-09-19 20:24:44)
 
-1. [Trump Says He Has Banned CNN, MS NOW and Politico From White House](https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html)
-
-The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court.
-
-
-2. [Why Israel Fears This Searing New Documentary](https://www.nytimes.com/2026/09/18/opinion/israel-naza-movie-documentary.html)
-
-It’s hard to tell whether Israelis are enraged by “NAZA” because they think it’s full of lies, or because they know or fear it’s true.
-
-
-3. [Duncan Sheik, Who Traded Pop Stardom for Broadway, Dies at 56](https://www.nytimes.com/2026/09/18/arts/music/duncan-sheik-dead.html)
-
-Weary of the heartthrob label after his 1996 hit “Barely Breathing,” he pivoted to musical theater and won two Tonys for composing “Spring Awakening.”
-
-
-4. [Photos Spur Speculation About Possible Demolition of Kennedy Center](https://www.nytimes.com/2026/09/17/us/politics/trump-kennedy-center-photos.html)
-
-Images captured through the windows of Air Force One showed President Trump reviewing a poster with the title “Kennedy Center DEMOLISHED.”
-
-
-5. [What I Found Out About Organ Donation Shocked Me](https://www.nytimes.com/2026/09/18/opinion/organ-donation-system-ethics-trust.html)
-
-The organ donation industry has routinely violated ethics standards.
-
-
-6. [Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html)
+1. [Trump Calls A.I. Fears a Hoax. Inside the White House, the Debate Is More Complex.](https://www.nytimes.com/2026/09/18/us/politics/trump-ai-safety-anthropic-openai-china.html)
 
 The president seems driven chiefly by the sense that A.I. is the way to economic growth, and nothing can be allowed to stand in its way.
 
 
-7. [Google Says Its A.I. Hacked Three Companies in Testing Breakout](https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html)
+2. [He Left Her for a Cult, but It Would Be Years Before She Knew It](https://www.nytimes.com/2026/09/18/style/donna-flagg-hoyt-richards-wedding.html)
 
-A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.
+Hoyt Richards, a male supermodel, disappeared from Donna Flagg’s life for several years. The reason was the subject of a recent HBO Max docuseries.
 
 
-8. [The New York Times News Quiz, September 18, 2026](https://www.nytimes.com/quiz/2026/09/18/briefing/weekly-news-quiz.html)
+3. [Hyrox Athlete Apologizes and Forfeits Win After Soiling Herself in Race](https://www.nytimes.com/2026/09/16/style/hyrox-race-defecate-winner.html)
+
+The athlete kept going after the incident at a global fitness event in Beijing, leading to an uproar.
+
+
+4. [Warren Buffett Steps Down as Berkshire Chairman and Names Son to Replace Him](https://www.nytimes.com/2026/09/18/business/warren-buffett-berkshire-chairman.html)
+
+“Father Time always wins,” the 96-year-old, who turned Berkshire Hathaway into an investing powerhouse, said in a letter to shareholders. He will remain on the board as chairman emeritus.
+
+
+5. [The New York Times News Quiz, September 18, 2026](https://www.nytimes.com/quiz/2026/09/18/briefing/weekly-news-quiz.html)
 
 Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
 
-9. [Fashion Executive Resigns After Confrontation With PETA Protesters](https://www.nytimes.com/2026/09/18/style/steven-kolb-cfda-resignation-peta.html)
+6. [A Central African Hotel Has Become a Nightmare Prison for U.S. Deportees](https://www.nytimes.com/2026/09/18/world/africa/us-deportation-hotel-equatorial-guinea.html)
 
-Steven Kolb, the head of the Council of Fashion Designers of America, has stepped down after a physical altercation at a runway show.
+Witnesses say men were hooded and beaten in Equatorial Guinea. The autocratic government there is a partner in President Trump’s deportation program.
 
 
-10. [Holdout Juror in Lindsay Clancy Case Says He Didn’t Doubt Her Guilt](https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html)
+7. [The Kennedy Center Is Trump’s Most Grotesque Obsession](https://www.nytimes.com/2026/09/18/opinion/culture/kennedy-center-trump.html)
+
+Nothing has so thoroughly highlighted his indefatigable petulance.
+
+
+8. [Holdout Juror in Lindsay Clancy Case Says He Didn’t Doubt Her Guilt](https://www.nytimes.com/2026/09/18/us/lindsay-clancy-trial-holdout-juror.html)
 
 The juror, Michael P. Desronvil, defended his decision not to join other jurors in voting for Ms. Clancy’s acquittal.
+
+
+9. [Trump Says He Has Banned CNN, MS NOW and Politico From White House](https://www.nytimes.com/2026/09/18/business/media/trump-cnn-ms-now-politico-white-house-ban.html)
+
+The president cited reporting from the outlets that he deemed “fake news.” It was unclear how such a ban would be enforced or defended in court.
+
+
+10. [F.B.I. Temporarily Halted Cooperation With Canada Over References to 9/11](https://www.nytimes.com/2026/09/18/us/politics/fbi-canada-cbc-9-11.html)
+
+The abrupt move by Kash Patel, the bureau’s director, came as President Trump was ramping up his attacks on the country.
 
 
