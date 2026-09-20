@@ -1,53 +1,53 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-20 11:11:00)
+## 📰 NYTimes Most Popular (Updated: 2026-09-20 15:51:50)
 
-1. [Sympathy for a Dog in San Diego Who Seemed to Greet an Intruder](https://www.nytimes.com/2026/09/18/us/san-diego-intruder-dog-video.html)
+1. [Google Says Its A.I. Hacked Three Companies in Testing Breakout](https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html)
 
-Dog behavior experts offered a variety of explanations for why Nash the golden retriever wagged his tail and carried a toy near a man who broke into his owner’s home.
-
-
-2. [The Hyrox Debacle and Our Sick Relationship to Competition](https://www.nytimes.com/2026/09/19/opinion/hyrox-broken-competition-sports.html)
-
-A woman soiling herself is extreme. But so is the way we treat sports.
+A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.
 
 
-3. [Trump Has Finally Lost the Plot](https://www.nytimes.com/2026/09/19/opinion/trump-vance-turning-point-minneapolis.html)
+2. [Flashback: Your Weekly History Quiz, Sept. 19, 2026](https://www.nytimes.com/interactive/2026/09/18/upshot/flashback.html)
 
-It is now apparent that many Americans — probably enough Americans — are determined to live within the truth rather than the lie.
+Can you sort 8 historical events?
 
 
-4. [U.S. Has Reached Security Deal on Greenland, Trump Says](https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html)
+3. [U.S. Has Reached Security Deal on Greenland, Trump Says](https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html)
 
 The full contours of the deal were unclear, but Denmark and Greenland both indicated they expected an agreement to be signed soon.
 
 
-5. [The New York Times News Quiz, September 18, 2026](https://www.nytimes.com/quiz/2026/09/18/briefing/weekly-news-quiz.html)
+4. [The New York Times News Quiz, September 18, 2026](https://www.nytimes.com/quiz/2026/09/18/briefing/weekly-news-quiz.html)
 
 Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
 
-6. [Flashback: Your Weekly History Quiz, Sept. 19, 2026](https://www.nytimes.com/interactive/2026/09/18/upshot/flashback.html)
+5. [Has Trump Lost Touch With Reality?](https://www.nytimes.com/2026/09/19/opinion/trump-ai-posts-reality-age.html)
 
-Can you sort 8 historical events?
-
-
-7. [How DraftKings Uses A.I. to Target the Gamblers Likeliest to Lose](https://www.nytimes.com/2026/09/19/business/draftkings-ai.html)
-
-Data science helps determine who receives betting incentives, but the company has resisted using similar technology to protect gamblers at risk of addiction.
+Three Opinions writers debate whether the president’s recent behavior is really that different from what we’ve seen from him over the years.
 
 
-8. [Two Centuries On, Smithsonian Connects Jefferson’s Hair to Hemings’s Children](https://www.nytimes.com/2026/09/18/arts/thomas-jefferson-sally-hemings-smithsonian-hair.html)
-
-A new book describes how cutting-edge genomics techniques yielded “extraordinary proof” that Thomas Jefferson fathered children with Sally Hemings.
-
-
-9. [Sherrod Brown Tries a New Retort to Criticism on Transgender Issues](https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html)
-
-A spot from the Senate candidate in Ohio seeks to dismiss the Republican Party’s focus on transgender rights as a distraction from economic issues.
-
-
-10. [Kennedy Center Supporters Rally Amid Speculation About Possible Demolition](https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html)
+6. [Kennedy Center Supporters Rally Amid Speculation About Possible Demolition](https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html)
 
 Photos of President Trump reviewing a poster board with the title “Kennedy Center DEMOLISHED” spurred the largest gathering yet in support of the performing arts institution.
+
+
+7. [Trump Says His Son Will Pay Back Russian Businessman for Wedding Party](https://www.nytimes.com/2026/09/19/us/politics/donald-trump-jr-wedding-russia-umar-kremlev.html)
+
+The president said his eldest son, Donald Trump Jr., had decided to return the money, but defended the gift worth hundreds of thousands of dollars as “totally allowed.”
+
+
+8. [Trump Has Finally Lost the Plot](https://www.nytimes.com/2026/09/19/opinion/trump-vance-turning-point-minneapolis.html)
+
+It is now apparent that many Americans — probably enough Americans — are determined to live within the truth rather than the lie.
+
+
+9. [How President Trump Broke the Kennedy Center](https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html)
+
+Internal emails and documents demonstrate the political capture of the institution, including how officials once pursued a plan to unload much of the art collection.
+
+
+10. [New Species of Cat Discovered for First Time in a Century](https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html)
+
+The species, called a tilcayo, is smaller than a house cat and lives in the cloud forests of the Andes Mountains in Bolivia.
 
 
