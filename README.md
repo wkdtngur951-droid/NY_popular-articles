@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-20 21:22:41)
+## 📰 NYTimes Most Popular (Updated: 2026-09-21 00:02:47)
 
-1. [Trump Has Finally Lost the Plot](https://www.nytimes.com/2026/09/19/opinion/trump-vance-turning-point-minneapolis.html)
+1. [Kennedy Center Supporters Rally Amid Speculation About Possible Demolition](https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html)
 
-It is now apparent that many Americans — probably enough Americans — are determined to live within the truth rather than the lie.
-
-
-2. [Flashback: Your Weekly History Quiz, Sept. 19, 2026](https://www.nytimes.com/interactive/2026/09/18/upshot/flashback.html)
-
-Can you sort 8 historical events?
+Photos of President Trump reviewing a poster board with the title “Kennedy Center DEMOLISHED” spurred the largest gathering yet in support of the performing arts institution.
 
 
-3. [U.S. Has Reached Security Deal on Greenland, Trump Says](https://www.nytimes.com/2026/09/18/us/politics/trump-greenland.html)
+2. [CNN, MS NOW and Politico Barred From White House After Trump’s Ban](https://www.nytimes.com/2026/09/19/business/media/trump-white-house-press-ban.html)
 
-The full contours of the deal were unclear, but Denmark and Greenland both indicated they expected an agreement to be signed soon.
+The prohibition on certain journalists was a major escalation in President Trump’s war on the media, and will probably face a legal challenge.
+
+
+3. [How President Trump Broke the Kennedy Center](https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html)
+
+Internal emails and documents demonstrate the political capture of the institution, including how officials once pursued a plan to unload much of the art collection.
 
 
 4. [White House Moves to Take Control of N.I.H. Grants](https://www.nytimes.com/2026/09/20/science/nih-omb-grants-bhattacharya-vought.html)
@@ -20,33 +20,33 @@ The full contours of the deal were unclear, but Denmark and Greenland both indic
 Federal officials are drafting an executive order that would place grants under review by an outside panel, the latest effort to redirect billions of dollars in research spending.
 
 
-5. [In Fighting for Every Black Child, Did I Betray My Own?](https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html)
+5. [Google Says Its A.I. Hacked Three Companies in Testing Breakout](https://www.nytimes.com/2026/09/18/technology/google-gemini-ai.html)
 
-A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.
-
-
-6. [How President Trump Broke the Kennedy Center](https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html)
-
-Internal emails and documents demonstrate the political capture of the institution, including how officials once pursued a plan to unload much of the art collection.
+A third-party test company inadvertently gave internet access to Google’s Gemini and other artificial intelligence models during cybersecurity testing.
 
 
-7. [New Species of Cat Discovered for First Time in a Century](https://www.nytimes.com/2026/09/18/science/tilcayo-new-cat-species-bolivia.html)
+6. [Sherrod Brown Tries a New Retort to Criticism on Transgender Issues](https://www.nytimes.com/2026/09/19/us/politics/sherrod-brown-transgender-ad.html)
 
-The species, called a tilcayo, is smaller than a house cat and lives in the cloud forests of the Andes Mountains in Bolivia.
-
-
-8. [Gold Statues and Staff Cuts: How Trump Has Disrupted America’s Parks](https://www.nytimes.com/2026/09/19/climate/trump-national-park-service-budget-cuts.html)
-
-Maintenance projects have been put off around the country and resources diverted to the president’s favored projects in Washington.
+A spot from the Senate candidate in Ohio seeks to dismiss the Republican Party’s focus on transgender rights as a distraction from economic issues.
 
 
-9. [Has Trump Lost Touch With Reality?](https://www.nytimes.com/2026/09/19/opinion/trump-ai-posts-reality-age.html)
+7. [Trump Says His Son Will Pay Back Russian Businessman for Wedding Party](https://www.nytimes.com/2026/09/19/us/politics/donald-trump-jr-wedding-russia-umar-kremlev.html)
+
+The president said his eldest son, Donald Trump Jr., had decided to return the money, but defended the gift worth hundreds of thousands of dollars as “totally allowed.”
+
+
+8. [Has Trump Lost Touch With Reality?](https://www.nytimes.com/2026/09/19/opinion/trump-ai-posts-reality-age.html)
 
 Three Opinions writers debate whether the president’s recent behavior is really that different from what we’ve seen from him over the years.
 
 
-10. [Kennedy Center Supporters Rally Amid Speculation About Possible Demolition](https://www.nytimes.com/2026/09/18/us/politics/kennedy-center-protest.html)
+9. [They’re Bros. But Are They Brothers?](https://www.nytimes.com/2026/09/19/style/matthew-mcconaughey-woody-harrelson-brothers.html)
 
-Photos of President Trump reviewing a poster board with the title “Kennedy Center DEMOLISHED” spurred the largest gathering yet in support of the performing arts institution.
+Matthew McConaughey and Woody Harrelson on decades of friendship — and the DNA test they won’t be taking.
+
+
+10. [In Significant Escalation, Houthis Attack Saudi Capital](https://www.nytimes.com/2026/09/19/world/middleeast/saudi-arabia-riyadh-houthis.html)
+
+The Houthis, an Iranian-backed militia, said they had fired a wave of missiles and drones at Riyadh, and on Saudi oil facilities.
 
 
