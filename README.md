@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-21 23:07:28)
+## 📰 NYTimes Most Popular (Updated: 2026-09-22 04:25:33)
 
-1. [How President Trump Broke the Kennedy Center](https://www.nytimes.com/2026/09/20/us/politics/trump-kennedy-center.html)
+1. [Wall Street Is Growing Skeptical of the Data Center Boom](https://www.nytimes.com/2026/09/21/business/ai-data-center-ipos.html)
 
-Internal emails and documents demonstrate the political capture of the institution, including how officials once pursued a plan to unload much of the art collection.
-
-
-2. [Vance Has a Twisted Idea of What It Means to Be American](https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html)
-
-I am a “heritage American,” too. How should that guide my life?
+Several companies tied to the data center industry have delayed their initial public offerings amid the increasing public backlash to these energy guzzling facilities.
 
 
-3. [Trump Says His Contested Arch Would House Drones and Snipers](https://www.nytimes.com/2026/09/20/us/politics/trump-dc-arch-snipers-drones-military-complex.html)
+2. [It’s Raining Boxes: Amazon Drones Overwhelm a Texas Suburb](https://www.nytimes.com/2026/09/21/us/politics/amazon-drone-delivery-texas.html)
 
-The president’s announcement on Sunday echoed his justification for the White House ballroom: that the project was necessary for national security.
-
-
-4. [ICE Agent Shoots Venezuelan Immigrant in Austin, Local Authorities Say](https://www.nytimes.com/2026/09/20/us/ice-shooting-austin-texas.html)
-
-The shooting in the Texas capital is the latest by federal immigration agents as the Trump administration intensifies its deportation effort.
+In Richardson, a fleet of drones has started to deliver goods quickly. But the noise is drowning out life for some residents: ‘We can’t live like this.’
 
 
-5. [There Is Something We Have to Do Right Now About A.I.](https://www.nytimes.com/2026/09/20/opinion/ai-ban-self-improvement-recursive-models.html)
+3. [Enough About Trump’s Looks. His Presidency Is Ugly.](https://www.nytimes.com/2026/09/21/opinion/trump-presidency-record-hair.html)
 
-Letting A.I. patrol its own frontier is like asking Jesse James to patrol the Wild West.
-
-
-6. [Pa. Measles Outbreak Met With Both Defiance and a Rush to Vaccinate](https://www.nytimes.com/2026/09/20/us/measles-pennsylvania.html)
-
-As the outbreak grows to more than 700 confirmed cases, the largest in the country, some people remain opposed to vaccines and others are rushing to get the shots.
+Less talk about Trump’s hair, more about his harms.
 
 
-7. [Trump Says His Son Will Pay Back Russian Businessman for Wedding Party](https://www.nytimes.com/2026/09/19/us/politics/donald-trump-jr-wedding-russia-umar-kremlev.html)
-
-The president said his eldest son, Donald Trump Jr., had decided to return the money, but defended the gift worth hundreds of thousands of dollars as “totally allowed.”
-
-
-8. [Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help](https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html)
-
-The president vacillated but decided on Sunday not to join Saudi Arabia, for now, in joint strikes against the Houthis in Yemen. But he also needs the kingdom’s cooperation in his war against Iran.
-
-
-9. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
+4. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
 
 More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
 
 
-10. [Why Tucker Carlson Is Defending This Democrat in a Key Senate Race](https://www.nytimes.com/2026/09/20/us/politics/el-sayed-tucker-carlson-rogers-michigan.html)
+5. [In Fighting for Every Black Child, Did I Betray My Own?](https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html)
 
-Mr. Carlson, the far-right podcaster, has promoted Abdul El-Sayed’s comments and sharply criticized his Republican rival in Michigan. Strategists are scratching their heads.
+A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.
+
+
+6. [Trump Gets Caught in a Dilemma Over a Saudi Plea for Military Help](https://www.nytimes.com/2026/09/20/us/politics/trump-yemen-houthis-red-sea-iran.html)
+
+The president vacillated but decided on Sunday not to join Saudi Arabia, for now, in joint strikes against the Houthis in Yemen. But he also needs the kingdom’s cooperation in his war against Iran.
+
+
+7. [Sizing Up a 2028 Bid, He Used a Weight-Loss Drug to Drop 80 Pounds](https://www.nytimes.com/2026/09/21/us/politics/jb-pritzker-glp-1-ozempic-2028-presidential-race.html)
+
+Gov. JB Pritzker of Illinois, widely seen as a potential presidential candidate, revealed in an interview on “CBS Mornings” that he had been on a GLP-1 regimen since 2024.
+
+
+8. [The Hyrox Debacle and Our Sick Relationship to Competition](https://www.nytimes.com/2026/09/19/opinion/hyrox-broken-competition-sports.html)
+
+A woman soiling herself is extreme. But so is the way we treat sports.
+
+
+9. [Vance Has a Twisted Idea of What It Means to Be American](https://www.nytimes.com/2026/09/20/opinion/heritage-amercan-citizen-vance.html)
+
+I am a “heritage American,” too. How should that guide my life?
+
+
+10. [The Best TV Shows of the 21st Century: You Decide](https://www.nytimes.com/interactive/2026/arts/television/reader-ballot-tv-shows-21st-century.html)
+
+More than 500 notable TV stars, showrunners and other experts voted for the best shows of the century. Now it’s your turn.
 
 
