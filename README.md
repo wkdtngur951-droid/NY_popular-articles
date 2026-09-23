@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-23 05:44:53)
+## 📰 NYTimes Most Popular (Updated: 2026-09-23 11:16:03)
 
-1. [Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud](https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html)
+1. [Clavicular, ‘Looksmaxxing’ Influencer, Charged With Raping a 17-Year-Old](https://www.nytimes.com/2026/09/22/us/clavicular-looksmaxxing-rape-charges.html)
 
-Vice President JD Vance said the measure would save the government $2.2 billion.
-
-
-2. [After Years as the Star of Must-See TV, Trump Faces the Sting of Cancellation](https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html)
-
-A boycott of the White House press pool by the major networks deprives the president of the oxygen of screen time. But he is still finding ways to get on the air.
+The influencer, whose real name is Braden Peters, is accused of giving the girl alcohol and having sex with her when she was unable to give consent. One of his lawyers said he was innocent.
 
 
-3. [Fact-Checking Trump’s Speech at the United Nations](https://www.nytimes.com/2026/09/22/us/politics/fact-check-trump-united-nations.html)
+2. [Susan Collins Delivered Maine Up to Trump](https://www.nytimes.com/2026/09/22/opinion/susan-collins-maine-senate.html)
 
-President Trump’s remarks about oil reserves, the drug trade and his peace efforts contained falsehoods and exaggerations.
+The independence and moderation of Maine’s Republican senator hardly matters anymore.
+
+
+3. [In Fighting for Every Black Child, Did I Betray My Own?](https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html)
+
+A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.
 
 
 4. [A Missile of a Memoir as Diana’s Brother Takes Aim at British Royals](https://www.nytimes.com/2026/09/22/world/europe/diana-earl-spencer-book.html)
@@ -20,33 +20,33 @@ President Trump’s remarks about oil reserves, the drug trade and his peace eff
 The decades have not lessened Earl Spencer’s anger over the House of Windsor’s treatment of the former Princess of Wales. King Charles comes in for special vitriol.
 
 
-5. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
+5. [In the New World Taking Shape, We’re All on Our Own](https://www.nytimes.com/2026/09/22/opinion/trump-deportation-third-countries.html)
+
+The Trump administration’s policy of deporting migrants to third countries is undermining a bedrock notion of international law for the past 75 years.
+
+
+6. [Woman’s Death After Wellness Spa Injection Is Ruled a Homicide](https://www.nytimes.com/2026/09/21/nyregion/bronx-wellness-center-injection-homicide.html)
+
+Elizabeth Baron died from a cardiac air embolism shortly after an intravenous infusion. Prosecutors can now seek more serious charges against the man they say performed the procedure.
+
+
+7. [Police Investigating Overdose in Death of Presley Gerber at 27](https://www.nytimes.com/2026/09/21/style/presley-gerber-dead-cindy-crawford.html)
+
+Mr. Gerber, a model and son of Cindy Crawford, walked the runways for top fashion houses and spoke candidly about his struggles with mental health.
+
+
+8. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
 
 More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
 
 
-6. [Clavicular, ‘Looksmaxxing’ Influencer, Charged With Raping a 17-Year-Old](https://www.nytimes.com/2026/09/22/us/clavicular-looksmaxxing-rape-charges.html)
-
-The influencer, whose real name is Braden Peters, is accused of giving the girl alcohol and having sex with her when she was unable to give consent. One of his lawyers said he was innocent.
-
-
-7. [Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs](https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html)
+9. [Hayden Panettiere Died From Toxic Effects of Fentanyl and Other Drugs](https://www.nytimes.com/2026/09/22/arts/television/hayden-panettiere-cause-death-fentanyl-drugs.html)
 
 Ms. Panettiere, who starred in “Heroes” and “Nashville,” died last month at the age of 36. Her death was ruled accidental.
 
 
-8. [Princeton’s Run Atop U.S. News Rankings Ends After 15 Years](https://www.nytimes.com/2026/09/22/us/us-news-college-rankings-princeton-mit.html)
+10. [‘My Husband Is in Love With His Valet’: Takeaways From Charles Spencer’s Memoir](https://www.nytimes.com/2026/09/22/books/review/takeaways-charles-spencer-memoir-diana.html)
 
-The Massachusetts Institute of Technology pulled ahead on a set of criteria that are as contentious as they are influential.
-
-
-9. [What’s the Healthiest Nut?](https://www.nytimes.com/interactive/2026/09/21/well/nuts-health-benefits-quiz.html)
-
-This quiz might surprise you.
-
-
-10. [In Fighting for Every Black Child, Did I Betray My Own?](https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html)
-
-A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.
+Nearly 30 years after Princess Diana died, her brother has written a book about her life, her marriage to Prince Charles and the suffering she endured at the hands of the tabloid press.
 
 
