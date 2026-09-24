@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-23 23:32:11)
+## 📰 NYTimes Most Popular (Updated: 2026-09-24 04:19:04)
 
-1. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
+1. [Trump’s Signature Tax Bill Is Starting to Bite Before the Election](https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html)
 
-More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
-
-
-2. [Trump Officials Eject 750,000 From Obamacare Markets, Claiming Fraud](https://www.nytimes.com/2026/09/22/us/politics/aca-obamacare-vance-fraud.html)
-
-Vice President JD Vance said the measure would save the government $2.2 billion.
+The tax cuts in President Trump’s signature achievement were the Republicans’ answer to voters’ economic struggles, but its health care and food assistance cuts are taking a toll.
 
 
-3. [Supreme Court Order Gives Parents Custody of Baby in Surrogacy Fight](https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html)
+2. [Trump Praises Burnham as ‘Natural Business Person’ After First Meeting](https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html)
 
-A surrogate refused to have an abortion after the fetus was diagnosed with a serious heart problem. She asked the justices to block a court order giving custody to the biological parents.
-
-
-4. [‘My Husband Is in Love With His Valet’: Takeaways From Charles Spencer’s Memoir](https://www.nytimes.com/2026/09/22/books/review/takeaways-charles-spencer-memoir-diana.html)
-
-Nearly 30 years after Princess Diana died, her brother has written a book about her life, her marriage to Prince Charles and the suffering she endured at the hands of the tabloid press.
+Prime Minister Andy Burnham of Britain met with President Trump for the first time on the sidelines of the U.N. General Assembly on Tuesday.
 
 
-5. [At the U.N., Trump Lays Out a Winner-Takes-All Vision of U.S. Power](https://www.nytimes.com/2026/09/22/us/politics/un-trump-speech-iran-venezuela-greenland.html)
+3. [It’s Time to Cry Wolf Over A.I.](https://www.nytimes.com/2026/09/22/opinion/trump-china-ai.html)
 
-President Trump’s speech at the U.N. General Assembly amounted to a rejection of the founding concept of the United Nations.
-
-
-6. [What’s the Healthiest Nut?](https://www.nytimes.com/interactive/2026/09/21/well/nuts-health-benefits-quiz.html)
-
-This quiz might surprise you.
+It’s not too late to avoid the potential disasters of A.I. that Covid-19 and 9/11 taught us how to prepare.
 
 
-7. [Princeton’s Run Atop U.S. News Rankings Ends After 15 Years](https://www.nytimes.com/2026/09/22/us/us-news-college-rankings-princeton-mit.html)
+4. [The Democrats’ Policy on Palestine Is Detached From Reality](https://www.nytimes.com/2026/09/23/opinion/democrats-palestine-policy.html)
 
-The Massachusetts Institute of Technology pulled ahead on a set of criteria that are as contentious as they are influential.
-
-
-8. [How a Brewing Storm Could Slam the East Coast This Week (or Not)](https://www.nytimes.com/2026/09/22/weather/noreaster-storm-flooding-virginia-new-york.html)
-
-A nor’easter in September is unusual. As its forecast took shape, there was still uncertainty over what it would do.
+The party needs more than a stance on Israel.
 
 
-9. [After Years as the Star of Must-See TV, Trump Faces the Sting of Cancellation](https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html)
+5. [After Years as the Star of Must-See TV, Trump Faces the Sting of Cancellation](https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html)
 
 A boycott of the White House press pool by the major networks deprives the president of the oxygen of screen time. But he is still finding ways to get on the air.
 
 
-10. [Dolly Parton’s Estate in Turmoil After Extortion Accusations](https://www.nytimes.com/2026/09/22/arts/music/dolly-parton-restraining-order-bryan-seaver.html)
+6. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
 
-Ms. Parton’s manager requested a restraining order against her nephew and former security provider, accusing him of threats and intimidation.
+More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
+
+
+7. [White House Says Access Is a ‘Privilege’ in Court Filing Defending Media Ban](https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html)
+
+President Trump determined that CNN, MS NOW and Politico were in “violation of the standards of professionalism and decorum” expected at the White House.
+
+
+8. [Harvey Weinstein Sentenced to 15 Years in New York Sex Crime Case](https://www.nytimes.com/2026/09/23/nyregion/nyc-harvey-weinstein-sentencing-sex-crime.html)
+
+The former Hollywood titan was convicted last year of committing a criminal sexual act against a former production assistant in 2006. He also faces a resentencing in another case in California.
+
+
+9. [Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.](https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html)
+
+President Trump signed a Greenland security deal that falls well short of his demands to turn the island into a U.S. territory.
+
+
+10. [I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away](https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html)
+
+Muse, Meta’s A.I. agent, helped handle my dental insurance, booked dinner reservations and created a podcast for me. It also required my most personal data, and trust.
 
 
