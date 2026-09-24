@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-24 04:19:04)
+## 📰 NYTimes Most Popular (Updated: 2026-09-24 09:50:06)
 
-1. [Trump’s Signature Tax Bill Is Starting to Bite Before the Election](https://www.nytimes.com/2026/09/23/us/politics/one-big-beautiful-bill-midterms-affordability.html)
+1. [The Mistake That May Finally Get the Republican Base to Ditch Trump](https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html)
 
-The tax cuts in President Trump’s signature achievement were the Republicans’ answer to voters’ economic struggles, but its health care and food assistance cuts are taking a toll.
-
-
-2. [Trump Praises Burnham as ‘Natural Business Person’ After First Meeting](https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html)
-
-Prime Minister Andy Burnham of Britain met with President Trump for the first time on the sidelines of the U.N. General Assembly on Tuesday.
+The president might be supercharging what already looked like a blue wave.
 
 
-3. [It’s Time to Cry Wolf Over A.I.](https://www.nytimes.com/2026/09/22/opinion/trump-china-ai.html)
+2. [Supreme Court Order Gives Parents Custody of Baby in Surrogacy Fight](https://www.nytimes.com/2026/09/22/us/politics/supreme-court-surrogate-abortion-custody.html)
 
-It’s not too late to avoid the potential disasters of A.I. that Covid-19 and 9/11 taught us how to prepare.
-
-
-4. [The Democrats’ Policy on Palestine Is Detached From Reality](https://www.nytimes.com/2026/09/23/opinion/democrats-palestine-policy.html)
-
-The party needs more than a stance on Israel.
+A surrogate refused to have an abortion after the fetus was diagnosed with a serious heart problem. She asked the justices to block a court order giving custody to the biological parents.
 
 
-5. [After Years as the Star of Must-See TV, Trump Faces the Sting of Cancellation](https://www.nytimes.com/2026/09/21/us/politics/trump-television-reporters-cameras.html)
+3. [What’s the Healthiest Nut?](https://www.nytimes.com/interactive/2026/09/21/well/nuts-health-benefits-quiz.html)
 
-A boycott of the White House press pool by the major networks deprives the president of the oxygen of screen time. But he is still finding ways to get on the air.
+This quiz might surprise you.
 
 
-6. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
+4. [A Reclusive G.O.P. Billionaire Pulls Back His Money From Senate Republicans](https://www.nytimes.com/2026/09/23/us/politics/timothy-mellon-republicans-midterms.html)
+
+Timothy Mellon, one of the party’s biggest donors in 2024, has so far withheld his midterm donations for Republican senators because he is unhappy about the failure to pass a key Trump priority.
+
+
+5. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
 
 More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
 
 
-7. [White House Says Access Is a ‘Privilege’ in Court Filing Defending Media Ban](https://www.nytimes.com/2026/09/23/business/trump-cnn-politico-ms-now-ban.html)
+6. [A Powerful East Coast Storm Is Taking Shape. Here’s How It Could Affect You.](https://www.nytimes.com/2026/09/23/weather/noreaster-storm-new-york-boston-rain.html)
 
-President Trump determined that CNN, MS NOW and Politico were in “violation of the standards of professionalism and decorum” expected at the White House.
+The forecast for this weekend became a lot clearer on Thursday, but meteorologists warned that the storm’s exact path was still uncertain.
 
 
-8. [Harvey Weinstein Sentenced to 15 Years in New York Sex Crime Case](https://www.nytimes.com/2026/09/23/nyregion/nyc-harvey-weinstein-sentencing-sex-crime.html)
+7. [How a Brewing Storm Could Slam the East Coast This Week (or Not)](https://www.nytimes.com/2026/09/22/weather/noreaster-storm-flooding-virginia-new-york.html)
+
+A nor’easter in September is unusual. As its forecast took shape, there was still uncertainty over what it would do.
+
+
+8. [Trump Praises Burnham as ‘Natural Business Person’ After First Meeting](https://www.nytimes.com/2026/09/22/world/europe/trump-burnham-meeting-un-us-uk.html)
+
+Prime Minister Andy Burnham of Britain met with President Trump for the first time on the sidelines of the U.N. General Assembly on Tuesday.
+
+
+9. [Harvey Weinstein Sentenced to 15 Years in New York Sex Crime Case](https://www.nytimes.com/2026/09/23/nyregion/nyc-harvey-weinstein-sentencing-sex-crime.html)
 
 The former Hollywood titan was convicted last year of committing a criminal sexual act against a former production assistant in 2006. He also faces a resentencing in another case in California.
 
 
-9. [Trump Once Vowed to ‘Own’ Greenland. He Settled for Something Much Less.](https://www.nytimes.com/2026/09/22/us/politics/trump-greenland-denmark-agreement.html)
+10. [Dolly Parton’s Estate in Turmoil After Extortion Accusations](https://www.nytimes.com/2026/09/22/arts/music/dolly-parton-restraining-order-bryan-seaver.html)
 
-President Trump signed a Greenland security deal that falls well short of his demands to turn the island into a U.S. territory.
-
-
-10. [I Gave My Life Over to Meta’s A.I. Agent and Was Blown Away](https://www.nytimes.com/2026/09/22/technology/meta-muse-ai-agent.html)
-
-Muse, Meta’s A.I. agent, helped handle my dental insurance, booked dinner reservations and created a podcast for me. It also required my most personal data, and trust.
+Ms. Parton’s manager requested a restraining order against her nephew and former security provider, accusing him of threats and intimidation.
 
 
