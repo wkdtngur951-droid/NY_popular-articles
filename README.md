@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-25 22:09:18)
+## 📰 NYTimes Most Popular (Updated: 2026-09-26 01:22:36)
 
-1. [Gov. Mikie Sherrill Calls for the Resignation of Her Lt. Governor](https://www.nytimes.com/2026/09/24/nyregion/dale-caldwell-ethics-report-new-jersey-mikie-sherrill.html)
+1. [Kennedy Center Shelved Repairs Now Cited for Closure, Whistle-Blowers Say](https://www.nytimes.com/2026/09/25/arts/music/kennedy-center-trump-renovations.html)
 
-Investigators found that New Jersey’s lieutenant governor, Dale Caldwell, sought a promotion for his girlfriend and made a sexually charged comment to a staff member.
-
-
-2. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
-
-More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
+In a letter to Congress, former employees say the center delayed a plan to address the leaks that its officials now cite as a serious safety risk.
 
 
-3. [The Mistake That May Finally Get the Republican Base to Ditch Trump](https://www.nytimes.com/2026/09/23/opinion/iran-war-midterms-trump-republicans.html)
+2. [Fifth-Grade Teacher and Boy Die in Iowa Lake on Field Trip](https://www.nytimes.com/2026/09/24/us/iowa-5th-grade-teacher-student-dead.html)
 
-The president might be supercharging what already looked like a blue wave.
-
-
-4. [See the Menu for the State Dinner Honoring Xi Jinping](https://www.nytimes.com/2026/09/24/us/politics/trump-xi-state-dinner-menu.html)
-
-The White House said that the three-course menu, including sea bass and bok choy, featured American ingredients with a “subtle Chinese influence.”
+The teacher, Hannah Jorgensen, 24, jumped into the water to save the boy, according to his family.
 
 
-5. [The 7 New Rules for Air Travel](https://www.nytimes.com/2026/09/24/travel/air-travel-flight-bookings.html)
+3. [Being a Doctor Will Never Be the Same After A.I.](https://www.nytimes.com/2026/09/25/opinion/ai-doctor-medical-students.html)
 
-Flight delays and cancellations brought on by weather, technology glitches and other issues offer a lesson: Be prepared and be flexible.
-
-
-6. [Reporters Return to the White House, but TV Standoff Persists](https://www.nytimes.com/2026/09/24/business/media/trump-white-house-cnn-politico-msnow-ban.html)
-
-A judge ordered President Trump to reverse his ban on three media outlets, but it took several hours for them to get back in. The White House TV pool remains suspended.
+I’m confident in my mastery over what doctors do — and less confident about my continued mastery of an ever-evolving universe of facts.
 
 
-7. [A Powerful East Coast Storm Is Taking Shape. Here’s How It Could Affect You.](https://www.nytimes.com/2026/09/23/weather/noreaster-storm-new-york-boston-rain.html)
+4. [We Asked Chefs What They Think of You. Here’s What They Said.](https://www.nytimes.com/2026/09/14/dining/chefs-dining-beverage-trends.html)
 
-The forecast for this weekend became a lot clearer on Thursday, but meteorologists warned that the storm’s exact path was still uncertain.
-
-
-8. [Judge Blocks Trump’s White House Ban on CNN, MS NOW and Politico](https://www.nytimes.com/2026/09/23/business/media/cnn-ms-now-politico-white-house-trump-ban-ruling.html)
-
-Judge Timothy J. Kelly issued a temporary restraining order and told the White House to immediately restore the press credentials for the employees of the three news outlets.
+A dozen of the chefs from the 2026 edition of our 50 favorite restaurants list talk GLP-1s, diner drinking habits, A.I. and more.
 
 
-9. [Powerful Fall Storm Strengthens as It Crawls Up the East Coast](https://www.nytimes.com/2026/09/24/weather/noreaster-weekend-storm-nyc-boston-rain.html)
+5. [Embattled New Jersey Lt. Governor Resigns After Ethics Inquiry](https://www.nytimes.com/2026/09/25/nyregion/new-jersey-lieutenant-governor-resigns-dale-caldwell.html)
 
-Rain, flooding and gusty winds are in the forecast this weekend for the Northeast, including New York and Boston.
+Dale G. Caldwell, a Methodist minister and former university president, quit one day after the release of a report that found he had crossed ethical lines.
+
+
+6. [Netanyahu Is Said to Have Been Warned About Hamas Attack Before Oct. 7](https://www.nytimes.com/2026/09/25/world/middleeast/netanyahu-warning-oct-7-uae.html)
+
+The warning from the leader of the United Arab Emirates, which lacked specific details about the nature of an attack, never reached the chiefs of Israel’s security establishment, Israeli officials said.
+
+
+7. [In Trump’s White House, China’s Dictator Is Welcome. American Media, Less So.](https://www.nytimes.com/2026/09/24/us/politics/trump-xi-press-pool-boycott-media.html)
+
+The showdown over President Trump’s partial media ban played out as he welcomed President Xi Jinping, whose government is ranked among the most repressive in the world.
+
+
+8. [Supreme Court Allows Expansive Federal Database for Voter Screening](https://www.nytimes.com/2026/09/25/us/politics/supreme-court-citizenship-voter-lists.html)
+
+Critics of a citizenship database built by the Trump administration have raised alarms about privacy and improper voter purges.
+
+
+9. [Dining With A.I. Moguls, Billionaires and Xi Jinping, Trump Went Off Script](https://www.nytimes.com/2026/09/24/us/politics/state-dinner-scene.html)
+
+Altman. Musk. Huang. Bezos. They all came to the White House Thursday night, though you might not have seen it on TV.
 
 
 10. [A Quiet ICE Surge That Unfolded ‘Everywhere All at Once’ This Summer](https://www.nytimes.com/2026/09/25/us/ice-surge-immigration-arrests.html)
