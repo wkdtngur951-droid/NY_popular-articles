@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-28 08:31:37)
+## 📰 NYTimes Most Popular (Updated: 2026-09-28 17:32:08)
 
-1. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
+1. [Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It](https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html)
 
-More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
-
-
-2. [What Hegseth Is Hiding](https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html)
-
-Soldiers want to tell their stories, and we need to hear them.
+The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.
 
 
-3. [‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power](https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html)
+2. [5 Arrested on Suspicion of Terrorism Near U.K. Air Base Used by U.S.](https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html)
 
-Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish.
-
-
-4. [As A.I. Accelerates, Governments Are Increasingly Being Left Behind](https://www.nytimes.com/2026/09/27/technology/ai-government-regulation.html)
-
-The gap between technology and policymaking has gotten wider than ever with artificial intelligence, leaving a global policy vacuum as A.I. models rapidly advance.
+The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.
 
 
-5. [Dogs Will Fight Bears. But Not Because of the Reason You Might Think.](https://www.nytimes.com/2026/09/27/science/dogs-chasing-bears.html)
-
-Scientists analyzed hundreds of encounters between bears and canines. The results raise the suggestion that dogs may not always protect people in the wild.
-
-
-6. [The Mean Girls Presidency](https://www.nytimes.com/2026/09/27/opinion/donald-trump-administration-mean-girls.html)
-
-Our government is being run by a clique of middle-aged guys.
-
-
-7. [When the Weed Wars Came to Warren Street](https://www.nytimes.com/interactive/2026/09/26/nyregion/hudson-weed-wars.html)
+3. [When the Weed Wars Came to Warren Street](https://www.nytimes.com/interactive/2026/09/26/nyregion/hudson-weed-wars.html)
 
 New money and age-old injustice in an American river town.
 
 
-8. [Maybe We Should Leave Birds Alone](https://www.nytimes.com/2026/09/27/opinion/birds-feeding-britain-parasite.html)
+4. [Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.](https://www.nytimes.com/2026/09/26/magazine/sylvester-stallone-interview.html)
+
+The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.
+
+
+5. [‘S.N.L.’ Season Premiere: Buckets of Rain, With Jalen Brunson Reigning](https://www.nytimes.com/2026/09/27/arts/television/snl-season-52-premiere-jalen-brunson-mamdani.html)
+
+Brunson, captain of the N.B.A. champion New York Knicks, hosted a “Saturday Night Live” show that satirized President Trump’s recent visit to Mayor Zohran Mamdani.
+
+
+6. [‘She’s One of Us’: Mary Peltola’s Bumpy Rise to Political Power](https://www.nytimes.com/2026/09/27/us/politics/mary-peltola-alaska-senate.html)
+
+Ms. Peltola, the Democratic Senate candidate in Alaska, has complicated politics: She is pro-gun, pro-oil and pro-gas — but also pro-environment and especially pro-fish.
+
+
+7. [Woman Who Had Been Stabbed Is Found Dead in Central Park](https://www.nytimes.com/2026/09/27/nyregion/woman-central-park-death-nyc.html)
+
+Investigators are questioning a man. The woman, who appeared to be homeless, was found dead near the Central Park Boathouse, according to officials with knowledge of the matter.
+
+
+8. [The Super El Niño Is About to Unleash Weather Chaos. Get Ready Now.](https://www.nytimes.com/2026/09/27/opinion/el-nino-weather-forecasts-climate-change.html)
+
+There’s still time to prepare.
+
+
+9. [Saturday Night at the Massachusetts Lesbian Bar Everyone Is Talking About](https://www.nytimes.com/2026/09/27/us/last-ditch-lesbian-bar-covid-masks-massachusetts.html)
+
+Last Ditch, a bar and art space, ended its Covid mask requirement as a way to attract more people. What it got instead was outsized attention.
+
+
+10. [Maybe We Should Leave Birds Alone](https://www.nytimes.com/2026/09/27/opinion/birds-feeding-britain-parasite.html)
 
 One of Britain’s favorite national pastimes is hurting as well as helping.
-
-
-9. [The Four TV Shows That Heralded America’s Fall](https://www.nytimes.com/2026/09/26/opinion/best-tv-shows-sopranos-breaking-bad-wire-mad-men.html)
-
-Four TV shows, now acknowledged as the medium’s high point, each cannily predicted the ways in which America would start to crack apart.
-
-
-10. [Likely Piece of 1884 Shipwreck Washes Ashore in Nantucket During Nor’easter](https://www.nytimes.com/2026/09/26/nyregion/shipwreck-nantucket-noreaster.html)
-
-Powerful waves spat out a chunk of the wooden boat, one of hundreds that had wrecked around the island in the 19th century.
 
 
