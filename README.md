@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-29 12:33:46)
+## 📰 NYTimes Most Popular (Updated: 2026-09-29 18:31:47)
 
-1. [5 Gastrointestinal Symptoms You Should Never Ignore](https://www.nytimes.com/2026/09/28/well/gastrointestinal-symptoms-gut-health.html)
+1. [There’s a New Threat to Your Personal Finances](https://www.nytimes.com/2026/09/28/opinion/bond-market-japan-yen.html)
 
-Experts say these warning signs should always prompt a chat with a doctor.
-
-
-2. [Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It](https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html)
-
-The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.
+The revival of Japan’s economy isn’t all good news.
 
 
-3. [Cornell Sexual Assault Investigation to Be Reopened](https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html)
+2. [There Is a Word So Powerful It Need Be Spoken Only Once](https://www.nytimes.com/2026/09/28/opinion/naza-film-gaza-israel.html)
 
-After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.
+The film that makes a powerful statement without ever raising its voice.
+
+
+3. [Trump Officials Revise Biden-Era Sex Discrimination Rules](https://www.nytimes.com/2026/09/28/us/politics/trump-administration-revises-sex-discrimination-rules.html)
+
+The change follows a court ruling barring Title IX from protecting L.G.B.T.Q. people and has angered advocates for sexual assault survivors.
 
 
 4. [Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job](https://www.nytimes.com/2026/09/28/us/politics/andrew-bailey-fbi-patel-bongino.html)
@@ -20,9 +20,9 @@ After outrage over allegations in a lawsuit, the Tompkins County district attorn
 Mr. Bailey, who was part of a three-person leadership team atop the bureau, lasted barely a year.
 
 
-5. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
+5. [Who’s Winning the Race for Congress?](https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html)
 
-More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
+It’s Sept. 28 — 36 days away from the midterms. Here’s the state of play.
 
 
 6. [Senate Resoundingly Approves Sweeping College Sports Measure](https://www.nytimes.com/2026/09/28/us/politics/senate-college-sports.html)
@@ -30,23 +30,23 @@ More than 500 influential stars, showrunners and other notable names in the worl
 The outlook for the legislation, which seeks to stabilize the unsettled collegiate sports landscape, is uncertain in the House. It was one of the last congressional actions before the midterms.
 
 
-7. [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+7. [Man Killed After Bag Gets Stuck in Subway Doors, Police Say](https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html)
+
+The man, a 47-year-old from Brooklyn, was pulled by the train and found near the tracks at the Utica Avenue station.
+
+
+8. [I Once Celebrated Marriage. Things Have Changed.](https://www.nytimes.com/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html)
+
+Eleven years later, the novelist revisits a guest essay she wrote about marriage.
+
+
+9. [Affordability Is a Winning Message for Democrats. But There’s an Even Better One.](https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html)
+
+If Democrats can embrace what affordability is really about, they might do even more than win elections.
+
+
+10. [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
 
 A scrappy science project led to a significant discovery: two new species of a rare organism that could elucidate a fundamental transition in the history of life on our planet.
-
-
-8. [There Is a Word So Powerful It Need Be Spoken Only Once](https://www.nytimes.com/2026/09/28/opinion/naza-film-gaza-israel.html)
-
-The film that makes a powerful statement without ever raising its voice.
-
-
-9. [The Most Laughable of Trump’s Many Lies](https://www.nytimes.com/2026/09/28/opinion/trump-midterms-hoax.html)
-
-“Rigged.” “Fraud.” “Hoax.” The president is a broken record.
-
-
-10. [Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees](https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html)
-
-In an internal memo, the F.B.I. said it believed the hackers may have stolen sensitive information on all of its employees.
 
 
