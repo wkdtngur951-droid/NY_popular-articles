@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-28 23:07:34)
+## 📰 NYTimes Most Popular (Updated: 2026-09-29 05:20:54)
 
-1. [The 100 Best TV Shows of the 21st Century](https://www.nytimes.com/interactive/2026/arts/television/best-tv-shows-21st-century.html)
+1. [Trump Officials Revise Biden-Era Sex Discrimination Rules](https://www.nytimes.com/2026/09/28/us/politics/trump-administration-revises-sex-discrimination-rules.html)
 
-More than 500 influential stars, showrunners and other notable names in the world of TV voted on the best series released since Jan. 1, 2000. See what they chose.
-
-
-2. [Washington Taxed Its Millionaires. Now the Rich Want It Repealed.](https://www.nytimes.com/2026/09/27/us/politics/washington-state-millionaires-tax.html)
-
-Washington State voters will get a chance to accept or reject the 9.9 percent income tax on millionaires approved by the Legislature, which broke the state’s taboo against levying income taxes.
+The change follows a court ruling barring Title IX from protecting L.G.B.T.Q. people and has angered advocates for sexual assault survivors.
 
 
-3. [Affordability Is a Winning Message for Democrats. But There’s an Even Better One.](https://www.nytimes.com/2026/09/28/opinion/affordability-democrats-midterms.html)
+2. [What Russians Who Lost Sons in Ukraine Think About the War Now](https://www.nytimes.com/2026/09/28/world/europe/ukraine-russia-war-soldiers-deaths-north-ossetia.html)
 
-If Democrats can embrace what affordability is really about, they might do even more than win elections.
-
-
-4. [Cornell Sexual Assault Investigation to Be Reopened](https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html)
-
-After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.
+The Russian region of North Ossetia has suffered a heavy toll, yet many accept the Kremlin’s line that the fighting must continue until victory is secured.
 
 
-5. [5 Arrested on Suspicion of Terrorism Near U.K. Air Base Used by U.S.](https://www.nytimes.com/2026/09/27/world/europe/raf-fairford-airbase-arrests.html)
+3. [Some Republicans Issue a New Call on Trump’s War With Iran: End It Now](https://www.nytimes.com/2026/09/27/us/politics/iran-war-republicans-midterms-trump.html)
 
-The British counterterrorism police say the men were arrested after three suspicious vehicles appeared to be traveling toward R.A.F. Fairford early on Sunday.
+As their midterm picture darkens, and gas and diesel prices soar, some Republicans who backed the war for months are now changing their tune.
 
 
-6. [Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.](https://www.nytimes.com/2026/09/26/magazine/sylvester-stallone-interview.html)
+4. [Sylvester Stallone Hid His Struggles for Decades. Now He’s Coming Clean.](https://www.nytimes.com/2026/09/26/magazine/sylvester-stallone-interview.html)
 
 The legendary actor on his disturbing childhood, his Hollywood missteps and the pain he caused to his loved ones, his body and himself.
 
 
-7. [Andrew Bailey, a Deputy Director at the F.B.I., Leaves His Job](https://www.nytimes.com/2026/09/28/us/politics/andrew-bailey-fbi-patel-bongino.html)
+5. [Cornell Sexual Assault Investigation to Be Reopened](https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html)
 
-Mr. Bailey, who was part of a three-person leadership team atop the bureau, lasted barely a year.
-
-
-8. [What Hegseth Is Hiding](https://www.nytimes.com/2026/09/24/opinion/hegseth-iran-war-soldiers.html)
-
-Soldiers want to tell their stories, and we need to hear them.
+After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.
 
 
-9. [Trump Brought Venezuelan Gold to the U.S., but Refiners Won’t Touch It](https://www.nytimes.com/2026/09/28/world/americas/venezuela-gold-trump.html)
+6. [Embarrassing Breach at F.B.I. Fuels Fears of Harm to Its Employees](https://www.nytimes.com/2026/09/28/us/politics/fbi-shinyhunters-damage.html)
 
-The administration is brokering deals in a notoriously corrupt industry, including one with a company that the United States deems a security threat.
+In an internal memo, the F.B.I. said it believed the hackers may have stolen sensitive information on all of its employees.
 
 
-10. [In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life](https://www.nytimes.com/2026/09/26/science/motel-science-discovery.html)
+7. [Who’s Winning the Race for Congress?](https://www.nytimes.com/2026/09/28/us/whos-winning-the-race-for-congress.html)
 
-A scrappy science project led to a significant discovery: two new species of a rare organism that could elucidate a fundamental transition in the history of life on our planet.
+It’s Sept. 28 — 36 days away from the midterms. Here’s the state of play.
+
+
+8. [I Once Celebrated Marriage. Things Have Changed.](https://www.nytimes.com/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html)
+
+Eleven years later, the novelist revisits a guest essay she wrote about marriage.
+
+
+9. [Trump Revealed Something Essential About Elites](https://www.nytimes.com/2026/09/28/opinion/political-elites-elections.html)
+
+There are always elites. The people get to decide which ones rule.
+
+
+10. [Couple Accused of Killing Their Son-in-Law in Bay Area Park](https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html)
+
+Jonathan McKinsey, an engineer who worked in the games department for The New York Times, was fatally shot Saturday in a San Francisco suburb. The police have accused his parents-in-law, both 76.
 
 
