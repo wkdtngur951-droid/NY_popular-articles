@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-09-30 20:41:39)
+## 📰 NYTimes Most Popular (Updated: 2026-10-01 00:26:42)
 
-1. [Trump Is Going Viral in the Worst Ways](https://www.nytimes.com/2026/09/29/opinion/trump-mideast-diplomacy-iran-ai.html)
+1. [She Says Vaccines Killed Her Twins. The Authorities Say She Did.](https://www.nytimes.com/2026/09/30/well/andrea-shaw-twins-suffocation-vaccines.html)
 
-On the technological, diplomatic and biological fronts, Trump is creating a disaster.
-
-
-2. [There Is a Word So Powerful It Need Be Spoken Only Once](https://www.nytimes.com/2026/09/28/opinion/naza-film-gaza-israel.html)
-
-The film that makes a powerful statement without ever raising its voice.
+In a small Idaho town, a young mother is accused of killing her young twins. She blames the childhood vaccines they received.
 
 
-3. [Cornell Sexual Assault Investigation to Be Reopened](https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html)
+2. [Supreme Court Allows Execution of Tennessee Woman to Proceed](https://www.nytimes.com/2026/09/30/us/christa-pike-stay-execution-tennessee.html)
 
-After outrage over allegations in a lawsuit, the Tompkins County district attorney will revisit the decision not to pursue criminal charges against seven fraternity members.
-
-
-4. [After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future](https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html)
-
-Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.
+Christa Pike tortured and murdered a classmate in 1995. She had been set to die on Wednesday, the first woman executed in the state in 200 years, until a lower court paused the execution.
 
 
-5. [Supreme Court Allows Rapid Third-Country Deportations, for Now](https://www.nytimes.com/2026/09/29/us/politics/supreme-court-deportations-third-country.html)
+3. [This Case Has Flown Under the Radar. It Won’t Stay There.](https://www.nytimes.com/2026/09/30/opinion/supreme-court-john-roberts-religion.html)
 
-The court also announced it would hear arguments in December on the legality of the Trump administration policy to swiftly deport immigrants to countries not their own.
-
-
-6. [Couple Accused of Killing Their Son-in-Law in Bay Area Park](https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html)
-
-Jonathan McKinsey, an engineer who worked in the games department for The New York Times, was fatally shot Saturday in a San Francisco suburb. The police have accused his parents-in-law, both 76.
+This case has flown under the radar, but it won’t stay there.
 
 
-7. [What We Know About the Cornell Rape Investigation](https://www.nytimes.com/2026/09/29/nyregion/cornell-university-rape-investigation-chi-phi-fraternity.html)
+4. [Will A.I. Make Your Brain Lazy? Here’s What the New Research Actually Shows.](https://www.nytimes.com/interactive/2026/09/29/magazine/ai-chatbots-brain-development-study.html)
 
-Prosecutors have reopened the case of a woman who said she was sexually assaulted on campus in 2024. The woman’s lawsuit brought renewed pressure to reopen the investigation.
+We’re starting to learn more about how the technology can change us.
 
 
-8. [What if A.D.H.D. Isn’t About Attention at All?](https://www.nytimes.com/2026/09/29/science/adhd-attention-motivation.html)
+5. [What if A.D.H.D. Isn’t About Attention at All?](https://www.nytimes.com/2026/09/29/science/adhd-attention-motivation.html)
 
 Evidence suggests that it really affects what psychiatrists like me call sustained engagement — an important difference in understanding how to think about the condition.
 
 
-9. [Judge Orders New York to Scrap Rollout of Second-Home Tax and Start Over](https://www.nytimes.com/2026/09/29/nyregion/nyc-second-home-tax-lawsuit.html)
+6. [The Student Journalists Who Never Let the Cornell Assault Case Go](https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html)
 
-A Staten Island judge sided with a group of homeowners who had sued the city over its introduction of the tax, dealing a blow to Mayor Zohran Mamdani.
+The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity house since they were first made in 2024 and led the reporting on the case.
 
 
-10. [Religious Scholars Met With Anthropic. What They Heard Stunned Them.](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
+7. [Man Killed After Bag Gets Stuck in Subway Doors, Police Say](https://www.nytimes.com/2026/09/29/nyregion/subway-backpack-dragging-death.html)
 
-In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.
+The man, a 57-year-old from Brooklyn, was pulled by the train and found near the tracks at the Utica Avenue station.
+
+
+8. [‘Attention Infidelity’ Is Ruining Romance](https://www.nytimes.com/2026/09/30/opinion/attention-infidelity-ruin-romance.html)
+
+Your full attention is a gift. Give it more often.
+
+
+9. [As Jack Smith Testifies, a Senator’s Accusation of Perjury Falls Apart](https://www.nytimes.com/2026/09/29/us/politics/jack-smith-congress-testimony.html)
+
+A Republican eager to prove the former special counsel was dishonest appeared to instead demonstrate his own confusion over basic facts.
+
+
+10. [After Two Decades, U.S. Forces Leave Iraq to an Uncertain Future](https://www.nytimes.com/2026/09/30/world/middleeast/iraq-us-forces.html)
+
+Some Iraqis are celebrating the end of an American military presence that unleashed waves of bloodshed. Others fear what happens next for their country, trapped between Washington and Tehran.
 
 
