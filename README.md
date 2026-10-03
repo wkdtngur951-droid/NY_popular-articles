@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-02 23:39:29)
+## 📰 NYTimes Most Popular (Updated: 2026-10-03 04:53:58)
 
-1. [How a Cornell Student Went From Shame to Action](https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html)
+1. [With Christa Pike Unconscious, Another Execution Attempt Is in Doubt](https://www.nytimes.com/2026/10/02/us/christa-pike-unconscious-what-next.html)
 
-The woman known as “Jane Doe” was initially embarrassed about what happened at a fraternity party in 2024, but soon concluded: “I was assaulted.”
-
-
-2. [How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?](https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html)
-
-A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.
+Her condition raises questions about whether Tennessee could attempt to execute her again if she is incapable of understanding what is happening.
 
 
-3. [If You Think Rising Oil Prices Are Bad, Just Wait for the Inevitable Crash](https://www.nytimes.com/2026/10/01/opinion/gas-prices-oil-crash.html)
+2. [As Prospects Dim, G.O.P. Pulls Money Out of North Carolina Senate Race](https://www.nytimes.com/2026/10/02/us/midterms-election-republicans-north-carolina-kansas.html)
 
-An oil bust is on the horizon.
+As the Republicans try to hold their majority, the Senate Leadership Fund is diverting resources to Kansas, which has become a growing concern for the party.
 
 
-4. [Late Night Is Stunned by Trump’s New Stereotype](https://www.nytimes.com/2026/10/02/arts/television/late-night-trump-hispanic-stereotype.html)
+3. [Trump Is Getting Desperate. It Shows.](https://www.nytimes.com/2026/10/02/opinion/trump-target-ordinary-citizens.html)
+
+The Justice Department is trawling to find perpetrators on whom to pin conspiracies. Ordinary citizens are being ensnared.
+
+
+4. [The Viral In-N-Out Spatula Hero Is Exactly Who You Imagined He Was](https://www.nytimes.com/2026/09/25/us/in-n-out-burger-luca-opperman-spatula.html)
+
+It started as a bizarre late-night standoff behind the counter of a fast food joint. It ended with no injuries — and free burgers.
+
+
+5. [Late Night Is Stunned by Trump’s New Stereotype](https://www.nytimes.com/2026/10/02/arts/television/late-night-trump-hispanic-stereotype.html)
 
 The president told attendees celebrating Hispanic Heritage Month at the White House to watch their step while touring the unfinished ballroom: “Only a Hispanic could survive that fall.”
 
 
-5. [The Mother’s Scream That Sent Passengers to the Rescue](https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html)
+6. [How a Cornell Student Went From Shame to Action](https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-accusation-reporting.html)
+
+The woman known as “Jane Doe” was initially embarrassed about what happened at a fraternity party in 2024, but soon concluded: “I was assaulted.”
+
+
+7. [How Did Christa Pike Survive Two Lethal Injections of Pentobarbital?](https://www.nytimes.com/2026/10/01/science/pike-execution-pentobarbital.html)
+
+A catheter carrying the drug may not have delivered the doses to Ms. Pike’s bloodstream, experts said. The drug itself may have been degraded.
+
+
+8. [The Best TV Shows of the 21st Century: Readers Choose Their Top Shows](https://www.nytimes.com/interactive/2026/arts/television/reader-votes-tv-shows-21st-century.html)
+
+The people have spoken. Here are their picks.
+
+
+9. [John Roberts and His Island](https://www.nytimes.com/2026/10/01/us/politics/supreme-court-roberts-maine.html)
+
+After decades of potlucks and paddle-boarding on Maine’s midcoast, rising anger and protests have left the Supreme Court’s chief justice more isolated than ever.
+
+
+10. [The Mother’s Scream That Sent Passengers to the Rescue](https://www.nytimes.com/2026/10/02/world/middleeast/flydubai-attack-timeline.html)
 
 A badly wounded Indian pilot managed to unlock the cockpit door. Four Israeli men teamed up to overwhelm an attacker and avert disaster.
-
-
-6. [Men Accused in Cornell Sex Assault Suit Give Varying Accounts of Night](https://www.nytimes.com/2026/10/01/nyregion/cornell-rape-fraternity-chi-phi-men.html)
-
-Their accounts, detailed in hundreds of pages of investigative files obtained by The New York Times, were disjointed and sometimes contradictory. All the men denied any wrongdoing.
-
-
-7. [Kristi Noem Files for Divorce After 34 Years of Marriage](https://www.nytimes.com/2026/09/30/us/kristi-noem-divorce-byron-husband.html)
-
-Ms. Noem, a former homeland security secretary and governor of South Dakota, filed court papers there seeking to end her marriage to Bryon Noem, an insurance salesman.
-
-
-8. [Christa Pike Is in Critical Condition as Tennessee Pauses Executions](https://www.nytimes.com/2026/10/01/us/tennessee-executions-christa-pike-lee-review.html)
-
-Gov. Bill Lee ordered a review of the state’s lethal injection process after the botched attempt to execute the lone woman on Tennessee’s death row.
-
-
-9. [Religious Scholars Met With Anthropic. What They Heard Stunned Them.](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html)
-
-In a series of private meetings, the company consulted religious scholars to help instill morality into its A.I. models — and make the case that Claude could be conscious.
-
-
-10. [What to Know About the Attempted Execution of Christa Pike](https://www.nytimes.com/2026/10/01/us/christa-pike-alive-tennessee-execution-halted.html)
-
-Ms. Pike, 50, survived two doses of a lethal injection in Tennessee. She was sentenced to death for the 1995 murder of a classmate.
 
 
