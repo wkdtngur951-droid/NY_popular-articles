@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-06 00:42:00)
+## 📰 NYTimes Most Popular (Updated: 2026-10-06 07:24:32)
 
-1. [Nobel Prize Awarded for Tool That Probes the Living Brain](https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html)
+1. [Facing Backlash, Trump Says His Super PAC Will Pay for Taxpayer-Funded Ads](https://www.nytimes.com/2026/10/05/us/politics/trump-taxpayer-funded-ads-pac.html)
 
-Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.
-
-
-2. [Family of Epstein Victim Appears in Ad Targeting Republican](https://www.nytimes.com/2026/10/05/us/politics/jeff-crank-jeffrey-epstein-virginia-giuffre.html)
-
-In a tough new ad for the Democrat running against Representative Jeff Crank, the brother and sister-in-law of Virginia Giuffre say the congressman refused to meet with them.
+The president said that his PAC, MAGA, Inc., would pay for TV ads promoting him that had been paid for with taxpayer money.
 
 
-3. [She Could Flip the Senate. All She Wants to Talk About Are Fish and Diesel.](https://www.nytimes.com/2026/10/05/opinion/mary-peltola-alaska-campaign-senate.html)
+2. [U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats](https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html)
 
-Inside the weird campaign that could flip the Senate to the Democrats.
-
-
-4. [Texas Pediatricians Face Paxton Investigations for Vaccinating Children](https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html)
-
-Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.
+The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.
 
 
-5. [They Argued About Trump at a Dog Park. Then They Pulled Their Guns.](https://www.nytimes.com/2026/10/05/us/trump-ohio-dog-park-shooting.html)
+3. [Popular Cookie Chain Abruptly Shuts Down in New York City](https://www.nytimes.com/2026/10/04/nyregion/chip-city-stores-closed.html)
 
-What happened between two dog owners one April afternoon in Ohio will soon be scrutinized by a judge and jury as both men grapple with the consequences.
-
-
-6. [‘Creepy, Weird’ Steve Hilton Ad Denounced by California Republicans](https://www.nytimes.com/2026/10/04/us/steve-hilton-just-try-it-ad.html)
-
-An online spot for Mr. Hilton, the G.O.P. candidate, is full of sexual innuendo that has befuddled Republicans and Democrats watching the race for governor in California.
+The chain, which began as a shop in Astoria, Queens, and expanded as far as Texas, closed all locations on Friday.
 
 
-7. [Dennis Hastert, Powerful Politician Disgraced by Child Sexual Abuse, Dies](https://www.nytimes.com/2026/10/05/obituaries/dennis-hastert-dead.html)
+4. [California Prepares to Ban Quartz Countertop Production](https://www.nytimes.com/2026/10/05/us/politics/quartz-counters-california.html)
 
-The longest-serving Republican speaker of the House admitted in 2016 to abusing teenage boys decades earlier. He was 84.
+The state would be the first to block an industry that has been connected to a deadly lung disease in workers.
 
 
-8. [At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’](https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html)
+5. [Karoline Leavitt, Trump’s ‘Machine Gun,’ Has a New Gig at Fox News](https://www.nytimes.com/2026/10/05/business/media/fox-news-karoline-leavitt.html)
+
+A fierce and nimble speaker, Ms. Leavitt is the third of Mr. Trump’s former press secretaries to join the cable news network.
+
+
+6. [How Cornell Punished Each of the 7 Men Accused of Sexual Assault](https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html)
+
+Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.
+
+
+7. [At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’](https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html)
 
 President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.
 
 
-9. [Are Babies Conscious?](https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html)
+8. [5 Decades After Adoption, St. Louis Man Learns His Father Is a Rock Star](https://www.nytimes.com/2026/10/02/us/michael-mcdonald-doobie-brothers-biological-son.html)
 
-By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.
+Michael Goessling’s first phone call with his biological father brought a shock: He was speaking to Michael McDonald of the Doobie Brothers.
 
 
-10. [We Implemented Canada’s Assisted Dying Law. We’re Concerned.](https://www.nytimes.com/2026/10/05/opinion/medical-assistance-in-dying-counseling.html)
+9. [I Was Labeled Bipolar, Depressed, O.C.D. Here’s Why.](https://www.nytimes.com/2026/10/05/opinion/mental-health-diagnosis-labels.html)
 
-Assisted dying accounts for more than 5 percent of deaths in Canada.
+More than half of people who qualify for one diagnosis also qualify for another during their lifetime.
+
+
+10. [Anne Hathaway Ends ‘Renaissance’ Year With Third No. 1 Movie](https://www.nytimes.com/2026/10/04/movies/anne-hathaway-verity-odyssey-devil-wears-prada.html)
+
+“Verity,” Hathaway’s fifth film of the year, opened this weekend with $33 million months after “The Devil Wears Prada 2” and “The Odyssey” also topped the box office.
 
 
