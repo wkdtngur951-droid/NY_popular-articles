@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-05 18:13:34)
+## 📰 NYTimes Most Popular (Updated: 2026-10-06 00:42:00)
 
-1. [Karoline Leavitt, Trump’s ‘Machine Gun,’ Has a New Gig at Fox News](https://www.nytimes.com/2026/10/05/business/media/fox-news-karoline-leavitt.html)
+1. [Nobel Prize Awarded for Tool That Probes the Living Brain](https://www.nytimes.com/2026/10/05/health/nobel-prize-medicine-physiology.html)
 
-A fierce and nimble speaker, Ms. Leavitt is the third of Mr. Trump’s former press secretaries to join the cable news network.
-
-
-2. [U.S. Rushes to Withdraw Bombers From U.K. Air Base After New Threats](https://www.nytimes.com/2026/10/04/us/politics/us-bombers-britain-raf-fairford-iran.html)
-
-The withdrawal came with unusual speed, following what U.S. officials said were threats of an Iran-based plot against the installation.
+Karl Deisseroth, Peter Hegemann and Georg Nagel were recognized for their work on light-gated ion channels and optogenetics, a technique that uses pulses of light to activate neurons in the brain.
 
 
-3. [Superpowers Race to Put Nuclear Reactors on the Moon](https://www.nytimes.com/2026/10/04/world/asia/nuclear-reactors-moon.html)
+2. [Family of Epstein Victim Appears in Ad Targeting Republican](https://www.nytimes.com/2026/10/05/us/politics/jeff-crank-jeffrey-epstein-virginia-giuffre.html)
 
-The United States wants a reactor on the moon by 2030. A Russian-Chinese alliance is working on one for 2036. Some leading scientists say the danger is great.
-
-
-4. [At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’](https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html)
-
-President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.
+In a tough new ad for the Democrat running against Representative Jeff Crank, the brother and sister-in-law of Virginia Giuffre say the congressman refused to meet with them.
 
 
-5. [Lula and Bolsonaro Head to Runoff for Brazil’s Presidency](https://www.nytimes.com/2026/10/04/world/americas/brazil-election-lula-bolsonaro.html)
+3. [She Could Flip the Senate. All She Wants to Talk About Are Fish and Diesel.](https://www.nytimes.com/2026/10/05/opinion/mary-peltola-alaska-campaign-senate.html)
 
-Neither President Luiz Inácio Lula da Silva nor Flávio Bolsonaro, the son of a former president, won the first round, but Mr. Bolsonaro took more votes.
+Inside the weird campaign that could flip the Senate to the Democrats.
 
 
-6. [Flashback: Your Weekly History Quiz, Oct. 3, 2026](https://www.nytimes.com/interactive/2026/10/02/upshot/flashback.html)
+4. [Texas Pediatricians Face Paxton Investigations for Vaccinating Children](https://www.nytimes.com/2026/10/05/health/ken-paxton-pediatricians-vaccines.html)
 
-Can you sort 8 historical events?
+Ken Paxton, the Texas attorney general and Republican Senate candidate, has alleged a sprawling profit-driven conspiracy. Pediatricians say the accusations are an attempt at intimidation.
+
+
+5. [They Argued About Trump at a Dog Park. Then They Pulled Their Guns.](https://www.nytimes.com/2026/10/05/us/trump-ohio-dog-park-shooting.html)
+
+What happened between two dog owners one April afternoon in Ohio will soon be scrutinized by a judge and jury as both men grapple with the consequences.
+
+
+6. [‘Creepy, Weird’ Steve Hilton Ad Denounced by California Republicans](https://www.nytimes.com/2026/10/04/us/steve-hilton-just-try-it-ad.html)
+
+An online spot for Mr. Hilton, the G.O.P. candidate, is full of sexual innuendo that has befuddled Republicans and Democrats watching the race for governor in California.
 
 
 7. [Dennis Hastert, Powerful Politician Disgraced by Child Sexual Abuse, Dies](https://www.nytimes.com/2026/10/05/obituaries/dennis-hastert-dead.html)
@@ -35,18 +35,18 @@ Can you sort 8 historical events?
 The longest-serving Republican speaker of the House admitted in 2016 to abusing teenage boys decades earlier. He was 84.
 
 
-8. [How Cornell Punished Each of the 7 Men Accused of Sexual Assault](https://www.nytimes.com/2026/10/03/nyregion/cornell-men-university-discipline.html)
+8. [At Trump’s Rallies, a Familiar Mix of Rituals and a Plea to ‘Please Pretend’](https://www.nytimes.com/2026/10/04/us/politics/trump-rallies-midterms-rituals.html)
 
-Summaries obtained by The New York Times offer a detailed look at the discipline meted out to the men accused of sexually assaulting a fellow student at Cornell University.
-
-
-9. [Democrats Lead Governor Races Deep in Republican Territory, Polls Show](https://www.nytimes.com/2026/10/04/us/politics/governors-poll-democrats-lead.html)
-
-Democratic advantages in the races for governor in Texas, Iowa, Ohio and Alaska reflect deep unhappiness with President Trump and the economy. A Republican leads in Kansas.
+President Trump is doggedly lending his support to Republican candidates facing a rough midterm season. He is the same campaigner he has always been, but his crowds have changed.
 
 
-10. [Former Nurse Convicted of Murder in Crash at 130 M.P.H. That Killed Six](https://www.nytimes.com/2026/10/03/us/woman-murder-car-crash-los-angeles.html)
+9. [Are Babies Conscious?](https://www.nytimes.com/2026/10/05/science/consciousness-brain-babies.html)
 
-Nicole Linton was found guilty of six counts of second-degree murder, which included the death of an unborn child, related to a 2022 crash in Los Angeles.
+By pinpointing when it begins in young humans, scientists hope to better understand what consciousness is, and how it arises, in all of us.
+
+
+10. [We Implemented Canada’s Assisted Dying Law. We’re Concerned.](https://www.nytimes.com/2026/10/05/opinion/medical-assistance-in-dying-counseling.html)
+
+Assisted dying accounts for more than 5 percent of deaths in Canada.
 
 
