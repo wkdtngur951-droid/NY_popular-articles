@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-10 19:56:35)
+## 📰 NYTimes Most Popular (Updated: 2026-10-10 23:25:04)
 
-1. [Republicans Are Worried About Gina Hinojosa. In Texas, I Saw Why.](https://www.nytimes.com/2026/10/09/opinion/gina-hinojosa-governor-texas.html)
+1. [How Trump’s Revenge Campaign Descended Into Turmoil](https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html)
 
-The Texas Democrat who says the culture wars are over.
-
-
-2. [Fiery Senate Debates in Maine, Michigan and Georgia: Five Takeaways](https://www.nytimes.com/2026/10/09/us/senate-debate-maine-michigan-georgia.html)
-
-Candidates in three of the races that could determine control of the Senate engaged in bitter and personal attacks.
+The president’s allies have sought to prove a “grand conspiracy” through a sprawling Justice Department inquiry. It has buckled under staffing shake-ups, internal disputes and trouble finding evidence.
 
 
-3. [Trump Announces White House Inquiry Into Fed Governor Cook](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html)
+2. [Christa Pike Discharged From Hospital After Surviving Execution Attempt](https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html)
 
-President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.
+Ms. Pike, 50 and convicted of the 1995 murder of a classmate, survived two doses of the drug pentobarbital late last month.
 
 
-4. [Anthropic Agents Tried to Fill Out Visa Forms on State Dept. Website](https://www.nytimes.com/2026/10/09/technology/anthropic-rogue-ai-agents.html)
+3. [Zohran Mamdani’s Moral Obscenity](https://www.nytimes.com/2026/10/09/opinion/zohran-mamdani-israel-gaza.html)
 
-The Philadelphia Police Department said the agents had also sent in a false homicide tip. The incidents led the White House to call for better disclosure of rogue A.I. behavior.
+A mayor for one million Jewish New Yorkers fails his duty.
+
+
+4. [Fort Hood Shooter’s Execution Will Be Public and Streamed Live, Pentagon Says](https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html)
+
+If carried out, the public execution of Maj. Nidal Malik Hasan by firing squad set for Dec. 3 would be the first in modern U.S. history.
 
 
 5. [Katie Zacharia Picked as the New White House Press Secretary](https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html)
@@ -25,28 +25,28 @@ The Philadelphia Police Department said the agents had also sent in a false homi
 Ms. Zacharia is a conservative commentator who is also an adviser to the company that runs President Trump’s social media site, Truth Social. She succeeds Karoline Leavitt.
 
 
-6. [She Was Offered $40 Million for Silence on Elon Musk. She Spoke Out Instead.](https://www.nytimes.com/2026/10/09/movies/ashley-st-clair-interview-elon-musk.html)
+6. [‘It Was Horrific’: 8 Killed in Shooting in Erie, Pa.](https://www.nytimes.com/2026/10/10/us/erie-shooting-pennsylvania-multiple-dead.html)
 
-In the documentary “Musk,” Ashley St. Clair, a former right-wing influencer and mother of one of Musk’s children, speaks about her relationship with him.
-
-
-7. [Millions Lose Private Medicare Plans and Face Rising Costs](https://www.nytimes.com/2026/10/09/business/medicare-private-health-care-costs.html)
-
-As enrollment for Medicare Advantage begins this month, older Americans are confronting fewer options because insurers are discontinuing coverage in many areas.
+The dead included a pregnant woman, a 5 year old and a toddler. The shooter was also dead, city officials said.
 
 
-8. [8 People Are Killed in Shooting in Erie, Pa., City Officials Say](https://www.nytimes.com/2026/10/10/us/erie-shooting-pennsylvania-multiple-dead.html)
+7. [Republicans Are Worried About Gina Hinojosa. In Texas, I Saw Why.](https://www.nytimes.com/2026/10/09/opinion/gina-hinojosa-governor-texas.html)
 
-The shooting was reported on Friday night in what appears to be a residential area. The shooter was also dead, city officials said.
-
-
-9. [This Photo Is an A.I. Fake. Can You Tell?](https://www.nytimes.com/interactive/2026/10/08/technology/ai-generated-image-look-close.html)
-
-We want you to look closely — very closely — at this fake image and spot any errors.
+The Texas Democrat who says the culture wars are over.
 
 
-10. [I’m a Child Psychiatrist. Screens Are Not the Problem.](https://www.nytimes.com/2026/10/09/opinion/children-screens-parents-health.html)
+8. [Trump Announces White House Inquiry Into Fed Governor Cook](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html)
 
-If we make screens the villain, then we let the people who control children’s health care — Congress, insurers and health systems — off the hook for their failures.
+President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.
+
+
+9. [My Fiancé Won’t Touch Me. Should I Still Marry Him?](https://www.nytimes.com/2026/10/08/well/mind/platonic-engagement-sex-emotion-touch-starved.html)
+
+Our Ask the Therapist columnist, Lori Gottlieb, advises a 65-year-old reader who loves her partner but is physically and emotionally unsatisfied.
+
+
+10. [James Talarico Returns to Campaign Trail in Texas After a 9-Day Absence](https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html)
+
+Mr. Talarico, the Democratic nominee for Senate in Texas, showed up at a music festival, saying he had been at home with “a nasty case of the flu.”
 
 
