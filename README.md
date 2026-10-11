@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-10 23:25:04)
+## 📰 NYTimes Most Popular (Updated: 2026-10-11 05:19:13)
 
-1. [How Trump’s Revenge Campaign Descended Into Turmoil](https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html)
-
-The president’s allies have sought to prove a “grand conspiracy” through a sprawling Justice Department inquiry. It has buckled under staffing shake-ups, internal disputes and trouble finding evidence.
-
-
-2. [Christa Pike Discharged From Hospital After Surviving Execution Attempt](https://www.nytimes.com/2026/10/10/us/politics/christa-pike-discharged-hospital-survive-execution.html)
-
-Ms. Pike, 50 and convicted of the 1995 murder of a classmate, survived two doses of the drug pentobarbital late last month.
-
-
-3. [Zohran Mamdani’s Moral Obscenity](https://www.nytimes.com/2026/10/09/opinion/zohran-mamdani-israel-gaza.html)
-
-A mayor for one million Jewish New Yorkers fails his duty.
-
-
-4. [Fort Hood Shooter’s Execution Will Be Public and Streamed Live, Pentagon Says](https://www.nytimes.com/2026/10/08/us/politics/fort-hood-execution-streamed-public.html)
-
-If carried out, the public execution of Maj. Nidal Malik Hasan by firing squad set for Dec. 3 would be the first in modern U.S. history.
-
-
-5. [Katie Zacharia Picked as the New White House Press Secretary](https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html)
+1. [Katie Zacharia Picked as the New White House Press Secretary](https://www.nytimes.com/2026/10/09/us/politics/katie-zacharia-trump-white-house-press-secretary.html)
 
 Ms. Zacharia is a conservative commentator who is also an adviser to the company that runs President Trump’s social media site, Truth Social. She succeeds Karoline Leavitt.
 
 
-6. [‘It Was Horrific’: 8 Killed in Shooting in Erie, Pa.](https://www.nytimes.com/2026/10/10/us/erie-shooting-pennsylvania-multiple-dead.html)
+2. [‘It Was Horrific’: 8 Killed in Shooting in Erie, Pa.](https://www.nytimes.com/2026/10/10/us/erie-shooting-pennsylvania-multiple-dead.html)
 
 The dead included a pregnant woman, a 5 year old and a toddler. The shooter was also dead, city officials said.
 
 
-7. [Republicans Are Worried About Gina Hinojosa. In Texas, I Saw Why.](https://www.nytimes.com/2026/10/09/opinion/gina-hinojosa-governor-texas.html)
+3. [She’s Been to Gaza. She Met With the Iranians. Now She Has a Warning.](https://www.nytimes.com/2026/10/10/magazine/mirjana-spoljaric-interview.html)
 
-The Texas Democrat who says the culture wars are over.
-
-
-8. [Trump Announces White House Inquiry Into Fed Governor Cook](https://www.nytimes.com/2026/10/09/business/trump-lisa-cook-fed.html)
-
-President Trump said the White House would investigate unsubstantiated claims that Lisa D. Cook committed mortgage fraud and hold a hearing next month.
+As the head of the International Committee of the Red Cross, Mirjana Spoljaric goes to both sides of conflicts. She’s worried that our warring world is spiraling out of control.
 
 
-9. [My Fiancé Won’t Touch Me. Should I Still Marry Him?](https://www.nytimes.com/2026/10/08/well/mind/platonic-engagement-sex-emotion-touch-starved.html)
-
-Our Ask the Therapist columnist, Lori Gottlieb, advises a 65-year-old reader who loves her partner but is physically and emotionally unsatisfied.
-
-
-10. [James Talarico Returns to Campaign Trail in Texas After a 9-Day Absence](https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html)
+4. [James Talarico Returns to Campaign Trail in Texas After a 9-Day Absence](https://www.nytimes.com/2026/10/09/us/james-talarico-absence-texas-senate.html)
 
 Mr. Talarico, the Democratic nominee for Senate in Texas, showed up at a music festival, saying he had been at home with “a nasty case of the flu.”
+
+
+5. [How Trump’s Revenge Campaign Descended Into Turmoil](https://www.nytimes.com/2026/10/09/us/politics/trump-grand-conspiracy.html)
+
+The president’s allies have sought to prove a “grand conspiracy” through a sprawling Justice Department inquiry. It has buckled under staffing shake-ups, internal disputes and trouble finding evidence.
+
+
+6. [Exasperation and Resignation in Greece Over Allegations Against Kimberly Guilfoyle](https://www.nytimes.com/2026/10/10/world/europe/kimberly-guilfoyle-greece.html)
+
+The U.S. ambassador to Greece is facing accusations that she asked a donor to pay off her credit card bill before she took up her post in Athens.
+
+
+7. [‘What’s the Plan?’ Inside the Crisis Response at the Chi Phi House at Cornell](https://www.nytimes.com/2026/10/10/nyregion/cornell-rape-lawsuit-fraternity-brothers.html)
+
+Records reveal how fraternity members responded when a fellow student accused them of sexual assault.
+
+
+8. [Zohran Mamdani’s Moral Obscenity](https://www.nytimes.com/2026/10/09/opinion/zohran-mamdani-israel-gaza.html)
+
+A mayor for one million Jewish New Yorkers fails his duty.
+
+
+9. [She Was Offered $40 Million for Silence on Elon Musk. She Spoke Out Instead.](https://www.nytimes.com/2026/10/09/movies/ashley-st-clair-interview-elon-musk.html)
+
+In the documentary “Musk,” Ashley St. Clair, a former right-wing influencer and mother of one of Musk’s children, speaks about her relationship with him.
+
+
+10. [One Philadelphia Officer Is Killed and Another Is Shot 12 Times in Ambush](https://www.nytimes.com/2026/10/10/us/philadelphia-shooting-police-killed.html)
+
+Two officers responding to the call took “significant fire.” Officials said the gunman fired at 9 other officers who responded to the scene.
 
 
