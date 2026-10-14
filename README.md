@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-14 07:23:25)
+## 📰 NYTimes Most Popular (Updated: 2026-10-14 13:32:19)
 
-1. [Jimmy Kimmel Teases Trump Over Not Getting the Nobel Prize](https://www.nytimes.com/2026/10/13/arts/television/jimmy-kimmel-trump-nobel-peace-prize.html)
+1. [City Council Speaker and Mamdani Agree on Horse-Drawn Carriage Ban](https://www.nytimes.com/2026/10/13/nyregion/horse-carriages-ban-central-park.html)
+
+Under legislation backed by City Council Speaker Julie Menin and Mayor Zohran Mamdani, the use of horse-drawn carriages in Central Park would end by June 2028.
+
+
+2. [Jimmy Kimmel Teases Trump Over Not Getting the Nobel Prize](https://www.nytimes.com/2026/10/13/arts/television/jimmy-kimmel-trump-nobel-peace-prize.html)
 
 “Thanks a lot, Norway. I hope you’re happy — you made our baby cry,” Kimmel said after the president blamed Norway.
 
 
-2. [Shane Gillis Faces Backlash Over ‘S.N.L.’ Monologue](https://www.nytimes.com/2026/10/12/arts/television/dan-levy-shane-gillis-snl-monologue.html)
+3. [Shane Gillis Faces Backlash Over ‘S.N.L.’ Monologue](https://www.nytimes.com/2026/10/12/arts/television/dan-levy-shane-gillis-snl-monologue.html)
 
 “I’m speechless that something like that can exist on live national television,” the actor Dan Levy said on Instagram in a reaction to the comic’s jokes about women.
 
 
-3. [Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators](https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html)
+4. [Actress Selma Blair Is Arrested in Assault on Flight Attendants](https://www.nytimes.com/2026/10/12/us/selma-blair-arrested.html)
+
+The police responded to a call about a “physically abusive passenger” aboard a flight that landed at Kennedy Airport on Sunday night, officials said.
+
+
+5. [Worlds More Habitable Than Earth? They’re Out There.](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
+
+Scientists believe there are planets outside our solar system where life is even more abundant and sustainable.
+
+
+6. [Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators](https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html)
 
 The expansive changes to campus life, including working closely with the state police, come in the wake of the national uproar caused by allegations of a gang rape at a fraternity house.
 
 
-4. [Kimberly Guilfoyle Resigns as Ambassador to Greece](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html)
+7. [We Know How to Fix Homelessness. Look at Denver.](https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html)
 
-Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.
-
-
-5. [‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.](https://www.nytimes.com/2026/10/13/us/politics/guilfoyle-fall.html)
-
-President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.
+It takes doing things conservatives and progressives both dislike.
 
 
-6. [Ukraine Says It Received No Intelligence About Strikes 2 Nights in a Row](https://www.nytimes.com/2026/10/13/world/europe/ukraine-trump-intelligence.html)
+8. [Top G.O.P. Groups Pull Support From First House Incumbents](https://www.nytimes.com/2026/10/13/us/politics/top-gop-groups-pull-support-from-first-house-incumbents.html)
 
-Asked about apparent U.S. threats to cut off intelligence sharing with Kyiv, which can warn of Russian aerial attacks, President Trump said information continued to flow.
-
-
-7. [After Russian Diesel Deal, Trump Faces New Crisis Over Ukraine](https://www.nytimes.com/2026/10/12/world/europe/russia-ukraine-war-us-diesel-deal-negotiations.html)
-
-President Trump’s surprise decision to suspend sanctions on Russian diesel fuel stunned Ukrainian and European officials, who were meeting with U.S. envoys at an exclusive golf club near Miami.
+Two major Republican super PACs are said to be withdrawing cash from the races of the incumbent Representatives Thomas H. Kean Jr. of New Jersey and Mariannette Miller-Meeks of Iowa in an effort to triage the midterm map.
 
 
-8. [Man Killed at Six Flags Struck Other Riders During Fall From Roller Coaster](https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html)
+9. [Cyberattack Hits Hundreds of Supermarket Refrigeration Systems in France](https://www.nytimes.com/2026/10/13/world/europe/france-cyberattack-supermarkets-refrigeration.html)
 
-The police identified the 42-year-old man who died at Six Flags Over Georgia on Monday. The company said it was temporarily closing multiple rides in the U.S. and Canada as a precaution.
-
-
-9. [Pope Leo Found to Have Lung Cancer During Surgery, Vatican Says](https://www.nytimes.com/2026/10/13/world/europe/pope-leo-lung-surgery.html)
-
-The surgeons removed the lower lobe of the pope’s right lung after finding a cancerous nodule.
+The attack targeted a Danish software system in more than 400 supermarkets, forcing some shops to throw out frozen produce. The attackers have not been identified.
 
 
-10. [RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34](https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html)
+10. [These California Boat Dwellers Fear the Worst: Life on Land](https://www.nytimes.com/2026/10/13/us/california-anchor-outs-boats.html)
 
-Mr. Mitte was born with cerebral palsy and brought his own experience of living with the disability to the role of Walter White Jr. on the Emmy-winning show.
+For decades, dozens of people lived rent-free on a bay just north of San Francisco. A few holdouts remained as a deadline loomed to leave the water.
 
 
