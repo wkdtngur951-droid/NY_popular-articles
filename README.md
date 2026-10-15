@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-14 22:09:42)
+## 📰 NYTimes Most Popular (Updated: 2026-10-15 01:20:37)
 
-1. [Shane Gillis Faces Backlash Over ‘S.N.L.’ Monologue](https://www.nytimes.com/2026/10/12/arts/television/dan-levy-shane-gillis-snl-monologue.html)
+1. [America Is in Decline, and Trump Is Leading the Fall](https://www.nytimes.com/2026/10/14/opinion/usa-decline-trump-global-powers.html)
 
-“I’m speechless that something like that can exist on live national television,” the actor Dan Levy said on Instagram in a reaction to the comic’s jokes about women.
-
-
-2. [Actress Selma Blair Is Arrested in Assault on Flight Attendants](https://www.nytimes.com/2026/10/12/us/selma-blair-arrested.html)
-
-The police responded to a call about a “physically abusive passenger” aboard a flight that landed at Kennedy Airport on Sunday night, officials said.
+The old world order is fraying. Who gets to shape the next one?
 
 
-3. [Cornell Bans Fraternity Parties and Adds Sexual Assault Investigators](https://www.nytimes.com/2026/10/13/nyregion/cornell-sexual-assault-fraternity-party-ban.html)
-
-The expansive changes to campus life, including working closely with the state police, come in the wake of the national uproar caused by allegations of a gang rape at a fraternity house.
-
-
-4. [Kimberly Guilfoyle Resigns as Ambassador to Greece](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resign.html)
-
-Ms. Guilfoyle was asked to quit by the White House after a string of damaging reports, including that she had asked a Republican donor to pay off a credit card.
-
-
-5. [‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html)
-
-President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.
-
-
-6. [Katie Zacharia Stepped to the Lectern for the First Time. It Was a Bumpy Ride.](https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html)
+2. [Katie Zacharia Stepped to the Lectern for the First Time. It Was a Bumpy Ride.](https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html)
 
 Ms. Zacharia spent eight minutes reading from a script, called on only three reporters and made an awkward slip-up.
 
 
-7. [RJ Mitte, Who Played Walter White’s Son on ‘Breaking Bad,’ Dies at 34](https://www.nytimes.com/2026/10/12/arts/television/rj-mitte-dead.html)
+3. [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html)
 
-Mr. Mitte was born with cerebral palsy and brought his own experience of living with the disability to the role of Walter White Jr. on the Emmy-winning show.
-
-
-8. [Worlds More Habitable Than Earth? They’re Out There.](https://www.nytimes.com/2026/10/13/science/inhabitable-planets-solar-system.html)
-
-Scientists believe there are planets outside our solar system where life is even more abundant and sustainable.
+A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.
 
 
-9. [City Council Speaker and Mamdani Agree on Horse-Drawn Carriage Ban](https://www.nytimes.com/2026/10/13/nyregion/horse-carriages-ban-central-park.html)
+4. [Trump Adds Another Giveaway to His Midterm Pitch: Pardons.](https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html)
 
-Under legislation backed by City Council Speaker Julie Menin and Mayor Zohran Mamdani, the use of horse-drawn carriages in Central Park would end by June 2028.
+The president has stepped up his offers of financial rewards to voters with just weeks until the midterms. On Tuesday at a rally in Alaska, he announced pardons.
 
 
-10. [Trump Hands Victories to Putin, Who Offers More War in Return](https://www.nytimes.com/2026/10/13/world/europe/russia-putin-trump-diesel-ukraine.html)
+5. [Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.](https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html)
 
-Russia has reaped a diesel deal and an increase in U.S. pressure on Ukraine as President Trump’s political needs align with his longstanding inclinations toward Russia.
+On Tuesday, she announced the news of her U.S. citizenship on social media with a video and a photo of herself at the ceremony.
+
+
+6. [6 Things Longevity Experts Wish People Would Stop Saying](https://www.nytimes.com/2026/10/13/well/longevity-experts-advice.html)
+
+Living longer and healthier is important. But don’t believe everything you hear.
+
+
+7. [I’ve Worked in Congo for Decades. I’ve Never Seen an Ebola Crisis Like This.](https://www.nytimes.com/interactive/2026/10/14/opinion/ebola-spread-africa-outbreak.html)
+
+This outbreak was detected late, giving the virus a head start.
+
+
+8. [Angelina Jolie Barely Breaks Even After Selling Her Los Angeles Estate](https://www.nytimes.com/2026/10/14/realestate/angelina-jolie-sells-her-los-angeles-estate.html)
+
+The actress, who has expressed a desire to move abroad, got $24.75 million, $250,000 more than what she had paid. Also, Larry Ellison, John McEnroe and Little Steven are selling their homes.
+
+
+9. [‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html)
+
+President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.
+
+
+10. [Five Who Lived Along Walking Trail Are Dead and the Police Hunt a Killer](https://www.nytimes.com/2026/10/14/us/lansing-michigan-serial-killer.html)
+
+Lansing’s police chief says the string of attacks along a greenway raises the possibility that a serial killer has been at work. A man is under arrest in one of the deaths.
 
 
