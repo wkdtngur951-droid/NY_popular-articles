@@ -1,38 +1,38 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-15 13:15:52)
+## 📰 NYTimes Most Popular (Updated: 2026-10-15 18:08:46)
 
-1. [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html)
+1. [Five Who Lived Along Walking Trail Are Dead and the Police Hunt a Killer](https://www.nytimes.com/2026/10/14/us/lansing-michigan-serial-killer.html)
+
+Lansing’s police chief says the string of attacks along a greenway raises the possibility that a serial killer has been at work. A man is under arrest in one of the deaths.
+
+
+2. [Ukraine’s Exposure Grows as Satellite Use Is Restricted and Russia Escalates](https://www.nytimes.com/2026/10/14/world/europe/ukraine-starlink-energy.html)
 
 A huge attack cut power to 600,000 people in Kyiv, and a Pentagon-funded satellite internet program appeared to be curbed without warning.
 
 
-2. [Tom Cruise’s Big Flop Is a Secret Masterpiece](https://www.nytimes.com/2026/10/14/opinion/digger-tom-cruise-movie-climate-flop.html)
+3. [Trump Cancels Planned Livestream of Fort Hood Shooter’s Execution](https://www.nytimes.com/2026/10/15/us/trump-hasan-fort-hood-execution-livestream.html)
 
-The film has been panned by critics and shunned by audiences, but its message about the climate crisis is one we need to hear.
-
-
-3. [Social Security Says Retirees Will Get a 3.6% Raise for 2027](https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html)
-
-The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.
+The president said only immediate families of the victims of the mass shooting in 2009 would witness the execution of Maj. Nidal Malik Hasan.
 
 
-4. [Angelina Jolie Barely Breaks Even After Selling Her Los Angeles Estate](https://www.nytimes.com/2026/10/14/realestate/angelina-jolie-sells-her-los-angeles-estate.html)
-
-The actress, who has expressed a desire to move abroad, got $24.75 million, $250,000 more than what she had paid. Also, Larry Ellison, John McEnroe and Little Steven are selling their homes.
-
-
-5. [6 Things Longevity Experts Wish People Would Stop Saying](https://www.nytimes.com/2026/10/13/well/longevity-experts-advice.html)
+4. [6 Things Longevity Experts Wish People Would Stop Saying](https://www.nytimes.com/2026/10/13/well/longevity-experts-advice.html)
 
 Living longer and healthier is important. But don’t believe everything you hear.
 
 
-6. [Man Killed at Six Flags Struck Other Riders During Fall From Roller Coaster](https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html)
+5. [What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party](https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html)
+
+As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another.
+
+
+6. [If Democrats Win the Senate, They Cannot Mess Around](https://www.nytimes.com/2026/10/14/opinion/democrats-midterms-trump-congress.html)
+
+The party will need to make the most of whatever majority it has.
+
+
+7. [Man Killed at Six Flags Struck Other Riders During Fall From Roller Coaster](https://www.nytimes.com/2026/10/12/us/roller-coaster-georgia-six-flags-rider-death.html)
 
 The police identified the 42-year-old man who died at Six Flags Over Georgia on Monday. The company said it was temporarily closing multiple rides in the U.S. and Canada as a precaution.
-
-
-7. [We Know How to Fix Homelessness. Look at Denver.](https://www.nytimes.com/2026/10/13/opinion/homelessness-unhoused-denver-shelters.html)
-
-It takes doing things that both conservatives and progressives dislike.
 
 
 8. [America Is in Decline, and Trump Is Leading the Fall](https://www.nytimes.com/2026/10/14/opinion/usa-decline-trump-global-powers.html)
@@ -40,13 +40,13 @@ It takes doing things that both conservatives and progressives dislike.
 The old world order is fraying. Who gets to shape the next one?
 
 
-9. [The Disappearing Women of the Trump Administration](https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html)
+9. [Trump’s New Press Secretary: Not-Quite Attorney at Law](https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html)
 
-In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.
+Katie Zacharia told The New York Times that the confusion over her legal credentials was the result of one big misunderstanding.
 
 
-10. [Joni Mitchell Is Now an American, After 60 Years of Living in the U.S.](https://www.nytimes.com/2026/10/13/arts/music/joni-mitchell-us-citizenship.html)
+10. [‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html)
 
-On Tuesday, she announced the news of her U.S. citizenship on social media with a video and a photo of herself at the ceremony.
+President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.
 
 
