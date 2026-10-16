@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-15 22:04:05)
+## 📰 NYTimes Most Popular (Updated: 2026-10-16 01:06:23)
 
-1. [America Is in Decline, and Trump Is Leading the Fall](https://www.nytimes.com/2026/10/14/opinion/usa-decline-trump-global-powers.html)
+1. [Trump Administration Sues California Over Voter Rolls](https://www.nytimes.com/2026/10/15/us/politics/trump-administration-california-voter-rolls.html)
 
-The old world order is fraying. Who gets to shape the next one?
-
-
-2. [Katie Zacharia Stepped to the Lectern for the First Time. It Was a Bumpy Ride.](https://www.nytimes.com/2026/10/13/us/politics/katie-zacharia-white-house-first-briefing.html)
-
-Ms. Zacharia spent eight minutes reading from a script, called on only three reporters and made an awkward slip-up.
+The lawsuit seeks to temporarily block the state from counting mail ballots of voters it claims are likely noncitizens, opening a new front in the administration’s legal fights with election officials.
 
 
-3. [A Trump Backlash Endangers Susan Collins, the Only Blue-State G.O.P. Senator](https://www.nytimes.com/2026/10/14/us/politics/susan-collins-trump-maine-senate.html)
+2. [3 Men Accused by Nancy Mace in House Speech Are Charged With Sex Crimes](https://www.nytimes.com/2026/10/14/us/politics/nancy-mace-fiance-sexual-assault-arrest.html)
 
-The race in Maine, which could decide Senate control, is testing whether there is still room for Ms. Collins’s brand of moderation during a sharply polarizing presidency.
-
-
-4. [Angelina Jolie Barely Breaks Even After Selling Her Los Angeles Estate](https://www.nytimes.com/2026/10/14/realestate/angelina-jolie-sells-her-los-angeles-estate.html)
-
-The actress, who has expressed a desire to move abroad, got $24.75 million, $250,000 more than what she had paid. Also, Larry Ellison, John McEnroe and Little Steven are selling their homes.
+The South Carolina representative’s former fiancé and two of his business associates were charged on Wednesday with sex crimes and voyeurism in connection with a 2018 incident.
 
 
-5. [Social Security Says Retirees Will Get a 3.6% Raise for 2027](https://www.nytimes.com/2026/10/14/business/social-security-cola-retirees.html)
+3. [Trump Cancels Planned Livestream of Fort Hood Shooter’s Execution](https://www.nytimes.com/2026/10/15/us/politics/trump-hasan-fort-hood-execution-livestream.html)
 
-The cost of living adjustment, or COLA, for next year will be the largest since 2023. Retirees will see the extra money in their benefit checks starting in January.
+The president said only immediate families of the victims of the mass shooting in 2009 would witness the execution of Maj. Nidal Malik Hasan.
 
 
-6. [Vance’s Talarico Attacks Show His Penchant for Personal Broadsides](https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html)
+4. [Vance’s Talarico Attacks Show His Penchant for Personal Broadsides](https://www.nytimes.com/2026/10/14/us/politics/vance-talarico-attacks.html)
 
 At a rally in Texas, the vice president suggested the Democratic Senate nominee is gay, a comment criticized as homophobic.
 
 
-7. [Trump Adds Another Giveaway to His Midterm Pitch: Pardons.](https://www.nytimes.com/2026/10/13/us/elections/trump-pardons-midterms-payments.html)
+5. [Trump’s Democracy-for-Diesel Deal Shames Us All](https://www.nytimes.com/2026/10/15/opinion/trump-russia-oil-putin.html)
 
-The president has stepped up his offers of financial rewards to voters with just weeks until the midterms. On Tuesday at a rally in Alaska, he announced pardons.
-
-
-8. [What a Group of A.I. Agents Talked About as Their Humans Had a Dinner Party](https://www.nytimes.com/2026/10/14/technology/ai-agents-communication-tech-dinner-party.html)
-
-As artificial intelligence bots spread, we are increasingly glimpsing how these digital entities interact and what they talk about with one another.
+The president’s arrangement to import Russian diesel fuel is one more example of how he has sold out American democracy.
 
 
-9. [Trump’s New Press Secretary: Not-Quite Attorney at Law](https://www.nytimes.com/2026/10/14/us/politics/trump-press-secretary-katie-zacharia-lawyer.html)
+6. [He’s the Most Influential Podcaster in Silicon Valley. He Thinks We’re Getting This Wrong.](https://www.nytimes.com/2026/10/15/opinion/interesting-times-dwarkes-patel-tyler-cowen.html)
 
-Katie Zacharia told The New York Times that the confusion over her legal credentials was the result of one big misunderstanding.
+Dwarkesh Patel on what the public doesn’t know about A.I.
 
 
-10. [‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html)
+7. [‘Honey Please’: The Steep Rise and Sudden Fall of Kimberly Guilfoyle.](https://www.nytimes.com/2026/10/13/us/politics/kimberly-guilfoyle-resigns-trump-ambassador-greece.html)
 
 President Trump cut her loose after damaging news reports about her tenure as ambassador to Greece. Once a prominent Trump insider, she suggested she will now fight to defend her reputation.
+
+
+8. [You Know Her From ‘Slow Horses’ but You’ve Never Seen Her Like This](https://www.nytimes.com/2026/10/15/movies/rosalind-eleazar-misty-green-slow-horses.html)
+
+Rosalind Eleazar is winning rapturous reviews for her turn as the very “humanly flawed” title character in “Misty Green,” from Chris Rock.
+
+
+9. [Angelina Jolie Barely Breaks Even After Selling Her Los Angeles Estate](https://www.nytimes.com/2026/10/14/realestate/angelina-jolie-sells-her-los-angeles-estate.html)
+
+The actress, who has expressed a desire to move abroad, got $24.75 million, $250,000 more than what she had paid. Also, Larry Ellison, John McEnroe and Little Steven are selling their homes.
+
+
+10. [The Disappearing Women of the Trump Administration](https://www.nytimes.com/2026/10/14/us/politics/trump-administration-kimberly-guilfoyle-women.html)
+
+In President Trump’s second term, those heading for the exits, voluntarily or involuntarily, are female officials.
 
 
