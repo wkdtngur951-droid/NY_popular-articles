@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-17 16:16:16)
+## 📰 NYTimes Most Popular (Updated: 2026-10-17 19:09:54)
 
-1. [The Obvious Step That Could Mean Fewer Fraternity Sexual Assaults](https://www.nytimes.com/2026/10/16/opinion/fraternities-cornell-men-women.html)
+1. [20 Hours After Falling Overboard, Cruise Passenger Is Rescued Near Greece](https://www.nytimes.com/2026/10/15/travel/cruise-passenger-overboard-rescue-greece.html)
 
-A fellow college president warned that the blowback from my decision would end my presidency. Instead, it produced some extraordinary conversations.
-
-
-2. [Why One of the World’s Greatest Mathematicians Is on a ‘War Footing’](https://www.nytimes.com/2026/10/16/us/math-ai-terence-tao.html)
-
-The Fields Medalist Terence Tao is on the front lines of a debate about artificial intelligence and the future of his field.
+According to Greek officials, the woman told her rescuers she had jumped off the ship because she “wanted to disembark.”
 
 
-3. [In 1971, This Film Was a Scandal. In 2026, It’s a Respected Period Piece.](https://www.nytimes.com/2026/10/16/movies/ken-russell-the-devils-re-release.html)
+2. [When a Social Media Mob Came for Cornell’s Jane Doe](https://www.nytimes.com/2026/10/16/nyregion/cornell-jane-doe-internet-doxing.html)
 
-“Ken Russell’s The Devils” was deemed shocking for scenes with orgiastic nuns and a debauched priest. But its serious aims are clear in a new restoration.
+After a former student named seven men in a lawsuit saying they had sexually assaulted her, a movement gained steam online to reveal her identity.
 
 
-4. [Katie Zacharia Is Ousted After 5 Days as White House Press Secretary](https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html)
+3. [Katie Zacharia Is Ousted After 5 Days as White House Press Secretary](https://www.nytimes.com/2026/10/16/us/politics/katie-zacharia-fired-press-secretary.html)
 
 Her abrupt departure came after she was shadowed by questions about how she had presented her legal career and handled her first press briefing.
 
 
-5. [Trump’s Attempt to Deport Ilhan Omar Is Another Leap Toward the Abyss](https://www.nytimes.com/2026/10/16/opinion/ilhan-omar-deportation-trump.html)
+4. [‘Oh, Shut Up’: 5 Takeaways From the Senate Debate in Maine](https://www.nytimes.com/2026/10/15/us/politics/maine-senate-debate-collins-jackson.html)
 
-This is more than just another persecution of one of the president’s political enemies.
+The race’s fourth and final debate centered on whether Senator Susan Collins, the Republican incumbent, was as independent as she claimed to be from President Trump.
 
 
-6. [‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes](https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html)
+5. [‘You Can See Everything’ Review: The Slippery Mind of Elizabeth Holmes](https://www.nytimes.com/2026/10/15/movies/you-can-see-everything-review-elizabeth-holmes.html)
 
 The disgraced tech entrepreneur and the comic Nathan Fielder chat and joust in a dizzying movie about truth, reality and the contours of knowledge.
 
 
-7. [Hilary Swank Is Having Her Third Child at 52](https://www.nytimes.com/2026/10/15/style/hilary-swank-pregnancy.html)
-
-The “Million Dollar Baby” star joins a growing cohort of celebrities having children later in life.
-
-
-8. [How a Teacher and a Dad Stopped the Slaughter in Bend](https://www.nytimes.com/2026/10/16/us/bend-shooting-hero-teacher-dad.html)
-
-The city of Bend, Ore., is praising those who worked to stop the gunman at Silver Rail Elementary School. The authorities are searching for answers.
-
-
-9. [Sean Combs Transferred to Prison in Pennsylvania](https://www.nytimes.com/2026/10/16/arts/music/diddy-sean-combs-prison-transfer-pennsylvania.html)
+6. [Sean Combs Transferred to Prison in Pennsylvania](https://www.nytimes.com/2026/10/16/arts/music/diddy-sean-combs-prison-transfer-pennsylvania.html)
 
 The music mogul, who was sentenced last year to more than four years for prostitution-related offenses, had been held in a federal prison in New Jersey.
+
+
+7. [M.I.T. Scientist Wins $6 Million in Sexual Harassment Defamation Suit](https://www.nytimes.com/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html)
+
+David Sabatini, once a prominent scientist at M.I.T., sued a former colleague who accused him of inappropriate behavior. A jury found in his favor.
+
+
+8. [Young Voters Say They Are Turning Their Backs on Trump and His Party](https://www.nytimes.com/2026/10/16/us/politics/young-voters-fleeing-republicans.html)
+
+One of the biggest surprises of 2024 was the swing of young voters, particularly men, away from Democrats to Donald Trump. Now they are swinging back.
+
+
+9. [Trump’s Bubble Is About to Burst](https://www.nytimes.com/2026/10/17/opinion/trump-photo-zacharia-harp-doug-mills.html)
+
+The president’s crazy actions have Democrats on the cusp of victory — and they’ll be coming for him.
 
 
 10. [The New York Times News Quiz, October 16, 2026](https://www.nytimes.com/quiz/2026/10/16/briefing/weekly-news-quiz.html)
