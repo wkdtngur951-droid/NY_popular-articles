@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-19 20:57:13)
+## 📰 NYTimes Most Popular (Updated: 2026-10-20 00:12:37)
 
-1. [In Campaign’s Final Stretch, Trump Can’t Stop Praising Men’s Bodies](https://www.nytimes.com/2026/10/17/us/politics/trump-men-physical-appearance-comments.html)
+1. [France’s Far Right Seizes the Moment as Rioting Stuns the Country](https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html)
 
-As he stumps for midterm candidates, the president has been especially eager to talk about the physical appearance of some men.
-
-
-2. [This Is One of the Saddest Facts About the Cornell Rape Case](https://www.nytimes.com/2026/10/17/opinion/cornell-jane-doe-title-ix.html)
-
-Campus rape investigations are often riddled with problems — but eliminating them would be much worse.
+The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.
 
 
-3. [This Is the Good Scenario?](https://www.nytimes.com/2026/10/18/opinion/ai-bubble-catastrophe-investors-control.html)
+2. [I Have Never Seen the Online Right So Happy](https://www.nytimes.com/2026/10/19/opinion/cornell-rape-political-right-smear.html)
 
-We may not want it to, but A.I. is asking us how to live.
-
-
-4. [O.J. Simpson, a Secret Informant and a Decades-Old Mystery](https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html)
-
-An “extremely reliable” informant told authorities about the missing murder weapon, according to newly unsealed records. The informant’s brother told The Times his sibling was at the crime scene.
+Online right-wingers are doxxing and smearing the accuser in the Cornell rape case, in tactics that reek of desperation.
 
 
-5. [I Teach at a Business School. It’s Time to Shut Them Down.](https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html)
+3. [Mahmoud Khalil Appeals to Supreme Court to Halt Deportation](https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html)
+
+Mr. Khalil had recently graduated from Columbia when he was arrested by ICE agents and became the face of the Trump administration’s crackdown on pro-Palestinian demonstrations.
+
+
+4. [Trump Defends Plans to Ease Russia Sanctions and Hints at a Hostage Deal](https://www.nytimes.com/2026/10/18/us/politics/trump-russia-sanctions-hostage-negotiations.html)
+
+The president on Sunday justified his reversal of almost five years of sanctions against Russia as part of peace negotiations. He did not name any hostage.
+
+
+5. [Larry David Mocks the D.S.A. Some Are Not Amused.](https://www.nytimes.com/2026/10/18/us/politics/larry-david-dsa-satire.html)
+
+The comedian satirized the Democratic Socialists of America, its platform and its opposition to Israel in an essay that some did not LOL at.
+
+
+6. [Huge Riots and Antigovernment Protests in France: What to Know](https://www.nytimes.com/article/france-student-protests-why.html)
+
+France imposed scattered curfews on Monday after weekend protests over living costs and poor school conditions devolved into riots.
+
+
+7. [Kimberly Guilfoyle, Sacrificial Ham](https://www.nytimes.com/2026/10/19/opinion/kimberly-guilfoyle-fired.html)
+
+The exiled ambassador didn’t defy the president. She mimicked him.
+
+
+8. [I Teach at a Business School. It’s Time to Shut Them Down.](https://www.nytimes.com/2026/10/18/opinion/business-school-mba-harvard-cornell-cambridge.html)
 
 Students come in with noble intentions and leave with flawed expertise.
 
 
-6. [Trump Outlines Rapid Plan to Close and Overhaul D.C. Golf Course](https://www.nytimes.com/2026/10/18/us/politics/trump-golf-course-east-potomac-washington.html)
+9. [O.J. Simpson, a Secret Informant and a Decades-Old Mystery](https://www.nytimes.com/2026/10/18/us/oj-simpson-ippolito-informant-accomplice.html)
 
-The plan to begin work transforming the course in four weeks injected fresh urgency into a federal lawsuit opposing changes to East Potomac Golf Links.
-
-
-7. [This Is What America’s Utility Bill Crisis Looks Like](https://www.nytimes.com/2026/10/18/us/oklahoma-extreme-heat-electricity-crisis.html)
-
-Record heat and a rising demand for electricity are closing in on Oklahoma families trying to keep the lights on and the AC running.
+An “extremely reliable” informant told authorities about the missing murder weapon, according to newly unsealed records. The informant’s brother told The Times his sibling was at the crime scene.
 
 
-8. [The Elizabeth Holmes Documentary, Through the Eyes of the Reporter Who Exposed Her](https://www.nytimes.com/2026/10/17/business/theranos-fraud-elizabeth-holmes-documentary.html)
+10. [The Midterms Look Dark for Republicans. Their Future Looks Brighter.](https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html)
 
-Ms. Holmes handed the makers of “You Can See Everything” — and the rest of the world — a microscope with which to observe and dissect her lies.
-
-
-9. [Fire at Canadian Army Base Killed 4 and Injured 39, Officials Say](https://www.nytimes.com/2026/10/18/world/canada/canadian-army-base-fire-kills-4.html)
-
-Prime Minister Mark Carney said the “violent, fast-moving” fire on Saturday in Alberta was one of the worst tragedies for Canada’s armed forces in peacetime on Canadian soil.
-
-
-10. [A Day After Huge Riots in France, Shock and Recrimination](https://www.nytimes.com/2026/10/18/world/europe/france-protests-shock-arson.html)
-
-After anti-government protests devolved into chaos, leaders from across the political spectrum blamed one another for the unrest, even as it largely subsided on Sunday.
+The G.O.P. will not always be focused around the strong personality and charisma of Trump.
 
 
