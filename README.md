@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-20 23:43:55)
+## 📰 NYTimes Most Popular (Updated: 2026-10-21 04:16:40)
 
-1. [Huge Riots and Antigovernment Protests in France: What to Know](https://www.nytimes.com/article/france-student-protests-why.html)
+1. [Voters in Oil-Rich Alberta Strongly Reject Leaving Canada](https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html)
 
-France will extend scattered curfews into Tuesday in response to weekend demonstrations that devolved into riots over living costs and poor school conditions.
-
-
-2. [I Have Never Seen the Online Right So Happy](https://www.nytimes.com/2026/10/19/opinion/cornell-rape-political-right-smear.html)
-
-Online right-wingers are doxxing and smearing the accuser in the Cornell rape case, in tactics that reek of desperation.
+Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.
 
 
-3. [The Midterms Look Dark for Republicans. Their Future Looks Brighter.](https://www.nytimes.com/2026/10/19/opinion/republican-party-trump-future.html)
+2. [Trump’s Push for Deals With Russia Powers His Frustration With Ukraine](https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html)
 
-The G.O.P. will not always be focused around the strong personality and charisma of Trump.
-
-
-4. [Judge Clashes with Justice Department About Trump’s Golf Course Plan](https://www.nytimes.com/2026/10/19/us/politics/trump-washington-golf-course.html)
-
-Government attorneys sparred with Judge Ana C. Reyes over testimony by several government witnesses about the chain of decisions surrounding East Potomac Golf Links.
+The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.
 
 
-5. [Latest Climate Report Warns of Major Upheaval to California Way of Life](https://www.nytimes.com/2026/10/19/us/california-climate-change-warning.html)
+3. [It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.](https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html)
 
-The dire projections come from the state’s Climate Change Assessment, which analyzes the impacts of changing weather patterns on the nation’s most-populous state.
-
-
-6. [Mahmoud Khalil Appeals to Supreme Court to Halt Deportation](https://www.nytimes.com/2026/10/19/us/politics/supreme-court-mahmoud-khalil-deportation.html)
-
-Mr. Khalil had recently graduated from Columbia when he was arrested by ICE agents and became the face of the Trump administration’s crackdown on pro-Palestinian demonstrations.
+The Danish capital is obsessed with this stripped-down snack, and the city’s top bakeries won’t stop until they’ve perfected it.
 
 
-7. [France’s Far Right Seizes the Moment as Rioting Stuns the Country](https://www.nytimes.com/2026/10/19/france-far-right-protests-riots.html)
+4. [When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.](https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html)
 
-The National Rally, already ahead in the polls, presented itself as the party best placed to restore law and order.
+From childbirth to miscarriages, women’s health care in the state has become increasingly dangerous.
 
 
-8. [Priest Dies After Crucifix Falls on Him During Livestreamed Mass](https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html)
+5. [Woman Who Says She Was Raped at Cornell Sends Message to Faculty Senate](https://www.nytimes.com/2026/10/20/nyregion/cornell-jane-doe-letter-president.html)
+
+In a letter, the former student said she felt “unsupported” after hearing about an exchange between the school president and her sorority sister. Officials disputed her account of the conversation.
+
+
+6. [Priest Dies After Crucifix Falls on Him During Livestreamed Mass](https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html)
 
 The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.
 
 
-9. [M.I.T. Scientist Wins $6 Million in Sexual Harassment Defamation Suit](https://www.nytimes.com/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html)
+7. [Trump Pushes to Evict the Press From the White House](https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html)
 
-David Sabatini, once a prominent scientist at M.I.T., sued a former colleague who accused him of inappropriate behavior. A jury found in his favor.
+President Trump has talked about replacing the James S. Brady Press Briefing Room with an indoor swimming pool.
 
 
-10. [Woman Who Says She Was Raped at Cornell Sends Message to Faculty Senate](https://www.nytimes.com/2026/10/20/nyregion/cornell-jane-doe-letter-president.html)
+8. [Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier](https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html)
 
-In a letter, the former student said she felt “unsupported” after hearing about an exchange between the school president and her sorority sister. Officials disputed her account of the conversation.
+A Republican ad features Amy Acton’s estranged mother calling her daughter a liar. The two have not spoken since Dr. Acton’s mother backed her husband after his arrest on rape charges.
+
+
+9. [Trumpism Is Backfiring](https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html)
+
+Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump.
+
+
+10. [Trump Can No Longer Mask His Real Agenda](https://www.nytimes.com/2026/10/20/opinion/trump-campaign-promises-affordability.html)
+
+The president has forgotten the “forgotten men and women of this country.”
 
 
