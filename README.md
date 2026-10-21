@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-21 20:00:10)
+## 📰 NYTimes Most Popular (Updated: 2026-10-21 23:13:14)
 
-1. [Trump Can No Longer Mask His Real Agenda](https://www.nytimes.com/2026/10/20/opinion/trump-campaign-promises-affordability.html)
+1. [Trump Pushes to Evict the Press From the White House](https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html)
 
-The president has forgotten the “forgotten men and women of this country.”
-
-
-2. [Trumpism Is Backfiring](https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html)
-
-Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump.
+President Trump has talked about replacing the James S. Brady Press Briefing Room with an indoor swimming pool.
 
 
-3. [Calling Putin a ‘Humanitarian,’ Witkoff Thanks Him for Releasing an American](https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html)
+2. [Woman Who Says She Was Raped at Cornell Sends Message to Faculty Senate](https://www.nytimes.com/2026/10/20/nyregion/cornell-jane-doe-letter-president.html)
 
-The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.
-
-
-4. [M.I.T. Scientist Wins $6 Million in Sexual Harassment Defamation Suit](https://www.nytimes.com/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html)
-
-David Sabatini, once a prominent scientist at M.I.T., sued a former colleague who accused him of inappropriate behavior. A jury found in his favor.
+In a letter, the former student said she felt “unsupported” after hearing about an exchange between the school president and her sorority sister. Officials disputed her account of the conversation.
 
 
-5. [In Six Decades of Public Life, I Never Thought I Would Write This Piece](https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html)
+3. [The Proponents of ‘Dark Nutrition’ Think Everything You Know About Food Is Wrong](https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html)
 
-Trump’s meddling would have dark consequences for our democracy and our prosperity.
-
-
-6. [Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds](https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html)
-
-Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.
+More Americans are rejecting everything they’ve been taught about food.
 
 
-7. [What Makes Men in Groups Behave So Badly?](https://www.nytimes.com/2026/10/20/opinion/cornell-chi-phi-group-chat-bro-code.html)
+4. [What Makes Men in Groups Behave So Badly?](https://www.nytimes.com/2026/10/20/opinion/cornell-chi-phi-group-chat-bro-code.html)
 
 Why do men in groups behave this way?
 
 
-8. [She Walked the Victoria’s Secret Show. Six Weeks After Giving Birth.](https://www.nytimes.com/2026/10/19/style/barbara-palvin-victorias-secret-postpartum.html)
+5. [Trumpism Is Backfiring](https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html)
 
-Barbara Palvin’s return to the runway so soon after giving birth set off a debate online about motherhood in America.
+Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump.
 
 
-9. [A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.](https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html)
+6. [It’s Not Just France. Europe’s Political Center Is Crumbling.](https://www.nytimes.com/2026/10/20/world/europe/france-protests-europe-centrist-far-right.html)
+
+Europe’s centrist parties are losing ground among young people and workers, who are increasingly tempted by populist promises of radical change.
+
+
+7. [A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.](https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html)
 
 Julio Herrera Velutini, a prominent Venezuelan, was seeking clemency. He got it not long after his daughter gave Ms. Habba, a lawyer close to President Trump, an extraordinarily lucrative job.
 
 
-10. [Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier](https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html)
+8. [Priest Dies After Crucifix Falls on Him During Livestreamed Mass](https://www.nytimes.com/2026/10/19/world/americas/ecuador-priest-dies-crucifix.html)
 
-A Republican ad features Amy Acton’s estranged mother calling her daughter a liar. The two have not spoken since Dr. Acton’s mother backed her husband after his arrest on rape charges.
+The Rev. Patricio Alfredo Sánchez Molinari was addressing his congregation in Guayaquil, Ecuador, when a wooden cross detached from a wall and struck him.
+
+
+9. [Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds](https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html)
+
+Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.
+
+
+10. [Voters in Oil-Rich Alberta Strongly Reject Leaving Canada](https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html)
+
+Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.
 
 
