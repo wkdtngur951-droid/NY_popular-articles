@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-21 15:03:04)
+## 📰 NYTimes Most Popular (Updated: 2026-10-21 20:00:10)
 
 1. [Trump Can No Longer Mask His Real Agenda](https://www.nytimes.com/2026/10/20/opinion/trump-campaign-promises-affordability.html)
 
 The president has forgotten the “forgotten men and women of this country.”
 
 
-2. [What Makes Men in Groups Behave So Badly?](https://www.nytimes.com/2026/10/20/opinion/cornell-chi-phi-group-chat-bro-code.html)
-
-Why do men in groups behave this way?
-
-
-3. [Trumpism Is Backfiring](https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html)
+2. [Trumpism Is Backfiring](https://www.nytimes.com/2026/10/20/opinion/ezra-klein-podcast-chrystia-freeland.html)
 
 Chrystia Freeland, a former Canadian deputy prime minister, explains why her country chose to fight back against Trump.
 
 
-4. [Trump’s Push for Deals With Russia Powers His Frustration With Ukraine](https://www.nytimes.com/2026/10/19/us/politics/trump-russia-deals.html)
+3. [Calling Putin a ‘Humanitarian,’ Witkoff Thanks Him for Releasing an American](https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html)
 
-The series of recent steps by the president that seem to favor Vladimir Putin reflect his intensifying desire to normalize the relationship with Moscow even if it means further undercutting Ukraine.
-
-
-5. [It’s Sliced Cheese on Bread. And It’s Rocking Copenhagen’s World.](https://www.nytimes.com/2026/10/19/dining/copenhagen-denmark-bread-bmo.html)
-
-The Danish capital is obsessed with this stripped-down snack, and the city’s top bakeries won’t stop until they’ve perfected it.
+The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.
 
 
-6. [Voters in Oil-Rich Alberta Strongly Reject Leaving Canada](https://www.nytimes.com/2026/10/19/world/canada/alberta-secession-canada-referendum.html)
-
-Residents of the province were asked if they wished to remain in Canada or to hold another vote on breaking away, in a referendum that was a win for Prime Minister Mark Carney.
-
-
-7. [Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier](https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html)
-
-A Republican ad features Amy Acton’s estranged mother calling her daughter a liar. The two have not spoken since Dr. Acton’s mother backed her husband after his arrest on rape charges.
-
-
-8. [When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.](https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html)
-
-From childbirth to miscarriages, women’s health care in the state has become increasingly dangerous.
-
-
-9. [Student Protesters in France Have a Strange New Slogan. What Does It Mean?](https://www.nytimes.com/2026/10/20/world/europe/france-student-protests-slogan.html)
-
-“Bismillah, c’est les ténèbres” has appeared on signs at recent demonstrations. It doesn’t make much sense (it means, “In the name of God, it’s the darkness”) but is seen as shorthand for a generational divide.
-
-
-10. [M.I.T. Scientist Wins $6 Million in Sexual Harassment Defamation Suit](https://www.nytimes.com/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html)
+4. [M.I.T. Scientist Wins $6 Million in Sexual Harassment Defamation Suit](https://www.nytimes.com/2026/10/16/us/mit-scientist-sexual-harassment-defamation-lawsuit-david-sabatini.html)
 
 David Sabatini, once a prominent scientist at M.I.T., sued a former colleague who accused him of inappropriate behavior. A jury found in his favor.
+
+
+5. [In Six Decades of Public Life, I Never Thought I Would Write This Piece](https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html)
+
+Trump’s meddling would have dark consequences for our democracy and our prosperity.
+
+
+6. [Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds](https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html)
+
+Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.
+
+
+7. [What Makes Men in Groups Behave So Badly?](https://www.nytimes.com/2026/10/20/opinion/cornell-chi-phi-group-chat-bro-code.html)
+
+Why do men in groups behave this way?
+
+
+8. [She Walked the Victoria’s Secret Show. Six Weeks After Giving Birth.](https://www.nytimes.com/2026/10/19/style/barbara-palvin-victorias-secret-postpartum.html)
+
+Barbara Palvin’s return to the runway so soon after giving birth set off a debate online about motherhood in America.
+
+
+9. [A Billionaire Wanted a Trump Pardon. His Family Gave Alina Habba a $50 Million Deal.](https://www.nytimes.com/2026/10/20/us/politics/julio-herrera-pardon-alina-habba.html)
+
+Julio Herrera Velutini, a prominent Venezuelan, was seeking clemency. He got it not long after his daughter gave Ms. Habba, a lawyer close to President Trump, an extraordinarily lucrative job.
+
+
+10. [Attack Ad Featuring Candidate’s Mother Turns Ohio Governor’s Race Even Uglier](https://www.nytimes.com/2026/10/20/us/politics/ramaswamy-campaign-ad-acton-estranged-mother-donna-arthur.html)
+
+A Republican ad features Amy Acton’s estranged mother calling her daughter a liar. The two have not spoken since Dr. Acton’s mother backed her husband after his arrest on rape charges.
 
 
