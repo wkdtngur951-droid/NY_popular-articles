@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-22 04:16:55)
+## 📰 NYTimes Most Popular (Updated: 2026-10-22 09:57:34)
 
-1. [Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds](https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html)
+1. [Trump Can No Longer Mask His Real Agenda](https://www.nytimes.com/2026/10/20/opinion/trump-campaign-promises-affordability.html)
 
-Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.
+The president has forgotten the “forgotten men and women of this country.”
 
 
 2. [The Proponents of ‘Dark Nutrition’ Think Everything You Know About Food Is Wrong](https://www.nytimes.com/2026/10/21/magazine/dark-nutrition-raw-meat-diet.html)
@@ -10,43 +10,43 @@ Likely voters favored Democratic candidates over Republicans by 11 percentage po
 More Americans are rejecting everything they’ve been taught about food.
 
 
-3. [Calling Putin a ‘Humanitarian,’ Witkoff Thanks Him for Releasing an American](https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html)
+3. [‘Back at Square One’: Christina Applegate Says Her M.S. Was Misdiagnosed](https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html)
+
+The actress, who was given a diagnosis of multiple sclerosis in 2021, was told by a doctor that she doesn’t have it after all.
+
+
+4. [Democrats Have a Wide Lead in Our New Poll as Trump Slides](https://www.nytimes.com/2026/10/21/upshot/times-siena-poll-trump-midterms.html)
+
+The map favors Republicans, but cracks in their base are leaving them vulnerable in defending House and Senate control.
+
+
+5. [Trump Approval Hits New Low Two Weeks Before Midterms, Poll Finds](https://www.nytimes.com/2026/10/21/us/politics/trump-midterm-election-poll.html)
+
+Likely voters favored Democratic candidates over Republicans by 11 percentage points in their congressional district, a New York Times/Siena poll found.
+
+
+6. [Calling Putin a ‘Humanitarian,’ Witkoff Thanks Him for Releasing an American](https://www.nytimes.com/2026/10/21/us/politics/russia-american-prisoner-release-stephen-hubbard-trump.html)
 
 The move buys good will with President Trump while costing the President Vladimir V. Putin — who is wanted for war crimes — little.
 
 
-4. [Meta Ordered to Pay $25 Billion for Deceiving Users on Privacy](https://www.nytimes.com/2026/10/21/technology/meta-penalty-new-mexico.html)
+7. [In Trump’s World of International Diplomacy, Insults Are a One-Way Street](https://www.nytimes.com/2026/10/21/us/politics/trumps-diplomacy-insults.html)
 
-The penalty, one of the largest levied against a tech giant, stemmed from a lawsuit by New Mexico claiming the social media company had misled users about their data privacy.
-
-
-5. [Everything Feels So Expensive. Here’s What’s Really Going On.](https://www.nytimes.com/2026/10/21/opinion/affordability-crisis-prices-economics.html)
-
-Whatever you call it, we can all agree this doesn’t feel good.
+The latest rift with President Volodymyr Zelensky of Ukraine serves as a reminder that President Trump readily lashes out at other world leaders, only to grow outraged if they fight back.
 
 
-6. [Supreme Court Blocks Trump From Denying Gender-Transition Care to Federal Prisoners](https://www.nytimes.com/2026/10/21/us/politics/supreme-court-trump-transgender-prisoners.html)
+8. [Trump Pushes to Evict the Press From the White House](https://www.nytimes.com/2026/10/20/us/politics/trump-white-house-media.html)
 
-The justices, for now, agreed to continue preventing the Bureau of Prisons from implementing a policy that would prohibit gender-transition medical treatments.
-
-
-7. [The Hunting of Ilhan Omar](https://www.nytimes.com/2026/10/21/opinion/trump-ilhan-omar-emma-goldman.html)
-
-The president is preoccupied with summoning the image of a consolidated authoritarian state.
+President Trump has talked about replacing the James S. Brady Press Briefing Room with an indoor swimming pool.
 
 
-8. [Something Astonishing Is Happening in My Country. The World Should Take Note.](https://www.nytimes.com/2026/10/21/opinion/serbia-elections-students-vucic.html)
+9. [How Venezuela’s Public Housing Towers Were Built to Fail](https://www.nytimes.com/interactive/2026/10/20/world/americas/venezuela-public-housing-flawed-construction-earthquakes.html)
 
-Serbia’s students are coming for Aleksandar Vucic.
-
-
-9. [In Six Decades of Public Life, I Never Thought I Would Write This Piece](https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html)
-
-Trump’s meddling would have dark consequences for our democracy and our prosperity.
+Venezuela’s government wanted housing built for its supporters — and fast. The design and construction flaws that followed proved deadly when earthquakes hit, a Times investigation found.
 
 
-10. [‘Back at Square One’: Christina Applegate Says Her M.S. Was Misdiagnosed](https://www.nytimes.com/2026/10/20/well/christina-applegate-misdiagnosis-ms.html)
+10. [When Idaho Banned Abortion, OB-GYNs Fled. The Doctors Who Stayed Are Cracking.](https://www.nytimes.com/2026/10/20/magazine/idaho-abortion-ban-ob-gyns.html)
 
-The actress, who was given a diagnosis of multiple sclerosis in 2021, was told by a doctor that she doesn’t have it after all.
+From childbirth to miscarriages, women’s health care in the state has become increasingly dangerous.
 
 
