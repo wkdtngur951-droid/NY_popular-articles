@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-23 09:52:08)
+## 📰 NYTimes Most Popular (Updated: 2026-10-23 14:50:25)
 
-1. [Covert Russian Group Injects Baseless Claim Into the Texas Senate Race](https://www.nytimes.com/2026/10/22/us/texas-senate-race-russia-influence.html)
+1. [Why More Than Half of These 13 Iowa Voters Are Considering Splitting Their Vote](https://www.nytimes.com/interactive/2026/10/22/opinion/focus-group-iowa-voters-midterms.html)
 
-Russian influence operations appear to be stepping up efforts to meddle in the midterms, according to intelligence officials. Most are targeting Democrats.
-
-
-2. [Putin Nears a Prize: Restoring Ties With the U.S. While Giving Up Nothing](https://www.nytimes.com/2026/10/22/world/europe/putin-trump-ukraine-war.html)
-
-Russia has sought to separate the war in Ukraine from potential business deals and diplomacy with the United States. Its efforts now appear to be working.
+The group discusses the economy, the president and the candidates for senator and governor.
 
 
-3. [This Poem Will Hit You Where You Live](https://www.nytimes.com/interactive/2026/10/21/books/emily-dickinson-poem-i-dwell-in-possibility.html)
-
-Emily Dickinson makes 50 words contain endless possibilities.
-
-
-4. [He’d Be the First Openly Gay Man in the Senate. He Rarely Brings It Up.](https://www.nytimes.com/2026/10/22/us/politics/chris-pappas-new-hampshire-senate.html)
-
-Chris Pappas, the Democratic nominee in New Hampshire, would make history if he won. On the campaign trail, he doesn’t dwell on it.
-
-
-5. [Justice Dept. Opens Inquiry Into Corey Lewandowski](https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html)
+2. [Justice Dept. Opens Inquiry Into Corey Lewandowski](https://www.nytimes.com/2026/10/22/us/politics/corey-lewandowski-justice-dept-inquiry.html)
 
 The details of the inquiry remain unclear, but it is one of the rare instances in which a Trump ally or appointee has been investigated for potential wrongdoing during the president’s second term.
 
 
-6. [MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways](https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html)
+3. [U.S. and Israel Draw Up Plans for Renewed Strikes on Iran After Elections](https://www.nytimes.com/2026/10/21/us/politics/us-israel-renewed-iran-strikes.html)
+
+Renewed hostilities might not be any more successful than the war’s first phase, and President Trump has repeatedly canceled plans for a return to major combat.
+
+
+4. [When a Candidate Is Wealthy, and Many of the Voters Are Not](https://www.nytimes.com/2026/10/22/us/politics/pete-ricketts-billionaire-nebraska-senate-race.html)
+
+In a year when the wealth of the rich soared while workers lost ground to inflation, class has become political, especially in the Nebraska Senate race.
+
+
+5. [Airbnb Says Guests Shouldn’t Have to Do the Dishes Anymore](https://www.nytimes.com/2026/10/22/travel/airbnb-host-rules-cleaning-chores.html)
+
+The company will limit the chores hosts can require of guests, responding to complaints from travelers who said they shouldn’t have to do housekeeping while paying cleaning fees.
+
+
+6. [Tom Skerritt Has Died. He Was Viper in ‘Top Gun’ and the Captain in ‘Alien.’](https://www.nytimes.com/2026/10/22/arts/television/tom-skerritt-dead.html)
+
+His rugged good looks, commanding presence and versatility led to key roles in “M*A*S*H” and “Steel Magnolias,” and he won an Emmy on “Picket Fences.”
+
+
+7. [Key Trump Health Adviser Resigns Ahead of Midterm Elections](https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html)
+
+Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.
+
+
+8. [Clashes Darken Rally in South Carolina as Trump Seeks to Boost Darline Graham](https://www.nytimes.com/2026/10/21/us/politics/trump-rally-south-carolina-darline-graham.html)
+
+Mr. Trump is barnstorming across conservative America this week to shore up support for Republican candidates in unexpectedly competitive races.
+
+
+9. [MAGA Bingo and Questions of Loyalty: 5 Michigan Senate Debate Takeaways](https://www.nytimes.com/2026/10/21/us/politics/michigan-senate-debate-takeaways-el-sayed-rogers.html)
 
 Abdul El-Sayed accused Mike Rogers of being overly devoted to President Trump. Mr. Rogers accused Dr. El-Sayed of not enough loyalty to the country. It was still more cordial than their last debate.
 
 
-7. [In Six Decades of Public Life, I Never Thought I Would Write This Piece](https://www.nytimes.com/2026/10/21/opinion/trump-midterms-election-threats-ice-economy.html)
+10. [Hegseth Is on a Rampage. Will It Matter in the Midterms?](https://www.nytimes.com/2026/10/22/opinion/nancy-lacore-pete-hegseth-south-carolina.html)
 
-Trump’s meddling would have dark consequences for our democracy and our prosperity.
-
-
-8. [The Real Trump Tower](https://www.nytimes.com/2026/10/22/opinion/trump-slotkin-corruption-impeachment.html)
-
-Trump’s grotesque rerun of the Gilded Age demands a rebuke.
-
-
-9. [Life Feeling Too Expensive? It’s Not Just You. And It’s Not Just Inflation.](https://www.nytimes.com/interactive/2026/10/21/us/inflation-prices-real-estate-child-care-affordabilty.html)
-
-Affordability is expected to be a major issue for younger voters in the midterms. Here’s a snapshot of some reasons people are feeling pinched.
-
-
-10. [Key Trump Health Adviser Resigns Ahead of Midterm Elections](https://www.nytimes.com/2026/10/22/us/politics/calley-means-resigns-rfk-trump.html)
-
-Calley Means, who helped unite Robert F. Kennedy Jr. and President Trump, pushed food reforms but grew frustrated with stalled progress on the MAHA agenda.
+A former three-star admiral fired by Pete Hegseth is making his competence a campaign issue.
 
 
