@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-25 15:55:24)
+## 📰 NYTimes Most Popular (Updated: 2026-10-25 18:51:01)
 
-1. [Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail](https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html)
+1. [Thomas L. Friedman: We Just Set Off the Second Big Bang](https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html)
+
+Humanity is entering its most dangerous era yet.
+
+
+2. [In Second Term, Trump’s Justice Dept. Submits to His Election Demands](https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html)
+
+With moves in Alaska and California, the department has stepped up interventions in the midterm elections as the president’s instrument of unmediated executive power.
+
+
+3. [Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail](https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html)
 
 The 44th president sharply criticized Mr. Trump, who hit back later in the day. Mr. Obama also assailed Vivek Ramaswamy, the Republican nominee for governor of Ohio.
-
-
-2. [The Eyes of Elizabeth Holmes](https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html)
-
-Look into that unblinking gaze and see the abyss.
-
-
-3. [A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War](https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html)
-
-With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.
 
 
 4. [She Planned to Protest Trump. She Didn’t Plan on Getting Punched.](https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html)
@@ -20,33 +20,33 @@ With new intelligence and the possibility of all sides seeking pretexts for acti
 Blake Miley yelled “fascist” as President Trump spoke at a midterm campaign rally. The violence that followed “was not right,” she said.
 
 
-5. [Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84](https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html)
+5. [Flashback: Your Weekly History Quiz, Oct. 24, 2026](https://www.nytimes.com/interactive/2026/10/23/upshot/flashback.html)
 
-A postman’s son from Kentucky, he worked hard to lose his accent but never forgot his Appalachian roots. “The best stories come from west of the Potomac,” he said.
-
-
-6. [‘I Have to Go In’: Dad Describes Killing Gunman in Oregon School Shooting](https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html)
-
-Kaylub Giamanco told Oregon Public Broadcasting that he happened to be driving by the Silver Rail Elementary School in Bend when he saw a gunman preparing to enter the school.
+Can you sort 8 historical events?
 
 
-7. [The News Quiz](https://www.nytimes.com/quiz/2026/10/23/briefing/weekly-news-quiz.html)
+6. [Far, Far Away](https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
-
-
-8. [None of This Is Normal](https://www.nytimes.com/2026/10/24/opinion/midterms-trump-america.html)
-
-The fundamental issue is Trump’s shredding of the model that made America the world’s leading country.
+Making a home on the world’s most remote inhabited island.
 
 
-9. [‘He’s Not the Same Baby’: Family of Child Found Alive in Morgue Recalls Ordeal](https://www.nytimes.com/2026/10/24/us/toddler-alive-morgue-parents-lawsuit-arizona.html)
-
-Vincent Fiordilino was 18 months old when he was found to be alive after having been declared dead at an Arizona hospital in February.
-
-
-10. [Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls](https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html)
+7. [Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls](https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html)
 
 Democrats are increasingly optimistic about the midterms. But they are being outspent by Republicans. And they are trying to compete in states that favored President Trump by large margins.
+
+
+8. [How the Most Ruthless Ad of the Midterms Divided Republicans](https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html)
+
+The fallout from Vivek Ramaswamy’s brutal spot targeting his Democratic rival in the Ohio governor’s race showed that even in the Trump era, a political attack can be seen as going too far.
+
+
+9. [In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges](https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html)
+
+Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.
+
+
+10. [On Trump’s Order, Justice Dept. Seeks to Block Alaska Vote if Republican Loses](https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html)
+
+The department, in a highly unusual lawsuit, argued that confusion over candidates with similar names could taint the election result.
 
 
