@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-25 00:57:24)
+## 📰 NYTimes Most Popular (Updated: 2026-10-25 05:55:24)
 
-1. [The Eyes of Elizabeth Holmes](https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html)
+1. [How the Most Ruthless Ad of the Midterms Divided Republicans](https://www.nytimes.com/2026/10/24/us/politics/vivek-ramaswamy-ad-ohio-amy-acton.html)
 
-Look into that unblinking gaze and see the abyss.
-
-
-2. [She Planned to Protest Trump. She Didn’t Plan on Getting Punched.](https://www.nytimes.com/2026/10/24/us/trump-protester-punched-youngstown-ohio.html)
-
-Blake Miley yelled “fascist” as President Trump spoke at a midterm campaign rally. The violence that followed “was not right,” she said.
+The fallout from Vivek Ramaswamy’s brutal spot targeting his Democratic rival in the Ohio governor’s race showed that even in the Trump era, a political attack can be seen as going too far.
 
 
-3. [‘I Have to Go In’: Dad Describes Killing Gunman in Oregon School Shooting](https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html)
+2. [In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges](https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html)
 
-Kaylub Giamanco told Oregon Public Broadcasting that he happened to be driving by the Silver Rail Elementary School in Bend when he saw a gunman preparing to enter the school.
+Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.
+
+
+3. [Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84](https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html)
+
+A postman’s son from Kentucky, he worked hard to lose his accent but never forgot his Appalachian roots. “The best stories come from west of the Potomac,” he said.
 
 
 4. [Flashback: Your Weekly History Quiz, Oct. 24, 2026](https://www.nytimes.com/interactive/2026/10/23/upshot/flashback.html)
@@ -20,33 +20,33 @@ Kaylub Giamanco told Oregon Public Broadcasting that he happened to be driving b
 Can you sort 8 historical events?
 
 
-5. [Noah Adams, Longtime Host of ‘All Things Considered,’ Has Died at 84](https://www.nytimes.com/2026/10/24/business/media/noah-adams-dead.html)
+5. [Your Sleep Habits May Point to a Specific Type of Depression, a New Study Finds](https://www.nytimes.com/2026/10/23/well/mind/circadian-depression-subtype.html)
 
-A postman’s son from Kentucky, he worked hard to lose his accent but never forgot his Appalachian roots. “The best stories come from west of the Potomac,” he said.
-
-
-6. [Trump’s ‘Smart Wall’ of A.I. Cameras Is Watching the Border, and More Than a Million People](https://www.nytimes.com/interactive/2026/10/22/us/politics/ai-surveillance-cameras-border-mexico.html)
-
-The administration is planning a massive expansion of the surveillance program. Here’s how much it can see.
+Researchers say people with ‘circadian depression’ might benefit from therapies that help adjust the body’s clock.
 
 
-7. [What Happens if Trump Doesn’t Like the Midterm Results?](https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html)
+6. [What Happens if Trump Doesn’t Like the Midterm Results?](https://www.nytimes.com/2026/10/24/opinion/trump-midterm-elections-results-predictions.html)
 
 Hope, dread and the final stretch to Election Day.
 
 
-8. [In Second Term, Trump’s Justice Dept. Submits to His Election Demands](https://www.nytimes.com/2026/10/24/us/politics/alaska-senate-election-trump-justice-department.html)
+7. [Obama Issues Searing Attacks on Trump, Ramaswamy in Return to Campaign Trail](https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html)
 
-With moves in Alaska and California, the department has stepped up interventions in the midterm elections as the president’s instrument of unmediated executive power.
+The 44th president sharply criticized Mr. Trump, who hit back later in the day. Mr. Obama also assailed Vivek Ramaswamy, the Republican nominee for governor of Ohio.
 
 
-9. [Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say](https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html)
+8. [‘He’s Not the Same Baby’: Family of Child Found Alive in Morgue Recalls Ordeal](https://www.nytimes.com/2026/10/24/us/toddler-alive-morgue-parents-lawsuit-arizona.html)
+
+Vincent Fiordilino was 18 months old when he was found to be alive after having been declared dead at an Arizona hospital in February.
+
+
+9. [How Trump Gave the Worst Polluters a Free Pass](https://www.nytimes.com/2026/10/24/climate/trump-epa-chemical-air-pollution.html)
+
+The president temporarily waived clean-air rules for industrial facilities that spew cancer-causing gases. Then his appointees worked to gut the regulations altogether.
+
+
+10. [Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say](https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html)
 
 The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.
-
-
-10. [On Trump’s Order, Justice Dept. Seeks to Block Alaska Vote if Republican Loses](https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html)
-
-The department, in a highly unusual lawsuit, argued that confusion over candidates with similar names could taint the election result.
 
 
