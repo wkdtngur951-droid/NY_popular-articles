@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-26 05:54:44)
+## 📰 NYTimes Most Popular (Updated: 2026-10-26 12:40:35)
 
-1. [Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.](https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html)
-
-They’re trying to build middle-class lives in New York. But many 30-year-olds in the city feel worse off than their parents. Is it average adult angst? Or something more enduring?
-
-
-2. [Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.](https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html)
-
-At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market.
-
-
-3. [Talarico’s Rivalry With Elon Musk Heats Up in Texas Senate Race](https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html)
-
-On the trail, James Talarico, the Democratic Senate nominee, has increasingly gone after Mr. Musk, a critic of his who has given big to a group aligned with the Republican candidate, Ken Paxton.
-
-
-4. [Thomas L. Friedman: We Just Set Off the Second Big Bang](https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html)
+1. [Thomas L. Friedman: We Just Set Off the Second Big Bang](https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html)
 
 Humanity is entering its most dangerous era yet.
 
 
-5. [He Helped Deport 200 People. Now He Has Misgivings.](https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html)
-
-A deputy in small-town Texas became the local face of ICE’s national crackdown.
-
-
-6. [How Americans Voted in 2024](https://www.nytimes.com/interactive/2024/elections/voter-trends-national.html)
-
-Explore the results of the election by race, gender, age and education.
-
-
-7. [The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars](https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html)
+2. [The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars](https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html)
 
 The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.
 
 
-8. [The Eyes of Elizabeth Holmes](https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html)
+3. [María Corina Machado, Venezuela’s Leading Opposition Figure, Returns Home](https://www.nytimes.com/2026/10/25/world/americas/machado-venezuela-return.html)
 
-Look into that unblinking gaze and see the abyss.
-
-
-9. [Elon Musk Says Ukraine Violated Starlink’s Rules](https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html)
-
-The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.
+After nearly 10 months in exile, Ms. Machado, a Nobel laureate, came back to challenge leaders who have sidelined her and press for new elections.
 
 
-10. [Serbia’s Longtime Strongman Concedes Defeat in Parliamentary Election](https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html)
+4. [Despicable Doesn’t Begin to Cover It](https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html)
+
+Trump’s culture of cruelty spreads.
+
+
+5. [Obama Issues Searing Attacks on Trump and Ramaswamy in Return to Campaign Trail](https://www.nytimes.com/2026/10/24/us/politics/obama-trump-midterms-campaign.html)
+
+The 44th president sharply criticized Mr. Trump, who hit back later in the day. Mr. Obama also assailed Vivek Ramaswamy, the Republican nominee for governor of Ohio.
+
+
+6. [Far, Far Away](https://www.nytimes.com/2026/10/25/world/africa/tristan-da-cunha-island.html)
+
+Making a home on the world’s most remote inhabited island.
+
+
+7. [Serbia’s Longtime Strongman Concedes Defeat in Parliamentary Election](https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html)
 
 “It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.
+
+
+8. [Flashback: Your Weekly History Quiz, Oct. 24, 2026](https://www.nytimes.com/interactive/2026/10/23/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+9. [Introducing a New Way to Understand the Election: Times Voter Trends](https://www.nytimes.com/2026/10/25/upshot/election-midterms-times-voter-trends.html)
+
+A timely demographic story on election night that we’ve never been able to tell before.
+
+
+10. [A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War](https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html)
+
+With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.
 
 
