@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-26 00:01:03)
+## 📰 NYTimes Most Popular (Updated: 2026-10-26 05:54:44)
 
-1. [The Eyes of Elizabeth Holmes](https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html)
+1. [Can’t Afford a Home. Can’t Afford a Baby. Can’t Afford Life. This Is 30.](https://www.nytimes.com/2026/10/25/nyregion/30-year-old-angst.html)
+
+They’re trying to build middle-class lives in New York. But many 30-year-olds in the city feel worse off than their parents. Is it average adult angst? Or something more enduring?
+
+
+2. [Public Colleges Are Passing the $50,000-a-Year Mark. For Locals.](https://www.nytimes.com/2026/10/25/business/california-colleges-costs.html)
+
+At the University of California campuses in Berkeley, Irvine and Santa Barbara, students get an unwitting education in navigating the housing market.
+
+
+3. [Talarico’s Rivalry With Elon Musk Heats Up in Texas Senate Race](https://www.nytimes.com/2026/10/25/us/politics/talarico-musk-texas-senate-paxton-midterms.html)
+
+On the trail, James Talarico, the Democratic Senate nominee, has increasingly gone after Mr. Musk, a critic of his who has given big to a group aligned with the Republican candidate, Ken Paxton.
+
+
+4. [Thomas L. Friedman: We Just Set Off the Second Big Bang](https://www.nytimes.com/2026/10/25/opinion/ai-second-big-bang.html)
+
+Humanity is entering its most dangerous era yet.
+
+
+5. [He Helped Deport 200 People. Now He Has Misgivings.](https://www.nytimes.com/2026/10/25/magazine/ice-deputy-texas-police.html)
+
+A deputy in small-town Texas became the local face of ICE’s national crackdown.
+
+
+6. [How Americans Voted in 2024](https://www.nytimes.com/interactive/2024/elections/voter-trends-national.html)
+
+Explore the results of the election by race, gender, age and education.
+
+
+7. [The Epstein Files Produce an Unlikely Weapon for the Houthi Messaging Wars](https://www.nytimes.com/2026/10/23/world/middleeast/houthis-saudi-arabia-propaganda-epstein.html)
+
+The Yemeni militia is using the culture of its sworn enemies in the renewed fighting with Saudi Arabia.
+
+
+8. [The Eyes of Elizabeth Holmes](https://www.nytimes.com/2026/10/24/opinion/elizabeth-holmes-you-can-see-everything.html)
 
 Look into that unblinking gaze and see the abyss.
 
 
-2. [‘He’s Not the Same Baby’: Family of Child Found Alive in Morgue Recalls Ordeal](https://www.nytimes.com/2026/10/24/us/toddler-alive-morgue-parents-lawsuit-arizona.html)
+9. [Elon Musk Says Ukraine Violated Starlink’s Rules](https://www.nytimes.com/2026/10/24/world/europe/ukraine-starshield-drone-speed.html)
 
-Vincent Fiordilino was 18 months old when he was found to be alive after having been declared dead at an Arizona hospital in February.
-
-
-3. [Despicable Doesn’t Begin to Cover It](https://www.nytimes.com/2026/10/25/opinion/midterm-ads-ramaswamy-acton-ohio.html)
-
-Trump’s culture of cruelty spreads.
+The comments came after the disruption in the country’s satellite service. Earlier, Ukraine said drones using Starshield, the Pentagon-funded service, were back to normal speeds.
 
 
-4. [In U.S. Gas Talks With Kremlin, Hidden Financing for Alaska Project Emerges](https://www.nytimes.com/2026/10/23/us/politics/in-us-gas-talks-with-kremlin-hidden-financing-for-alaska-project-emerges.html)
+10. [Serbia’s Longtime Strongman Concedes Defeat in Parliamentary Election](https://www.nytimes.com/2026/10/25/world/europe/serbia-vucic-election-defeat.html)
 
-Interviews and documents show a Russian energy giant secretly funded a U.S. firm. The deal has been discussed in talks to end the war in Ukraine.
-
-
-5. [On Trump’s Order, Justice Dept. Seeks to Block Alaska Vote if Republican Loses](https://www.nytimes.com/2026/10/23/us/politics/justice-dept-alaska-senate-race-sullivan.html)
-
-The department, in a highly unusual lawsuit, argued that confusion over candidates with similar names could taint the election result.
-
-
-6. [‘I Have to Go In’: Dad Describes Killing Gunman in Oregon School Shooting](https://www.nytimes.com/2026/10/23/us/oregon-shooting-gunman-kaylub-giamanco.html)
-
-Kaylub Giamanco told Oregon Public Broadcasting that he happened to be driving by the Silver Rail Elementary School in Bend when he saw a gunman preparing to enter the school.
-
-
-7. [Why Democrats Could Find It Hard to Win the Senate Despite Their Strong Polls](https://www.nytimes.com/2026/10/24/us/politics/democrats-expectations-blue-wave.html)
-
-Democrats are increasingly optimistic about the midterms. But they are being outspent by Republicans. And they are trying to compete in states that favored President Trump by large margins.
-
-
-8. [Iran in ‘Advanced Stages’ of Planning Attacks Against Americans, Officials Say](https://www.nytimes.com/2026/10/23/us/politics/security-warnings-iran-threats.html)
-
-The U.S. government has ordered diplomats and other federal employees to leave Saudi Arabia. It is also drawing down staff at other missions in the region.
-
-
-9. [A New Level of Threat and Fear Risks Pushing the U.S. and Iran Back to Full War](https://www.nytimes.com/2026/10/24/us/politics/trump-netanyahu-iran-new-phase-of-war.html)
-
-With new intelligence and the possibility of all sides seeking pretexts for action, the war in Iran is entering a dangerous phase ahead of elections in the United States and Israel.
-
-
-10. [Flashback: Your Weekly History Quiz, Oct. 24, 2026](https://www.nytimes.com/interactive/2026/10/23/upshot/flashback.html)
-
-Can you sort 8 historical events?
+“It is clear that we have lost these elections,” Aleksandar Vucic said in a surprisingly early speech congratulating his opponents.
 
 
