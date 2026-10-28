@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-28 01:04:37)
+## 📰 NYTimes Most Popular (Updated: 2026-10-28 08:10:33)
 
-1. [The Midterms Are Next Week. Here’s Who We Think Will Win.](https://www.nytimes.com/interactive/2026/10/26/opinion/midterms-pollsters-pundits-scorecard-october.html)
+1. [A Trump Die-Hard Is Suddenly at Risk in an Upstate G.O.P. District](https://www.nytimes.com/2026/10/27/nyregion/constantino-gendebien-stefanik-ny21.html)
 
-It’s crunch time and still looking bullish for Democrats.
+Blake Gendebien, a Democratic dairy farmer, is trying to flip a House seat in upstate New York. His opponent’s loyalty to President Trump may be helping.
 
 
 2. [Flávio Bolsonaro Flees Brazil for the U.S. After Election Defeat](https://www.nytimes.com/2026/10/27/world/americas/brazil-flavio-bolsonaro-flees-election.html)
@@ -10,39 +10,39 @@ It’s crunch time and still looking bullish for Democrats.
 The U.S. plans to issue a visa to Mr. Bolsonaro, a U.S. official said. Brazilian police had asked him to hand over his passports because of his links to an investigation.
 
 
-3. [Trump Has Failed. Hold Him to Account.](https://www.nytimes.com/2026/10/27/opinion/editorials/inflation-war-corruption-trump-editorial.html)
+3. [The New Worst-Case Scenario for Election Officials: Federal Interference](https://www.nytimes.com/2026/10/27/us/election-interference-trump-midterms.html)
 
-The American people have a chance to allow the nation to glimpse the end of the Trump era and the start of something brighter.
-
-
-4. [‘He’s Not the Same Baby’: Family of Child Found Alive in Morgue Recalls Ordeal](https://www.nytimes.com/2026/10/24/us/toddler-alive-morgue-parents-lawsuit-arizona.html)
-
-Vincent Fiordilino was 18 months old when he was found to be alive after having been declared dead at an Arizona hospital in February.
+State and local plans for Election Day include how to react to potential ICE raids, misbehavior by federal election monitors and attempts to seize votes or machines.
 
 
-5. [Norway Pushes Back After Trump Disparages It Over Nobel Prize Decision](https://www.nytimes.com/2026/10/26/world/europe/trump-norway-nobel-prize.html)
+4. [What to Expect Now That Polls Are Closed in Israel](https://www.nytimes.com/2026/10/27/world/middleeast/israel-election-exit-polls-close.html)
 
-Norwegian officials emphasized that their government does not have any influence over who receives the Peace Prize, after President Trump used crude language to express his frustration.
-
-
-6. [A Trump Die-Hard Is Suddenly at Risk in an Upstate G.O.P. District](https://www.nytimes.com/2026/10/27/nyregion/constantino-gendebien-stefanik-ny21.html)
-
-Blake Gendebien, a Democratic dairy farmer, is trying to flip a House seat in upstate New York. His opponent’s loyalty to President Trump may be helping.
+Polls have closed across the country. Exit polls may offer clues about the direction of the voting but not necessarily a clear winner.
 
 
-7. [Jimmy Kimmel Proposes a Battle of Wits Between Trump and Obama](https://www.nytimes.com/2026/10/27/arts/television/jimmy-kimmel-trump-obama-roast.html)
+5. [She Trusted ChatGPT With Her Medication Decisions. It Cost Her Everything.](https://www.nytimes.com/2026/10/27/well/ai-chatgpt-medication-epilepsy-death.html)
 
-“There is only one way to settle this: roast battle on the White House lawn, live,” Kimmel offered, after former President Barack Obama mocked President Trump.
-
-
-8. [A Damning Account Alleges Jared Kushner Conducted Diplomacy for Profit](https://www.nytimes.com/2026/10/26/books/review/princes-and-thieves-matthew-cole.html)
-
-The new book by the reporter Matthew Cole connects $2 billion in slush funds from Gulf state leaders to Trump’s son-in-law in an effort to influence U.S. policy.
+The chatbot helped a woman taper off a lifesaving drug and hide the plan from her doctors.
 
 
-9. [Grand Jury Declines to Bring Charges Against Cassidy Hutchinson](https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html)
+6. [Grand Jury Declines to Bring Charges Against Cassidy Hutchinson](https://www.nytimes.com/2026/10/27/us/politics/cassidy-hutchinson-indicted-trump-testimony.html)
 
 The rejection of the indictment was the latest extraordinary setback in President Trump’s wide-ranging campaign to go after his political opponents.
+
+
+7. [Alexander Brothers Sentenced to 30 Years Each in Prison](https://www.nytimes.com/2026/10/27/nyregion/alexander-brothers-sentencing-sex-trafficking.html)
+
+The three siblings used their wealth and influence to lure and sexually assault women for more than a decade. Eleven of the victims spoke on Tuesday before the brothers were sentenced.
+
+
+8. [The U.S. Called It Putin’s ‘Slush Fund.’ Now Trump May Drop Sanctions on It.](https://www.nytimes.com/2026/10/27/us/politics/russia-fund-sanctions-trump.html)
+
+The move would be the latest U.S. concession to Moscow as President Trump pursues economic incentives he hopes will secure an end to war in Ukraine.
+
+
+9. [Bob Woodward Thought Jeff Bezos Had His Back. Now He Feels Disillusioned.](https://www.nytimes.com/2026/10/26/us/politics/bob-woodward-memoir-jeff-bezos.html)
+
+Six takeaways from a new memoir by Mr. Woodward, the star Washington Post reporter, including his disappointment with the newspaper’s billionaire owner.
 
 
 10. [Bill Bradley: My Fear for the Midterms](https://www.nytimes.com/2026/10/27/opinion/election-interference-trump-midterms.html)
