@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-30 23:33:10)
+## 📰 NYTimes Most Popular (Updated: 2026-10-31 05:04:56)
 
-1. [Patrick Stewart, Master of Shakespeare, ‘Star Trek’ and More, Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+1. [The Best Cities to Retire in 2026](https://www.nytimes.com/2026/10/29/realestate/the-best-cities-to-retire-in-2026.html)
+
+A study compared data across 45 metrics to find the best cities for senior living.
+
+
+2. [How Much Do You Know About Sugar?](https://www.nytimes.com/interactive/2026/10/29/well/sugar-health-quiz-halloween-candy.html)
+
+This quiz is our treat.
+
+
+3. [Obamacare Dealt Yet Another Blow as Premiums Jump Again](https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html)
+
+Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.
+
+
+4. [Patrick Stewart, Master of Shakespeare, ‘Star Trek’ and More, Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
 
 The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”
 
 
-2. [Trump Erupted After Learning of Alina Habba’s $50 Million Deal](https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html)
+5. [Why Are We Having Less Sex? Ask a Pornographer.](https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html)
+
+Erika Lust wants to excite you.
+
+
+6. [Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase](https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html)
+
+The agent is facing charges of aggravated assault with a deadly weapon. The immigrant who was struck is recovering from severe leg injuries.
+
+
+7. [Former Patient Files Class-Action Lawsuit Against Senator Marshall](https://www.nytimes.com/2026/10/30/us/elections/senator-marshall-patient-lawsuit.html)
+
+The Republican sued more than 700 patients during his former career as a physician. The suit accuses him of charging illegally high interest rates.
+
+
+8. [Trump Erupted After Learning of Alina Habba’s $50 Million Deal](https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html)
 
 Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library.
 
 
-3. [Alaska Governor Orders Criminal Investigation Into Peltola Campaign](https://www.nytimes.com/2026/10/28/us/politics/trump-peltola-sullivan-alaska-senate.html)
-
-President Trump had lashed out at Mary Peltola after The New York Times reported that her campaign and national Democrats helped recruit spoiler candidates to the race. He offered no explanation of what crime may have been committed.
-
-
-4. [‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution](https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html)
+9. [‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution](https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html)
 
 Christa Pike, who was convicted of a 1995 murder, released her first statement since the failed attempt to execute her last month.
 
 
-5. [Trump and His Aides Helped Bolsonaro Flee Brazil for the U.S.](https://www.nytimes.com/2026/10/29/world/americas/flavio-bolsonaro-trump-brazil-us.html)
+10. [The Open Secret Buried in Anthropic’s 300-Page I.P.O. Filing](https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html)
 
-President Trump ensured Flávio Bolsonaro, who lost a presidential election in Brazil and faces multiple criminal investigations there, could enter the United States, U.S. officials said.
-
-
-6. [Oberlin College Professor and His Wife Are Murdered by His Son, Police Say](https://www.nytimes.com/2026/10/29/us/oberlin-college-professor-murdered.html)
-
-Pipo Nguyen-duy, 64, was the studio art chairman at the liberal arts college in Ohio and had been honored for his photography, including being named a Guggenheim fellow.
-
-
-7. [An Unpredictable President, a Grim White House: Trump Faces Down the Midterms](https://www.nytimes.com/2026/10/28/us/politics/trump-midterms-white-house-mood.html)
-
-The White House has been rocked by turnover and anxiety over the midterms. The president, who is tightening his inner circle, has lashed out at critics, held meandering rallies and feasted on a diet of news clips and “A.I. slop,” as one aide put it.
-
-
-8. [Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion](https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html)
-
-The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”
-
-
-9. [Is This the Final Unraveling?](https://www.nytimes.com/2026/10/29/opinion/midterms-trump-democrats-republicans.html)
-
-What are the key differences between now and two years ago? Between now and 2016?
-
-
-10. [An ‘Endless Cruise’ Goes Broke, Stranding Passengers](https://www.nytimes.com/2026/10/28/travel/endless-cruise-suspended-villa-vie-passengers.html)
-
-The cruise promised a lifetime of sailing, for less than what it cost to live on land. But it was underfunded and couldn’t absorb the rising cost of fuel.
+Anthropic’s I.P.O. is about more than just one company raising boatloads of cash.
 
 
