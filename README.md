@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-10-31 05:04:56)
+## 📰 NYTimes Most Popular (Updated: 2026-10-31 12:01:20)
 
-1. [The Best Cities to Retire in 2026](https://www.nytimes.com/2026/10/29/realestate/the-best-cities-to-retire-in-2026.html)
+1. [Melania Trump’s Halloween Coat Was Its Own Kind of Costume](https://www.nytimes.com/2026/10/30/style/melania-trump-halloween-coat-white-house.html)
 
-A study compared data across 45 metrics to find the best cities for senior living.
-
-
-2. [How Much Do You Know About Sugar?](https://www.nytimes.com/interactive/2026/10/29/well/sugar-health-quiz-halloween-candy.html)
-
-This quiz is our treat.
+The first lady continues to let her coats do the talking.
 
 
-3. [Obamacare Dealt Yet Another Blow as Premiums Jump Again](https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html)
-
-Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.
-
-
-4. [Patrick Stewart, Master of Shakespeare, ‘Star Trek’ and More, Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
-
-The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”
-
-
-5. [Why Are We Having Less Sex? Ask a Pornographer.](https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html)
+2. [Why Are We Having Less Sex? Ask a Pornographer.](https://www.nytimes.com/2026/10/29/opinion/interesting-times-podcast-julia-yost-erika-lust.html)
 
 Erika Lust wants to excite you.
 
 
-6. [Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase](https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html)
-
-The agent is facing charges of aggravated assault with a deadly weapon. The immigrant who was struck is recovering from severe leg injuries.
-
-
-7. [Former Patient Files Class-Action Lawsuit Against Senator Marshall](https://www.nytimes.com/2026/10/30/us/elections/senator-marshall-patient-lawsuit.html)
+3. [Former Patient Files Class-Action Lawsuit Against Senator Marshall](https://www.nytimes.com/2026/10/30/us/elections/senator-marshall-patient-lawsuit.html)
 
 The Republican sued more than 700 patients during his former career as a physician. The suit accuses him of charging illegally high interest rates.
 
 
-8. [Trump Erupted After Learning of Alina Habba’s $50 Million Deal](https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html)
+4. [Houston Grand Jury Indicts ICE Agent on Charges of Ramming Man in Chase](https://www.nytimes.com/2026/10/30/us/houston-ice-agent-charged-ramming.html)
 
-Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library.
-
-
-9. [‘My Body Hurts’: Pike Describes Pain and Isolation After Botched Execution](https://www.nytimes.com/2026/10/30/us/christa-pike-botched-execution-statement.html)
-
-Christa Pike, who was convicted of a 1995 murder, released her first statement since the failed attempt to execute her last month.
+The agent is facing charges of aggravated assault with a deadly weapon. The immigrant who was struck is recovering from severe leg injuries.
 
 
-10. [The Open Secret Buried in Anthropic’s 300-Page I.P.O. Filing](https://www.nytimes.com/2026/10/30/opinion/anthropic-ipo-ai.html)
+5. [Binance Suspends Withdrawals After Crypto Hackers Steal $6.3 Billion](https://www.nytimes.com/2026/10/29/technology/binance-hack-crypto.html)
 
-Anthropic’s I.P.O. is about more than just one company raising boatloads of cash.
+The crypto exchange said it was compromised in what could be the biggest crypto heist ever. One research lab attributed the theft to “North Korea’s elite hacking unit.”
+
+
+6. [I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html)
+
+I’m in ‘You Can See Everything.’ Here’s my side of the story.
+
+
+7. [Patrick Stewart, Master of Shakespeare, ‘Star Trek’ and More, Has Died](https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html)
+
+The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”
+
+
+8. [Is This the End for Trump’s Princelings? Or Just the Start?](https://www.nytimes.com/2026/10/30/opinion/trump-america-capitalism-rich-politics.html)
+
+American capitalism may never be the same again.
+
+
+9. [The Christian Influencer at the Center of Ken Paxton’s New Life](https://www.nytimes.com/2026/10/27/us/ken-paxton-divorce-tracy-duhon.html)
+
+The Texas attorney general has been silent about his relationship with Tracy Duhon, a New Orleans woman who has built a personal brand around faith and redemption.
+
+
+10. [Final Vote Results in Israel Set Up Weeks of Uncertainty About Who Will Govern](https://www.nytimes.com/2026/10/29/world/middleeast/israel-election-results-netanyahu-eisenkot.html)
+
+Prime Minister Benjamin Netanyahu’s party and its allies won 53 seats in Parliament, falling short of the outright majority needed to form a government. The main opposition bloc, led by Gadi Eisenkot, won 48.
 
 
