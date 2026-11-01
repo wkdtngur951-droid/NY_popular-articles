@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-01 00:52:08)
+## 📰 NYTimes Most Popular (Updated: 2026-11-01 07:16:43)
 
-1. [Obamacare Dealt Yet Another Blow as Premiums Jump Again](https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html)
-
-Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.
-
-
-2. [Shooting at Spirit Halloween in California Leaves at Least One Dead](https://www.nytimes.com/2026/10/31/us/shooting-spirit-halloween-california.html)
-
-The police are searching for a person who shot 7 people, killing a 31-year-old pregnant mother of 4, on the night before Halloween. Families were in the store shopping for last-minute costumes.
-
-
-3. [Alina Habba’s Husband Ignited a White House Drama. Now His Background Is Under Scrutiny.](https://www.nytimes.com/2026/10/30/us/politics/alina-habba-turhan-mildon-trump-congo-venezuela.html)
-
-Turhan Mildon, who married Alina Habba this summer, presents himself as a 29-year-old billionaire with ties to global leaders. His story has inconsistencies.
-
-
-4. [The New York Times News Quiz, October 30, 2026](https://www.nytimes.com/quiz/2026/10/30/briefing/weekly-news-quiz.html)
+1. [The New York Times News Quiz, October 30, 2026](https://www.nytimes.com/quiz/2026/10/30/briefing/weekly-news-quiz.html)
 
 Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
 
 
-5. [Flashback: Your Weekly History Quiz, Oct. 31, 2026](https://www.nytimes.com/interactive/2026/10/30/upshot/flashback.html)
+2. [She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.](https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html)
 
-Can you sort 8 historical events?
+A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.
 
 
-6. [The Best Cities to Retire in 2026](https://www.nytimes.com/2026/10/29/realestate/the-best-cities-to-retire-in-2026.html)
+3. [Led by Trump, Republicans Close Midterms With Ugly Personal Attacks](https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html)
+
+Facing backlash over inflation and anger with the president, Republicans have turned to an onslaught of baseless claims about Democratic candidates.
+
+
+4. [Trump Erupted After Learning of Alina Habba’s $50 Million Deal](https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html)
+
+Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library.
+
+
+5. [The Best Cities to Retire in 2026](https://www.nytimes.com/2026/10/29/realestate/the-best-cities-to-retire-in-2026.html)
 
 A study compared data across 45 metrics to find the best cities for senior living.
 
 
-7. [After 28 Years Walking Across the Globe, He’s Almost Home](https://www.nytimes.com/2026/10/29/world/europe/karl-bushby-walking-globe-uk.html)
+6. [Voters Usually Ignore Corruption as an Issue. It Now Has Their Attention.](https://www.nytimes.com/2026/10/31/us/politics/corruption-midterms.html)
 
-Karl Bushby has walked 31,000 miles, crossing some of the world’s harshest landscapes. He plans to reach his mother’s house in England next week.
-
-
-8. [Oldest Recording of Louisiana’s Vanishing Creole Language Is Published](https://www.nytimes.com/2026/10/30/us/louisiana-creole-recording-lorenzo-dow-turner.html)
-
-The rediscovery of a forgotten recording from 1935 sheds light on a language rooted in the state’s history of slavery and French colonialism.
+Voters have shrugged off accusations of corruption for years, believing all politicians are corrupt, but thanks to President Trump’s unpopularity and growing wealth, the issue is breaking through.
 
 
-9. [Melania Trump’s Halloween Coat Was Its Own Kind of Costume](https://www.nytimes.com/2026/10/30/style/melania-trump-halloween-coat-white-house.html)
+7. [How Binance’s $6.3 Billion Hack Went Down](https://www.nytimes.com/2026/10/31/technology/binance-hack-crypto-north-korea.html)
 
-The first lady continues to let her coats do the talking.
+A war room. A global conference call. A founder who live-posted about the largest crypto heist in history. Inside a frantic 24 hours at the world’s biggest crypto exchange.
 
 
-10. [She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.](https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html)
+8. [Obamacare Dealt Yet Another Blow as Premiums Jump Again](https://www.nytimes.com/2026/10/30/business/obamacare-health-insurance-rates.html)
 
-A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.
+Premiums will increase an average 13 percent next year for millions of Americans, on top of an earlier steep increase. It adds to the problems facing the program, which the Trump administration has weakened.
+
+
+9. [I’m in ‘You Can See Everything.’ Here’s My Side of the Story.](https://www.nytimes.com/2026/10/30/opinion/you-can-see-everything-elizabeth-holmes-nathan-fielder.html)
+
+I’m in ‘You Can See Everything.’ Here’s my side of the story.
+
+
+10. [El-Sayed Clashes With Former Primary Rival Who Demanded His Apology](https://www.nytimes.com/2026/10/30/us/politics/el-sayed-stevens-michigan-senate-event.html)
+
+Dr. Abdul El-Sayed and Representative Haley Stevens traded sharply critical comments Friday, escalating intraparty tensions in Michigan’s pivotal Senate race.
 
 
