@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-01 23:27:06)
+## 📰 NYTimes Most Popular (Updated: 2026-11-02 05:33:11)
 
-1. [He Was a Rising Star at West Point. Then He Got His Girlfriend Pregnant.](https://www.nytimes.com/2026/10/31/nyregion/caleb-suh-west-point-abortion-columbia.html)
+1. [Did the Peltola Campaign Seal the Fate of Alaska’s Ranked Choice Vote?](https://www.nytimes.com/2026/11/01/us/alaska-ranked-choice-voting-peltola.html)
 
-Caleb Suh, a former West Point cadet and current Columbia student, pleaded guilty in June to forcing an abortion on another cadet in 2022. His ex-girlfriend is now suing him for assault and battery.
-
-
-2. [Ocasio-Cortez Has Evolved. She Wants the Left to Evolve, Too.](https://www.nytimes.com/2026/11/01/us/politics/ocasio-cortez-dsa.html)
-
-The New York congresswoman, once a bane of establishment Democrats, has tried to nudge her movement in a bigger-tent direction as she weighs her 2028 options.
+Beyond hotly contested Senate and governor’s races, Alaskans will decide Tuesday whether to scrap the state’s unique ballot. The campaign of Mary Peltola may have bolstered critics of the system.
 
 
-3. [Why Haley Stevens Can’t Stop Talking About Abdul El-Sayed](https://www.nytimes.com/2026/10/31/us/haley-stevens-abdul-el-sayed.html)
+2. [El-Sayed Doesn’t Want Haley Stevens to Join Him at Sunday Event](https://www.nytimes.com/2026/10/31/us/elections/el-sayed-haley-stevens-democrats-tension.html)
 
-In a frank interview, she described her disappointment and also said she was considering converting to Judaism. Her fiancé had thoughts, too.
-
-
-4. [‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago](https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html)
-
-President Trump attended his jungle-themed Halloween party at Mar-a-Lago dressed as a distinctly recognizable figure.
+Tensions have flared between Dr. Abdul El-Sayed, the Democratic Senate nominee in Michigan, and his former primary rival. “I don’t want any distractions,” Dr. El-Sayed said Saturday.
 
 
-5. [The Best Cities to Retire in 2026](https://www.nytimes.com/2026/10/29/realestate/the-best-cities-to-retire-in-2026.html)
+3. [He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.](https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html)
 
-A study compared data across 45 metrics to find the best cities for senior living.
-
-
-6. [Trump Erupted After Learning of Alina Habba’s $50 Million Deal](https://www.nytimes.com/2026/10/29/us/politics/trump-alina-habba-mildon-deal.html)
-
-Angry about the scale of a contract signed by one of his former lawyers with the family of a wealthy pardon seeker, the president told allies he wanted some of the money to go to his future presidential library.
+Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.
 
 
-7. [Led by Trump, Republicans Close Midterms With Ugly Personal Attacks](https://www.nytimes.com/2026/10/31/us/politics/trump-republicans-personal-attacks-midterms.html)
+4. [Trump Has Found the Attorney General of His Dreams](https://www.nytimes.com/2026/11/01/opinion/trump-blanche-comey-justice.html)
 
-Facing backlash over inflation and anger with the president, Republicans have turned to an onslaught of baseless claims about Democratic candidates.
-
-
-8. [Is This the End for Trump’s Princelings? Or Just the Start?](https://www.nytimes.com/2026/10/30/opinion/trump-america-capitalism-rich-politics.html)
-
-American capitalism may never be the same again.
+The Department of Justice is in a state of moral collapse.
 
 
-9. [She Was Arrested After Leaving Her Kids for Days. It Sparked a Debate.](https://www.nytimes.com/2026/10/28/us/florida-mother-las-vegas.html)
+5. [Margaritas Rimmed With Degreaser Burn 5 People at a North Carolina Chili’s](https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html)
 
-A Florida sheriff’s office arrested a mother who had left her children home alone for days to go on a work trip, reigniting the debate over when parents act irresponsibly.
+Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.
 
 
-10. [The New York Times News Quiz, October 30, 2026](https://www.nytimes.com/quiz/2026/10/30/briefing/weekly-news-quiz.html)
+6. [Desperate Mayday as Small Jet Plummets to Ground in Florida, Killing 9](https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html)
 
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+Photos and video posted online showed the plane diving nose first to the ground and exploding. In a radio call, the pilot said the plane was descending at a speed of 20,000 feet per minute.
+
+
+7. [Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke](https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html)
+
+The Connecticut senator, who has been campaigning for fellow Democrats, has been viewed as a potential candidate for president in 2028.
+
+
+8. [Democrats Show Strength in Final Days of Race for the Senate, New Polls Find](https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html)
+
+Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.
+
+
+9. [Judge Rejects Trump Officials’ Move to Challenge Alaska Senate Election](https://www.nytimes.com/2026/11/01/us/alaska-senate-election-lawsuit.html)
+
+In the latest defeat for the Trump administration, the ruling dismisses a lawsuit that pre-emptively contested the results of a race that includes two candidates named Daniel Sullivan.
+
+
+10. [Heidi Klum Becomes Her Left Hand](https://www.nytimes.com/2026/10/31/style/heidi-klum-halloween-costume-hand.html)
+
+The model, who scurried across the red carpet to celebrate the 25th anniversary of her annual Halloween party, reflected on some of her favorite costumes.
 
 
