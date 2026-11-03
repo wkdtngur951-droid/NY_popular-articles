@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-02 23:22:47)
+## 📰 NYTimes Most Popular (Updated: 2026-11-03 06:13:49)
 
-1. [Desperate Mayday as Small Plane Crashes in Florida, Killing 9](https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html)
+1. [Martha Stewart Apologizes for Homeless Halloween Costume](https://www.nytimes.com/2026/11/02/style/martha-stewart-homeless-halloween-costume-apology.html)
+
+Stewart, the media mogul and entrepreneur, had posted a photo of a costume with tattered clothes and a sign asking for help.
+
+
+2. [What Seven Presidents Knew — and Trump Does Not](https://www.nytimes.com/2026/11/02/opinion/trump-character-presidents-midterms.html)
+
+Will Americans decide this week that character does, after all, matter?
+
+
+3. [Judge Throws Out Charges Against Former F.B.I. Officials](https://www.nytimes.com/2026/11/02/us/politics/judge-fbi-agents-charges-midterms.html)
+
+The magistrate judge, Zia M. Faruqui, said the case was a rushed, political prosecution ordered by the White House intended to affect the midterm elections.
+
+
+4. [Desperate Mayday as Small Plane Crashes in Florida, Killing 9](https://www.nytimes.com/2026/11/01/us/florida-plane-crash-palm-beach-county.html)
 
 Photos and video posted online showed the business jet diving nose first to the ground and exploding. In a radio call, a pilot said the plane was descending at 20,000 feet per minute.
 
 
-2. [Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan](https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html)
+5. [Justice Kagan Sounds an Alarm About the Court](https://www.nytimes.com/2026/11/02/opinion/justice-kagan-speak-truth.html)
+
+Of all the Democratic appointees, if not all nine justices, Justice Kagan has a reputation as the most restrained and institutionalist. Until now.
+
+
+6. [Kansas Senator Goes Rogue With Video Response to Medical Debt Lawsuits](https://www.nytimes.com/2026/11/01/us/elections/roger-marshall-ad-kansas-senate-race.html)
+
+Roger Marshall, a Republican senator whose re-election bid has grown surprisingly competitive, wanted to push back against attacks. His team didn’t agree. He ignored the guidance.
+
+
+7. [Inside the Abdul El-Sayed-Haley Stevens Meltdown in Michigan](https://www.nytimes.com/2026/11/01/us/politics/el-sayed-stevens-meltdown-michigan-democrats.html)
 
 The relationship shattered in part because of Israel, but also because of their sensitive egos and hurt feelings. The split had been months in the making.
 
 
-3. [Democrats Show Strength in Final Days of Race for the Senate, New Polls Find](https://www.nytimes.com/2026/11/01/us/politics/times-siena-poll-senate.html)
+8. [They Tried Kratom for Its Purported Health Benefits, Then They Became Addicted](https://www.nytimes.com/2026/11/02/well/kratom-wellness-marketing-addiction.html)
 
-Democrats are up in Michigan, Texas, Kansas, Maine and Ohio, have an edge in Alaska and are effectively tied with Republicans in Iowa, new New York Times/Siena polls found.
-
-
-4. [Ocasio-Cortez Has Evolved. She Wants the Left to Evolve, Too.](https://www.nytimes.com/2026/11/01/us/politics/ocasio-cortez-dsa.html)
-
-The New York congresswoman, once a bane of establishment Democrats, has tried to nudge her movement in a bigger-tent direction as she weighs her 2028 options.
+Some say they were introduced to the drug through wellness podcasts, free samples at gyms or fitness influencers.
 
 
-5. [The New Hot Job in Law Doesn’t Require a J.D.](https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html)
+9. [Senator Chris Murphy Is ‘Awake and Alert’ After Suffering a Stroke](https://www.nytimes.com/2026/11/01/us/politics/chris-murphy-stroke.html)
+
+The Connecticut senator, who has been campaigning for fellow Democrats, has been viewed as a potential candidate for president in 2028.
+
+
+10. [The New Hot Job in Law Doesn’t Require a J.D.](https://www.nytimes.com/2026/10/31/business/dealbook/legal-engineer-ai-law.html)
 
 Big law firms, legal tech vendors, and in-house legal departments at companies like Microsoft and Nvidia are all hiring legal engineers, a new position for lawyers with A.I. skills.
-
-
-6. [Ex-West Point Cadet Sued For Forcing Abortion On Girlfriend at Academy](https://www.nytimes.com/2026/10/31/nyregion/caleb-suh-west-point-abortion-columbia.html)
-
-Caleb Suh, a former West Point cadet and current Columbia student, pleaded guilty in June to drugging and forcing abortion pills on another cadet. His ex-girlfriend is now suing him for assault and battery.
-
-
-7. [He’s the Top Snake Catcher, and Business Is Booming. There’s Just One Problem.](https://www.nytimes.com/2026/11/01/world/asia/snake-catcher-bangkok-thailand.html)
-
-Bangkok’s firefighters do more snake catching than firefighting, and Pinyo Pukpinyo trains them. But he refuses to kill the snakes, and he’s running out of containers.
-
-
-8. [Margaritas Rimmed With Degreaser Burn 5 People at a North Carolina Chili’s](https://www.nytimes.com/2026/10/31/us/chilis-margarita-chemical-burns-forest-city.html)
-
-Three customers and two employees were burned on and around their mouths after a granulated substance was mistaken for sugar, a health official said.
-
-
-9. [A 20-Year-Old Was One Pilot of the Jet That Plunged to Earth in Florida](https://www.nytimes.com/2026/11/02/us/nathalia-filgueiras-florida-plane-crash-pilot.html)
-
-Nathalia Filgueiras received a pilot’s license at 17, had logged more than 1,300 hours of flight time and was the co-pilot on Sunday, her mother said in an interview.
-
-
-10. [‘I Came as Donald Trump’: The President Hosts a Luxury Halloween at Mar-a-Lago](https://www.nytimes.com/2026/10/31/us/politics/trump-halloween-party-scene.html)
-
-President Trump attended his jungle-themed Halloween party at Mar-a-Lago dressed as a distinctly recognizable figure.
 
 
