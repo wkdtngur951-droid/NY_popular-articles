@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-04 08:52:54)
+## 📰 NYTimes Most Popular (Updated: 2026-11-04 16:59:14)
 
-1. [Ohio Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-ohio.html)
+1. [California Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-california.html)
 
-Get live results and maps from the 2026 Ohio elections.
-
-
-2. [Ken Burns: We Face Our Nation’s Fourth Great Crisis](https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html)
-
-There’s something fundamental at stake in the midterms this year, beyond policy differences.
+Get live results and maps from the 2026 California elections.
 
 
-3. [Florida Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-florida.html)
-
-Get live results and maps from the 2026 Florida elections.
-
-
-4. [The Brain Injury That Made a Middle School Teacher a Musical Genius](https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html)
-
-When Ed Freytag suffered a brain injury in a motorcycle accident, it unlocked a rare musical talent.
-
-
-5. [Live Forecast: Senate and House](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-needle-senate-house-forecast.html)
+2. [Live Forecast: Senate and House](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-needle-senate-house-forecast.html)
 
 Follow real-time estimates of the outcome of the 2026 midterm elections from The New York Times.
 
 
-6. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
+3. [Texas U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas-us-senate.html)
 
-Get live results and maps from the 2026 Mississippi general election.
-
-
-7. [Governor Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-governor.html)
-
-Follow the latest results from the 2026 gubernatorial elections.
+Get live results and maps from the 2026 Texas general election.
 
 
-8. [Trump Says in Interview That He Will Accept Election Results](https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html)
+4. [Ohio Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-ohio.html)
 
-In an interview with two Times reporters, President Trump blamed the G.O.P.’s losses on the fact that he was not on the ballot, and said he was willing to work with Democrats.
+Get live results and maps from the 2026 Ohio elections.
 
 
-9. [Michigan U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan-us-senate.html)
+5. [Ohio U.S. Senate Special Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-ohio-us-senate-special.html)
+
+Get live results and maps from the 2026 Ohio special election.
+
+
+6. [Michigan U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan-us-senate.html)
 
 Get live results and maps from the 2026 Michigan general election.
 
 
-10. [Runner, 24, Dies During Her First Marathon](https://www.nytimes.com/2026/11/02/nyregion/marathon-runner-dies-rachel-apa.html)
+7. [Runner, 24, Dies During Her First Marathon](https://www.nytimes.com/2026/11/02/nyregion/marathon-runner-dies-rachel-apa.html)
 
 Rachel Apa collapsed in Central Park. The cause was rhabdomyolysis, a rare muscle condition that can be brought on by exertion, her father said.
+
+
+8. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
+
+Get live results and maps from the 2026 Mississippi general election.
+
+
+9. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
+
+Get live results and maps from the 2026 Alaska general election.
+
+
+10. [South Carolina U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-south-carolina-us-senate.html)
+
+Get live results and maps from the 2026 South Carolina general election.
 
 
