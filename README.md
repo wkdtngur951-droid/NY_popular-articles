@@ -1,8 +1,8 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-04 01:09:12)
+## 📰 NYTimes Most Popular (Updated: 2026-11-04 08:52:54)
 
-1. [Trump Delivers a Closing Midterm Message. Mostly About Landscaping.](https://www.nytimes.com/2026/11/02/us/politics/trump-reflecting-pool-midterms.html)
+1. [Ohio Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-ohio.html)
 
-On the eve of the election, the president held forth in great detail on columns, drain pipes and granite at the newly refilled Reflecting Pool.
+Get live results and maps from the 2026 Ohio elections.
 
 
 2. [Ken Burns: We Face Our Nation’s Fourth Great Crisis](https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html)
@@ -10,43 +10,43 @@ On the eve of the election, the president held forth in great detail on columns,
 There’s something fundamental at stake in the midterms this year, beyond policy differences.
 
 
-3. [Five Telltale Signs of a Democratic Blowout](https://www.nytimes.com/2026/11/03/opinion/midterms-democrats-republicans-senate.html)
+3. [Florida Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-florida.html)
 
-The political winds are blowing in Democrats’ direction. The question is: How strong are they?
-
-
-4. [What Caused a Jet to Dive Nose First Into the Ground?](https://www.nytimes.com/2026/11/02/science/florida-learjet-crash-causes.html)
-
-Ice, experts said, can change the shape of a plane’s wing, disrupting its aerodynamics.
+Get live results and maps from the 2026 Florida elections.
 
 
-5. [When to Expect Midterm Results in Each State on Election Night](https://www.nytimes.com/interactive/2026/10/31/us/elections/midterm-vote-count-expectations.html)
+4. [The Brain Injury That Made a Middle School Teacher a Musical Genius](https://www.nytimes.com/interactive/2026/11/02/magazine/brain-injury-music-perfect-pitch-edward-freytag.html)
 
-The time it takes to project winners will depend on two factors: how fast the states count their votes, and how close the races are.
-
-
-6. [Jimmy Kimmel Mocks the President’s ‘Pettysburg Address’](https://www.nytimes.com/2026/11/03/arts/television/jimmy-kimmel-trump-midterms.html)
-
-“And where better to reassure the public that they are in good hands than in front of a pool you’ve repeatedly botched to the tune of $16 million?” Kimmel said of Trump’s speech before the midterms.
+When Ed Freytag suffered a brain injury in a motorcycle accident, it unlocked a rare musical talent.
 
 
-7. [U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate.html)
+5. [Live Forecast: Senate and House](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-needle-senate-house-forecast.html)
 
-Follow the latest results from the 2026 midterm elections.
-
-
-8. [The 2026 Holiday Gift Guide](https://www.nytimes.com/interactive/2026/us/wirecutter-holiday-gift-guide.html)
-
-From luxe items that delight to unexpected — and inexpensive — gems, our experts have curated the best gifts to help you check everyone off your list.
+Follow real-time estimates of the outcome of the 2026 midterm elections from The New York Times.
 
 
-9. [Google Will Turn Off Search for Schools That Reject A.I.](https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html)
+6. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
 
-Google is making it easier to restrict its A.I. tools for students. But schools that block A.I. entirely will lose student access to Google’s search engine.
+Get live results and maps from the 2026 Mississippi general election.
 
 
-10. [What a Vote for Abdul El-Sayed Means](https://www.nytimes.com/2026/11/03/opinion/el-sayed-rogers-michigan-senate.html)
+7. [Governor Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-governor.html)
 
-Electing Abdul El-Sayed would contribute to the normalization of the antisemitism that his candidacy has helped to produce.
+Follow the latest results from the 2026 gubernatorial elections.
+
+
+8. [Trump Says in Interview That He Will Accept Election Results](https://www.nytimes.com/2026/11/03/us/politics/trump-midterm-election-results.html)
+
+In an interview with two Times reporters, President Trump blamed the G.O.P.’s losses on the fact that he was not on the ballot, and said he was willing to work with Democrats.
+
+
+9. [Michigan U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan-us-senate.html)
+
+Get live results and maps from the 2026 Michigan general election.
+
+
+10. [Runner, 24, Dies During Her First Marathon](https://www.nytimes.com/2026/11/02/nyregion/marathon-runner-dies-rachel-apa.html)
+
+Rachel Apa collapsed in Central Park. The cause was rhabdomyolysis, a rare muscle condition that can be brought on by exertion, her father said.
 
 
