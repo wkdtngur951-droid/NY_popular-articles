@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-04 22:31:53)
+## 📰 NYTimes Most Popular (Updated: 2026-11-05 03:21:48)
 
-1. [South Carolina U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-south-carolina-us-senate.html)
+1. [Texas Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas.html)
 
-Get live results and maps from the 2026 South Carolina general election.
-
-
-2. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
-
-Get live results and maps from the 2026 Alaska general election.
+Get live results and maps from the 2026 Texas elections.
 
 
-3. [After Midterm Drubbing, Trump and Republicans Start Pointing Fingers](https://www.nytimes.com/2026/11/04/us/politics/trump-republicans-blame-midterms.html)
+2. [Michigan Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-michigan.html)
 
-While the president attributed sweeping losses to the fact that he was not on the ballot, others in his party dismissed his explanation and pinned blame squarely on him.
-
-
-4. [Mississippi Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi.html)
-
-Get live results and maps from the 2026 Mississippi elections.
+Get live results and maps from the 2026 Michigan general election.
 
 
-5. [U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate.html)
-
-Follow the latest results from the 2026 midterm elections.
-
-
-6. [Live Forecast: Senate and House](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-needle-senate-house-forecast.html)
+3. [Live Forecast: Senate and House](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-needle-senate-house-forecast.html)
 
 Follow real-time estimates of the outcome of the 2026 midterm elections from The New York Times.
 
 
-7. [Texas U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas-us-senate.html)
+4. [After Midterm Drubbing, Trump and Republicans Start Pointing Fingers](https://www.nytimes.com/2026/11/04/us/politics/trump-republicans-blame-midterms.html)
 
-Get live results and maps from the 2026 Texas general election.
-
-
-8. [Texas Governor Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-texas-governor.html)
-
-Get live results and maps from the 2026 Texas general election.
+While the president attributed sweeping losses to the fact that he was not on the ballot, others in his party dismissed his explanation and pinned blame squarely on him.
 
 
-9. [Maine U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-maine-us-senate.html)
+5. [Mississippi Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi.html)
 
-Get live results and maps from the 2026 Maine general election.
+Get live results and maps from the 2026 Mississippi elections.
 
 
-10. [Ken Burns: We Face Our Nation’s Fourth Great Crisis](https://www.nytimes.com/2026/11/03/opinion/midterm-elections-politics-ken-burns.html)
+6. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
 
-There’s something fundamental at stake in the midterms this year, beyond policy differences.
+Follow the latest results from the 2026 midterm elections.
+
+
+7. [California Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-california.html)
+
+Get live results and maps from the 2026 California elections.
+
+
+8. [Trump Has Met His Match](https://www.nytimes.com/2026/11/03/opinion/democracy-midterms-trump.html)
+
+Americans showed that the power to choose their leaders belongs to them. Now they must remain vigilant until officials certify every race and the winners take office.
+
+
+9. [‘An Earthquake’: A Democratic Rout Stuns Texas](https://www.nytimes.com/2026/11/04/us/texas-talarico-hinojosa-abbott-paxton.html)
+
+In a seismic shift that was once unthinkable, victories by James Talarico and Gina Hinojosa upended decades of statewide dominance in what had been the nation’s most populous conservative state.
+
+
+10. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
+
+Get live results and maps from the 2026 Mississippi general election.
 
 
