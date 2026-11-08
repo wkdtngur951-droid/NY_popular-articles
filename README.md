@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-08 19:28:07)
+## 📰 NYTimes Most Popular (Updated: 2026-11-08 23:32:44)
 
-1. [South Carolina Republicans Fracture Over Stunning Defeat of Darline Graham](https://www.nytimes.com/2026/11/07/us/politics/darline-graham-loss-blame.html)
+1. [In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda](https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html)
 
-Some blamed President Trump for backing the novice candidate after the death of her brother, Lindsey Graham. Others accused Mr. Graham’s team of pushing her to run despite her lack of experience.
-
-
-2. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
-
-Follow the latest results from the 2026 midterm elections.
+The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power.
 
 
-3. [Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs](https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html)
+2. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
+
+Get live results and maps from the 2026 Alaska general election.
+
+
+3. [Nvidia Opens Investigation Into Jensen Huang’s Relationship With Chinese Spy](https://www.nytimes.com/2026/11/08/technology/nvidia-investigation-jensen-huang-china.html)
+
+Mr. Huang, the company’s chief executive, acknowledged on Sunday that he was intimate with a business executive who U.S. officials had determined was working for Chinese intelligence.
+
+
+4. [The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms](https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html)
+
+In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.
+
+
+5. [How Elon Musk Frittered Away Nearly $500 Million on the Midterms](https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html)
+
+Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.
+
+
+6. [Doctors Absorb the Stunning Failure of Two High-Profile Heart Drugs](https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html)
 
 By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?
 
 
-4. [Why Did She Rack Up $40,000 in Parking Tickets? Fill in the ______.](https://www.nytimes.com/2026/11/07/nyregion/nyc-parking-violations.html)
+7. [He Was a Prada Runway Model. Now He’s Going to Be Iowa’s Governor.](https://www.nytimes.com/2026/11/06/style/rob-sand-iowa-governor-prada-model.html)
 
-A New York woman has a distinctive name. She was stunned by violations and fines linked to her BMW convertible.
-
-
-5. [For Trump and America, a Clear Election Verdict Leaves a Murky Future](https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html)
-
-As Americans absorb a stunning new political reality, they face a gap between the time they effectively decided to be done with the president and the time he is actually done.
+Rob Sand, an Iowa state auditor who was elected governor on Tuesday, spent part of his youth walking runways before a career in politics.
 
 
-6. [Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.](https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html)
+8. [The American Brain Drain Claims Another Scientist](https://www.nytimes.com/2026/11/07/science/space/holley-bockelmann-astrophysicist-space-trump.html)
 
-Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.
+Kelly Holley-Bockelmann was one of the top astrophysicists in the country until President Trump’s policies affected every part of her work.
 
 
-7. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
+9. [Unfazed by Midterm Rebuke, Miller Is Poised to Push the Limits of Trump’s Power](https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html)
+
+The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.
+
+
+10. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
 
 Get live results and maps from the 2026 Mississippi general election.
-
-
-8. [JD Vance Is Probably Toast](https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html)
-
-He will need to sell voters on a tarnished Trump brand.
-
-
-9. [We the People Finally Turn on Trump](https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html)
-
-A Norma Desmond crash-out to end all crash-outs.
-
-
-10. [Trump Asks Dana White of U.F.C. to Be His Press Secretary](https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html)
-
-On social media, the president offered the now-vacant job of White House press secretary to Dana White, the organization’s C.E.O., and told him to bring along fighters as aides.
 
 
