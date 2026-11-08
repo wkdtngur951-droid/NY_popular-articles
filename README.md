@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-07 20:44:41)
+## 📰 NYTimes Most Popular (Updated: 2026-11-08 00:19:16)
 
-1. [Colorado Fourth Congressional District Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-colorado-us-house-4.html)
+1. [We the People Finally Turn on Trump](https://www.nytimes.com/2026/11/07/opinion/trump-midterms-maga-base.html)
 
-Get live results and maps from the 2026 Colorado general election.
-
-
-2. [Murphy Will Not Return to Senate Next Week After Stroke](https://www.nytimes.com/2026/11/06/us/politics/chris-murphy-senate-stroke.html)
-
-Senator Christopher S. Murphy, Democrat of Connecticut, said in a statement that he would spend several weeks recovering at a rehabilitation center.
+A Norma Desmond crash-out to end all crash-outs.
 
 
-3. [John D. Rockefeller IV, West Virginia Governor and Senator, Dies at 89](https://www.nytimes.com/2026/11/06/us/politics/jay-rockefeller-dead.html)
-
-The rare Democrat in a fabled family of wealthy Republicans, he served 30 years as senator and helped bring health insurance to millions of low-income children.
-
-
-4. [Meghan Markle’s Father Is Arrested on Child Sex Abuse Material Charges](https://www.nytimes.com/2026/11/06/us/thomas-markle-arrested-child-sexual-abuse.html)
-
-Thomas Markle Sr., Meghan’s estranged father, was arrested in Florida on Friday. He has denied the accusations against him.
-
-
-5. [JD Vance Is Probably Toast](https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html)
+2. [JD Vance Is Probably Toast](https://www.nytimes.com/2026/11/06/opinion/jd-vance-midterms.html)
 
 He will need to sell voters on a tarnished Trump brand.
 
 
-6. [U.S. Attorney Who Oversaw Centerpiece of Trump’s Revenge Campaign Resigns](https://www.nytimes.com/2026/11/06/us/politics/jason-reding-quinones-resigns.html)
+3. [The Good, the Bad and the Cringe: 10 Ads That Defined the Midterms](https://www.nytimes.com/2026/11/07/us/politics/midterm-ads-republicans-democrats.html)
 
-Jason Reding Quiñones joins what is expected to be a succession of departures at the Justice Department after the midterm elections, including that of the leader of the national security division.
-
-
-7. [After Governor Abbott’s Defeat, Houston’s Mayor Changes Course on ICE](https://www.nytimes.com/2026/11/06/us/houston-mayor-john-whitmire-immigration-ice-cooperation.html)
-
-Mayor John Whitmire has instructed Houston police to stop notifying immigration agents when they encounter someone without legal status during routine street stops.
+In a Democratic landslide election, here are the ads that stood out. Some were effective, while others backfired.
 
 
-8. [In Elevating Stephen Miller, Trump Doubles Down on Hard-Line Agenda](https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-chief-of-staff-trump.html)
+4. [Susie Wiles Is the Latest Powerful Woman to Exit the Trump Administration](https://www.nytimes.com/2026/11/06/us/politics/susie-wiles-trump-women.html)
 
-The new White House chief of staff is responsible for some of the most provocative policies of President Trump’s second term, as well as an aggressive approach to executive power.
-
-
-9. [Judge Promptly Blocks Work on Trump’s Triumphal Arch After It’s Approved](https://www.nytimes.com/2026/11/05/us/politics/trump-triumphal-arch-planning-commission.html)
-
-The judge acted swiftly after a federal planning board led by the president’s allies approved his 250-foot arch project on Thursday.
+A wave of high-ranking women have left the Trump administration in the past year. Many were replaced by men.
 
 
-10. [He Was a Prada Runway Model. Now He’s Going to Be Iowa’s Governor.](https://www.nytimes.com/2026/11/06/style/rob-sand-iowa-governor-prada-model.html)
+5. [Trump Asks Dana White of U.F.C. to Be His Press Secretary](https://www.nytimes.com/2026/11/07/us/politics/trump-dana-white-ufc-press-secretary.html)
 
-Rob Sand, an Iowa state auditor who was elected governor on Tuesday, spent part of his youth walking runways before a career in politics.
+On social media, the president offered the now-vacant job of White House press secretary to Dana White, the organization’s C.E.O., and told him to bring along fighters as aides.
+
+
+6. [How Elon Musk Frittered Away Nearly $500 Million on the Midterms](https://www.nytimes.com/2026/11/06/us/politics/musk-trump-midterm-election-spending.html)
+
+Behind the scenes, the world’s richest person spent a record amount over two years to bend the country’s politics to his will. He couldn’t.
+
+
+7. [He’ll Be Clerk of One of the Country’s Largest Counties. He’s 19.](https://www.nytimes.com/2026/11/07/us/politics/asu-student-maricopa-county-clerk-election.html)
+
+Sebastian Matta, a sophomore at Arizona State University, was elected on Tuesday as Superior Court clerk in Maricopa County, Ariz.
+
+
+8. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
+
+Get live results and maps from the 2026 Alaska general election.
+
+
+9. [How Cardiologists’ High Hopes for Two Drugs Were Dashed](https://www.nytimes.com/2026/11/07/science/heart-drugs-failed-novartis-novo-nordisk.html)
+
+By every measure, the drugs were no better than placebos, full data revealed on Saturday. Was it the fault of the design of the studies, or our very hypotheses about heart disease?
+
+
+10. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
+
+Get live results and maps from the 2026 Mississippi general election.
 
 
