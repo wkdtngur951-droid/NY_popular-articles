@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-09 15:51:47)
+## 📰 NYTimes Most Popular (Updated: 2026-11-10 00:03:39)
 
-1. [Read the Text Messages at the Center of the Cornell Rape Inquiry](https://www.nytimes.com/interactive/2026/11/07/nyregion/cornell-jane-doe-messages.html)
+1. [It’s Roy Cohn All Over Again](https://www.nytimes.com/2026/11/09/opinion/stephen-miller-roy-cohn-trump.html)
 
-After a Cornell student said fraternity members had sexually assaulted her, university investigators amassed a trove of communications from the student and the men she accused.
-
-
-2. [For Trump and America, a Clear Election Verdict Leaves a Murky Future](https://www.nytimes.com/2026/11/08/us/politics/trump-midterm-election-america-future.html)
-
-As Americans absorb a stunning new political reality, they face a gap between the time they effectively decided to be done with the president and the time he is actually done.
+Stephen Miller is the wartime consigliere Trump always wanted.
 
 
-3. [Rubio Warned Officials About Nvidia Chief’s Entanglement With Chinese Spy](https://www.nytimes.com/2026/11/08/us/politics/rubio-nvidia-ceo-chinese-spy.html)
+2. [Trump Veers Back Into Claims of Rigged Election](https://www.nytimes.com/2026/11/09/us/politics/trump-election-fraud-rigging-midterms.html)
 
-The secretary of state’s role in drafting a secret memo highlights how top officials were concerned by this past spring about Jensen Huang’s relationship with a woman tied to Chinese intelligence.
-
-
-4. [Unfazed by Midterm Rebuke, Miller Is Poised to Push the Limits of Trump’s Power](https://www.nytimes.com/2026/11/07/us/politics/stephen-miller-midterm-elections.html)
-
-The president’s new chief of staff has already demonstrated his intention to forge ahead with an agenda that many voters rejected.
+President Trump, who initially said he would accept the midterm results, renewed his unsubstantiated claims that voting was manipulated.
 
 
-5. [Democrats Now Have a Path to Sidestep the Electoral College. Would It Work?](https://www.nytimes.com/2026/11/08/upshot/democrats-electoral-college.html)
+3. [Mississippi U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-mississippi-us-senate.html)
 
-Midterm victories have given states the opportunity to elevate the national popular vote, but obstacles like legal challenges would loom.
-
-
-6. [5 Common Medications That Can Mess With Your Sleep](https://www.nytimes.com/2026/10/20/well/medications-that-disrupt-sleep.html)
-
-Certain prescription and over-the-counter drugs are known to keep people awake. We asked experts for some of the biggest offenders.
+Get live results and maps from the 2026 Mississippi general election.
 
 
-7. [The Memory Card That Could Upend a State House Race in Georgia](https://www.nytimes.com/2026/11/08/us/georgia-state-house-race-memory-card.html)
-
-The Democrat was leading the race for a district when officials realized there were missing votes from a single memory card. Now the Republican has the edge.
-
-
-8. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
-
-Get live results and maps from the 2026 Alaska general election.
-
-
-9. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
+4. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
 
 Follow the latest results from the 2026 midterm elections.
 
 
-10. [Jeffries Backs Impeaching Hegseth as Democrats Push for Accountability](https://www.nytimes.com/2026/11/08/us/politics/pete-hegseth-impeachment-hakeem-jeffries.html)
+5. [Megyn Kelly, Elon Musk and Others Defend Russell Brand After Rape Conviction](https://www.nytimes.com/2026/11/09/arts/russell-brand-megyn-kelly-elon-musk.html)
 
-Democrats have begun laying the groundwork for an aggressive oversight agenda aimed at the Trump administration. But a political reckoning could come before the new Congress begins.
+The former star, whom a British judge sentenced to 10 and a half years in prison on Monday, became an anti-establishment flag-bearer through conspiracy-minded commentary.
+
+
+6. [This Winning Combination Is the Future of American Politics](https://www.nytimes.com/2026/11/09/opinion/democrats-midterms-populism.html)
+
+The Democrats still have a long way to go before they can govern the country productively. But the victors of 2026 have started to point the way.
+
+
+7. [Russell Brand Sentenced to 10 and a Half Years in Prison for Rape](https://www.nytimes.com/2026/11/09/arts/russell-brand-prison-sentence-rape.html)
+
+A London judge said the former comedy star, who was convicted of rape and sexual assault last week, had shown a “casual, arrogant disregard” for women’s wishes.
+
+
+8. [JD Vance Needs to Stop Trying](https://www.nytimes.com/2026/11/09/opinion/trump-republicans-maga-endgame.html)
+
+Republicans must determine what they stand for other than fealty to an aging, out-of-touch, lame duck.
+
+
+9. [Turning Point Bet on the Midterms and Lost. Some Republicans Are Furious.](https://www.nytimes.com/2026/11/07/us/turning-point-arizona-midterms.html)
+
+Candidates backed by the right-wing activist group did not fare well, and the results set off recriminations from establishment Republicans.
+
+
+10. [Immigrants Are Being Systematically Returned Home Despite Court Orders](https://www.nytimes.com/2026/11/09/world/africa/trump-deportations-court-orders-refoulement.html)
+
+Working with the Trump administration, foreign partners accept deportees, then ship them to nations where the U.S. itself would be prohibited from sending them.
 
 
