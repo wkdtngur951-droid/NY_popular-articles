@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-13 16:01:31)
+## 📰 NYTimes Most Popular (Updated: 2026-11-13 22:26:39)
 
-1. [A Warrior Secretary and a Lesson at the Tomb of the Unknowns](https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html)
+1. [Van Hollen Says He Will Challenge Schumer for Senate Majority Leader](https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html)
 
-Defense Secretary Pete Hegseth’s highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery.
-
-
-2. [Democrats Face Backlash After Missing Hegseth Impeachment Vote](https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html)
-
-Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories.
+Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.
 
 
-3. [Scott Colom, a Democrat, Wins Mississippi Senate Seat in Historic Upset](https://www.nytimes.com/2026/11/11/us/elections/mississippi-senate-colom-hyde-smith.html)
+2. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
 
-Mr. Colom, a prosecutor, will be the first Black senator elected from Mississippi since the post-Civil War Reconstruction period.
-
-
-4. [7 People Nvidia Could Consider for Its Next C.E.O.](https://www.nytimes.com/2026/11/12/technology/jensen-huang-nvidia-successor.html)
-
-President Trump suggested Tim Cook, Apple’s former C.E.O., to replace Jensen Huang at Nvidia. Here are others with experience in chips or A.I.
+Follow the latest results from the 2026 midterm elections.
 
 
-5. [In China’s Spy Operations, Romance Can Be a Long Game](https://www.nytimes.com/2026/11/12/world/asia/china-spy-espionage-romance.html)
+3. [U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate.html)
 
-Jensen Huang’s affair with a woman U.S. officials say is a Chinese spy has drawn attention to the role of intimate relationships in espionage.
+Follow the latest results from the 2026 midterm elections.
 
 
-6. [Democrats, Take the Deal](https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html)
+4. [Soldier Shouts at Hegseth’s Group to Show ‘Respect’ at Tomb of the Unknowns](https://www.nytimes.com/2026/11/11/us/politics/hegseth-tomb-unknown-soldier-shout.html)
+
+A Pentagon spokesman said the sentinel had “reminded everyone to maintain decorum” after laughter was heard from a group visiting the burial site with the Defense Secretary on Wednesday.
+
+
+5. [Democrats, Take the Deal](https://www.nytimes.com/2026/11/12/opinion/democrats-congress-affordability-reform.html)
 
 A party that just won an election on affordability should not pass up a chance to deliver immediately.
 
 
-7. [Shooting Spree by Doctor Leaves 1 Dead and 4 Wounded in Washington, D.C.](https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html)
+6. [Shooting Spree by Doctor Leaves 1 Dead and 4 Wounded in Washington, D.C.](https://www.nytimes.com/2026/11/12/us/shooting-washington-dc.html)
 
 The gunman, disgruntled about repair work in his condo, fatally shot the building manager and opened fire on others before killing himself, officials said. One resident had a narrow escape.
 
 
-8. [Jensen Huang Said to Have Had Relationship With Nvidia Executive Who Reports to Him](https://www.nytimes.com/2026/11/11/technology/jensen-huang-nvidia-affair.html)
+7. [What Are Those Strange Noises Trump Makes?](https://www.nytimes.com/2026/11/12/opinion/trump-speech-midterms.html)
 
-Mr. Huang, Nvidia’s chief executive, is already facing scrutiny over an affair with a Chinese businesswoman who U.S. intelligence determined was a Chinese spy.
-
-
-9. [I Wrote Jensen Huang’s Biography. Here’s What Led to His Downfall.](https://www.nytimes.com/2026/11/12/opinion/jensen-huang-nvidia.html)
-
-How to understand the former Nvidia chief’s stunning departure.
+These are erratic executive eruptions.
 
 
-10. [Van Hollen Says He Will Challenge Schumer for Senate Majority Leader](https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html)
+8. [Democrats Face Backlash After Missing Hegseth Impeachment Vote](https://www.nytimes.com/2026/11/11/us/politics/democrats-backlash-missing-hegseth-impeachment-vote.html)
 
-Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.
+Eleven Democrats were absent, helping Republicans shelve the charges against the defense secretary. It drew sharp criticism a week after the party’s sweeping election victories.
+
+
+9. [A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.](https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html)
+
+When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling.
+
+
+10. [Nvidia Shares Tumble, Shaking Up Tech Stocks](https://www.nytimes.com/2026/11/12/business/nvidia-stock-price-jensen-huang-ceo-affair.html)
+
+News that the chipmaker’s chief executive, Jensen Huang, resigned drove Nvidia’s stock down, though the broader market rose slightly.
 
 
