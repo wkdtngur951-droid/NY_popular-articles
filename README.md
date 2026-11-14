@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-14 10:07:29)
+## 📰 NYTimes Most Popular (Updated: 2026-11-14 16:55:27)
 
-1. [Russia Revives Demand That NATO Retrench to Secure Ukraine Deal](https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html)
-
-The hard-line position of Russian officials in closed-door negotiations about ending the war thrusts European security into the heart of the talks.
-
-
-2. [A Warrior Secretary and a Lesson at the Tomb of the Unknowns](https://www.nytimes.com/2026/11/12/us/politics/pete-hegseth-warrior-image.html)
-
-Defense Secretary Pete Hegseth’s highly cultivated brand took a hit during an encounter with an Army sentinel at Arlington Cemetery.
-
-
-3. [Here’s the latest.](https://www.nytimes.com/live/2026/11/13/us/ground-stop-nationwide-flights-faa/nationwide-ground-stop-flights-faa)
-
-Trump administration officials blamed a telecommunication outage but said they said did not know its cause.
-
-
-4. [All Accounted for After Tanker Crashes Into Docked New Orleans Riverboat](https://www.nytimes.com/2026/11/13/us/new-orleans-cruise-ship-crash.html)
-
-Gov. Jeff Landry of Louisiana called it a “literal miracle on the Mississippi” that all of the nearly 200 people aboard the riverboat were rescued.
-
-
-5. [Lauren Boebert, a MAGA Favorite, Loses Her Re-election Bid in Colorado](https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html)
+1. [Lauren Boebert, a MAGA Favorite, Loses Her Re-election Bid in Colorado](https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html)
 
 Ms. Boebert’s loss to Eileen Laubacher in a conservative House district represents a significant victory for Democrats.
 
 
-6. [Microsoft Says Some Service Is Improving on 2nd Day of Outage](https://www.nytimes.com/2026/11/12/business/microsoft-outlook-down-outage-email.html)
-
-Health services, schools, police departments and companies worldwide reported disruptions to their work. The cause was unclear, though Microsoft appeared to rule out a cyberattack.
-
-
-7. [A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.](https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html)
-
-When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling.
-
-
-8. [5 Muscles to Strengthen as You Age](https://www.nytimes.com/2026/11/13/well/move/important-muscles-longevity-advice.html)
+2. [5 Muscles to Strengthen as You Age](https://www.nytimes.com/2026/11/13/well/move/important-muscles-longevity-advice.html)
 
 We all know we need to strength train to move well and feel strong. But which exercises are the most important?
 
 
-9. [Van Hollen Says He Will Challenge Schumer for Senate Majority Leader](https://www.nytimes.com/2026/11/12/us/politics/van-hollen-schumer-democrats-majority-leader.html)
+3. [Russia Revives Demand That NATO Retrench to Secure Ukraine Deal](https://www.nytimes.com/2026/11/13/us/politics/russia-demand-nato-ukraine.html)
 
-Senator Chris Van Hollen of Maryland has emerged as a favorite of Democrats seeking an alternative to Senator Chuck Schumer, who says he has the votes to win.
+The hard-line position of Russian officials in closed-door negotiations about ending the war thrusts European security into the heart of the talks.
+
+
+4. [A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.](https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html)
+
+When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling.
+
+
+5. [The Swingiest State Has Gone Very Red](https://www.nytimes.com/2026/11/13/opinion/florida-republicans-democrats.html)
+
+A lot of Republicans have moved to Florida since Covid, and those newcomers really like the way Republicans are running it.
+
+
+6. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
+
+Follow the latest results from the 2026 midterm elections.
+
+
+7. [U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate.html)
+
+Follow the latest results from the 2026 midterm elections.
+
+
+8. [Bessent Faults Commerce Dept. for Failing to Blacklist Megaspeed](https://www.nytimes.com/2026/11/13/business/economy/bessent-commerce-megaspeed-lutnick.html)
+
+The Treasury secretary blamed the department for not sanctioning the Singaporean firm and said that Nvidia employees should be held accountable if they sidestepped the law.
+
+
+9. [Jewish Heirs Challenge Sale of $180 Million van Gogh Painting at Sotheby’s](https://www.nytimes.com/2026/11/13/arts/design/van-gogh-sale-sothebys.html)
+
+Heirs say “Blossoming Chestnut Trees” was sold under Nazi-era duress. The auction house says it is “committed to working toward a mutually satisfactory resolution.”
 
 
 10. [California Could Face 50-Foot Waves as Storms Slam Its Coast](https://www.nytimes.com/2026/11/12/weather/california-storm-west-coast-rain.html)
