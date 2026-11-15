@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-15 01:40:58)
+## 📰 NYTimes Most Popular (Updated: 2026-11-15 09:04:03)
 
-1. [Olivia Wilde Hit Bottom. Here’s How She Bounced Back.](https://www.nytimes.com/2026/11/14/magazine/olivia-wilde-interview.html)
+1. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
 
-The actor-director learned a lot about shame, regret and failure — and then made a hit movie. 
-
-
-2. [What to Know About Friday’s Nationwide Ground Stop](https://www.nytimes.com/2026/11/13/us/faa-ground-stop-flights-what-to-know.html)
-
-The air traffic control system’s overloaded, antiquated telecommunications equipment sustained its latest widespread failure, prompting a call for more money to fuel faster upgrades.
+Get live results and maps from the 2026 Alaska general election.
 
 
-3. [The Science That U.N.C. Sacrificed to Avoid the Wrath of Trump](https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html)
+2. [U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate.html)
+
+Follow the latest results from the 2026 midterm elections.
+
+
+3. [Howard Lutnick Has Got to Go](https://www.nytimes.com/2026/11/13/opinion/jensen-huang-nvidia-howard-lutnick-commerce.html)
+
+The secretary of commerce is almost as responsible for Nvidia’s crisis as the fallen chief executive Jensen Huang.
+
+
+4. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
+
+Follow the latest results from the 2026 midterm elections.
+
+
+5. [Lauren Boebert, a MAGA Favorite, Loses Her Re-election Bid in Colorado](https://www.nytimes.com/2026/11/09/us/lauren-boebert-colorado-house-election.html)
+
+Ms. Boebert’s loss to Eileen Laubacher in a conservative House district represents a significant victory for Democrats.
+
+
+6. [Flashback: Your Weekly History Quiz, Nov. 14, 2026](https://www.nytimes.com/interactive/2026/11/13/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+7. [After Relative Silence, Joe Rogan Said Trump’s Policies Have Lost the ‘Podcast Bros’](https://www.nytimes.com/2026/11/14/style/after-relative-silence-joe-rogan-said-trumps-policies-have-lost-the-podcast-bros.html)
+
+The nation’s top podcaster addressed the midterm election results, days after declaring that he thinks politics is “gross.”
+
+
+8. [Goodbye, Mr. Chips](https://www.nytimes.com/2026/11/14/opinion/huang-trump-lutnick-bessent.html)
+
+Terrible tech bros leading us into a scary future.
+
+
+9. [The Science That U.N.C. Sacrificed to Avoid the Wrath of Trump](https://www.nytimes.com/2026/11/13/us/university-north-carolina-science-research-cuts-trump.html)
 
 The University of North Carolina’s chancellor tried to protect the school from the Trump administration. Work on cancer, suicide, AIDS and coronaviruses was hit anyway.
 
 
-4. [Top Democrat Eyes Filibuster-Proof Bill to Unlock Affordability Agenda](https://www.nytimes.com/2026/11/14/us/politics/house-democrats-affordability-costs-budget.html)
+10. [Surfers Scramble to California Hot Spot to Catch Building-Size Waves](https://www.nytimes.com/2026/11/13/weather/california-storm-mavericks-surfers.html)
 
-The lawmaker set to lead the House Budget Committee outlined Democrats’ options for forcing a negotiation with President Trump on an economic package to bring down living costs.
-
-
-5. [Nvidia Scandal Prompts Questions of What It Means to Be a Spy](https://www.nytimes.com/2026/11/13/us/politics/nvidia-alice-huang-spy-china.html)
-
-U.S. intelligence agencies believe a woman who had an affair with Jensen Huang was a Chinese asset. But there is much more that they are still assessing about her role.
-
-
-6. [As Congress Plans Investigations, White House Prepares Ferocious Response](https://www.nytimes.com/2026/11/14/us/politics/congress-trump-investigations.html)
-
-The Trump administration has quietly been laying the groundwork for an aggressive all-out effort to thwart newly empowered Democrats’ attempts at oversight.
-
-
-7. [Did the Redistricting Wars Backfire on Republicans? In a Word, No.](https://www.nytimes.com/2026/11/13/upshot/gerrymanders-midterm-elections-republicans.html)
-
-The G.O.P. was able to avoid more House midterm losses — on top of the advantage it already had from gerrymandering.
-
-
-8. [This Man Stole $9 Million in Gold Bars on the Upper West Side, Police Say](https://www.nytimes.com/2026/11/14/nyregion/gold-bars-scam-new-york-city.html)
-
-The victim, who believed his financial assets had been compromised, was the target of an online fraud scheme and believed he had to buy the precious metal, the authorities said.
-
-
-9. [Mary Peltola’s Lead Widens as Alaska Senate Vote Count Continues](https://www.nytimes.com/2026/11/14/us/alaska-senate-race-ranked-choice-tabulation.html)
-
-The race between Senator Dan S. Sullivan and Ms. Peltola, a former representative, is the only Senate contest that hasn’t been called.
-
-
-10. [A Restaurant Hosted Ramaswamy After His Attack Ad. It’s Paying a Price.](https://www.nytimes.com/2026/11/13/us/medina-ohio-boycott-restaurant-ramaswamy.html)
-
-When a popular restaurant agreed to serve as a campaign stop for G.O.P. candidates ahead of Election Day, longtime customers turned against it and Medina, Ohio, was left reeling.
+Amid back-to-back storms hitting the coast, surfers could get a rare opportunity to catch big waves.
 
 
