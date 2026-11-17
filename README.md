@@ -1,23 +1,23 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-17 12:59:10)
+## 📰 NYTimes Most Popular (Updated: 2026-11-17 21:41:43)
 
-1. [Conservatives Can’t Afford to Humor ‘Repeal the 19th’](https://www.nytimes.com/2026/11/16/opinion/misogyny-college-voting-republicans.html)
+1. [The Enraging Hypocrisy at the Heart of the Nvidia Scandal](https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html)
 
-Republicans can’t afford to ignore the toxic gender politics gaining ground among young conservatives.
-
-
-2. [United Flights Resume as Outage Adds to Public Jitters Over Flying](https://www.nytimes.com/2026/11/16/business/united-airlines-outage-flights.html)
-
-The brief disruption, after a nationwide ground stop last week, added to concerns about air travel ahead of a busy Thanksgiving travel period.
+It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security.
 
 
-3. [Challenging Consensus, Scientist Says Photos Show Epstein Was Killed](https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html)
+2. [Trump Administration Divide on China Policy Breaks Into Public View](https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-policy.html)
 
-Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
+The airing of a fight over advanced A.I. chips shows how much the Nvidia scandal has deepened fissures inside the government, just as President Trump heads to a critical meeting with his Chinese counterpart.
 
 
-4. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
+3. [Robert Pattinson Named as the Next James Bond](https://www.nytimes.com/2026/11/16/movies/james-bond-robert-pattinson.html)
 
-Get live results and maps from the 2026 Alaska general election.
+The announcement ends years of speculation over who would take over the role after Daniel Craig’s five-film run.
+
+
+4. [Jensen Huang Carried a Secret for More Than a Year. It Led to His Downfall.](https://www.nytimes.com/2026/11/14/technology/jensen-huang-nvidia-board.html)
+
+Nvidia’s leader said his relationship with a female customer was just about business. But what he was concealing eventually led to his resignation from the company he created.
 
 
 5. [The Financial Bubbles Are Getting Worse](https://www.nytimes.com/2026/11/16/opinion/ai-bubble-finance-crisis-deregulation.html)
@@ -25,28 +25,28 @@ Get live results and maps from the 2026 Alaska general election.
 The financialization of our economy, now penetrating Silicon Valley, is generating storms that are both more frequent and more destructive.
 
 
-6. [Canada’s Leader, Once a Curiosity at Asia Summits, Is Now a Star](https://www.nytimes.com/2026/11/16/world/canada/carney-china-xi-trump-putin-trade.html)
+6. [Challenging Consensus, Scientist Says Photos Show Epstein Was Killed](https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html)
 
-Prime Minister Mark Carney is courting Europe, but the bigger payoff might be in China, where he will share summit stages with Xi Jinping, Vladimir Putin and President Trump.
+Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
 
 
-7. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
+7. [Chase Resumes Normal Operations After ‘Software Bug’ Disrupted Transactions](https://www.nytimes.com/2026/11/16/us/bank-outages-down.html)
+
+After technical problems grounded flights nationwide and Microsoft products failed, the banking issues added to a sense of doom about the systems underpinning daily life.
+
+
+8. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
+
+Get live results and maps from the 2026 Alaska general election.
+
+
+9. [James Talarico Has the Rarest Political Virtue](https://www.nytimes.com/2026/11/16/opinion/talarico-humility.html)
+
+Is humility poised for a political comeback?
+
+
+10. [U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-senate.html)
 
 Follow the latest results from the 2026 midterm elections.
-
-
-8. [The Best Cities to Retire in 2026](https://www.nytimes.com/2026/10/29/realestate/the-best-cities-to-retire-in-2026.html)
-
-A study compared data across 45 metrics to find the best cities for senior living.
-
-
-9. [War May Answer Longtime Riddle of Iranian Dams Built for No Clear Reason](https://www.nytimes.com/2026/11/16/world/middleeast/iran-dams-missile-sites-environmentalists.html)
-
-Environmentalists have long puzzled over a wide network of water projects lacking any obvious justification. Then their areas were targeted in airstrikes.
-
-
-10. [Trump Administration Moves to Close A.I. Chip Loophole Ahead of China Trip](https://www.nytimes.com/2026/11/16/us/politics/trump-china-ai-chip-loophole.html)
-
-The rules have been a topic of fierce debate in the administration and would cut back on a booming data center business serving Chinese companies.
 
 
