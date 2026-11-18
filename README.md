@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-18 12:52:49)
+## 📰 NYTimes Most Popular (Updated: 2026-11-18 21:16:14)
 
-1. [Challenging Consensus, Scientist Says Photos Show Epstein Was Killed](https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html)
-
-Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
-
-
-2. [Peltola Flips Alaska Seat as Democrats Top Off String of Senate Victories](https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html)
-
-Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.
-
-
-3. [Trump Wasn’t Just Late to a Southeast Asia Summit. He Was Really Late.](https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html)
+1. [Trump Wasn’t Just Late to a Southeast Asia Summit. He Was Really Late.](https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html)
 
 President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.
 
 
-4. [Jensen Huang’s Daughter, a Close Ally, Remains in Senior Role at Nvidia](https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html)
+2. [Jensen Huang Says He Would Return to Nvidia if Asked](https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html)
 
-Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.
-
-
-5. [Waymo Pulls Its Driverless Taxis From All U.S. Freeways Temporarily](https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html)
-
-The move came after California’s Department of Motor Vehicles ordered the cars off the state’s freeways, citing an “imminent hazard to public safety.”
+Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.
 
 
-6. [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
+3. [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
 
 There have been 63,978 days since The New York Times began publishing. We chose the most important ones.
 
 
-7. [Ukrainian Strikes Send Large Section of Crimea Bridge Into the Sea](https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html)
+4. [Challenging Consensus, Scientist Says Photos Show Epstein Was Killed](https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html)
 
-Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.
+Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
 
 
-8. [Do You Need a Measles Booster?](https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html)
+5. [White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner](https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html)
+
+The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.
+
+
+6. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
+
+Follow the latest results from the 2026 midterm elections.
+
+
+7. [Shock and Dread in the Gulf](https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html)
+
+Gulf countries talk about the consequences of a war against Iran not of their making.
+
+
+8. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
+
+Get live results and maps from the 2026 Alaska general election.
+
+
+9. [Do You Need a Measles Booster?](https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html)
 
 As cases spread across North America, now is a good time to check your vaccination status.
 
 
-9. [The Enraging Hypocrisy at the Heart of the Nvidia Scandal](https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html)
+10. [Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop](https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html)
 
-It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security.
-
-
-10. [Jensen Huang Says He Would Return to Nvidia if Asked](https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html)
-
-Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.
+“We still gotta live our lives,” said the homeland security secretary, who is required to use government planes for personal travel. His department said he paid.
 
 
