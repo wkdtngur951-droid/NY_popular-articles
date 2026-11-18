@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-18 03:31:54)
+## 📰 NYTimes Most Popular (Updated: 2026-11-18 12:52:49)
 
-1. [A.I. Helps Find Major Security Bug in Java, a Software Platform Vital to the Internet](https://www.nytimes.com/2026/11/17/us/politics/ai-security-bug-java.html)
+1. [Challenging Consensus, Scientist Says Photos Show Epstein Was Killed](https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html)
 
-The discovery by security company Calif shows A.I.’s ability to find gaping security holes in popular software. The Java flaw pointed to vulnerabilities in systems used by nearly all Fortune 500 companies.
-
-
-2. [Do You Need a Measles Booster?](https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html)
-
-As cases spread across North America, now is a good time to check your vaccination status.
+Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
 
 
-3. [Welcome Back, America! It’s Your Turn to Be Sorry.](https://www.nytimes.com/2026/11/17/opinion/canada-trump-america-midterms.html)
+2. [Peltola Flips Alaska Seat as Democrats Top Off String of Senate Victories](https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html)
 
-This month, the world’s most unreliable boyfriend began to redeem himself.
+Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.
 
 
-4. [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
+3. [Trump Wasn’t Just Late to a Southeast Asia Summit. He Was Really Late.](https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html)
+
+President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.
+
+
+4. [Jensen Huang’s Daughter, a Close Ally, Remains in Senior Role at Nvidia](https://www.nytimes.com/2026/11/16/technology/nvidia-jensen-madison-huang.html)
+
+Installed as her father’s de facto chief of staff, Jensen Huang’s daughter alienated top executives. Now her lingering role poses a test for interim C.E.O. Colette Kress.
+
+
+5. [Waymo Pulls Its Driverless Taxis From All U.S. Freeways Temporarily](https://www.nytimes.com/2026/11/17/us/waymo-ban-california-freeway.html)
+
+The move came after California’s Department of Motor Vehicles ordered the cars off the state’s freeways, citing an “imminent hazard to public safety.”
+
+
+6. [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
 
 There have been 63,978 days since The New York Times began publishing. We chose the most important ones.
 
 
-5. [Ukrainian Strikes Send Large Section of Crimea Bridge Into the Sea](https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html)
+7. [Ukrainian Strikes Send Large Section of Crimea Bridge Into the Sea](https://www.nytimes.com/2026/11/17/world/europe/ukraine-kyiv-russia-kerch-bridge-crimea.html)
 
 Destroying the structure, the only one connecting Russia to the occupied Crimean Peninsula, has long been a top objective for Kyiv.
 
 
-6. [Jensen Huang Says He Would Return to Nvidia if Asked](https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html)
+8. [Do You Need a Measles Booster?](https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html)
+
+As cases spread across North America, now is a good time to check your vaccination status.
+
+
+9. [The Enraging Hypocrisy at the Heart of the Nvidia Scandal](https://www.nytimes.com/2026/11/16/opinion/nvidia-trump-jensen-huang-lutnick.html)
+
+It started with sex, but it’s really about Trump’s utterly careless attitude toward U.S. security.
+
+
+10. [Jensen Huang Says He Would Return to Nvidia if Asked](https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html)
 
 Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.
-
-
-7. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
-
-Get live results and maps from the 2026 Alaska general election.
-
-
-8. [Workers Are Not Going to Be OK](https://www.nytimes.com/2026/11/17/opinion/ai-bubble-workers.html)
-
-The investments in A.I. might be a boon for the economy, but workers may still find themselves shortchanged.
-
-
-9. [What Was That Alert on TV and the Radio? It Was Only a Test.](https://www.nytimes.com/2026/11/17/business/media/nationwide-emergency-alert-test-fema.html)
-
-A national test mandated every three years was broadcast on television and radio at 2:20 p.m. Eastern time on Tuesday.
-
-
-10. [U.S. Loses Its Measles Elimination Status, a Historic Setback for American Health](https://www.nytimes.com/2026/11/17/well/us-measles-elimination-status.html)
-
-The nation was once regarded as a global leader for reining in the highly contagious virus. Now, large outbreaks that sicken thousands could become routine.
 
 
