@@ -1,18 +1,18 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-19 12:43:57)
+## 📰 NYTimes Most Popular (Updated: 2026-11-19 21:17:37)
 
-1. [Anthropic Sells $81.3 Billion Worth of Shares in World’s Largest I.P.O.](https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html)
+1. [The Rot of Youth Sports Is Spreading](https://www.nytimes.com/2026/11/18/opinion/greed-youth-sports.html)
 
-The sale valued the A.I. company, which makes the Claude chatbot, at more than $1.5 trillion. Shares begin trading on Thursday.
-
-
-2. [Senator Bill Cassidy Blocks Trump Pick to Head Science Agency](https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html)
-
-A venture capitalist and Peter Thiel acolyte, Jim O’Neill faced bipartisan concern over whether he would stand up for science.
+Businesses are trying to sell us charter flights for travel teams. We need to stop the madness.
 
 
-3. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
+2. [Shock and Dread in the Gulf](https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html)
 
-Follow the latest results from the 2026 midterm elections.
+Gulf countries talk about the consequences of a war against Iran not of their making.
+
+
+3. [Can You Guess the Word of 2026?](https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html)
+
+Every November, editors of the Cambridge Dictionary anoint a word of the year that captures the moment. The latest selection says a lot.
 
 
 4. [Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.](https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html)
@@ -20,33 +20,33 @@ Follow the latest results from the 2026 midterm elections.
 Foisting immigrants on impoverished African countries where they are not treated humanely seems to me a moral and practical failure.
 
 
-5. [The Rot of Youth Sports Is Spreading](https://www.nytimes.com/2026/11/18/opinion/greed-youth-sports.html)
+5. [A National Meltdown With Nobody at the Help Desk](https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html)
 
-Businesses are trying to sell us charter flights for travel teams. We need to stop the madness.
-
-
-6. [Kevin Bleyer, Writer Behind Obama’s Speech Roasting Trump, Has Died at 54](https://www.nytimes.com/2026/11/17/obituaries/kevin-bleyer-dead.html)
-
-The Emmy Award-winning writer worked with Jon Stewart, Bill Maher and Barack Obama, and may just have helped motivate Donald Trump to run for office.
+The digital outages that began last week may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.
 
 
-7. [Peltola Flips Alaska Seat as Democrats Top Off String of Senate Victories](https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html)
+6. [Peltola Flips Alaska Seat as Democrats Top Off String of Senate Victories](https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html)
 
 Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.
 
 
-8. [White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner](https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html)
+7. [Senator Bill Cassidy Blocks Trump Pick to Head Science Agency](https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html)
 
-The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.
-
-
-9. [Shock and Dread in the Gulf](https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html)
-
-Gulf countries talk about the consequences of a war against Iran not of their making.
+A venture capitalist and Peter Thiel acolyte, Jim O’Neill faced bipartisan concern over whether he would stand up for science.
 
 
-10. [Van Gogh Soars to $190.4 Million at Sotheby’s After an 11th-Hour Settlement](https://www.nytimes.com/2026/11/18/arts/design/van-gogh-painting-auction-sothebys.html)
+8. [OK, Boomer. At Long Last the Millennials Have Vanquished You.](https://www.nytimes.com/2026/11/18/opinion/midterms-millennials-boomers-talarico.html)
 
-In less than a week, the painting went from top lot to top liability — and back again. On Wednesday it set a record for the artist.
+Millennials are in the House. And the Senate. And the governor’s mansions.
+
+
+9. [Set Up a Password Manager. No, Really. Now.](https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html)
+
+A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.
+
+
+10. [I Spent a Year Talking to Anthropic Employees. Here’s What They Believe.](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html)
+
+The A.I. company believes they are humanity’s best chance to develop safe superintelligence.
 
 
