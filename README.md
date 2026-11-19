@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-18 21:16:14)
+## 📰 NYTimes Most Popular (Updated: 2026-11-19 03:04:24)
 
-1. [Trump Wasn’t Just Late to a Southeast Asia Summit. He Was Really Late.](https://www.nytimes.com/2026/11/17/world/asia/trump-manila-asean-late.html)
+1. [Democrats Nominate Jeffries as Speaker, Making History](https://www.nytimes.com/2026/11/18/us/politics/hakeem-jeffries-speaker-of-the-house-democrats.html)
 
-President Trump arrived in Manila as the meeting was wrapping up, a sign of how U.S. policy has left the region balancing between Washington and Beijing.
-
-
-2. [Jensen Huang Says He Would Return to Nvidia if Asked](https://www.nytimes.com/2026/11/17/technology/jensen-huang-nvidia-statement.html)
-
-Mr. Huang resigned as chief executive of the company last week after revelations that he had affairs with an employee and a woman linked to Chinese intelligence.
+The vote put Representative Hakeem Jeffries of New York in line to become the first Black lawmaker to win the post second in line to the presidency.
 
 
-3. [Ten Days That Changed the World](https://www.nytimes.com/interactive/2026/11/16/magazine/ten-days-175-years.html)
-
-There have been 63,978 days since The New York Times began publishing. We chose the most important ones.
-
-
-4. [Challenging Consensus, Scientist Says Photos Show Epstein Was Killed](https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html)
-
-Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
-
-
-5. [White House Withdraws Nomination of Heidi Overton to Be F.D.A. Commissioner](https://www.nytimes.com/2026/11/17/us/overton-fda-nomination-withdrawn.html)
-
-The Senate health committee was scheduled to vote on her nomination Wednesday morning after wrestling with concerns about her stance on abortion and vaccines.
-
-
-6. [U.S. House Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-house.html)
-
-Follow the latest results from the 2026 midterm elections.
-
-
-7. [Shock and Dread in the Gulf](https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html)
+2. [Shock and Dread in the Gulf](https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html)
 
 Gulf countries talk about the consequences of a war against Iran not of their making.
 
 
-8. [Alaska U.S. Senate Election Results](https://www.nytimes.com/interactive/2026/11/03/us/elections/results-alaska-us-senate.html)
+3. [Challenging Consensus, Scientist Says Photos Show Epstein Was Killed](https://www.nytimes.com/2026/11/16/us/jeffrey-epstein-autopsy-michael-freeman.html)
 
-Get live results and maps from the 2026 Alaska general election.
-
-
-9. [Do You Need a Measles Booster?](https://www.nytimes.com/2025/02/27/well/live/measles-vaccine-booster-shot.html)
-
-As cases spread across North America, now is a good time to check your vaccination status.
+Investigations have found most evidence in Jeffrey Epstein’s death points to suicide. Michael Freeman, a forensic scientist who studies homicides, got rare access to the autopsy file and disagrees.
 
 
-10. [Markwayne Mullin Defends Flight to L.S.U.-Texas Game After Ground Stop](https://www.nytimes.com/2026/11/17/us/politics/mullin-lsu-football-plane.html)
+4. [Grand Theft Auto VI Will Steal Your Heart](https://www.nytimes.com/2026/11/18/arts/grand-theft-auto-vi-review.html)
 
-“We still gotta live our lives,” said the homeland security secretary, who is required to use government planes for personal travel. His department said he paid.
+The series matures beyond its memorable car crashes and stickups with a game about love, relationships and nurturing your partner.
+
+
+5. [OK, Boomer. At Long Last the Millennials Have Vanquished You.](https://www.nytimes.com/2026/11/18/opinion/midterms-millennials-boomers-talarico.html)
+
+Millennials are in the House. And the Senate. And the governor’s mansions.
+
+
+6. [The Rot of Youth Sports Is Spreading](https://www.nytimes.com/2026/11/18/opinion/greed-youth-sports.html)
+
+Businesses are trying to sell us charter flights for travel teams. We need to stop the madness.
+
+
+7. [Anthropic Sells $81.3 Billion Worth of Shares in World’s Largest I.P.O.](https://www.nytimes.com/2026/11/18/technology/anthropic-ipo-pricing.html)
+
+The sale valued the A.I. company, which makes the Claude chatbot, at more than $1.5 trillion. Shares begin trading on Thursday.
+
+
+8. [That ‘S.N.L.’ Sketch About Sister? It’s More Like Nonfiction.](https://www.nytimes.com/2026/11/18/upshot/sister-snl-elder-care.html)
+
+“Saturday Night Live” exposed a truth about gender roles in caring for aging parents: While many nations have a federal safety net for older adults, the U.S. has sisters.
+
+
+9. [Senator Bill Cassidy Blocks Trump Pick to Head Science Agency](https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html)
+
+A venture capitalist and Peter Thiel acolyte, Jim O’Neill faced bipartisan concern over whether he would stand up for science.
+
+
+10. [Fish and High Prices: How Mary Peltola Triumphed in Alaska’s Senate Race](https://www.nytimes.com/2026/11/18/us/politics/peltola-victory-alaska-senate.html)
+
+Beleaguered by high fuel costs and wary of overfishing, Alaskans were drawn to the Democrat’s hyperlocal pitch.
 
 
