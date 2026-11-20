@@ -1,52 +1,52 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-19 21:17:37)
+## 📰 NYTimes Most Popular (Updated: 2026-11-20 02:55:41)
 
-1. [The Rot of Youth Sports Is Spreading](https://www.nytimes.com/2026/11/18/opinion/greed-youth-sports.html)
+1. [Three MAGA Women Who Defined an Era in Congress Are Exiting](https://www.nytimes.com/2026/11/19/us/politics/maga-women-congress-greene-boebert-mace.html)
 
-Businesses are trying to sell us charter flights for travel teams. We need to stop the madness.
-
-
-2. [Shock and Dread in the Gulf](https://www.nytimes.com/2026/11/17/opinion/gulf-iran-israel-war.html)
-
-Gulf countries talk about the consequences of a war against Iran not of their making.
+Representatives Marjorie Taylor Greene, Lauren Boebert and Nancy Mace embodied a combative, attention-seeking brand of politics that defined the Republican Congress.
 
 
-3. [Can You Guess the Word of 2026?](https://www.nytimes.com/2026/11/17/style/human-cambridge-word-year-2026.html)
+2. [The 10 Best Looks From the Country Music Association Awards Red Carpet](https://www.nytimes.com/2026/11/18/style/cma-country-music-association-awards-red-carpet.html)
 
-Every November, editors of the Cambridge Dictionary anoint a word of the year that captures the moment. The latest selection says a lot.
-
-
-4. [Trump ‘Disappeared’ Them in 2025. I Found Them, Locked Up and Famished.](https://www.nytimes.com/2026/11/18/opinion/trump-deportation-south-sudan.html)
-
-Foisting immigrants on impoverished African countries where they are not treated humanely seems to me a moral and practical failure.
+There were rhinestones, cowboy hats and more than one tribute to Dolly Parton.
 
 
-5. [A National Meltdown With Nobody at the Help Desk](https://www.nytimes.com/2026/11/17/us/politics/outages-flights-banks-tech.html)
+3. [Top White House Cybersecurity Official Steps Down](https://www.nytimes.com/2026/11/19/us/politics/white-house-cyber-director-departs.html)
 
-The digital outages that began last week may not be linked, but they have left Americans with a sense that the nation is off-kilter, with no one ready to fix it.
-
-
-6. [Peltola Flips Alaska Seat as Democrats Top Off String of Senate Victories](https://www.nytimes.com/2026/11/17/us/politics/alaska-senate-sullivan-peltola.html)
-
-Mary Peltola defeated Senator Dan S. Sullivan, a two-term incumbent, to become the first Democrat to represent the conservative state in the Senate since 2015.
+The departure of Sean Cairncross comes after a series of technological outages affected U.S. companies and federal agencies in the past week.
 
 
-7. [Senator Bill Cassidy Blocks Trump Pick to Head Science Agency](https://www.nytimes.com/2026/11/18/us/politics/bill-cassidy-jim-oneill-science.html)
+4. [The Showdowns Are Coming Thick and Fast in Washington](https://www.nytimes.com/2026/11/19/opinion/supreme-court-gun-congress-second-amendment.html)
 
-A venture capitalist and Peter Thiel acolyte, Jim O’Neill faced bipartisan concern over whether he would stand up for science.
-
-
-8. [OK, Boomer. At Long Last the Millennials Have Vanquished You.](https://www.nytimes.com/2026/11/18/opinion/midterms-millennials-boomers-talarico.html)
-
-Millennials are in the House. And the Senate. And the governor’s mansions.
+Justice and rights take many forms.
 
 
-9. [Set Up a Password Manager. No, Really. Now.](https://www.nytimes.com/2026/11/19/opinion/tech-outages-cybersecurity.html)
+5. [National Book Award for Nonfiction Goes to Writer Denied Visa to Attend](https://www.nytimes.com/2026/11/18/books/national-book-award-for-nonfiction-goes-to-writer-denied-visa-to-attend.html)
 
-A cybersecurity expert isn’t sold on the theory that there is a connection between the many recent digital failures and crashes.
+The author Abdelrahman ElGendy received one of the major American prizes for nonfiction in absentia for his memoir, “Huna.” Hannah Lillith Assadi won the fiction prize.
 
 
-10. [I Spent a Year Talking to Anthropic Employees. Here’s What They Believe.](https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html)
+6. [Behind Trump Meeting, Xi and Putin Share a Vision of Usurping U.S. Power](https://www.nytimes.com/2026/11/19/world/asia/xi-putin-trump-meeting-china-russia.html)
 
-The A.I. company believes they are humanity’s best chance to develop safe superintelligence.
+President Trump joined the Chinese and Russian leaders for a summit in Shenzhen, even though the two autocrats are trying to reverse America’s victory in the Cold War.
+
+
+7. [5 Foods That Food Safety Experts Avoid](https://www.nytimes.com/2026/11/19/well/eat/what-food-safety-experts-avoid.html)
+
+For some professionals, certain foods just aren’t worth the risk.
+
+
+8. [Grand Theft Auto Used to Satirize American Life. Now We’ve Caught Up With It.](https://www.nytimes.com/2026/11/19/magazine/grand-theft-auto-six.html)
+
+The G.T.A. series is more than just a crime simulator — it’s a cartoonish sendup of our country. What happens when reality outruns the joke?
+
+
+9. [Fiona the Hippo, Whose Stardom Extended Well Beyond Cincinnati, Has Died](https://www.nytimes.com/2026/11/19/us/fiona-hippo-dead-cincinnati-zoo.html)
+
+The beloved Nile hippopotamus became ill after eating a children’s hat that accidentally ended up in her enclosure.
+
+
+10. [China Bars Bloomberg Reporter From Trilateral Talks for Asking a Question](https://www.nytimes.com/2026/11/19/world/asia/trump-summit-china-media-bloomberg-reporter-nvidia.html)
+
+The exclusion of the reporter after she shouted a question to President Trump is an example of how tightly China tries to stage-manage events.
 
 
