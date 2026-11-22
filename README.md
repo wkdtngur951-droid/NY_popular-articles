@@ -1,33 +1,33 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-21 22:58:07)
+## 📰 NYTimes Most Popular (Updated: 2026-11-22 02:59:06)
 
-1. [A Supermodel Will Finally Get Her Day in Court](https://www.nytimes.com/2026/11/20/style/carre-otis-gerald-marie-lawsuit-sexual-abuse.html)
+1. [What Is a Stock Market Correction?](https://www.nytimes.com/article/stock-market-correction.html)
 
-Carré Otis spent years trying to serve her former agent in a lawsuit accusing him of sexual abuse. It took an international operation to make it happen.
-
-
-2. [The New York Times News Quiz, November 20, 2026](https://www.nytimes.com/quiz/2026/11/20/briefing/weekly-news-quiz.html)
-
-Did you follow the news this week? Take our quiz to see how well you stack up with other Times readers.
+The S&P 500 has fallen more than 10 percent from its recent high, crossing a threshold that signals investors have turned pessimistic about stocks.
 
 
-3. [Judge Approves $7 Billion Settlement Over Claims That Roundup Caused Cancer](https://www.nytimes.com/2026/11/20/business/bayer-settlement-roundup-cancer.html)
+2. [Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html)
 
-The ruling, in a nationwide class-action suit, is expected to end tens of thousands of lawsuits by people claiming that Roundup caused non-Hodgkin lymphoma.
+The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.
 
 
-4. [Stocks Skid Into a Correction, as A.I. Worries Intensify](https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html)
+3. [Flashback: Your Weekly History Quiz, Nov. 21, 2026](https://www.nytimes.com/interactive/2026/11/20/upshot/flashback.html)
+
+Can you sort 8 historical events?
+
+
+4. [A ‘Catastrophic Failure’: Watchdog Officials Find Cascade of Problems With ICE Training](https://www.nytimes.com/2026/11/20/us/politics/training-ice-immigration-inspector-general.html)
+
+In a draft report, officials found widespread training gaps as the Department of Homeland Security sought to rapidly hire and deploy 10,000 new officers.
+
+
+5. [A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.](https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html)
+
+An Arkansas Democrat’s victory in a race for county assessor was one of many unlikely down-ballot wins that showed the depth of the blue wave.
+
+
+6. [Stocks Skid Into a Correction, as A.I. Worries Intensify](https://www.nytimes.com/2026/11/20/business/anthropic-ai-stocks-sp500.html)
 
 The S&P 500 ended the day down more than 10 percent from its recent high, in a symbolic measure of investors’ souring mood.
-
-
-5. [Anthropic Mathematician Claims to Have Solved Math’s Most Famous Problem](https://www.nytimes.com/2026/11/20/science/anthropic-ai-math-riemann-hypothesis.html)
-
-If confirmed, the proof of the Riemann hypothesis would cement the sense that A.I. might be capable of mastering any problem in the field.
-
-
-6. [5 Foods That Food Safety Experts Avoid](https://www.nytimes.com/2026/11/19/well/eat/what-food-safety-experts-avoid.html)
-
-For some professionals, certain foods just aren’t worth the risk.
 
 
 7. [Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post](https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html)
@@ -35,18 +35,18 @@ For some professionals, certain foods just aren’t worth the risk.
 Republicans have targeted the Delaware Democrat, the first openly transgender member of Congress, since she came to Washington. Her party just elevated her to a key job.
 
 
-8. [A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.](https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html)
+8. [Anthropic’s Debut Shows the Disconnect Between Wall Street and Silicon Valley](https://www.nytimes.com/2026/11/21/business/anthropic-stock-wall-street-silicon-valley.html)
 
-An Arkansas Democrat’s victory in a race for county assessor was one of many unlikely down-ballot wins that showed the depth of the blue wave.
-
-
-9. [John Grisham: The Meaning of Scott Colom’s Victory](https://www.nytimes.com/2026/11/20/opinion/colom-mississippi-grisham.html)
-
-As a kid, I once watched the Ku Klux Klan burn a cross in my hometown in Mississippi. Sixty years later, I look forward to shaking Mr. Colom’s hand and telling him I’m proud he’s my senator.
+The A.I. giant broke records with its initial public offering this week before a rocky first full day of trading, as the markets plunged on worries about artificial intelligence spending.
 
 
-10. [Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts](https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html)
+9. [The Sisterhood Rocks!](https://www.nytimes.com/2026/11/21/opinion/sister-snl-family-care-parents.html)
 
-The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.
+But should daughters bear the brunt of their folks’ care?
+
+
+10. [Tech Outages Are Only the Beginning. A.I. Will Bring More Disruptions.](https://www.nytimes.com/2026/11/21/us/politics/tech-outages-ai-disruptions.html)
+
+Cybersecurity has been an afterthought since the early days of the internet. Now A.I. is uncovering dormant problems, making the bill come due for decades of vulnerable code.
 
 
