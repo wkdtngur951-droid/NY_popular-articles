@@ -1,13 +1,13 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-22 19:21:45)
+## 📰 NYTimes Most Popular (Updated: 2026-11-23 00:41:50)
 
-1. [Sarah McBride, Barred From Capitol Bathrooms, Wins Top Post](https://www.nytimes.com/2026/11/21/us/politics/sarah-mcbride-barred-from-capitol-bathrooms-wins-top-post.html)
+1. [U.N. Climate Talks Collapse in a Bitter Clash Over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
 
-Republicans have targeted the Delaware Democrat, the first openly transgender member of Congress, since she came to Washington. Her party just elevated her to a key job.
+European and vulnerable nations rejected a proposed agreement after Saudi Arabia and other oil producers blocked any mention of phasing out coal, oil and gas.
 
 
-2. [2-Year-Old Girl Wearing Only a Diaper Is Rescued After Hours in the Desert](https://www.nytimes.com/2026/11/21/us/missing-2-year-old-arizona-desert.html)
+2. [Drones, Texts and Diversions: How Mexico Captured a Most Wanted Man](https://www.nytimes.com/2026/11/21/world/americas/mexico-captures-drug-kingpin.html)
 
-“It was a life-changing moment,” said a searcher who found the girl, Vella Campillo, early on Wednesday in a remote area of Arizona after she had been missing for more than seven hours.
+U.S. and Mexican authorities shared intelligence for weeks to track Fausto Isidro Meza Flores, a drug cartel leader that a U.S. official called the most dangerous man in Mexico.
 
 
 3. [The 77-Year-Old Grandparents Accused of Killing Their Son-in-Law](https://www.nytimes.com/2026/11/21/us/jonathan-mckinsey-shooting-in-laws.html)
@@ -15,38 +15,38 @@ Republicans have targeted the Delaware Democrat, the first openly transgender me
 Jonathan McKinsey, 40, was gunned down in a suburban park after spending time with his three children. His wife’s parents have been charged with murder.
 
 
-4. [Threats, Insults, Settlements: How Jensen Huang Made Humiliation Routine](https://www.nytimes.com/2026/11/20/technology/jensen-huang-nvidia-culture.html)
+4. [Democrats Clinch 258 House Seats, an Election-Year Record This Century](https://www.nytimes.com/2026/11/22/us/politics/democrats-midterm-house-majority-record.html)
 
-The Nvidia co-founder’s belittling behavior toward employees goes back decades. It once led to a confidential settlement agreement with an executive who said Mr. Huang “terrorized” staff.
-
-
-5. [Who Turned Out for Melania Trump in New York?](https://www.nytimes.com/2026/11/20/style/melania-trump-series-premiere-nyc.html)
-
-Ten months after the premiere of her Amazon documentary in Washington, the first lady debuted a follow-up series far from her husband’s seat of power.
+After sweeping midterm wins, Democrats have secured the largest House majority in a national election for either party in three decades.
 
 
-6. [The Army Rejected a Cleaner Option to Destroy Lead-Laced Explosives in Iowa](https://www.nytimes.com/2026/11/21/climate/army-lead-azide-blast.html)
+5. [Is Annie Andrews Too Real for the Senate? South Carolinians Are About to Find Out.](https://www.nytimes.com/2026/11/22/us/politics/annie-andrews-south-carolina-senate.html)
 
-The Army had hired a firm to turn the explosives into harmless waste, but then dropped it in favor of a controlled blast that could launch lead dust across Iowa.
-
-
-7. [Many Etsy Sellers Close Up Shop Over Site’s New A.I. Policy](https://www.nytimes.com/2026/11/20/arts/etsy-ai-policy.html)
-
-Numerous longtime users of the online marketplace have left the platform because they do not want their work training artificial intelligence. Etsy said it would revise its policy.
+The pediatrician, who once compared JD Vance to the herpes virus, notched one of the most shocking upsets of the midterm elections by defeating Senator Darline Graham.
 
 
-8. [A Dairy Farmer Ran for Office to Prove a Point. He Accidentally Won.](https://www.nytimes.com/2026/11/20/us/democrats-unexpected-winning-candidates-midterms.html)
+6. [Democrat Unseats 11-Term G.O.P. House Member in North Carolina](https://www.nytimes.com/2026/11/22/us/virginia-foxx-chuck-hubbard-north-carolina-house.html)
 
-An Arkansas Democrat’s victory in a race for county assessor was one of many unlikely down-ballot wins that showed the depth of the blue wave.
-
-
-9. [Powerful Health Panel Has Tumultuous First Meeting With Kennedy Appointees](https://www.nytimes.com/2026/11/20/well/rfk-jr-uspstf-panel-meeting.html)
-
-Since March 2025, the work of the U.S. Preventive Services Task Force has been at a standstill.
+Chuck Hubbard, a retired journalist, defeated Representative Virginia Foxx in a conservative district.
 
 
-10. [Top Drug Kingpin Is Captured by Mexican Army as Gunfire Erupts](https://www.nytimes.com/2026/11/21/world/americas/mexico-el-chapo-isidro-captured-drugs.html)
+7. [Fact-Checking Stephen Miller, the New White House Chief of Staff](https://www.nytimes.com/2026/11/22/us/politics/stephen-miller-fact-check.html)
 
-The arrest of Fausto Isidro Meza Flores, who is known as El Chapo Isidro and was one of the F.B.I.’s 10 most wanted, was a victory for the Mexican government.
+Mr. Miller has promoted some of the second Trump administration’s most egregious falsehoods about immigration policy, the economy and political opposition.
+
+
+8. [As Thanksgiving Travel Begins, Delta Suffers Problems, Delaying Flights](https://www.nytimes.com/2026/11/22/us/delta-flight-delays-system-outage.html)
+
+The system that faltered is used to calculate the weight and balance of departing flights. The disruptions came after a nationwide ground stop that canceled thousands of flights last weekend.
+
+
+9. [Why Are We at the Mercy of the World’s Weirdest Men?](https://www.nytimes.com/2026/11/22/opinion/jensen-huang-ai-ethics-cold-war.html)
+
+No kings isn’t just about Trump.
+
+
+10. [China’s Spies Set Sights on A.I. Chips Years Before Nvidia Scandal](https://www.nytimes.com/2026/11/21/world/asia/china-nvidia-spy-chips-state-security.html)
+
+China’s espionage agency has been running a secret campaign to help the country’s companies acquire advanced A.I. chips and to gather intelligence on the sector, officials say.
 
 
