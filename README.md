@@ -1,48 +1,48 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-26 04:50:35)
+## 📰 NYTimes Most Popular (Updated: 2026-11-26 14:53:58)
 
-1. [The Ensemble Cast of a New York Sitcom Is Suddenly Running the Country](https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html)
+1. [Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.](https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html)
 
-Remember when New York was an island off this nation’s coast?
-
-
-2. [Abrego Garcia Arrives in Spain After Voluntarily Leaving U.S.](https://www.nytimes.com/2026/11/24/us/politics/abrego-garcia-leave-deportation.html)
-
-Kilmar Armando Abrego Garcia, who was wrongfully deported from the United States last year, arrived in Madrid on Wednesday, ending a 20-month legal fight.
+The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.
 
 
-3. [Here’s How Democrats Should Investigate Trump’s Corruption](https://www.nytimes.com/2026/11/25/opinion/trump-corruption-investigate-democrats.html)
+2. [Abandon All Hope, Ye Who Enter Airports](https://www.nytimes.com/2026/11/25/opinion/airports-travel-holiday.html)
 
-By focusing on corruption, Congress can make clear that President Trump and his allies are willing to harm other Americans for their own benefit.
+Dante’s “Inferno” depicted a hell meant to punish sinners. Our airports are a hell meant to punish everyone.
 
 
-4. [A Thanksgiving Storm Approaches the East Coast](https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html)
+3. [Democrat Flips Tennessee House Seat in One of Biggest 2026 Upsets](https://www.nytimes.com/2026/11/24/us/politics/tennessee-house-election-results-broderick-wins.html)
+
+Democrats’ midterm rout kept expanding in the House after a tech support worker ousted an eight-term Republican without having aired a single TV ad.
+
+
+4. [What Maury Povich Knew All Along](https://www.nytimes.com/2026/11/25/style/maury-povich-podcast-on-par.html)
+
+Families are messy and entertaining. He showed how compelling dysfunction could be long before it was everywhere.
+
+
+5. [Why They Had to Bring Jensen Huang Back](https://www.nytimes.com/2026/11/24/opinion/jensen-huang-nvidia-ceo-reinstated.html)
+
+If I were on the board at Nvidia, I would have voted to bring him back, too.
+
+
+6. [Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices](https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html)
+
+The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.
+
+
+7. [Justice Dept. Apologizes for Making False Statement to Judge in Omar Case](https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html)
+
+The acknowledgment came hours after the House’s top lawyer said the department mischaracterized his view on constitutional protections for lawmakers.
+
+
+8. [Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65](https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html)
+
+He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”
+
+
+9. [A Thanksgiving Storm Approaches the East Coast](https://www.nytimes.com/2026/11/25/weather/thanksgiving-weather-storm-rain-flooding.html)
 
 The storm, developing offshore, is expected to move inland over North Carolina and grind northeast through Thanksgiving Day.
-
-
-5. [Mamdani Wins Against Landlords in Rent Freeze Lawsuit](https://www.nytimes.com/2026/11/25/nyregion/mamdani-rent-freeze-legal-challenge-apartments.html)
-
-A Manhattan judge handed a victory to Mayor Zohran Mamdani by dismissing a lawsuit filed by landlords over a rent freeze for rent-stabilized apartments.
-
-
-6. [I’m a Therapist. I Wish These Patients Would Not Cut Off Their Family Members.](https://www.nytimes.com/2026/11/25/opinion/politics-family-midterms-voting-holidays.html)
-
-More than a third of Americans report losing relationships with friends or family because of political differences.
-
-
-7. [See How the Army Plans to Blow Up 5 Tons of Toxic Lead Compounds in Iowa](https://www.nytimes.com/interactive/2026/11/24/climate/iowa-lead-detonation-explained.html)
-
-Disposing of an unstable stockpile of lead azide at an Iowa base will be dangerous and complicated. These maps and diagrams break down the process step by step.
-
-
-8. [Maps: Tracking the Iowa Ammunition Plant Detonation](https://www.nytimes.com/interactive/2026/11/24/weather/iowa-maps-lead-wind.html)
-
-See locations and forecasts related to the explosion.
-
-
-9. [Veruschka, One of the World’s First Supermodels, Has Died](https://www.nytimes.com/2026/11/25/style/veruschka-dead.html)
-
-She rocketed to fame in Vogue and other magazines during the Swinging Sixties and had a memorable cameo in Antonioni’s hit film “Blow-Up.” She was 87.
 
 
 10. [A Pier Partially Collapses as California’s Tides Enter ‘Uncharted Territory’](https://www.nytimes.com/2026/11/25/weather/california-king-tides-sf-la.html)
