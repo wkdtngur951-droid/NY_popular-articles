@@ -1,43 +1,43 @@
-## 📰 NYTimes Most Popular (Updated: 2026-11-26 23:38:58)
+## 📰 NYTimes Most Popular (Updated: 2026-11-27 07:52:06)
 
-1. [Justice Dept. Apologizes for Making False Statement to Judge in Omar Case](https://www.nytimes.com/2026/11/24/us/politics/house-lawyer-ilhan-omar-search.html)
+1. [A Rumored $300 Million Score on Nvidia’s Stock Surge Isn’t Backed by Trading Records](https://www.nytimes.com/2026/11/25/business/nvidia-stock-insider-trading-rumor.html)
 
-The acknowledgment came hours after the House’s top lawyer said the department mischaracterized his view on constitutional protections for lawmakers.
-
-
-2. [The Ensemble Cast of a New York Sitcom Is Suddenly Running the Country](https://www.nytimes.com/2026/11/25/opinion/nyc-jeffries-schumer-mamdani-aoc-trump.html)
-
-Remember when New York was an island off this nation’s coast?
+Three data providers say they have no evidence to support the online claim that insider trading generated a 9,000 percent return.
 
 
-3. [Trump Lost My Brother!](https://www.nytimes.com/2026/11/26/opinion/trump-maureen-dowd-brother.html)
+2. [‘Pumpkin Pie Is Disgusting’ and Other Unpopular Opinions](https://www.nytimes.com/2026/11/26/opinion/thanksgiving-america-education-disabilities.html)
 
-Two miracles: my brother’s health and his disillusionment.
-
-
-4. [Andy Taylor, Duran Duran’s ‘Live-Wire’ Guitarist, Dies at 65](https://www.nytimes.com/2026/11/25/arts/music/andy-taylor-duran-duran-dead.html)
-
-He helped define the sound, and the look, of the 1980s with MTV-ready hits like “Rio” and “Hungry Like the Wolf.”
+We give thanks. Lots of thanks. Really.
 
 
-5. [They Bought Their Dream Home. Their Neighbors Want to Evict Them.](https://www.nytimes.com/2026/11/26/world/europe/pasolini-house-eviction-court.html)
+3. [Who Might Run for President in 2028?](https://www.nytimes.com/interactive/2026/us/politics/presidential-candidates-2028.html)
 
-After an Italian couple bought a house built by Pier Paolo Pasolini, one of the country’s greatest film directors, local villagers claimed the property.
-
-
-6. [Trump Administration Unveils New Tariffs for Dozens of Countries, Citing Unfair Practices](https://www.nytimes.com/2026/11/25/business/trump-tariffs-trade.html)
-
-The latest escalation came as the administration confronts continued legal obstacles and new scrutiny from an incoming Democratic-led Congress.
+The midterms are over, and time is ticking down for big names to make their decisions.
 
 
-7. [Veruschka, One of the World’s First Supermodels, Has Died](https://www.nytimes.com/2026/11/25/style/veruschka-dead.html)
+4. [Recruiters Lured Brazilians to Fight Russia’s War, Then Stole Their Money](https://www.nytimes.com/2026/11/26/world/americas/brazil-recruiting-russia-army.html)
 
-She rocketed to fame in Vogue and other magazines during the Swinging Sixties and had a memorable cameo in Antonioni’s hit film “Blow-Up.” She was 87.
+Dozens of Brazilians were sent to the front lines with little training, and the high salaries they were promised, they say, turned out to be illusory.
 
 
-8. [Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.](https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html)
+5. [‘We Are Putting on the Brakes Rather Than Stepping on the Gas’](https://www.nytimes.com/2026/11/26/opinion/charity-holiday-gift-epilepsy.html)
+
+Unlikely friends, a common cause.
+
+
+6. [Trump Rejoiced in the Market’s Nvidia Surge. It Didn’t Last Long.](https://www.nytimes.com/2026/11/25/us/politics/trump-nvidia-stock-market.html)
 
 The retreat of the stock market in recent days shows how President Trump’s push to reinstall the company’s chief executive has collided with the realities of his other policies.
+
+
+7. [The E.R. Closed at 5 P.M. A Dying Woman Showed Up 11 Minutes Too Late.](https://www.nytimes.com/2026/11/26/world/canada/port-hardy-woman-dies-outside-er.html)
+
+In rural British Columbia, Courtney McCowan died after paramedics tried to help her in a hospital’s parking lot.
+
+
+8. [The Thanksgiving Parade Is on a Saturday. Can They Do That?](https://www.nytimes.com/2026/11/25/nyregion/thanksgiving-parade-new-york-postponed.html)
+
+After more than a century of tradition, the Macy’s Thanksgiving Day Parade is suddenly flexible. Sure, this is fine.
 
 
 9. [I’m a Therapist. I Wish These Patients Would Not Cut Off Their Family Members.](https://www.nytimes.com/2026/11/25/opinion/politics-family-midterms-voting-holidays.html)
@@ -45,8 +45,8 @@ The retreat of the stock market in recent days shows how President Trump’s pus
 More than a third of Americans report losing relationships with friends or family because of political differences.
 
 
-10. [Abandon All Hope, Ye Who Enter Airports](https://www.nytimes.com/2026/11/25/opinion/airports-travel-holiday.html)
+10. [Seth Meyers Drags Jensen Huang’s Daily 90-Minute Therapy Sessions](https://www.nytimes.com/2026/11/26/arts/television/late-night-meyers-huang-therapy-fallon.html)
 
-Dante’s “Inferno” depicted a hell meant to punish sinners. Our airports are a hell meant to punish everyone.
+“You’re in therapy for an hour and a half every day? Well, now everything’s falling into place — you’d have to sell secrets to China to afford that much therapy,” Meyers said.
 
 
